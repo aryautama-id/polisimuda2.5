@@ -1,0 +1,18 @@
+---
+source_file: "polisi-muda/src/assets/unused/logo-text.svg"
+type: "image"
+community: "Community 44"
+tags:
+  - graphify/image
+  - graphify/INFERRED
+  - community/Community_44
+---
+
+# Logo Text (Unused SVG)
+
+## Connections
+- [[Logo Black (Unused SVG)]] - `semantically_similar_to` [INFERRED]
+- [[Logo Blue (Unused SVG)]] - `semantically_similar_to` [INFERRED]
+- [[Unused Assets Folder]] - `references` [EXTRACTED]
+
+#graphify/image #graphify/INFERRED #community/Community_44

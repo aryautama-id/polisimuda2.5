@@ -1,0 +1,18 @@
+---
+source_file: "polisi-muda-api/internal/app/gallery/service/service.go"
+type: "code"
+community: "Community 64"
+location: "L1"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_64
+---
+
+# service.go
+
+## Connections
+- [[GalleryService]] - `contains` [EXTRACTED]
+- [[NewGalleryService()]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_64

@@ -1,0 +1,17 @@
+---
+source_file: "polisi-muda-api/internal/app/answer/handler/handler.go"
+type: "code"
+community: "Community 45"
+location: "L27"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_45
+---
+
+# NewAnswerHandler()
+
+## Connections
+- [[handler.go_1]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_45

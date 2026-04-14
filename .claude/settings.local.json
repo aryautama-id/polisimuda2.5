@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/aryautama/ANTIGRAVITY/Polisimuda2.5/graphify-out/.graphify_chunk_*.json)"
+    ]
+  }
+}

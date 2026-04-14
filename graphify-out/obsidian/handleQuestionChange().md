@@ -1,0 +1,17 @@
+---
+source_file: "polisi-muda/src/pages/SuperadminAddPersonalityPage.tsx"
+type: "code"
+community: "Community 35"
+location: "L101"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_35
+---
+
+# handleQuestionChange()
+
+## Connections
+- [[SuperadminAddPersonalityPage.tsx]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_35

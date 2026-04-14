@@ -1,0 +1,17 @@
+---
+source_file: "polisi-muda-api/internal/app/user/service/service.go"
+type: "code"
+community: "Community 26"
+location: "L34"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Community_26
+---
+
+# NewUserService()
+
+## Connections
+- [[service.go_5]] - `contains` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Community_26
