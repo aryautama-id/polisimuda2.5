@@ -1,0 +1,34 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "api",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd polisi-muda-api && DB_USERNAME=aryautama DB_PASSWORD= go run ./cmd/app"
+      ],
+      "port": 3000
+    },
+    {
+      "name": "web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "polisi-muda",
+        "run",
+        "dev"
+      ],
+      "port": 5173
+    },
+    {
+      "name": "api-mockai",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd polisi-muda-api && DB_USERNAME=aryautama DB_PASSWORD= AI_API_KEY=mock-local-key AI_BASE_URL=http://127.0.0.1:8765 AI_MODEL=mock-model go run ./cmd/app"
+      ],
+      "port": 3000
+    }
+  ]
+}
