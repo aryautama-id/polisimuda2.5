@@ -1,0 +1,614 @@
+[
+  {
+    "sub_material_code": "NUM-09",
+    "description": "Suku ke-4 suatu barisan aritmetika adalah 47, sedangkan suku ke-11 adalah 103. Jumlah 15 suku pertama barisan tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "1.065",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "1.185",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "1.125",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "1.050",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "1.328",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Barisan aritmetika (beda tetap b).\n- U4 = 47.\n- U11 = 103.\n- Rumus: Un = a + (n − 1)b dan Sn = n/2 × (a + Un).\n\nDITANYAKAN:\nJumlah 15 suku pertama (S15).\n\nJAWAB:\n1. Cari beda dari dua suku yang diketahui.\n   U11 − U4 = (a + 10b) − (a + 3b) = 7b\n   103 − 47 = 56, sehingga 7b = 56 dan b = 8.\n   (Jarak U4 ke U11 adalah 11 − 4 = 7 langkah, bukan 8.)\n2. Cari suku pertama.\n   a = U4 − 3b = 47 − 3 × 8 = 47 − 24 = 23.\n3. Cari suku ke-15.\n   U15 = a + 14b = 23 + 14 × 8 = 23 + 112 = 135.\n4. Hitung jumlah 15 suku pertama.\n   S15 = 15/2 × (a + U15) = 15/2 × (23 + 135) = 15/2 × 158 = 15 × 79 = 1.185.\n5. Uji balik: U4 = 23 + 3 × 8 = 47 (sesuai) dan U11 = 23 + 10 × 8 = 103 (sesuai).\nJadi, jawaban yang tepat adalah (B) 1.185.\nMengapa opsi lain kurang tepat:\n- (A) 1.065: suku pertama dihitung 47 − 4 × 8 = 15 (memakai 4 kali beda, padahal dari U1 ke U4 hanya 3 langkah), sehingga U15 = 127 dan S15 = 15/2 × (15 + 127) = 1.065.\n- (C) 1.125: beda dihitung 56 : 8 = 7 karena jarak U4 ke U11 dikira 8 langkah; akibatnya a = 47 − 21 = 26, U15 = 26 + 98 = 124, dan S15 = 15/2 × 150 = 1.125.\n- (D) 1.050: yang dihitung adalah jumlah 14 suku pertama: S14 = 14/2 × (23 + 127) = 7 × 150 = 1.050.\n- (E) 1.328: yang dihitung adalah jumlah 16 suku pertama: S16 = 16/2 × (23 + 143) = 8 × 166 = 1.328.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-09",
+    "description": "Diketahui dua barisan aritmetika:\nBarisan P: 7, 13, 19, 25, ...\nBarisan Q: 250, 243, 236, 229, ...\nNilai n terkecil sehingga suku ke-n barisan P lebih besar daripada suku ke-n barisan Q adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "19",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "21",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "18",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "20",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "22",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Barisan P: suku pertama 7, beda +6.\n- Barisan Q: suku pertama 250, beda −7.\n- Kedua barisan dibandingkan pada nomor suku yang sama.\n\nDITANYAKAN:\nNilai n terkecil sehingga Pn > Qn.\n\nJAWAB:\n1. Rumus suku ke-n barisan P:\n   Pn = 7 + (n − 1) × 6 = 6n + 1.\n2. Rumus suku ke-n barisan Q:\n   Qn = 250 + (n − 1) × (−7) = 257 − 7n.\n3. Susun pertidaksamaan:\n   6n + 1 > 257 − 7n\n   13n > 256\n   n > 256 : 13 = 19,69...\n4. Karena n bilangan asli, n terkecil adalah 20 (pembulatan ke atas, bukan ke bawah).\n5. Uji dua nilai di sekitar batas:\n   - n = 19: P19 = 115, Q19 = 124, jadi P19 < Q19 (belum memenuhi).\n   - n = 20: P20 = 121, Q20 = 117, jadi P20 > Q20 (memenuhi).\n6. Selisih Pn − Qn = 13n − 256 naik 13 setiap langkah, sehingga sekali terpenuhi akan terus terpenuhi.\nJadi, jawaban yang tepat adalah (D) 20.\nMengapa opsi lain kurang tepat:\n- (A) 19: hasil 256 : 13 ≈ 19,69 dibulatkan ke bawah. Padahal pada n = 19, P19 = 6 × 19 + 1 = 115 masih lebih kecil daripada Q19 = 257 − 133 = 124.\n- (B) 21: pada n = 21 memang P21 = 127 > Q21 = 110, tetapi bukan yang pertama kali karena n = 20 sudah memenuhi.\n- (C) 18: pada n = 18, P18 = 109 jauh lebih kecil daripada Q18 = 131.\n- (E) 22: pada n = 22 syarat terpenuhi, tetapi sudah terpenuhi lebih awal pada n = 20.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-10",
+    "description": "Suku ke-3 dan suku ke-6 suatu barisan geometri berturut-turut adalah 144 dan 486. Jika semua suku barisan itu positif, jumlah empat suku pertamanya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "520",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "348",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "780",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "844",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "1.170",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Barisan geometri dengan semua suku positif.\n- U3 = ar² = 144.\n- U6 = ar⁵ = 486.\n- Rumus: Un = a × r^(n−1), Sn = a(rⁿ − 1)/(r − 1) untuk r > 1.\n\nDITANYAKAN:\nJumlah empat suku pertama (S4).\n\nJAWAB:\n1. Bagi U6 dengan U3 untuk menghilangkan a:\n   ar⁵ : ar² = r³ = 486 : 144 = 3,375 = 27/8.\n2. r = ∛(27/8) = 3/2 = 1,5 (positif karena semua suku positif).\n3. Suku pertama:\n   a = U3 : r² = 144 : (9/4) = 144 × 4/9 = 64.\n4. Tuliskan barisannya dan cek rasio tiap langkah:\n   64 → 96 → 144 → 216 → 324 → 486\n   96 : 64 = 1,5; 144 : 96 = 1,5; 216 : 144 = 1,5; 324 : 216 = 1,5; 486 : 324 = 1,5 (rasio tetap).\n5. S4 = 64 + 96 + 144 + 216 = 520.\n   Cek dengan rumus: S4 = 64 × (1,5⁴ − 1)/(1,5 − 1) = 64 × (5,0625 − 1)/0,5 = 64 × 8,125 = 520.\nJadi, jawaban yang tepat adalah (A) 520.\nMengapa opsi lain kurang tepat:\n- (B) 348: barisan diperlakukan sebagai aritmetika: beda (486 − 144) : 3 = 114, a = 144 − 228 = −84, lalu −84 + 30 + 144 + 258 = 348. Padahal soal menyatakan barisan geometri.\n- (C) 780: suku pertama dikira 144 : 1,5 = 96 (hanya dibagi rasio sekali), sehingga yang dijumlah adalah 96 + 144 + 216 + 324 = 780.\n- (D) 844: yang dihitung adalah jumlah lima suku pertama: 64 + 96 + 144 + 216 + 324 = 844.\n- (E) 1.170: yang dijumlah adalah suku ke-3 sampai ke-6: 144 + 216 + 324 + 486 = 1.170, bukan empat suku pertama.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-10",
+    "description": "Sebuah bola dijatuhkan dari ketinggian 18 m ke lantai datar. Setiap kali memantul, bola naik setinggi 2/3 dari tinggi sebelumnya, dan pantulan dianggap berlangsung terus sampai bola berhenti. Panjang seluruh lintasan yang ditempuh bola adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "54 m",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "36 m",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "108 m",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "72 m",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "90 m",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tinggi jatuh awal 18 m.\n- Rasio pantulan r = 2/3.\n- Setelah jatuhan pertama, setiap pantulan ditempuh dua kali (naik lalu turun).\n- Deret geometri tak hingga dengan |r| < 1: S∞ = a : (1 − r).\n\nDITANYAKAN:\nPanjang lintasan total sampai bola berhenti.\n\nJAWAB:\n1. Tinggi pantulan membentuk barisan geometri:\n   pantulan ke-1 = 18 × 2/3 = 12 m\n   pantulan ke-2 = 12 × 2/3 = 8 m\n   pantulan ke-3 = 8 × 2/3 = 16/3 m, dan seterusnya (rasio tetap 2/3).\n2. Lintasan naik total:\n   12 + 8 + 16/3 + ... = 12 : (1 − 2/3) = 12 : (1/3) = 36 m.\n3. Lintasan turun total sama dengan jatuhan pertama ditambah lintasan turun setelah tiap pantulan:\n   18 + 12 + 8 + ... = 18 : (1 − 2/3) = 54 m.\n   (Lintasan turun setelah pantulan = 54 − 18 = 36 m, sama dengan lintasan naik.)\n4. Panjang lintasan total = 54 + 36 = 90 m.\n   Cara cepat: 18 + 2 × 36 = 90 m.\nJadi, jawaban yang tepat adalah (E) 90 m.\nMengapa opsi lain kurang tepat:\n- (A) 54 m: hanya lintasan turun yang dijumlah: 18 + 12 + 8 + ... = 18 : (1 − 2/3) = 54 m; lintasan naik terlupakan.\n- (B) 36 m: hanya lintasan naik yang dijumlah: 12 + 8 + ... = 12 : (1/3) = 36 m.\n- (C) 108 m: seluruh deret dikali 2, termasuk jatuhan pertama: 2 × 54 = 108 m. Padahal jatuhan pertama 18 m hanya ditempuh sekali (tidak ada lintasan naik sebelumnya).\n- (D) 72 m: hanya pantulan naik-turun yang dihitung: 2 × 36 = 72 m; jatuhan pertama 18 m terlupakan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-11",
+    "description": "Perhatikan deret berikut.\n3, 5, 12, 27, 53, 93, ...\nBilangan yang tepat untuk melanjutkan deret tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "133",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "147",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "150",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "151",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "186",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret: 3, 5, 12, 27, 53, 93, ...\n- Selisih antarsuku tidak tetap, sehingga perlu diuji selisih bertingkat.\n\nDITANYAKAN:\nSuku ke-7.\n\nJAWAB:\n1. Selisih tingkat satu:\n   5 − 3 = 2; 12 − 5 = 7; 27 − 12 = 15; 53 − 27 = 26; 93 − 53 = 40\n   → 2, 7, 15, 26, 40\n2. Selisih tingkat dua:\n   7 − 2 = 5; 15 − 7 = 8; 26 − 15 = 11; 40 − 26 = 14\n   → 5, 8, 11, 14\n3. Selisih tingkat tiga:\n   8 − 5 = 3; 11 − 8 = 3; 14 − 11 = 3 → tetap 3.\n4. Lanjutkan dari tingkat paling bawah:\n   tingkat dua berikutnya = 14 + 3 = 17\n   tingkat satu berikutnya = 40 + 17 = 57\n   suku ke-7 = 93 + 57 = 150.\n5. Uji pola alternatif: rasio antarsuku (1,67; 2,4; 2,25; ...) tidak tetap dan tiap suku bukan jumlah dua suku sebelumnya (3 + 5 ≠ 12), jadi hanya pola bertingkat tiga yang konsisten.\nJadi, jawaban yang tepat adalah (C) 150.\nMengapa opsi lain kurang tepat:\n- (A) 133: selisih tingkat satu dianggap tetap (40 diulang): 93 + 40 = 133.\n- (B) 147: selisih tingkat dua dianggap tetap (14 diulang): 40 + 14 = 54, lalu 93 + 54 = 147. Padahal selisih tingkat dua sendiri naik 3.\n- (D) 151: selisih tingkat dua dinaikkan 4 (menjadi 18) karena mengira selisih tingkat tiganya ikut bertambah: 40 + 18 = 58, lalu 93 + 58 = 151. Padahal selisih tingkat tiga tetap 3.\n- (E) 186: dianggap deret geometri dengan rasio 2: 93 × 2 = 186. Rasio antarsuku tidak tetap (5 : 3, 12 : 5, 27 : 12 berbeda-beda).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-11",
+    "description": "Perhatikan deret berikut.\n2, 3, 11, 38, 102, 227, ...\nBilangan berikutnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "443",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "352",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "437",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "454",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "263",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret: 2, 3, 11, 38, 102, 227, ...\n- Selisih antarsuku tumbuh cepat, sehingga diuji apakah selisihnya membentuk bilangan istimewa.\n\nDITANYAKAN:\nSuku ke-7.\n\nJAWAB:\n1. Selisih tingkat satu:\n   3 − 2 = 1; 11 − 3 = 8; 38 − 11 = 27; 102 − 38 = 64; 227 − 102 = 125\n   → 1, 8, 27, 64, 125 = 1³, 2³, 3³, 4³, 5³ (bilangan kubik berurutan).\n2. Cek dengan selisih bertingkat agar yakin:\n   tingkat dua: 7, 19, 37, 61\n   tingkat tiga: 12, 18, 24\n   tingkat empat: 6, 6 → tetap. Kedua cara konsisten.\n3. Selisih berikutnya = 6³ = 216.\n   (Lewat tingkat bertingkat: tingkat tiga 24 + 6 = 30, tingkat dua 61 + 30 = 91, tingkat satu 125 + 91 = 216, hasilnya sama.)\n4. Suku ke-7 = 227 + 216 = 443.\nJadi, jawaban yang tepat adalah (A) 443.\nMengapa opsi lain kurang tepat:\n- (B) 352: selisih terakhir (125) diulang: 227 + 125 = 352.\n- (C) 437: selisih tingkat tiga dianggap tetap 24: tingkat dua 61 + 24 = 85, tingkat satu 125 + 85 = 210, lalu 227 + 210 = 437. Padahal tingkat tiga (12, 18, 24) masih naik 6.\n- (D) 454: dianggap dikali 2: 227 × 2 = 454. Rasio antarsuku tidak tetap (3 : 2, 11 : 3, dst.).\n- (E) 263: selisih dikira bilangan kuadrat sehingga ditambah 6² = 36: 227 + 36 = 263. Padahal selisihnya 1, 8, 27, 64, 125 adalah bilangan kubik.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-11",
+    "description": "Perhatikan deret berikut.\n4, 9, 18, 31, 48, 69, ...\nJika pola deret tetap, suku ke-20 deret tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "706",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "864",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "821",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "783",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "763",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret: 4, 9, 18, 31, 48, 69, ...\n- Yang diminta suku jauh (n = 20), sehingga perlu rumus umum.\n\nDITANYAKAN:\nSuku ke-20 (U20).\n\nJAWAB:\n1. Selisih tingkat satu:\n   9 − 4 = 5; 18 − 9 = 9; 31 − 18 = 13; 48 − 31 = 17; 69 − 48 = 21 → 5, 9, 13, 17, 21\n2. Selisih tingkat dua: 4, 4, 4, 4 → tetap 4, jadi Un berbentuk kuadrat: Un = An² + Bn + C.\n3. Cari koefisien:\n   2A = selisih tingkat dua = 4 → A = 2\n   3A + B = selisih pertama = 5 → 6 + B = 5 → B = −1\n   A + B + C = U1 = 4 → 2 − 1 + C = 4 → C = 3\n   Jadi Un = 2n² − n + 3.\n4. Uji: U2 = 8 − 2 + 3 = 9; U3 = 18 − 3 + 3 = 18; U6 = 72 − 6 + 3 = 69 (semua sesuai).\n5. U20 = 2 × 400 − 20 + 3 = 783.\n   Cek cara lain: U20 = 4 + (jumlah 19 selisih pertama) = 4 + 19 × 5 + 4 × (19 × 18 : 2) = 4 + 95 + 684 = 783.\nJadi, jawaban yang tepat adalah (D) 783.\nMengapa opsi lain kurang tepat:\n- (A) 706: yang dihitung suku ke-19: 2 × 19² − 19 + 3 = 722 − 19 + 3 = 706.\n- (B) 864: yang dijumlahkan 20 selisih, padahal dari suku ke-1 ke suku ke-20 hanya ada 19 selisih; hasilnya sama dengan suku ke-21 = 2 × 21² − 21 + 3 = 864.\n- (C) 821: memakai rumus Un = 2n² + n + 1 yang hanya cocok untuk suku pertama (U2 akan bernilai 11, bukan 9); hasilnya 800 + 20 + 1 = 821.\n- (E) 763: memakai rumus Un = 2n² − 2n + 3 yang tidak cocok untuk suku kedua (U2 = 7, bukan 9); hasilnya 800 − 40 + 3 = 763.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-12",
+    "description": "Perhatikan deret berikut.\n2, 50, 5, 48, 11, 44, 20, 38, 32, ..., ...\nDua bilangan berikutnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "32 dan 47",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "30 dan 47",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "30 dan 44",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "32 dan 44",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "47 dan 30",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret 9 suku: 2, 50, 5, 48, 11, 44, 20, 38, 32.\n- Suku naik-turun bergantian, tanda deret larik ganda (berselang).\n\nDITANYAKAN:\nSuku ke-10 dan ke-11.\n\nJAWAB:\n1. Pisahkan menjadi dua larik.\n   Larik ganjil (suku ke-1, 3, 5, 7, 9): 2, 5, 11, 20, 32\n   Larik genap (suku ke-2, 4, 6, 8): 50, 48, 44, 38\n2. Larik ganjil (bertingkat):\n   selisih tingkat satu: +3, +6, +9, +12\n   selisih tingkat dua: +3, +3, +3 (tetap)\n   selisih berikutnya +15, sehingga suku berikutnya 32 + 15 = 47.\n3. Larik genap (bertingkat):\n   selisih tingkat satu: −2, −4, −6\n   selisih tingkat dua: −2, −2 (tetap)\n   selisih berikutnya −8, sehingga suku berikutnya 38 − 8 = 30.\n4. Tentukan urutan: suku ke-9 (32) milik larik ganjil, maka suku ke-10 milik larik genap = 30 dan suku ke-11 milik larik ganjil = 47.\n5. Deret lengkap: 2, 50, 5, 48, 11, 44, 20, 38, 32, 30, 47.\nJadi, jawaban yang tepat adalah (B) 30 dan 47.\nMengapa opsi lain kurang tepat:\n- (A) 32 dan 47: larik genap memakai selisih −6 diulang (38 − 6 = 32), padahal selisihnya berkurang 2 setiap langkah sehingga berikutnya −8.\n- (C) 30 dan 44: larik ganjil memakai selisih +12 diulang (32 + 12 = 44), padahal selisihnya naik 3 setiap langkah sehingga berikutnya +15.\n- (D) 32 dan 44: kedua larik memakai selisih terakhir yang diulang, sehingga keduanya salah.\n- (E) 47 dan 30: nilainya benar tetapi urutannya tertukar. Suku ke-10 milik larik genap (30), baru suku ke-11 milik larik ganjil (47).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-12",
+    "description": "Perhatikan deret berikut.\n2, 6, 5, 15, 13, 39, 36, 108, ..., ...\nDua bilangan berikutnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "105 dan 315",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "103 dan 309",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "104 dan 324",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "100 dan 300",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "104 dan 312",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret: 2, 6, 5, 15, 13, 39, 36, 108, ...\n- Suku naik tajam lalu turun sedikit secara bergantian, tanda dua operasi yang bergantian.\n\nDITANYAKAN:\nSuku ke-9 dan ke-10.\n\nJAWAB:\n1. Amati operasi dari satu suku ke suku berikutnya:\n   2 → 6 : ×3\n   6 → 5 : −1\n   5 → 15 : ×3\n   15 → 13 : −2\n   13 → 39 : ×3\n   39 → 36 : −3\n   36 → 108 : ×3\n2. Ada dua aturan bergantian: langkah ganjil selalu ×3, langkah genap mengurangi bilangan yang naik 1 setiap kali (−1, −2, −3, ...).\n3. Langkah berikutnya adalah langkah genap ke-4: 108 − 4 = 104.\n4. Lalu langkah ×3: 104 × 3 = 312.\n5. Uji pola alternatif: larik ganjil 2, 5, 13, 36 memiliki selisih 3, 8, 23 dan larik genap 6, 15, 39, 108 memiliki rasio 2,5; 2,6; 2,77, keduanya tidak membentuk pola sederhana yang tetap. Jadi hanya aturan '×3 lalu dikurangi 1, 2, 3, 4, ...' yang konsisten dengan semua suku.\nJadi, jawaban yang tepat adalah (E) 104 dan 312.\nMengapa opsi lain kurang tepat:\n- (A) 105 dan 315: pengurang dianggap tetap 3 (108 − 3 = 105), padahal pengurang bertambah 1 setiap kali (1, 2, 3, 4).\n- (B) 103 dan 309: pengurang dilompati menjadi 5 (108 − 5 = 103), padahal setelah −3 datang −4.\n- (C) 104 dan 324: suku ke-9 benar, tetapi suku ke-10 dihitung 108 × 3 = 324; seharusnya yang dikali 3 adalah suku tepat sebelumnya, yaitu 104.\n- (D) 100 dan 300: pengurang dikira berlipat dua (1, 2, 4, 8) sehingga 108 − 8 = 100. Pola pengurang yang tampak 1, 2, 3 bertambah 1, bukan berlipat dua.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-12",
+    "description": "Perhatikan deret berikut.\n5, 40, 2, 9, 34, 6, 13, 28, 18, 17, ..., ...\nDua bilangan berikutnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "22 dan 36",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "22 dan 30",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "22 dan 54",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "21 dan 22",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "22 dan 162",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret 10 suku: 5, 40, 2, 9, 34, 6, 13, 28, 18, 17.\n- Pola berulang setiap tiga suku (naik, turun, lalu kecil), tanda larik dengan periode tiga.\n\nDITANYAKAN:\nSuku ke-11 dan ke-12.\n\nJAWAB:\n1. Pisahkan menjadi tiga larik menurut posisi:\n   Larik I (suku ke-1, 4, 7, 10): 5, 9, 13, 17\n   Larik II (suku ke-2, 5, 8): 40, 34, 28\n   Larik III (suku ke-3, 6, 9): 2, 6, 18\n2. Larik I: selisih +4, +4, +4 (aritmetika).\n3. Larik II: selisih −6, −6 (aritmetika), berikutnya 28 − 6 = 22.\n4. Larik III: rasio 6 : 2 = 3 dan 18 : 6 = 3 (geometri), berikutnya 18 × 3 = 54.\n5. Tentukan urutan: suku ke-10 (17) milik larik I, maka suku ke-11 milik larik II = 22 dan suku ke-12 milik larik III = 54.\n6. Uji pemisahan dua larik (ganjil-genap): suku ganjil 5, 2, 34, 13, 18 dan genap 40, 9, 6, 28, 17 tidak berpola, sehingga pembagian tiga larik adalah satu-satunya yang konsisten.\nJadi, jawaban yang tepat adalah (C) 22 dan 54.\nMengapa opsi lain kurang tepat:\n- (A) 22 dan 36: larik ketiga dianggap dikali 2 (18 × 2 = 36), padahal 2 → 6 → 18 berasio 3.\n- (B) 22 dan 30: larik ketiga dianggap bertambah +12 diulang (18 + 12 = 30), padahal pola 2, 6, 18 adalah perkalian 3, bukan penjumlahan.\n- (D) 21 dan 22: deret dikira kembali ke larik pertama pada suku ke-11 (17 + 4 = 21). Suku ke-10 (17) milik larik pertama, sehingga suku ke-11 milik larik kedua dan suku ke-12 milik larik ketiga.\n- (E) 22 dan 162: suku larik ketiga dikali 3 dua kali (18 × 3 × 3 = 162), seolah-olah melompati satu suku larik ketiga.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-13",
+    "description": "Perhatikan deret berikut.\n1, 2, 4, ..., 13, 24, ..., 81\nDua bilangan yang tepat untuk mengisi titik-titik secara berurutan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "7 dan 44",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "7 dan 37",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "8 dan 44",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "6 dan 43",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "7 dan 48",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret 8 suku dengan dua suku hilang: 1, 2, 4, (x), 13, 24, (y), 81.\n- Kenaikan makin cepat tetapi tidak berlipat tetap.\n\nDITANYAKAN:\nNilai x (suku ke-4) dan y (suku ke-7).\n\nJAWAB:\n1. Uji aturan 'jumlah tiga suku sebelumnya' (tribonacci) pada suku yang lengkap:\n   suku ke-6: 24 = 13 + x + 4 → x = 7\n   suku ke-5: 13 = x + 4 + 2 = 7 + 4 + 2 = 13 (sesuai)\n   suku ke-4: x = 4 + 2 + 1 = 7 (sesuai)\n2. Suku ke-7: y = 24 + 13 + 7 = 44.\n3. Uji suku ke-8: 44 + 24 + 13 = 81 (sesuai dengan deret).\n4. Deret lengkap: 1, 2, 4, 7, 13, 24, 44, 81.\n5. Uji pola alternatif:\n   - Kali 2 (1, 2, 4, 8, ...): gagal karena 13 bukan 16.\n   - Jumlah dua suku: 2 + 4 = 6, lalu 4 + 6 = 10 ≠ 13, gagal.\n   - Selisih bertambah 1 (1, 2, 3, 4): memberi 1, 2, 4, 7, 11, gagal pada 13.\n   Jadi hanya aturan jumlah tiga suku sebelumnya yang konsisten.\nJadi, jawaban yang tepat adalah (A) 7 dan 44.\nMengapa opsi lain kurang tepat:\n- (B) 7 dan 37: suku ke-7 dihitung sebagai jumlah dua suku sebelumnya (13 + 24 = 37). Aturan dua suku tidak berlaku sejak awal: 2 + 4 = 6 ≠ 7 dan 37 + 24 = 61 ≠ 81.\n- (C) 8 dan 44: suku ke-4 dikira 4 × 2 = 8 (pola kali 2 dari 1, 2, 4). Akibatnya 4 + 8 + 2 = 14 ≠ 13, sehingga pola terputus.\n- (D) 6 dan 43: suku ke-4 dihitung 2 + 4 = 6 (aturan Fibonacci dua suku). Dengan 6, tidak ada aturan tunggal yang menghasilkan 13 lalu 24.\n- (E) 7 dan 48: suku ke-7 dihitung 24 × 2 = 48. Dengan 48, suku terakhir seharusnya 48 + 24 + 13 = 85, bukan 81.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-13",
+    "description": "Perhatikan deret berikut.\n1, 2, 6, 21, 88, ...\nBilangan berikutnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "440",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "435",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "450",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "445",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "528",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret: 1, 2, 6, 21, 88, ...\n- Rasio antarsuku naik (2; 3; 3,5; 4,19), tanda ada perkalian dengan pengali yang berubah ditambah operasi lain.\n\nDITANYAKAN:\nSuku ke-6.\n\nJAWAB:\n1. Uji 'dikali k lalu ditambah k' dengan k = 1, 2, 3, ...:\n   1 × 1 + 1 = 2\n   2 × 2 + 2 = 6\n   6 × 3 + 3 = 21\n   21 × 4 + 4 = 88\n   Semua sesuai. (Bentuk setara: (suku + 1) × k.)\n2. Langkah berikutnya k = 5:\n   88 × 5 + 5 = 440 + 5 = 445.\n3. Uji pola alternatif:\n   - Selisih: 1, 4, 15, 67; selisih tingkat dua 3, 11, 52 tidak tetap.\n   - Jumlah dua suku sebelumnya: 2 + 6 = 8 ≠ 21.\n   - Rasio tetap: 2 : 1 = 2 tetapi 6 : 2 = 3, gagal.\n   Jadi hanya pola gabungan kali dan tambah dengan k bertambah yang konsisten.\nJadi, jawaban yang tepat adalah (D) 445.\nMengapa opsi lain kurang tepat:\n- (A) 440: hanya dikali 5 tanpa ditambah 5: 88 × 5 = 440.\n- (B) 435: dikali 5 lalu dikurangi 5: 88 × 5 − 5 = 435. Operasi kedua seharusnya penjumlahan.\n- (C) 450: dikali 5 lalu ditambah 10: 88 × 5 + 10 = 450. Bilangan yang ditambahkan sama dengan pengali (5), bukan dua kalinya.\n- (E) 528: pengali dilompati menjadi 6: 88 × 6 = 528. Pengali pada pola ini 1, 2, 3, 4, sehingga berikutnya 5.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-13",
+    "description": "Perhatikan deret berikut.\n5, 8, 11, 17, 26, ..., 65, ...\nDua bilangan yang tepat untuk mengisi titik-titik secara berurutan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "43 dan 108",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "41 dan 106",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "38 dan 101",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "41 dan 89",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "41 dan 104",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret 8 suku dengan dua suku hilang: 5, 8, 11, 17, 26, (x), 65, (y).\n- Pertumbuhan menyerupai Fibonacci tetapi tidak persis.\n\nDITANYAKAN:\nNilai x (suku ke-6) dan y (suku ke-8).\n\nJAWAB:\n1. Uji Fibonacci murni: 5 + 8 = 13, padahal suku ke-3 adalah 11. Ada selisih 2.\n2. Uji 'jumlah dua suku sebelumnya lalu dikurangi 2':\n   5 + 8 − 2 = 11 (sesuai)\n   8 + 11 − 2 = 17 (sesuai)\n   11 + 17 − 2 = 26 (sesuai)\n3. Suku ke-6: x = 17 + 26 − 2 = 41.\n4. Uji suku ke-7: 26 + 41 − 2 = 65 (sesuai dengan deret).\n5. Suku ke-8: y = 41 + 65 − 2 = 104.\n6. Cek lewat selisih: selisih deret lengkap 3, 3, 6, 9, 15, 24, 39 juga mengikuti pola Fibonacci (3 + 3 = 6, 3 + 6 = 9, 6 + 9 = 15, 9 + 15 = 24, 15 + 24 = 39). Kedua cara konsisten.\nJadi, jawaban yang tepat adalah (E) 41 dan 104.\nMengapa opsi lain kurang tepat:\n- (A) 43 dan 108: aturan dianggap Fibonacci murni (17 + 26 = 43, 43 + 65 = 108). Aturan murni sudah gagal di awal: 5 + 8 = 13 ≠ 11, dan 26 + 43 = 69 ≠ 65.\n- (B) 41 dan 106: suku ke-6 benar, tetapi suku ke-8 lupa dikurangi 2: 41 + 65 = 106.\n- (C) 38 dan 101: selisih dianggap naik 3 tetap (3, 6, 9, 12): 26 + 12 = 38. Selisih yang ada 3, 3, 6, 9 tidak naik tetap, dan 38 + 26 − 2 = 62 ≠ 65.\n- (D) 41 dan 89: suku ke-6 benar, tetapi suku ke-8 dihitung dengan selisih 24 diulang: 65 + 24 = 89.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-14",
+    "description": "Perhatikan deret huruf berikut (urutan abjad melingkar: setelah Z kembali ke A).\nH, I, L, Q, X, ...\nHuruf berikutnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "E",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "G",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "F",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "H",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Z",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret huruf: H, I, L, Q, X.\n- Abjad melingkar dengan A = 1 sampai Z = 26.\n\nDITANYAKAN:\nHuruf ke-6.\n\nJAWAB:\n1. Ubah huruf menjadi nomor urut abjad:\n   H = 8, I = 9, L = 12, Q = 17, X = 24.\n2. Selisih tingkat satu: 9 − 8 = 1; 12 − 9 = 3; 17 − 12 = 5; 24 − 17 = 7 → 1, 3, 5, 7.\n3. Selisih tingkat dua: 2, 2, 2 (tetap). Jadi lompatan berikutnya 7 + 2 = 9.\n4. 24 + 9 = 33. Karena melebihi 26, kurangi 26: 33 − 26 = 7.\n5. Nomor 7 = G.\n   Cek dengan menghitung maju dari X: Y(1), Z(2), A(3), B(4), C(5), D(6), E(7), F(8), G(9).\nJadi, jawaban yang tepat adalah (B) G.\nMengapa opsi lain kurang tepat:\n- (A) E: lompatan +7 diulang: X(24) + 7 = 31, 31 − 26 = 5 = E. Lompatannya 1, 3, 5, 7 bertambah 2, sehingga berikutnya +9.\n- (C) F: lompatan dianggap bertambah 1 menjadi +8: 24 + 8 = 32, 32 − 26 = 6 = F. Lompatan bertambah 2, bukan 1.\n- (D) H: lompatan +10: 24 + 10 = 34, 34 − 26 = 8 = H. Lompatan berikutnya bilangan ganjil 9, bukan 10.\n- (E) Z: abjad dianggap berhenti di Z sehingga tidak bisa melewatinya. Soal menyatakan urutan melingkar.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-14",
+    "description": "Perhatikan deret huruf berikut.\nB, Z, E, X, I, U, N, Q, ..., ...\nDua huruf berikutnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "S dan L",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "T dan M",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "T dan L",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "S dan M",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "U dan K",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret huruf 8 suku: B, Z, E, X, I, U, N, Q.\n- Huruf bergantian dari awal dan akhir abjad, tanda dua larik berselang.\n\nDITANYAKAN:\nHuruf ke-9 dan ke-10.\n\nJAWAB:\n1. Ubah ke nomor abjad (A = 1, ..., Z = 26):\n   B = 2, Z = 26, E = 5, X = 24, I = 9, U = 21, N = 14, Q = 17.\n2. Larik ganjil (suku ke-1, 3, 5, 7): 2, 5, 9, 14\n   selisih: +3, +4, +5 (bertambah 1), berikutnya +6 → 14 + 6 = 20 = T.\n3. Larik genap (suku ke-2, 4, 6, 8): 26, 24, 21, 17\n   selisih: −2, −3, −4 (bertambah 1), berikutnya −5 → 17 − 5 = 12 = L.\n4. Suku ke-9 milik larik ganjil (T) dan suku ke-10 milik larik genap (L).\n5. Deret lengkap: B, Z, E, X, I, U, N, Q, T, L.\nJadi, jawaban yang tepat adalah (C) T dan L.\nMengapa opsi lain kurang tepat:\n- (A) S dan L: larik naik memakai lompatan +5 diulang (N + 5 = S), padahal lompatannya bertambah 1 menjadi +6.\n- (B) T dan M: larik turun memakai lompatan −4 diulang (Q − 4 = M), padahal lompatannya bertambah menjadi −5.\n- (D) S dan M: kedua larik memakai lompatan terakhir yang diulang, sehingga keduanya salah.\n- (E) U dan K: lompatan dianggap bertambah 2 (+7 dan −6). Lompatan yang tampak (3, 4, 5 dan 2, 3, 4) hanya bertambah 1.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-14",
+    "description": "Perhatikan deret campuran berikut.\n2B, 6D, 12G, 20K, 30P, ...\nSuku berikutnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "42V",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "40V",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "42U",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "42W",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "40U",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Deret: 2B, 6D, 12G, 20K, 30P.\n- Setiap suku terdiri atas bagian angka dan bagian huruf yang masing-masing punya aturan sendiri.\n\nDITANYAKAN:\nSuku ke-6.\n\nJAWAB:\n1. Bagian angka: 2, 6, 12, 20, 30\n   selisih tingkat satu: +4, +6, +8, +10\n   selisih tingkat dua: +2 (tetap), berikutnya +12 → 30 + 12 = 42.\n   (Cek: 2 = 1 × 2, 6 = 2 × 3, 12 = 3 × 4, 20 = 4 × 5, 30 = 5 × 6, maka 6 × 7 = 42.)\n2. Bagian huruf diubah ke nomor abjad: B = 2, D = 4, G = 7, K = 11, P = 16\n   selisih tingkat satu: +2, +3, +4, +5\n   selisih tingkat dua: +1 (tetap), berikutnya +6 → 16 + 6 = 22 = V.\n3. Gabungkan: suku ke-6 = 42V.\nJadi, jawaban yang tepat adalah (A) 42V.\nMengapa opsi lain kurang tepat:\n- (B) 40V: bagian angka memakai selisih +10 diulang (30 + 10 = 40), padahal selisih angka naik 2 setiap langkah sehingga berikutnya +12.\n- (C) 42U: bagian huruf memakai lompatan +5 diulang (P + 5 = U), padahal lompatannya bertambah 1 menjadi +6.\n- (D) 42W: bagian huruf melompat +7 (16 + 7 = 23 = W). Lompatan huruf 2, 3, 4, 5 bertambah 1, sehingga berikutnya +6.\n- (E) 40U: kedua bagian memakai selisih terakhir yang diulang, sehingga angka dan huruf sama-sama salah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-28",
+    "description": "Nilai yang paling dekat dengan\n49,8% × 2.016 + 19,9 × 51\nadalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "2.028",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "2.024",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "2.014",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "2.019",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "1.983",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Bentuk: 49,8% × 2.016 + 19,9 × 51.\n- Kelima pilihan berdekatan (selisih 4–10), sehingga pembulatan kasar saja tidak cukup.\n\nDITANYAKAN:\nPilihan yang paling dekat dengan nilai bentuk tersebut.\n\nJAWAB:\n1. Bagian pertama dengan pembulatan lalu koreksi:\n   49,8% = 50% − 0,2%\n   50% × 2.016 = 1.008\n   0,2% × 2.016 = 4,032\n   49,8% × 2.016 = 1.008 − 4,032 = 1.003,968\n2. Bagian kedua dengan pembulatan lalu koreksi:\n   19,9 = 20 − 0,1\n   20 × 51 = 1.020\n   0,1 × 51 = 5,1\n   19,9 × 51 = 1.020 − 5,1 = 1.014,9\n3. Jumlahkan: 1.003,968 + 1.014,9 = 2.018,868.\n4. Bandingkan dengan pilihan: |2.019 − 2.018,868| = 0,132, sedangkan pilihan terdekat lain (2.014 dan 2.024) berjarak sekitar 5. Taksiran kasar 2.028 meleset sekitar 9 karena kedua pembulatan sama-sama ke atas.\n5. Pelajaran: bila pilihan berdekatan, taksir dulu lalu hitung koreksinya (total koreksi −4,032 − 5,1 = −9,132).\nJadi, jawaban yang tepat adalah (D) 2.019.\nMengapa opsi lain kurang tepat:\n- (A) 2.028: hasil pembulatan kasar tanpa koreksi: 50% × 2.016 + 20 × 51 = 1.008 + 1.020 = 2.028. Karena pilihan berdekatan, koreksi pembulatan wajib dihitung.\n- (B) 2.024: hanya satu bagian yang dikoreksi, misalnya 1.003,97 + 1.020 = 2.023,97 atau 1.008 + 1.014,9 = 2.022,9; keduanya mendekati 2.024.\n- (C) 2.014: koreksi bagian kedua dihitung dua kali (1.020 − 10,2 = 1.009,8), sehingga 1.003,97 + 1.009,8 ≈ 2.013,8.\n- (E) 1.983: 49,8% dibaca sebagai 50% − 2% (salah letak desimal), sehingga 48% × 2.016 = 967,68 dan 967,68 + 1.014,9 ≈ 1.982,6.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-28",
+    "description": "Hasil dari\n1.003² − 997² + 49 × 51 − 50²\nadalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "12.001",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "11.999",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "12.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "11.987",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "35",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Bentuk: 1.003² − 997² + 49 × 51 − 50².\n- Bilangan dekat dengan 1.000 dan 50, cocok untuk bentuk selisih kuadrat a² − b² = (a − b)(a + b).\n\nDITANYAKAN:\nNilai bentuk tersebut.\n\nJAWAB:\n1. 1.003² − 997² = (1.003 − 997)(1.003 + 997) = 6 × 2.000 = 12.000.\n2. 49 × 51 = (50 − 1)(50 + 1) = 50² − 1² = 2.500 − 1 = 2.499.\n3. 49 × 51 − 50² = 2.499 − 2.500 = −1.\n4. Hasil = 12.000 + (−1) = 11.999.\n5. Cek cara panjang: 1.003² = 1.006.009; 997² = 994.009; selisihnya 12.000. 49 × 51 = 2.499; 50² = 2.500. Total 12.000 + 2.499 − 2.500 = 11.999 (sesuai).\nJadi, jawaban yang tepat adalah (B) 11.999.\nMengapa opsi lain kurang tepat:\n- (A) 12.001: 49 × 51 dianggap 50² + 1, padahal (50 − 1)(50 + 1) = 50² − 1.\n- (C) 12.000: 49 × 51 dianggap sama dengan 50², sehingga selisih −1 hilang.\n- (D) 11.987: 1.003² − 997² dihitung 6 × 1.998 = 11.988 (salah menjumlah 1.003 + 997), lalu ditambah −1.\n- (E) 35: 1.003² − 997² dikira sama dengan (1.003 − 997)² = 36, lalu 36 − 1 = 35. Selisih dua kuadrat bukan kuadrat dari selisih.",
+    "difficulty": "sulit"
+  }
+]

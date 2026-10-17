@@ -22,3 +22,5 @@ one_question_reporter.py
 run_gen.sh
 batch_*.txt
 numerik_images/
+.claude/test-credentials.local
+backups/

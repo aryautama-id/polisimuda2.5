@@ -1,0 +1,512 @@
+[
+  {
+    "sub_material_code": "VRB-14",
+    "description": "Hasil akhir uji kesamaptaan enam calon Bintara—Arga, Bening, Cakra, Dimas, Elsa, dan Fajar—diperingkat dari 1 (terbaik) sampai 6 tanpa peringkat ganda. Diketahui:\n(1) Fajar berperingkat lebih baik daripada Cakra, dan Cakra lebih baik daripada Dimas.\n(2) Bening berada tepat satu peringkat di bawah Dimas.\n(3) Tepat dua orang berada di antara Arga dan Elsa.\n(4) Jika Arga berperingkat lebih baik daripada Cakra, maka Elsa berada di peringkat 6.\n(5) Fajar tidak berada di peringkat 1.\nSiapakah yang berada tepat satu peringkat di atas Dimas?",
+    "image": "",
+    "options": [
+      {
+        "text": "Cakra",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Elsa",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Arga",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Fajar",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bening",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Enam calon: Arga (A), Bening (B), Cakra (C), Dimas (D), Elsa (E), Fajar (F); peringkat 1 (terbaik) sampai 6, tanpa peringkat ganda. Angka peringkat lebih kecil = lebih baik.\n- (1) F < C < D.\n- (2) B = D + 1 (D dan B berdempet, B di bawah).\n- (3) Selisih peringkat A dan E = 3 (dua orang di antaranya).\n- (4) Jika A < C, maka E = 6 (syarat bersyarat).\n- (5) F ≠ 1.\n\nDITANYAKAN:\nOrang yang berada tepat satu peringkat di atas Dimas.\n\nJAWAB:\n1. Gabungkan (1) dan (2) menjadi satu rantai: F … C … D–B (D dan B berdempet).\n2. Cari pengisi peringkat 1. F dilarang (syarat 5); C, D, B tidak mungkin karena masing-masing punya orang yang lebih baik di rantai. Jadi peringkat 1 hanya bisa A atau E.\n3. Dari (3), pasangan posisi A–E hanya (1,4), (2,5), atau (3,6). Karena salah satunya di peringkat 1, pasangannya pasti (1,4).\n4. Sisa peringkat 2, 3, 5, 6 diisi F, C, D, B sesuai urutan rantai, dengan D–B berdempet. Satu-satunya cara: F = 2, C = 3, D = 5, B = 6.\n5. Uji syarat bersyarat (4):\n   - Jika A = 1, maka A lebih baik daripada C (1 < 3) sehingga E wajib di peringkat 6, padahal E = 4. Kontradiksi, gugur.\n   - Jadi E = 1 dan A = 4. Kini A lebih buruk daripada C, sehingga syarat (4) tidak berlaku.\n6. Tabel akhir: 1 Elsa | 2 Fajar | 3 Cakra | 4 Arga | 5 Dimas | 6 Bening. Uji ulang kelima syarat: semuanya terpenuhi dan susunan ini tunggal.\n7. Dimas di peringkat 5, sehingga yang tepat satu peringkat di atasnya adalah peringkat 4, yaitu Arga.\nJadi, jawaban yang tepat adalah (C) Arga.\nMengapa opsi lain kurang tepat:\n- (A) Cakra berada di peringkat 3, dua peringkat di atas Dimas. Ini jebakan bagi yang mengira Cakra dan Dimas berdempet dari syarat (1).\n- (B) Elsa berada di peringkat 1, karena Arga di peringkat 1 membuat syarat (4) dilanggar.\n- (D) Fajar berada di peringkat 2.\n- (E) Bening berada tepat di BAWAH Dimas (peringkat 6), bukan di atasnya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-14",
+    "description": "Tujuh kendaraan taktis—P, Q, R, S, T, U, dan V—tiba di titik kumpul satu per satu (urutan 1 sampai 7, tidak ada yang tiba bersamaan). Diketahui:\n(1) Q tiba sebelum R, dan R tiba sebelum T.\n(2) Tepat satu kendaraan tiba di antara P dan S.\n(3) U tiba pada urutan bernomor genap.\n(4) V tiba sebelum Q, tetapi V bukan kendaraan yang pertama tiba.\n(5) Jika S tiba sebelum P, maka V tiba pada urutan kedua.\nManakah pernyataan berikut yang TIDAK MUNGKIN benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "R tiba tepat setelah U.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Q tiba pada urutan keempat.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "U tiba tepat sebelum T.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "V tiba tepat setelah P.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "S tiba pada urutan ketiga.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tujuh kendaraan P, Q, R, S, T, U, V tiba pada urutan 1–7.\n- (1) Q < R < T.\n- (2) |P − S| = 2 (tepat satu kendaraan di antaranya).\n- (3) U di urutan genap (2, 4, atau 6).\n- (4) V < Q dan V ≠ 1.\n- (5) Jika S < P, maka V = 2.\n\nDITANYAKAN:\nPernyataan yang tidak dapat benar pada susunan mana pun yang memenuhi semua syarat.\n\nJAWAB:\n1. Dari (1) dan (4) terbentuk rantai V < Q < R < T dengan V ≥ 2, sehingga Q ≥ 3, R ≥ 4, T ≥ 5.\n2. Pengisi urutan 1 hanya P atau S (U genap, V dilarang, Q/R/T punya pendahulu). Dari (2), P dan S berjarak 2, jadi pasangan P–S menempati urutan 1 dan 3.\n3. Sisa urutan 2, 4, 5, 6, 7 diisi V, Q, R, T (urut menaik) dan U (genap). Karena T paling belakang dalam rantai, T = 7. Kemungkinan letak U:\n   - U = 2 → V, Q, R, T = 4, 5, 6, 7.\n   - U = 4 → V, Q, R, T = 2, 5, 6, 7.\n   - U = 6 → V, Q, R, T = 2, 4, 5, 7.\n4. Terapkan syarat bersyarat (5): bila S di urutan 1 (S sebelum P), V wajib di urutan 2, sehingga kombinasi U = 2 (V = 4) gugur khusus untuk S di depan.\n5. Tabel semua susunan sah (urutan 1→7):\n   a. P V S Q R U T\n   b. P U S V Q R T\n   c. P V S U Q R T\n   d. S V P Q R U T\n   e. S V P U Q R T\n6. Uji \"R tepat setelah U\": pada tabel, saat U = 2 maka R = 6; saat U = 4 maka R = 6; saat U = 6 maka R = 5. Tidak ada R = U + 1. Secara logika, agar U = 4 dan R = 5, Q harus di urutan ≤ 3 dan V ≤ 2, yaitu V = 2 dan Q = 3, padahal urutan 3 sudah milik P atau S. Jadi mustahil.\nJadi, jawaban yang tepat adalah (A) R tiba tepat setelah U.\nMengapa opsi lain kurang tepat:\n- (B) Q di urutan keempat terjadi pada susunan a dan d, jadi mungkin benar.\n- (C) U tepat sebelum T (U = 6, T = 7) terjadi pada susunan a dan d.\n- (D) V tepat setelah P (P = 1, V = 2) terjadi pada susunan a dan c.\n- (E) S di urutan ketiga terjadi pada susunan a, b, dan c.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-14",
+    "description": "Enam penyidik—Gita, Hendra, Irfan, Joko, Kirana, dan Lukman—menyerahkan laporan satu per satu (urutan 1 sampai 6). Diketahui:\n(1) Hendra menyerahkan laporan setelah Gita, tetapi sebelum Irfan.\n(2) Joko tidak menyerahkan laporan tepat sebelum ataupun tepat sesudah Hendra.\n(3) Kirana menyerahkan laporan pada urutan bernomor ganjil.\n(4) Jika Lukman menyerahkan laporan sebelum Hendra, maka Joko menyerahkan laporan paling akhir.\n(5) Irfan tidak menyerahkan laporan paling akhir.\nJika Kirana menyerahkan laporan tepat sesudah Irfan, manakah pernyataan berikut yang PASTI benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Gita menyerahkan laporan paling awal.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Joko menyerahkan laporan paling akhir.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Lukman menyerahkan laporan sebelum Irfan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hendra menyerahkan laporan pada urutan kedua.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tepat dua laporan diserahkan sesudah laporan Irfan.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Urutan 1–6 untuk Gita (G), Hendra (H), Irfan (I), Joko (J), Kirana (K), Lukman (L).\n- (1) G < H < I.\n- (2) J tidak berdempet dengan H.\n- (3) K ganjil.\n- (4) Jika L < H, maka J = 6.\n- (5) I ≠ 6.\n- Premis tambahan pertanyaan: K = I + 1.\n\nDITANYAKAN:\nPernyataan yang benar pada SEMUA susunan yang memenuhi syarat dan premis tambahan.\n\nJAWAB:\n1. Dari (1), I minimal 3; dari (5), I maksimal 5. Premis K = I + 1 dengan K ganjil berarti I genap, sehingga I = 4 dan K = 5.\n2. G < H < 4, maka (G, H) = (1, 2), (1, 3), atau (2, 3). Dua posisi kosong sisanya (di antara 1–3 dan posisi 6) untuk J dan L.\n3. Kasus H = 2, G = 1: sisa 3 dan 6. J di 3 berdempet H (melanggar 2), jadi J = 6, L = 3. L tidak sebelum H, syarat (4) tidak berlaku. Sah: G H L I K J.\n4. Kasus H = 3, G = 1: sisa 2 dan 6. J di 2 berdempet H, jadi J = 6, L = 2. L sebelum H, syarat (4) menuntut J = 6, terpenuhi. Sah: G L H I K J.\n5. Kasus H = 3, G = 2: sisa 1 dan 6.\n   - J = 1, L = 6: J tidak berdempet H, L tidak sebelum H. Sah: J G H I K L.\n   - L = 1, J = 6: L sebelum H, J = 6 terpenuhi. Sah: L G H I K J.\n6. Tabel susunan sah: G H L I K J | G L H I K J | J G H I K L | L G H I K J.\n7. Pada keempat susunan Irfan selalu di urutan 4, sehingga sesudahnya hanya ada urutan 5 dan 6, yaitu tepat dua laporan.\nJadi, jawaban yang tepat adalah (E) Tepat dua laporan diserahkan sesudah laporan Irfan.\nMengapa opsi lain kurang tepat:\n- (A) Gita tidak selalu paling awal; pada susunan J G H I K L dan L G H I K J, Gita di urutan 2.\n- (B) Joko tidak selalu paling akhir; pada susunan J G H I K L, Joko di urutan 1.\n- (C) Lukman tidak selalu sebelum Irfan; pada susunan J G H I K L, Lukman di urutan 6.\n- (D) Hendra tidak selalu di urutan kedua; pada tiga susunan lainnya Hendra di urutan 3.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-15",
+    "description": "Enam perwira—Gilang, Hana, Indra, Jihan, Kevin, dan Laras—duduk mengelilingi meja bundar dengan enam kursi berjarak sama. Semuanya duduk menghadap ke pusat meja (\"kanan\" seseorang adalah kursi di sisi tangan kanannya saat ia menghadap pusat meja, yaitu kursi berikutnya bila bergerak berlawanan arah jarum jam dilihat dari atas). Diketahui:\n(1) Gilang duduk berhadapan dengan Jihan.\n(2) Hana duduk tepat di sebelah kanan Gilang.\n(3) Kevin tidak duduk bersebelahan dengan Jihan.\n(4) Jika Laras duduk bersebelahan dengan Hana, maka Indra duduk berhadapan dengan Kevin.\nSiapakah yang duduk tepat di sebelah kiri Jihan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Laras",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Indra",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Kevin",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hana",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Gilang",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Enam kursi melingkar berjarak sama; semua menghadap pusat meja.\n- Bagi orang yang menghadap pusat, \"kanan\" adalah kursi berikutnya bila kita bergerak berlawanan arah jarum jam (dilihat dari atas), sedangkan \"kiri\" searah jarum jam.\n- (1) Gilang berhadapan dengan Jihan.\n- (2) Hana tepat di kanan Gilang.\n- (3) Kevin tidak bersebelahan dengan Jihan.\n- (4) Jika Laras bersebelahan dengan Hana, maka Indra berhadapan dengan Kevin.\n\nDITANYAKAN:\nOrang yang duduk tepat di sebelah kiri Jihan.\n\nJAWAB:\n1. Beri nomor kursi 0–5 berurutan ke arah kanan. Karena susunan melingkar boleh diputar, tetapkan Gilang = 0.\n2. Syarat (1): kursi di seberang 0 adalah 3, jadi Jihan = 3. Syarat (2): Hana = 1.\n3. Sisa kursi 2, 4, 5 untuk Indra, Kevin, Laras. Kursi 2 dan 4 bersebelahan dengan Jihan (3), sehingga syarat (3) memaksa Kevin = 5.\n4. Indra dan Laras mengisi kursi 2 dan 4. Uji dengan syarat bersyarat (4):\n   - Laras = 2, Indra = 4: Laras bersebelahan dengan Hana (kursi 1–2), maka Indra harus berhadapan dengan Kevin. Kursi di seberang Kevin (5) adalah 2, bukan 4. Gugur.\n   - Laras = 4, Indra = 2: Laras tidak bersebelahan dengan Hana, syarat (4) tidak berlaku. Sah.\n5. Susunan ke arah kanan: Gilang (0) → Hana (1) → Indra (2) → Jihan (3) → Laras (4) → Kevin (5) → kembali ke Gilang. Pasangan berhadapan: Gilang–Jihan, Hana–Laras, Indra–Kevin.\n6. Kiri Jihan adalah kursi sebelum Jihan dalam urutan ke kanan, yaitu kursi 2 = Indra (cek: Jihan berada tepat di kanan Indra).\nJadi, jawaban yang tepat adalah (B) Indra.\nMengapa opsi lain kurang tepat:\n- (A) Laras duduk tepat di KANAN Jihan (kursi 4); ini jebakan bagi yang membalik arah kanan–kiri.\n- (C) Kevin tidak boleh bersebelahan dengan Jihan (syarat 3); ia di kursi 5.\n- (D) Hana di kursi 1 dan berhadapan dengan Laras, tidak bersebelahan dengan Jihan.\n- (E) Gilang berhadapan dengan Jihan, bukan duduk di sebelahnya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-15",
+    "description": "Gedung Mako tujuh lantai (lantai 1 paling bawah) ditempati tujuh satuan, satu satuan per lantai: Intelkam, Reskrim, Narkoba, Lantas, Samapta, Propam, dan Binmas. Diketahui:\n(1) Reskrim berada lebih tinggi daripada Lantas, tetapi lebih rendah daripada Propam.\n(2) Tepat dua lantai berada di antara Narkoba dan Samapta.\n(3) Intelkam berada tepat di atas Binmas.\n(4) Lantas tidak berada di lantai 1.\n(5) Jika Propam berada di lantai 7, maka Samapta berada di lantai bernomor genap.\n(6) Narkoba berada lebih rendah daripada Binmas.\nManakah pernyataan berikut yang MUNGKIN benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Intelkam berada di lantai 5.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Reskrim berada di lantai 4.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Samapta berada di lantai 7.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Binmas berada di lantai 6.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Narkoba berada di lantai 2.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Lantai 1–7, satu satuan per lantai: Intelkam (Int), Reskrim (Res), Narkoba (Nar), Lantas (Lan), Samapta (Sam), Propam (Pro), Binmas (Bin).\n- (1) Lan < Res < Pro.\n- (2) |Nar − Sam| = 3.\n- (3) Int = Bin + 1.\n- (4) Lan ≠ 1.\n- (5) Jika Pro = 7, maka Sam genap.\n- (6) Nar < Bin.\n\nDITANYAKAN:\nPernyataan yang benar pada setidaknya satu susunan yang sah.\n\nJAWAB:\n1. Siapa di lantai 1? Lantas dilarang (4); Reskrim dan Propam punya satuan di bawahnya (1); Intelkam punya Binmas di bawahnya (3); Binmas punya Narkoba di bawahnya (6). Jadi lantai 1 = Narkoba atau Samapta.\n2. Dari (2), pasangan Nar–Sam menempati lantai 1 dan 4 (urutan belum diketahui).\n3. Sisa lantai 2, 3, 5, 6, 7 untuk rantai Lan < Res < Pro dan blok Bin–Int (berdempet, Int di atas). Blok Bin–Int hanya bisa 2–3, 5–6, atau 6–7:\n   - Bin–Int = 2–3 → Lan, Res, Pro = 5, 6, 7.\n   - Bin–Int = 5–6 → Lan, Res, Pro = 2, 3, 7.\n   - Bin–Int = 6–7 → Lan, Res, Pro = 2, 3, 5.\n4. Syarat (6): bila Bin = 2, Nar harus di lantai 1 (Sam = 4).\n5. Syarat bersyarat (5): bila Pro = 7, Sam wajib genap sehingga Sam = 4 dan Nar = 1.\n6. Tabel susunan sah (lantai 1 → 7):\n   a. Nar, Bin, Int, Sam, Lan, Res, Pro\n   b. Nar, Lan, Res, Sam, Bin, Int, Pro\n   c. Nar, Lan, Res, Sam, Pro, Bin, Int\n   d. Sam, Lan, Res, Nar, Pro, Bin, Int\n   (Susunan Sam, Lan, Res, Nar, Bin, Int, Pro gugur oleh syarat 5 karena Pro = 7 tetapi Sam di lantai 1.)\n7. Binmas di lantai 6 muncul pada susunan c dan d, jadi pernyataan itu mungkin benar.\nJadi, jawaban yang tepat adalah (D) Binmas berada di lantai 6.\nMengapa opsi lain kurang tepat:\n- (A) Intelkam hanya dapat berada di lantai 3, 6, atau 7.\n- (B) Reskrim hanya dapat berada di lantai 3 atau 6.\n- (C) Samapta hanya dapat berada di lantai 1 atau 4.\n- (E) Narkoba hanya dapat berada di lantai 1 atau 4.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-15",
+    "description": "Dalam ruang briefing terdapat dua baris kursi yang saling berhadapan: baris utara (menghadap ke selatan) dan baris selatan (menghadap ke utara). Setiap baris berisi tiga kursi bernomor 1, 2, dan 3 dari barat ke timur, dan kursi bernomor sama pada kedua baris saling berhadapan. Enam anggota—Maya, Nanda, Oki, Putri, Rafi, dan Sari—menempati keenam kursi itu. Diketahui:\n(1) Maya duduk berhadapan dengan Rafi.\n(2) Nanda duduk tepat di sebelah timur Sari pada baris yang sama.\n(3) Oki duduk di baris utara pada salah satu kursi ujung.\n(4) Jika Maya duduk di baris utara, maka Putri duduk di baris selatan.\n(5) Sari tidak duduk berhadapan dengan Oki.\nSiapakah yang duduk berhadapan dengan Nanda?",
+    "image": "",
+    "options": [
+      {
+        "text": "Oki",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Putri",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rafi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Maya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sari",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Baris utara (U) dan baris selatan (S), masing-masing kursi 1–3 dari barat ke timur; kursi bernomor sama saling berhadapan.\n- (1) Maya berhadapan dengan Rafi (satu nomor, beda baris).\n- (2) Nanda tepat di timur Sari pada baris yang sama.\n- (3) Oki di baris utara, kursi 1 atau 3.\n- (4) Jika Maya di baris utara, maka Putri di baris selatan.\n- (5) Sari tidak berhadapan dengan Oki.\n\nDITANYAKAN:\nOrang yang duduk berhadapan dengan Nanda.\n\nJAWAB:\n1. Pasangan Maya–Rafi mengisi satu nomor kursi di dua baris; pasangan Sari–Nanda mengisi dua kursi bersebelahan di satu baris.\n2. Uji Maya di baris utara. Baris utara berisi Maya dan Oki, tinggal satu kursi. Kursi itu tidak boleh Putri (syarat 4) dan tidak bisa diisi Sari atau Nanda sendirian (keduanya harus satu baris). Kontradiksi, jadi Maya di baris selatan dan Rafi di baris utara.\n3. Baris utara kini berisi Rafi dan Oki, tinggal satu kursi, sehingga pasangan Sari–Nanda tidak muat di sana. Maka Sari–Nanda di baris selatan bersama Maya, dan Putri di baris utara.\n4. Baris selatan (barat→timur) hanya dapat berupa Maya–Sari–Nanda atau Sari–Nanda–Maya.\n5. Uji tiap kemungkinan:\n   - Maya = S1: Rafi = U1, Oki di ujung lain = U3, Putri = U2. Sari (S2) berhadapan dengan Putri, bukan Oki. Sah.\n   - Maya = S3: Rafi = U3, Oki = U1, Putri = U2. Sari (S1) berhadapan dengan Oki, melanggar syarat (5). Gugur.\n6. Denah tunggal:\n   Utara (barat→timur): Rafi | Putri | Oki\n   Selatan (barat→timur): Maya | Sari | Nanda\n7. Nanda di S3 berhadapan dengan U3, yaitu Oki.\nJadi, jawaban yang tepat adalah (A) Oki.\nMengapa opsi lain kurang tepat:\n- (B) Putri (U2) berhadapan dengan Sari.\n- (C) Rafi (U1) berhadapan dengan Maya sesuai syarat (1).\n- (D) Maya satu baris dengan Nanda, tidak berhadapan.\n- (E) Sari duduk tepat di sebelah barat Nanda pada baris yang sama.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-16",
+    "description": "Enam anggota—Agni, Bram, Citra, Dewo, Esti, dan Fuad—mendapat jadwal piket Senin sampai Sabtu, masing-masing tepat satu hari dan tidak ada hari yang kosong. Diketahui:\n(1) Bram piket setelah Citra dengan tepat satu hari di antara keduanya.\n(2) Dewo piket lebih awal daripada Agni.\n(3) Esti tidak piket pada hari Senin maupun Sabtu.\n(4) Jika Fuad piket hari Rabu, maka Agni piket hari Sabtu.\n(5) Citra dan Esti tidak piket pada dua hari yang berurutan.\nJika Fuad piket hari Rabu, siapakah yang piket hari Senin?",
+    "image": "",
+    "options": [
+      {
+        "text": "Citra",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Esti",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Dewo",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Agni",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bram",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Hari: Senin (1), Selasa (2), Rabu (3), Kamis (4), Jumat (5), Sabtu (6); satu orang per hari.\n- (1) Bram = Citra + 2.\n- (2) Dewo < Agni.\n- (3) Esti ≠ Senin dan ≠ Sabtu.\n- (4) Jika Fuad = Rabu, maka Agni = Sabtu.\n- (5) Citra dan Esti tidak berurutan.\n- Premis pertanyaan: Fuad = Rabu.\n\nDITANYAKAN:\nAnggota yang piket hari Senin.\n\nJAWAB:\n1. Premis Fuad = Rabu memicu syarat (4): Agni = Sabtu.\n2. Syarat (1) memberi pilihan (Citra, Bram) = (Sen, Rab), (Sel, Kam), (Rab, Jum), atau (Kam, Sab). Pilihan pertama dan ketiga bentrok dengan Fuad (Rabu), pilihan keempat bentrok dengan Agni (Sabtu). Jadi Citra = Selasa, Bram = Kamis.\n3. Hari tersisa: Senin dan Jumat untuk Dewo dan Esti. Esti dilarang Senin (syarat 3), maka Esti = Jumat dan Dewo = Senin.\n4. Uji syarat lain: Dewo (Senin) lebih awal daripada Agni (Sabtu); Citra (Selasa) dan Esti (Jumat) tidak berurutan. Semua terpenuhi.\n5. Tabel jadwal: Senin Dewo | Selasa Citra | Rabu Fuad | Kamis Bram | Jumat Esti | Sabtu Agni.\nJadi, jawaban yang tepat adalah (C) Dewo.\nMengapa opsi lain kurang tepat:\n- (A) Citra piket Selasa; jika Citra Senin, Bram harus Rabu yang sudah milik Fuad.\n- (B) Esti dilarang piket Senin (syarat 3).\n- (D) Agni wajib piket Sabtu karena Fuad piket Rabu (syarat 4).\n- (E) Bram piket Kamis, tepat dua hari setelah Citra.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-16",
+    "description": "Tujuh personel—Arman, Bunga, Candra, Dinda, Erlan, Febri, dan Galuh—dibagi ke dalam dua tim: Tim Alfa beranggotakan tepat 3 orang dan Tim Bravo tepat 4 orang. Diketahui:\n(1) Arman dan Bunga tidak berada dalam tim yang sama.\n(2) Jika Candra masuk Tim Alfa, maka Dinda juga masuk Tim Alfa.\n(3) Erlan dan Febri selalu berada dalam tim yang sama.\n(4) Galuh masuk Tim Bravo.\n(5) Jika Arman masuk Tim Bravo, maka Erlan masuk Tim Alfa.\nManakah pernyataan berikut yang PASTI benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Erlan masuk Tim Alfa.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Arman masuk Tim Alfa.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Candra masuk Tim Bravo.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bunga dan Galuh berada dalam tim yang sama.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Candra dan Dinda berada dalam tim yang sama.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tim Alfa 3 orang, Tim Bravo 4 orang.\n- (1) Arman dan Bunga berbeda tim.\n- (2) Candra di Alfa → Dinda di Alfa.\n- (3) Erlan dan Febri selalu satu tim.\n- (4) Galuh di Bravo.\n- (5) Arman di Bravo → Erlan di Alfa.\n\nDITANYAKAN:\nPernyataan yang benar pada semua pembagian tim yang sah.\n\nJAWAB:\n1. Fokus pada Tim Alfa (3 kursi). Dari (1), tepat satu dari Arman/Bunga duduk di Alfa, sehingga tersisa 2 kursi Alfa untuk Candra, Dinda, Erlan, Febri (Galuh di Bravo).\n2. Pasangan 2 orang yang mungkin untuk 2 kursi itu:\n   - Erlan + Febri: sah (syarat 3 terpenuhi).\n   - Candra + Dinda: sah (syarat 2 terpenuhi).\n   - Candra + Erlan/Febri: melanggar (2) atau (3).\n   - Dinda + Erlan atau Dinda + Febri: memecah Erlan–Febri, melanggar (3).\n3. Gabungkan dengan syarat bersyarat (5):\n   - Arman di Alfa: {Arman, Candra, Dinda} atau {Arman, Erlan, Febri}; keduanya sah.\n   - Bunga di Alfa (Arman di Bravo): Erlan wajib di Alfa, sehingga hanya {Bunga, Erlan, Febri}.\n4. Tabel pembagian Tim Alfa yang sah:\n   (i) Arman, Candra, Dinda\n   (ii) Arman, Erlan, Febri\n   (iii) Bunga, Erlan, Febri\n5. Candra dan Dinda: pada (i) keduanya di Alfa, pada (ii) dan (iii) keduanya di Bravo. Mereka selalu satu tim.\nJadi, jawaban yang tepat adalah (E) Candra dan Dinda berada dalam tim yang sama.\nMengapa opsi lain kurang tepat:\n- (A) Pada pembagian (i), Erlan berada di Tim Bravo.\n- (B) Pada pembagian (iii), Arman berada di Tim Bravo.\n- (C) Pada pembagian (i), Candra berada di Tim Alfa.\n- (D) Pada pembagian (iii), Bunga di Alfa sedangkan Galuh di Bravo.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-16",
+    "description": "Enam penyidik—Hari, Irma, Juna, Kemal, Lia, dan Mursid—dibagi ke dalam tiga shift jaga, yaitu pagi, siang, dan malam (berurutan dalam sehari), masing-masing tepat dua orang. Diketahui:\n(1) Hari dan Irma tidak bertugas pada shift yang sama.\n(2) Juna tidak bertugas pada shift siang.\n(3) Jika Kemal bertugas pada shift pagi, maka Lia bertugas pada shift malam.\n(4) Mursid bertugas satu shift dengan Hari atau dengan Irma.\n(5) Lia bertugas pada shift yang lebih awal daripada shift Juna.\nManakah pernyataan berikut yang TIDAK MUNGKIN benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Kemal dan Lia bertugas pada shift yang sama.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Kemal bertugas pada shift pagi.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Hari dan Juna bertugas pada shift yang sama.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Mursid bertugas pada shift siang.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Irma bertugas pada shift malam.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Shift pagi, siang, malam; tiap shift tepat 2 orang.\n- (1) Hari ≠ Irma (beda shift).\n- (2) Juna bukan siang.\n- (3) Kemal pagi → Lia malam.\n- (4) Mursid satu shift dengan Hari atau Irma.\n- (5) Shift Lia lebih awal daripada shift Juna.\n\nDITANYAKAN:\nPernyataan yang tidak dapat benar pada pembagian mana pun yang sah.\n\nJAWAB:\n1. Juna bukan siang (2). Dari (5) Juna juga bukan pagi, karena tidak ada shift yang lebih awal dari pagi untuk Lia. Jadi Juna = malam, dan Lia = pagi atau siang.\n2. Uji \"Kemal pagi\": syarat (3) memaksa Lia = malam. Padahal Lia harus lebih awal daripada Juna yang bertugas malam, dan tidak ada shift sesudah malam. Kontradiksi, sehingga Kemal tidak pernah bertugas pagi (penalaran modus tollens: konsekuen mustahil, maka anteseden salah).\n3. Pastikan opsi lain bisa terjadi dengan contoh pembagian sah:\n   a. Pagi: Irma, Mursid | Siang: Kemal, Lia | Malam: Hari, Juna\n   b. Pagi: Hari, Mursid | Siang: Kemal, Lia | Malam: Irma, Juna\n   c. Pagi: Hari, Lia | Siang: Irma, Mursid | Malam: Juna, Kemal\n   Cek tiap contoh: Hari dan Irma beda shift, Juna malam, Kemal tidak pagi, Mursid bersama Hari atau Irma, Lia lebih awal daripada Juna. Semua terpenuhi.\nJadi, jawaban yang tepat adalah (B) Kemal bertugas pada shift pagi.\nMengapa opsi lain kurang tepat:\n- (A) Kemal dan Lia satu shift (siang) terjadi pada contoh a dan b.\n- (C) Hari dan Juna satu shift (malam) terjadi pada contoh a.\n- (D) Mursid bertugas siang terjadi pada contoh c.\n- (E) Irma bertugas malam terjadi pada contoh b.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-17",
+    "description": "Bripda Nadia hanya mempunyai satu kakak perempuan, dan kakaknya itu sudah menikah. Sambil menunjuk seorang laki-laki dalam foto keluarga, Nadia berkata, \"Laki-laki ini adalah suami dari satu-satunya menantu perempuan ayah mertua kakak perempuan saya.\"\nBagi Nadia, laki-laki dalam foto itu adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "ayah mertua kakak perempuannya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "saudara laki-laki dari suami kakak perempuannya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "sepupunya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kakak iparnya, yaitu suami kakak perempuannya",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "kakak laki-lakinya",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Nadia (perempuan) hanya punya satu kakak perempuan, sebut K, dan K sudah menikah.\n- Pernyataan: laki-laki itu = suami dari satu-satunya menantu perempuan ayah mertua K.\n\nDITANYAKAN:\nHubungan laki-laki dalam foto dengan Nadia.\n\nJAWAB:\nUrai rantai dari bagian terdalam, satu langkah demi satu langkah.\n1. \"Kakak perempuan saya\" = K.\n2. \"Ayah mertua K\" = ayah dari suami K. Sebut beliau Pak X.\n3. \"Menantu perempuan Pak X\" = istri dari anak laki-laki Pak X. Karena K adalah istri anak laki-laki Pak X, K sendiri sudah termasuk menantu perempuan Pak X.\n4. Kata kunci \"satu-satunya\": Pak X hanya punya satu menantu perempuan. Karena K pasti menantu perempuannya, menantu perempuan yang dimaksud adalah K sendiri.\n5. \"Suami dari menantu itu\" = suami K.\n6. Suami dari kakak perempuan seseorang disebut kakak ipar.\nTabel bantu rantai:\n   kakak perempuan Nadia (K) → ayah mertua K (Pak X) → satu-satunya menantu perempuan Pak X (= K) → suami K → kakak ipar Nadia.\nJadi, jawaban yang tepat adalah (D) kakak iparnya, yaitu suami kakak perempuannya.\nMengapa opsi lain kurang tepat:\n- (A) Ayah mertua K adalah Pak X sendiri, sedangkan yang ditunjuk adalah suami menantu Pak X.\n- (B) Jebakan utama: mengira menantu perempuan itu istri saudara laki-laki suami K. Karena menantu perempuan Pak X hanya satu dan K sudah menantunya, tidak ada istri lain yang dimaksud.\n- (C) Sepupu adalah anak dari saudara ayah atau ibu; rantai ini tidak melibatkan saudara orang tua Nadia.\n- (E) Laki-laki itu suami kakak Nadia, bukan saudara kandung Nadia.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-17",
+    "description": "Tujuh orang hadir dalam syukuran sebuah keluarga tiga generasi: Arif, Bagus, dan Candra (laki-laki), serta Desi, Erna, Fitri, dan Gita (perempuan). Keluarga itu terdiri atas sepasang suami-istri generasi pertama; dua anak kandung mereka; pasangan dari salah satu anak tersebut (anak yang lain belum menikah); dan dua anak dari pasangan yang sudah menikah itu. Diketahui:\n(1) Desi tidak memiliki hubungan darah dengan Fitri.\n(2) Fitri adalah bibi Candra.\n(3) Jika Arif adalah kakek dalam keluarga ini, maka Gita adalah menantu dalam keluarga ini.\nManakah pernyataan berikut yang PASTI benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Arif adalah ayah Candra.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Gita adalah cucu Bagus.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Erna adalah istri Bagus.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Fitri adalah kakak ipar Arif.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Desi adalah anak kandung Bagus.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Laki-laki: Arif, Bagus, Candra. Perempuan: Desi, Erna, Fitri, Gita.\n- Peran (tabel bantu): Kakek (L), Nenek (P), Anak-1 (sudah menikah), Menantu (pasangan Anak-1), Anak-2 (belum menikah), Cucu-1, Cucu-2 (anak Anak-1 dan Menantu).\n- (1) Desi tidak sedarah dengan Fitri.\n- (2) Fitri adalah bibi Candra.\n- (3) Jika Arif kakek, maka Gita menantu.\n\nDITANYAKAN:\nPernyataan yang benar pada semua kemungkinan penempatan peran.\n\nJAWAB:\n1. Syarat (2): dalam susunan ini, satu-satunya bibi bagi seorang cucu adalah saudara perempuan orang tuanya, yaitu Anak-2. Jadi Fitri = Anak-2 dan Candra = salah satu cucu.\n2. Syarat (1): yang sedarah dengan Fitri (Anak-2) adalah kakek, nenek, saudaranya (Anak-1), dan keponakannya (cucu). Satu-satunya peran yang tidak sedarah dengan Fitri adalah Menantu. Jadi Desi = Menantu. Karena Desi perempuan, Anak-1 adalah laki-laki.\n3. Laki-laki yang tersisa, Arif dan Bagus, mengisi peran Kakek dan Anak-1.\n4. Syarat bersyarat (3): jika Arif kakek, Gita harus menantu, padahal menantu sudah Desi. Konsekuen mustahil, maka Arif bukan kakek. Jadi Arif = Anak-1 (suami Desi) dan Bagus = Kakek.\n5. Erna dan Gita mengisi Nenek dan Cucu-2; tidak ada syarat yang menentukan urutannya:\n   a. Nenek = Erna, cucu = Gita.\n   b. Nenek = Gita, cucu = Erna.\n6. Pada kedua kemungkinan, Arif (Anak-1) adalah ayah dari kedua cucu, termasuk Candra.\nJadi, jawaban yang tepat adalah (A) Arif adalah ayah Candra.\nMengapa opsi lain kurang tepat:\n- (B) Gita cucu Bagus hanya berlaku pada kemungkinan a; pada kemungkinan b Gita adalah istri Bagus.\n- (C) Erna istri Bagus hanya berlaku pada kemungkinan a.\n- (D) Fitri adalah saudara kandung Arif (sama-sama anak Bagus), bukan iparnya; ipar Fitri adalah Desi.\n- (E) Desi adalah menantu Bagus, bukan anak kandungnya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-18",
+    "description": "Lima anggota—Ardi, Bima, Cahya, Dani, dan Eko—masing-masing memakai satu loker dari lima loker berjajar bernomor 1 sampai 5 (dari kiri ke kanan). Setiap loker berisi tepat satu perlengkapan berbeda: senter, radio, borgol, rompi, atau helm. Diketahui:\n(1) Ardi memakai loker 3, sedangkan Dani memakai salah satu loker ujung yang tidak berisi senter.\n(2) Eko memakai loker bernomor genap, dan nomor loker Bima lebih kecil daripada nomor loker Cahya.\n(3) Radio disimpan di loker yang bersebelahan dengan loker Ardi, tetapi radio bukan milik Cahya.\n(4) Nomor loker borgol lebih besar daripada nomor loker radio, tetapi lebih kecil daripada nomor loker rompi.\n(5) Helm disimpan di salah satu loker ujung, sedangkan senter disimpan tepat di sebelah loker radio.\n(6) Jika Ardi tidak menyimpan borgol, maka Cahya menyimpan helm.\nPerlengkapan yang disimpan Cahya dan pemilik loker berisi helm berturut-turut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "helm; Cahya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "rompi; Bima",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "borgol; Dani",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "senter; Eko",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "rompi; Dani",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Loker 1–5; orang: Ardi, Bima, Cahya, Dani, Eko; barang: senter, radio, borgol, rompi, helm.\n- (1) Ardi = 3; Dani di loker 1 atau 5 dan lokernya bukan senter.\n- (2) Eko di loker genap; Bima < Cahya.\n- (3) Radio bersebelahan dengan loker Ardi; radio bukan milik Cahya.\n- (4) radio < borgol < rompi.\n- (5) Helm di loker 1 atau 5; senter tepat di sebelah radio.\n- (6) Jika Ardi tidak menyimpan borgol, maka Cahya menyimpan helm.\n\nDITANYAKAN:\nBarang milik Cahya dan pemilik helm.\n\nJAWAB:\n1. Pilih syarat paling mengikat sebagai titik awal, yaitu (3) dan (4). Radio bersebelahan dengan loker 3, jadi radio di loker 2 atau 4. Jika radio di 4, borgol dan rompi harus di loker 5 dan 6 (tidak ada). Jadi radio = loker 2.\n2. Dari (4): borgol di loker 3 atau 4, rompi di loker 4 atau 5. Dari (5): senter di loker 1 atau 3 (sebelah radio) dan helm di loker 1 atau 5. Tabel kemungkinan isi loker:\n   Pola X: 1 senter | 2 radio | 3 borgol | 4 rompi | 5 helm\n   Pola Y: 1 helm | 2 radio | 3 senter | 4 borgol | 5 rompi\n   (Borgol 3 dengan rompi 5 membuat senter jatuh di loker 4, tidak bersebelahan dengan radio, sehingga gugur.)\n3. Uji pola Y dengan syarat bersyarat (6): Ardi (loker 3) menyimpan senter, bukan borgol, sehingga Cahya wajib menyimpan helm di loker 1. Tetapi dari (2) Bima < Cahya, jadi Cahya tidak mungkin di loker 1. Pola Y gugur; berlaku pola X.\n4. Penempatan orang pada pola X: Ardi = 3. Dani di ujung yang bukan senter; loker 1 berisi senter, jadi Dani = 5. Eko di loker 2 atau 4.\n   - Eko = 4: Bima dan Cahya di loker 1 dan 2 dengan Bima < Cahya, sehingga Cahya = 2 memegang radio, melanggar (3). Gugur.\n   - Eko = 2: Bima = 1, Cahya = 4. Sah.\n5. Tabel akhir:\n   Loker 1: Bima – senter\n   Loker 2: Eko – radio\n   Loker 3: Ardi – borgol\n   Loker 4: Cahya – rompi\n   Loker 5: Dani – helm\n6. Cahya menyimpan rompi, dan helm berada di loker milik Dani.\nJadi, jawaban yang tepat adalah (E) rompi; Dani.\nMengapa opsi lain kurang tepat:\n- (A) Cahya menyimpan helm hanya terjadi pada pola Y yang sudah gugur.\n- (B) Barang Cahya benar (rompi), tetapi Bima menyimpan senter, bukan helm.\n- (C) Pemilik helm benar (Dani), tetapi borgol disimpan Ardi, bukan Cahya.\n- (D) Senter milik Bima dan Eko menyimpan radio; keduanya tidak sesuai.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-18",
+    "description": "Enam calon anggota tim khusus—Pandu, Qomar, Rizal, Satria, Tegar, dan Umar—masing-masing menguasai tepat dua dari empat keahlian: menembak, bahasa asing, komputer, dan bela diri. Diketahui:\n(1) Tidak ada dua calon yang memiliki pasangan keahlian yang persis sama.\n(2) Pandu dan Qomar sama-sama menguasai menembak.\n(3) Rizal menguasai bahasa asing, tetapi tidak menguasai komputer maupun menembak.\n(4) Satria tidak memiliki satu pun keahlian yang sama dengan Pandu.\n(5) Qomar dan Umar sama-sama menguasai komputer.\n(6) Jika Satria menguasai bahasa asing, maka Tegar tidak menguasai menembak.\nPasangan keahlian yang dimiliki Tegar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "bahasa asing dan komputer",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "menembak dan bahasa asing",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "menembak dan bela diri",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "komputer dan bela diri",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "bahasa asing dan bela diri",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Singkatan keahlian: M = menembak, B = bahasa asing, K = komputer, D = bela diri.\n- Tiap calon menguasai tepat dua keahlian.\n- (1) Semua pasangan keahlian berbeda.\n- (2) Pandu dan Qomar punya M.\n- (3) Rizal punya B, tanpa K dan M.\n- (4) Satria tidak berbagi keahlian dengan Pandu.\n- (5) Qomar dan Umar punya K.\n- (6) Jika Satria punya B, maka Tegar tidak punya M.\n\nDITANYAKAN:\nPasangan keahlian Tegar.\n\nJAWAB:\n1. Syarat kunci (1): dari 4 keahlian hanya ada 6 pasangan berbeda, yaitu MB, MK, MD, BK, BD, KD. Karena ada 6 calon dan semuanya berbeda, setiap pasangan dipakai tepat satu kali.\n2. Dari (2) dan (5), Qomar punya M dan K, jadi Qomar = MK.\n3. Dari (3), Rizal punya B tanpa K dan M, jadi Rizal = BD.\n4. Dari (2), Pandu punya M dan tidak boleh MK (milik Qomar), jadi Pandu = MB atau MD.\n5. Dari (4), Satria adalah \"kebalikan\" Pandu: Pandu MB → Satria KD; Pandu MD → Satria BK.\n6. Sisa dua pasangan dibagi untuk Tegar dan Umar, dengan Umar wajib punya K (syarat 5):\n   - Kasus 1: Pandu MB, Satria KD. Sisa MD dan BK, sehingga Umar = BK dan Tegar = MD. Satria tidak punya B, jadi syarat (6) tidak berlaku. Sah.\n   - Kasus 2: Pandu MD, Satria BK. Sisa MB dan KD, sehingga Umar = KD dan Tegar = MB. Satria punya B, maka Tegar dilarang punya M, padahal MB memuat M. Gugur.\n7. Tabel akhir: Pandu MB | Qomar MK | Rizal BD | Satria KD | Tegar MD | Umar BK.\nJadi, jawaban yang tepat adalah (C) menembak dan bela diri.\nMengapa opsi lain kurang tepat:\n- (A) Bahasa asing dan komputer (BK) adalah milik Umar.\n- (B) Menembak dan bahasa asing (MB) milik Pandu; Tegar = MB hanya muncul pada kasus 2 yang gugur oleh syarat (6).\n- (D) Komputer dan bela diri (KD) milik Satria.\n- (E) Bahasa asing dan bela diri (BD) milik Rizal.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-20",
+    "description": "Dalam latihan komunikasi rahasia, setiap kata disandikan dengan aturan yang sama. Contoh:\nPATROLI → QCWVTRP\nRAZIA → SCCMF\nDengan aturan yang sama, kata SATWA disandikan menjadi ....",
+    "image": "",
+    "options": [
+      {
+        "text": "TCWBF",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "TCWAF",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "TBUXB",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "XEWYB",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "UCVYC",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- PATROLI → QCWVTRP.\n- RAZIA → SCCMF.\n- Nomor urut abjad: A = 1, B = 2, …, Z = 26.\n\nDITANYAKAN:\nSandi untuk kata SATWA.\n\nJAWAB:\n1. Bandingkan huruf asli dan sandinya pada PATROLI:\n   P(16) → Q(17): maju 1\n   A(1) → C(3): maju 2\n   T(20) → W(23): maju 3\n   R(18) → V(22): maju 4\n   O(15) → T(20): maju 5\n   L(12) → R(18): maju 6\n   I(9) → P(16): maju 7\n   Pola: huruf ke-n digeser maju sebanyak n langkah.\n2. Uji pada RAZIA: R+1 = S, A+2 = C, Z+3 → setelah Z kembali ke A, jadi Z → A → B → C = C, I+4 = M, A+5 = F. Hasil SCCMF, cocok. Contoh kedua menegaskan bahwa hitungan berputar ke A setelah Z.\n3. Terapkan pada SATWA:\n   S(19) + 1 = 20 → T\n   A(1) + 2 = 3 → C\n   T(20) + 3 = 23 → W\n   W(23) + 4 = 27 → 27 − 26 = 1 → A\n   A(1) + 5 = 6 → F\n   Hasil: TCWAF.\nJadi, jawaban yang tepat adalah (B) TCWAF.\nMengapa opsi lain kurang tepat:\n- (A) TCWBF salah menghitung putaran pada W+4 (dihitung X, Y, Z, lalu B), padahal setelah Z langsung A.\n- (C) TBUXB menggeser semua huruf maju 1 secara tetap; pola ini tidak cocok dengan contoh.\n- (D) XEWYB menghitung geseran dari huruf terakhir (huruf pertama +5), terbalik dari pola contoh.\n- (E) UCVYC menggeser semua huruf maju 2 secara tetap.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-20",
+    "description": "Dalam sebuah bahasa sandi buatan berlaku pola yang tetap. Diketahui terjemahan berikut:\n• \"suda kelo baran\" berarti \"petugas memeriksa dokumen\"\n• \"tiwa kelo moren\" berarti \"warga memeriksa kendaraan\"\n• \"baranni pasu moren\" berarti \"warga membantu para petugas\"\n• \"tiwani kelo baranni\" berarti \"para petugas memeriksa kendaraan-kendaraan\"\nDalam bahasa tersebut, kalimat \"para warga membantu petugas\" ditulis ....",
+    "image": "",
+    "options": [
+      {
+        "text": "morenni pasu baran",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "baranni pasu moren",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "baran kelo morenni",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "baran pasu morenni",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "morenni baran pasu",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- (i) suda kelo baran = petugas memeriksa dokumen\n- (ii) tiwa kelo moren = warga memeriksa kendaraan\n- (iii) baranni pasu moren = warga membantu para petugas\n- (iv) tiwani kelo baranni = para petugas memeriksa kendaraan-kendaraan\n\nDITANYAKAN:\nTerjemahan \"para warga membantu petugas\".\n\nJAWAB:\n1. Kalimat (i), (ii), dan (iv) sama-sama memuat \"kelo\" dan sama-sama bermakna \"memeriksa\", jadi kelo = memeriksa (selalu di tengah).\n2. \"baran\" muncul di (i), dan \"baranni\" di (iii) dan (iv); kata yang sama-sama muncul di ketiga makna itu adalah \"petugas\". Jadi baran = petugas.\n3. Pada (i), petugas adalah pelaku (subjek) tetapi \"baran\" berada di AKHIR kalimat. Maka urutan bahasa ini: Objek – Predikat – Subjek. Dengan pola itu, suda = dokumen.\n4. Pada (ii): tiwa (awal, objek) = kendaraan; moren (akhir, subjek) = warga.\n5. Pada (iii): moren (subjek) = warga, pasu (predikat) = membantu, baranni (objek) = para petugas. Bandingkan baran dan baranni: akhiran -ni menandai jamak.\n6. Uji pada (iv): tiwani (objek) = kendaraan-kendaraan, kelo = memeriksa, baranni (subjek) = para petugas. Cocok.\n7. Tabel kamus: baran = petugas; moren = warga; suda = dokumen; tiwa = kendaraan; kelo = memeriksa; pasu = membantu; -ni = jamak; pola O – P – S.\n8. Susun \"para warga membantu petugas\": Objek = petugas → baran; Predikat = membantu → pasu; Subjek = para warga → morenni. Hasil: baran pasu morenni.\nJadi, jawaban yang tepat adalah (D) baran pasu morenni.\nMengapa opsi lain kurang tepat:\n- (A) morenni pasu baran memakai urutan S – P – O seperti bahasa Indonesia; dalam bahasa ini artinya \"petugas membantu para warga\".\n- (B) baranni pasu moren adalah kalimat contoh (iii), yaitu \"warga membantu para petugas\"; penanda jamak melekat pada pihak yang salah.\n- (C) baran kelo morenni memakai kelo (memeriksa), bukan pasu (membantu).\n- (E) morenni baran pasu memakai urutan S – O – P yang tidak pernah muncul dalam contoh.",
+    "difficulty": "sulit"
+  }
+]

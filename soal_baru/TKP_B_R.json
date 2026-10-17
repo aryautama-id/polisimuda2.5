@@ -1,0 +1,580 @@
+[
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Anda bertugas di pos pengamanan terpadu saat libur panjang. Seorang petugas Dinas Perhubungan yang semestinya mengatur simpang bersama Anda sering meninggalkan titik untuk beristirahat lama. Akibatnya Anda mengatur simpang padat itu seorang diri, dan antrean kendaraan beberapa kali mengular. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengajak koordinator Dinas Perhubungan di pos menyusun giliran jaga dan istirahat bersama, lalu melaporkan kesepakatan itu kepada Kapos.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Melaporkan kepada Kapos agar ia menyampaikan teguran kepada pimpinan Dinas Perhubungan.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Tetap mengatur simpang sendirian tanpa membicarakannya agar arus lalu lintas tidak terganggu.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menyampaikan langsung kepada petugas itu bahwa simpang padat membutuhkan dua petugas, lalu memintanya segera kembali ke titik setiap kali ia pergi.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Membiarkannya karena petugas tersebut berada di bawah instansi lain, sehingga mengatur kehadirannya bukan wewenang Anda dan dapat menyinggung instansinya.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pos pengamanan terpadu melibatkan Polri dan Dinas Perhubungan.\n- Petugas Dinas Perhubungan sering meninggalkan titik simpang.\n- Anda mengatur simpang seorang diri dan antrean beberapa kali mengular.\n\nDITANYAKAN:\nSikap terbaik ketika mitra instansi lain tidak menjalankan bagiannya dalam tugas bersama.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama lintas instansi (KPR-08), ketahanan kerja (SKR-03), dan kepercayaan diri (KPR-04) dalam berkoordinasi dengan mitra.\n2. Prinsip acuan: sinergi antarinstansi dalam pos terpadu: pembagian tugas disepakati bersama dan diketahui Kapos, tanpa saling menyalahkan.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (A) — 5 poin: masalah diselesaikan pada tingkat koordinasi, tidak menyudutkan petugas tertentu, dan diketahui pimpinan pos.\n   (D) — 4 poin: langsung dan jelas, tetapi bersifat sesaat dan berpotensi menimbulkan gesekan personal.\n   (B) — 3 poin: melalui jalur atasan, tetapi berupa pengaduan dan berisiko memperburuk hubungan antarinstansi.\n   (C) — 2 poin: tahan bekerja, tetapi pasif; beban tidak seimbang terus berulang.\n   (E) — 1 poin: menghindar dengan alasan kewenangan; koordinasi yang menjadi inti pos terpadu diabaikan.\nJadi, jawaban yang tepat adalah (A) Mengajak koordinator Dinas Perhubungan di pos menyusun giliran jaga dan istirahat bersama, lalu melaporkan kesepakatan itu kepada Kapos.\nMengapa opsi lain kurang tepat:\n- (B) — 3 poin: berupa pengaduan; hubungan antarinstansi bisa memburuk.\n- (C) — 2 poin: tahan, tetapi tidak menyelesaikan masalah.\n- (D) — 4 poin: langsung, tetapi sesaat dan rawan gesekan personal.\n- (E) — 1 poin: menghindar dengan alasan kewenangan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Selesai razia malam, seorang senior meminta Anda menyimpan beberapa ponsel hasil sitaan di laci mejanya. \"Petugas penyimpanan sudah pulang, besok saja dicatat,\" katanya. Ponsel itu belum tercatat dalam buku register dan belum dibuatkan berita acara. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menolak menyimpan ponsel itu dan meminta senior menyimpannya sendiri bila tetap ingin di laci mejanya.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Mencatat sendiri ponsel tersebut dan menyimpannya di ruang piket yang terkunci, lalu memberi tahu senior bahwa barang akan diserahkan ke gudang besok pagi.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menyerahkan ponsel kepada senior sesuai permintaannya, tetapi mencatat jenis dan jumlahnya di buku saku Anda sebagai pegangan.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menyimpan ponsel di laci senior karena ia lebih senior dan bertanggung jawab atas pelaksanaan razia itu.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mengusulkan agar ponsel dicatat malam itu juga dan dititipkan di tempat resmi melalui piket jaga, lalu membantu senior menyelesaikan pencatatannya.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Ponsel hasil razia belum tercatat dalam register dan belum dibuatkan berita acara.\n- Senior meminta barang disimpan di laci mejanya dan dicatat esok hari.\n- Petugas penyimpanan sudah pulang.\n\nDITANYAKAN:\nSikap terbaik ketika senior meminta pengelolaan barang sitaan di luar prosedur.\n\nJAWAB:\n1. Dimensi yang diukur: loyalitas (KPR-07) kepada prosedur pengelolaan barang sitaan, bukan kepada kebiasaan oknum; kerja sama (KPR-08) dengan senior; kepercayaan diri (KPR-04).\n2. Prinsip acuan: Kode Etik Profesi Polri (etika kelembagaan dan etika kepribadian): barang sitaan wajib dicatat dan disimpan di tempat resmi agar terjaga keutuhan dan akuntabilitasnya.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (E) — 5 poin: prosedur terpenuhi, senior dibantu, dan keutuhan barang sitaan terjamin sejak malam itu.\n   (B) — 4 poin: akuntabel, tetapi bertindak sendiri tanpa kesepakatan dengan senior sehingga berpotensi menimbulkan ketegangan.\n   (C) — 3 poin: ada catatan pribadi, tetapi barang tetap disimpan di luar tempat resmi.\n   (A) — 2 poin: Anda tidak terlibat, tetapi membiarkan pelanggaran tetap terjadi tanpa catatan apa pun.\n   (D) — 1 poin: loyal buta kepada senior; barang sitaan rawan hilang atau disalahgunakan.\nJadi, jawaban yang tepat adalah (E) Mengusulkan agar ponsel dicatat malam itu juga dan dititipkan di tempat resmi melalui piket jaga, lalu membantu senior menyelesaikan pencatatannya.\nMengapa opsi lain kurang tepat:\n- (A) — 2 poin: cuci tangan; pelanggaran dibiarkan.\n- (B) — 4 poin: akuntabel, tetapi tanpa kesepakatan dengan senior.\n- (C) — 3 poin: barang tetap di luar tempat resmi.\n- (D) — 1 poin: loyal kepada oknum; akuntabilitas barang sitaan hilang.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Anda sedang menelusuri peredaran minuman keras oplosan yang sudah memakan korban di wilayah Anda. Seorang tokoh pemuda yang berpengaruh bersedia memberikan informasi penting, tetapi meminta agar kelak kelompoknya \"diprioritaskan\" mendapat bantuan dan kegiatan dari Polsek sebagai balas jasa. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menerima informasinya dan tidak membahas soal imbalan sampai ia menagihnya nanti.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menolak syarat imbalan dengan santun, lalu mencari sumber informasi lain dari warga dan tokoh agama setempat.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Berterima kasih atas kesediaannya, menjelaskan bahwa kemitraan kamtibmas tanpa janji imbalan, dan mengajaknya bergabung dalam forum kemitraan resmi.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Melaporkan permintaan itu kepada Kanit dan menunggu arahan sebelum berhubungan lagi dengannya.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menyanggupi permintaannya untuk diupayakan kelak, karena informasi itu sangat dibutuhkan segera untuk mencegah jatuhnya korban berikutnya di wilayah Anda.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Peredaran minuman keras oplosan sudah memakan korban.\n- Tokoh pemuda berpengaruh bersedia memberi informasi.\n- Ia meminta kelompoknya diprioritaskan mendapat bantuan sebagai balas jasa.\n\nDITANYAKAN:\nSikap terbaik membangun jejaring dengan tokoh masyarakat yang mengajukan syarat imbalan.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama dan jejaring (KPR-08), loyalitas kepada aturan dan netralitas institusi (KPR-07), serta kepercayaan diri (KPR-04) menetapkan batas dengan santun.\n2. Prinsip acuan: Polmas: kemitraan dengan masyarakat dibangun atas dasar kesukarelaan dan kepentingan bersama, tanpa janji imbalan pribadi atau perlakuan istimewa.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (C) — 5 poin: jejaring tetap terbangun, batas integritas jelas, dan keterlibatannya diarahkan ke saluran yang sah.\n   (B) — 4 poin: integritas terjaga, tetapi peluang menjadikan tokoh berpengaruh itu mitra dilepas begitu saja.\n   (D) — 3 poin: aman, tetapi menunda penanganan kasus yang sudah memakan korban.\n   (A) — 2 poin: membiarkan harapan imbalan menggantung; menimbulkan masalah kepercayaan di kemudian hari.\n   (E) — 1 poin: tujuan baik dipakai untuk membenarkan janji perlakuan istimewa; netralitas institusi dikorbankan.\nJadi, jawaban yang tepat adalah (C) Berterima kasih atas kesediaannya, menjelaskan bahwa kemitraan kamtibmas tanpa janji imbalan, dan mengajaknya bergabung dalam forum kemitraan resmi.\nMengapa opsi lain kurang tepat:\n- (A) — 2 poin: membiarkan harapan imbalan; bermasalah di kemudian hari.\n- (B) — 4 poin: berintegritas, tetapi melepaskan peluang kemitraan.\n- (D) — 3 poin: aman, tetapi menunda penanganan kasus mendesak.\n- (E) — 1 poin: mengorbankan netralitas institusi demi informasi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Tim Anda harus menyerahkan laporan rekapitulasi kegiatan bulanan kepada Katim besok pukul 08.00. Sampai malam ini, satu rekan belum menyerahkan bagiannya dan sulit dihubungi. Bagian yang belum masuk berisi data kegiatan yang sebagian juga diketahui anggota tim lain. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengerjakan bagian rekan bersama anggota tim lain agar laporan selesai tepat waktu, lalu menjelaskan keadaannya kepada Katim keesokan pagi.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menyelesaikan seluruh bagian rekan seorang diri tanpa memberi tahu siapa pun agar tim tidak terlihat lalai.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Terus menghubungi rekan untuk mengetahui kendalanya, membagi sisa pekerjaannya dengan anggota tim lain, dan memberi tahu Katim kondisi terkini.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menyerahkan laporan tepat waktu tanpa bagian tersebut, disertai catatan bahwa bagian itu menjadi tanggung jawab rekan yang bersangkutan dan belum diterima.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Melaporkan kepada Katim malam ini bahwa bagian rekan belum masuk dan ia sulit dihubungi, agar Katim yang menentukan langkah penyelesaian sebelum tenggat.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tenggat laporan besok pukul 08.00.\n- Satu rekan belum menyerahkan bagiannya dan sulit dihubungi.\n- Sebagian data bagian itu juga diketahui anggota tim lain.\n\nDITANYAKAN:\nTindakan terbaik ketika rekan lalai menjelang tenggat tugas tim.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama (KPR-08), ketahanan kerja (SKR-03) di bawah tekanan tenggat, dan loyalitas kepada tugas tim (KPR-07).\n2. Prinsip acuan: tanggung jawab kolektif tim: hasil kerja diselesaikan bersama, kendala anggota dicari tahu, dan atasan diberi informasi yang jujur.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (C) — 5 poin: tugas terselamatkan, rekan tidak langsung disalahkan, dan atasan mendapat informasi jujur.\n   (A) — 4 poin: laporan selesai dan kolaboratif, tetapi tidak ada upaya memahami kendala rekan.\n   (E) — 3 poin: jujur kepada atasan, tetapi melimpahkan penyelesaian yang sebenarnya dapat dilakukan tim.\n   (B) — 2 poin: tahan bekerja, tetapi menutupi masalah dan tidak melibatkan tim.\n   (D) — 1 poin: menghindar dari tanggung jawab kolektif; tugas tim tidak tuntas.\nJadi, jawaban yang tepat adalah (C) Terus menghubungi rekan untuk mengetahui kendalanya, membagi sisa pekerjaannya dengan anggota tim lain, dan memberi tahu Katim kondisi terkini.\nMengapa opsi lain kurang tepat:\n- (A) — 4 poin: kolaboratif, tetapi tidak mencari tahu kendala rekan.\n- (B) — 2 poin: menutupi masalah dan menanggung sendiri.\n- (D) — 1 poin: menghindar; tugas tim tidak tuntas.\n- (E) — 3 poin: melimpahkan penyelesaian kepada atasan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Anda bertugas menyusun laporan harian kehadiran apel. Pagi ini seorang anggota terlambat apel. Kanit memanggil Anda dan berkata, \"Tidak usah dicatat. Dia sedang ada masalah keluarga, nanti saya bina sendiri.\" Laporan itu akan diteruskan ke bagian sumber daya manusia. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Tidak mencantumkan keterlambatan kali ini, tetapi menyampaikan kepada Kanit bahwa ke depan Anda akan mencatat sesuai fakta.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menyampaikan kepada Kanit bahwa laporan perlu sesuai fakta dan mengusulkan keterlambatan tetap dicatat dengan keterangan sedang dibina langsung oleh Kanit.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mencatat keterlambatan sesuai fakta, lalu memberi tahu Kanit setelah laporan terkirim bahwa Anda tidak dapat menghilangkan data tersebut.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Tidak mencantumkan keterlambatan tersebut karena Kanit lebih memahami kondisi anggotanya, bertanggung jawab atas pembinaannya, dan alasannya bersifat kemanusiaan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Meminta Kanit sendiri yang mengubah laporan bila ia tetap menghendaki data itu tidak dicantumkan.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Anda penyusun laporan kehadiran apel.\n- Seorang anggota terlambat; Kanit meminta keterlambatannya tidak dicatat dan akan membinanya sendiri.\n- Laporan diteruskan ke bagian sumber daya manusia.\n\nDITANYAKAN:\nSikap terbaik ketika atasan langsung meminta data laporan tidak dicantumkan dengan alasan kemanusiaan.\n\nJAWAB:\n1. Dimensi yang diukur: loyalitas (KPR-07) kepada institusi dan kebenaran laporan dengan tetap menghormati atasan; kepercayaan diri (KPR-04) menyampaikan pendapat kepada atasan; kerja sama (KPR-08).\n2. Prinsip acuan: Kode Etik Profesi Polri (etika kelembagaan dan etika kepribadian): laporan dinas wajib sesuai fakta; pembinaan anggota tetap dapat dijalankan atasan tanpa menghilangkan data.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (B) — 5 poin: laporan tetap benar, niat baik Kanit terakomodasi, dan disampaikan secara hormat sebelum laporan dikirim.\n   (C) — 4 poin: jujur, tetapi Kanit tidak diajak bicara sebelumnya sehingga terkesan melangkahi atasan.\n   (E) — 3 poin: Anda menjaga diri, tetapi membiarkan laporan berpotensi diubah tidak sesuai fakta.\n   (A) — 2 poin: ada niat memperbaiki, tetapi laporan hari ini sudah tidak benar.\n   (D) — 1 poin: loyal buta kepada atasan; kebenaran laporan dikorbankan.\nJadi, jawaban yang tepat adalah (B) Menyampaikan kepada Kanit bahwa laporan perlu sesuai fakta dan mengusulkan keterlambatan tetap dicatat dengan keterangan sedang dibina langsung oleh Kanit.\nMengapa opsi lain kurang tepat:\n- (A) — 2 poin: laporan hari ini sudah tidak benar.\n- (C) — 4 poin: jujur, tetapi melangkahi atasan.\n- (D) — 1 poin: loyal buta; kebenaran laporan dikorbankan.\n- (E) — 3 poin: menjaga diri, tetapi membiarkan laporan diubah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Saat banjir melanda kecamatan, Polsek dan Koramil sama-sama mendata pengungsi di posko gabungan. Jumlah yang dicatat kedua pihak berbeda cukup jauh, sehingga petugas BPBD kebingungan menentukan kebutuhan logistik. Anda ditugaskan Kapolsek sebagai petugas pendataan dari Polsek. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Tetap memakai data Polsek karena pendataan satuan sendiri dilakukan langsung dari tenda ke tenda sehingga hasilnya lebih dapat dipertanggungjawabkan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mencocokkan data Polsek dengan data Koramil bersama petugasnya agar selisih jumlah dapat dijelaskan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengusulkan satu format pendataan bersama kepada petugas Koramil dan BPBD, mencocokkan selisihnya di lapangan, lalu melapor kepada Kapolsek.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Meminta Kapolsek membicarakan perbedaan data itu langsung dengan Danramil, agar penyelesaiannya memiliki dasar keputusan pimpinan kedua satuan.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menyerahkan data Polsek apa adanya kepada BPBD dan menyerahkan penyelarasan data kepada BPBD sebagai koordinator penanganan bencana.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Data pengungsi versi Polsek dan Koramil berbeda cukup jauh.\n- Petugas BPBD kebingungan menentukan kebutuhan logistik.\n- Anda petugas pendataan dari Polsek atas perintah Kapolsek.\n\nDITANYAKAN:\nSikap terbaik ketika data satuan Anda berbeda dengan data mitra TNI dalam penanganan bencana.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama lintas instansi (KPR-08), loyalitas kepada tujuan kemanusiaan institusi dan bukan ego satuan (KPR-07), serta ketahanan kerja (SKR-03) dalam situasi darurat.\n2. Prinsip acuan: sinergi TNI–Polri bersama BPBD dalam penanggulangan bencana; satu data bersama lebih penting daripada versi masing-masing satuan.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (C) — 5 poin: menghasilkan satu data yang dapat dipakai bersama, melibatkan semua pihak, dan tetap melapor kepada pimpinan.\n   (B) — 4 poin: kolaboratif, tetapi belum membangun format bersama sehingga selisih berpotensi muncul lagi.\n   (E) — 3 poin: menghormati peran koordinator, tetapi melimpahkan masalah yang sebagian disebabkan pihak Anda.\n   (D) — 2 poin: tertib hierarki, tetapi lambat untuk situasi darurat yang bisa diselesaikan di tingkat pelaksana.\n   (A) — 1 poin: loyal kepada ego satuan; kebingungan logistik dibiarkan dan pengungsi yang dirugikan.\nJadi, jawaban yang tepat adalah (C) Mengusulkan satu format pendataan bersama kepada petugas Koramil dan BPBD, mencocokkan selisihnya di lapangan, lalu melapor kepada Kapolsek.\nMengapa opsi lain kurang tepat:\n- (A) — 1 poin: mengutamakan ego satuan di atas kepentingan pengungsi.\n- (B) — 4 poin: kolaboratif, tetapi belum mencegah selisih berulang.\n- (D) — 2 poin: lambat untuk situasi darurat.\n- (E) — 3 poin: melimpahkan masalah kepada pihak lain.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Anda diperbantukan ke fungsi Binmas untuk kegiatan penyuluhan ke sekolah-sekolah. Senior penanggung jawab kegiatan selalu memberi Anda tugas mengangkut perlengkapan dan mengatur kursi, tanpa pernah melibatkan Anda dalam penyusunan materi. Padahal Anda sudah menyiapkan materi bahaya narkoba yang menarik untuk pelajar. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Meminta dipindahkan ke tugas lain yang lebih sesuai dengan kemampuan Anda.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menyimpan materi itu dan berhenti menawarkan gagasan, karena senior tampaknya sudah memiliki cara sendiri dan tidak membutuhkan masukan Anda.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menyampaikan langsung kepada Kasat Binmas bahwa Anda memiliki materi penyuluhan bahaya narkoba yang dapat dipakai dalam kegiatan berikutnya.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mengerjakan tugas dengan sungguh-sungguh sambil mempelajari cara senior menyampaikan materi agar siap bila suatu saat diberi kesempatan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengerjakan tugas yang diberikan dengan baik, lalu menawarkan materi yang Anda siapkan kepada senior untuk dipertimbangkan.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Anda diperbantukan ke Binmas; tugas yang diberikan hanya teknis.\n- Anda tidak pernah dilibatkan dalam penyusunan materi.\n- Anda sudah menyiapkan materi penyuluhan bahaya narkoba.\n\nDITANYAKAN:\nSikap terbaik ketika kemampuan Anda tidak dimanfaatkan dan kontribusi Anda kurang dihargai dalam tim.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama saat tidak dihargai (KPR-08), ketahanan kerja (SKR-03), dan kepercayaan diri (KPR-04) untuk menawarkan kontribusi secara santun.\n2. Prinsip acuan: loyalitas kepada tugas yang diberikan disertai inisiatif yang disalurkan melalui penanggung jawab kegiatan, bukan melompati atau menarik diri.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (E) — 5 poin: disiplin pada tugas, inisiatif tersalurkan melalui orang yang tepat, dan hubungan dengan senior terjaga.\n   (D) — 4 poin: tekun dan mau belajar, tetapi kontribusi yang sudah siap tidak ditawarkan.\n   (C) — 3 poin: inisiatif ada, tetapi melompati senior penanggung jawab kegiatan dan berisiko merusak hubungan.\n   (A) — 2 poin: menghindar dari situasi yang tidak nyaman alih-alih berkontribusi di dalamnya.\n   (B) — 1 poin: menarik diri secara pasif; potensi kontribusi hilang.\nJadi, jawaban yang tepat adalah (E) Mengerjakan tugas yang diberikan dengan baik, lalu menawarkan materi yang Anda siapkan kepada senior untuk dipertimbangkan.\nMengapa opsi lain kurang tepat:\n- (A) — 2 poin: menghindar dari tim.\n- (B) — 1 poin: pasif dan menarik diri.\n- (C) — 3 poin: melompati senior penanggung jawab.\n- (D) — 4 poin: tekun, tetapi tidak menawarkan kontribusi yang sudah siap.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Dua rekan satu regu Anda berselisih tentang pembagian giliran patroli malam. Mereka saling mendiamkan dan enggan ditempatkan dalam satu kendaraan, sehingga koordinasi regu terganggu. Danru sedang cuti seminggu, dan Anda bukan pemegang jabatan apa pun di regu. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Tidak ikut campur karena pengaturan jadwal merupakan urusan Danru setelah ia kembali.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menawarkan diri menggantikan giliran yang dipersoalkan agar perselisihan cepat reda.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Berbicara dengan masing-masing rekan secara terpisah agar emosi mereka mereda dan keduanya dapat memahami sudut pandang satu sama lain sebelum Danru kembali.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mempertemukan kedua rekan untuk mendengar keberatan masing-masing, lalu menyampaikan usulan jadwal yang mereka sepakati kepada Danru.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menghubungi Danru agar ia segera mengatur ulang jadwal patroli dari tempat cutinya.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Dua rekan berselisih soal giliran patroli malam dan saling mendiamkan.\n- Koordinasi regu terganggu.\n- Danru cuti seminggu; Anda tidak memegang jabatan di regu.\n\nDITANYAKAN:\nSikap terbaik ketika terjadi konflik antar-rekan yang mengganggu kerja tim, sementara Anda bukan pemimpin tim.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama dan kemampuan menjembatani (KPR-08), kepercayaan diri (KPR-04) mengambil peran tanpa melampaui kewenangan, serta loyalitas pada jalur komando (KPR-07).\n2. Prinsip acuan: semangat korps: anggota ikut menjaga kekompakan; keputusan jadwal tetap pada pejabat yang berwenang.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (D) — 5 poin: menjembatani secara langsung, menghasilkan kesepakatan, dan keputusan tetap pada Danru.\n   (C) — 4 poin: peduli dan menenangkan, tetapi tanpa pertemuan bersama sulit menghasilkan kesepakatan.\n   (E) — 3 poin: sesuai jalur komando, tetapi seluruh penyelesaian dibebankan kepada Danru yang sedang cuti.\n   (B) — 2 poin: berkorban demi suasana, tetapi akar konflik tidak tersentuh dan dapat terulang.\n   (A) — 1 poin: pasif; koordinasi regu dibiarkan terganggu selama seminggu.\nJadi, jawaban yang tepat adalah (D) Mempertemukan kedua rekan untuk mendengar keberatan masing-masing, lalu menyampaikan usulan jadwal yang mereka sepakati kepada Danru.\nMengapa opsi lain kurang tepat:\n- (A) — 1 poin: pasif; masalah dibiarkan seminggu.\n- (B) — 2 poin: akar konflik tidak tersentuh.\n- (C) — 4 poin: peduli, tetapi sulit menghasilkan kesepakatan.\n- (E) — 3 poin: membebankan seluruh penyelesaian kepada Danru.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Anda bersama seorang senior mengawal tahanan dari Polres ke pengadilan. SOP satuan mewajibkan tahanan diborgol selama pengawalan. Senior berkata, \"Tidak usah diborgol, dia kooperatif dan saya kenal keluarganya.\" Tahanan tampak tenang, tetapi perjalanan melewati pasar yang ramai. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengikuti arahan senior karena ia yang paling mengenal tahanan, bertanggung jawab atas pengawalan, dan tahanan sejak awal bersikap kooperatif.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menyampaikan dengan hormat bahwa SOP mewajibkan pemborgolan demi keamanan semua pihak, lalu memborgol tahanan tanpa merendahkan martabatnya.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Tetap memasang borgol sesuai SOP tanpa memperdebatkannya dengan senior.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengikuti arahan senior, tetapi menambah kewaspadaan dengan berjaga lebih dekat dengan tahanan dan memilih posisi duduk yang menutup akses keluar kendaraan.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menanyakan kepada Katim pengawalan apakah arahan senior boleh diikuti sebelum berangkat.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- SOP satuan mewajibkan pemborgolan selama pengawalan tahanan.\n- Senior meminta tahanan tidak diborgol karena kooperatif dan ia mengenal keluarganya.\n- Rute pengawalan melewati pasar yang ramai.\n\nDITANYAKAN:\nSikap terbaik ketika senior meminta SOP keamanan diabaikan karena alasan kedekatan.\n\nJAWAB:\n1. Dimensi yang diukur: loyalitas (KPR-07) kepada SOP dan institusi, bukan kepada pertimbangan pribadi senior; kepercayaan diri (KPR-04); dan kerja sama (KPR-08) dalam menjaga hubungan dengan senior.\n2. Prinsip acuan: Kode Etik Profesi Polri (etika kelembagaan dan etika kepribadian): tugas dijalankan sesuai SOP; keselamatan petugas, tahanan, dan masyarakat diutamakan di atas kedekatan pribadi.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (B) — 5 poin: SOP ditegakkan, senior diajak bicara dengan hormat, dan martabat tahanan dijaga.\n   (C) — 4 poin: SOP ditegakkan, tetapi tanpa komunikasi sehingga senior dapat merasa diabaikan.\n   (E) — 3 poin: berhati-hati, tetapi melimpahkan keputusan yang sudah jelas diatur SOP.\n   (D) — 2 poin: ada upaya mengurangi risiko, tetapi SOP tetap dilanggar.\n   (A) — 1 poin: loyal buta kepada senior; keselamatan banyak pihak dipertaruhkan.\nJadi, jawaban yang tepat adalah (B) Menyampaikan dengan hormat bahwa SOP mewajibkan pemborgolan demi keamanan semua pihak, lalu memborgol tahanan tanpa merendahkan martabatnya.\nMengapa opsi lain kurang tepat:\n- (A) — 1 poin: loyal kepada oknum; keselamatan dipertaruhkan.\n- (C) — 4 poin: benar, tetapi tanpa komunikasi dengan senior.\n- (D) — 2 poin: SOP tetap dilanggar.\n- (E) — 3 poin: melimpahkan hal yang sudah jelas diatur SOP.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Pukul 22.00 warga menyerahkan kepada Anda seorang anak berusia tujuh tahun yang ditemukan sendirian di terminal dan tampak telantar. Anda sudah menghubungi petugas piket Dinas Sosial, tetapi mereka baru dapat datang beberapa jam lagi. Warga mendesak polisi segera bertindak. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menjelaskan kepada warga bahwa penanganan anak telantar merupakan kewenangan Dinas Sosial, lalu meminta mereka melapor langsung ke kantor dinas tersebut.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Meminta ketua RT di sekitar terminal menampung anak itu sementara sampai petugas Dinas Sosial datang.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menunggu di lokasi bersama anak sampai petugas Dinas Sosial datang tanpa mengambil langkah lain.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Membawa anak ke tempat aman dengan pendampingan, menjaga komunikasi dengan Dinas Sosial untuk serah terima, dan menjelaskannya kepada warga.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Membawa anak ke Polsek untuk sementara dan menyerahkannya kepada Dinas Sosial esok pagi.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Anak tujuh tahun ditemukan sendirian di terminal pada malam hari.\n- Dinas Sosial baru dapat datang beberapa jam lagi.\n- Warga mendesak polisi segera bertindak.\n\nDITANYAKAN:\nSikap terbaik ketika penanganan bersama instansi lain terhambat, sementara situasi membutuhkan tindakan segera.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama lintas instansi (KPR-08), ketahanan kerja (SKR-03) dalam situasi mendesak, dan loyalitas kepada tugas melindungi dan mengayomi (KPR-07).\n2. Prinsip acuan: Tribrata: melindungi, mengayomi, dan melayani; anak ditangani bersama instansi yang berwenang, sementara Polri memastikan keselamatannya lebih dahulu.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (D) — 5 poin: keselamatan anak terjamin, koordinasi dengan instansi berwenang tetap berjalan, dan warga mendapat penjelasan.\n   (E) — 4 poin: anak aman, tetapi koordinasi serah terima ditunda tanpa upaya mempercepatnya malam itu.\n   (B) — 3 poin: cepat, tetapi tanggung jawab perlindungan anak dialihkan kepada warga yang belum tentu siap.\n   (C) — 2 poin: tetap bertanggung jawab, tetapi pasif; anak dibiarkan berjam-jam di terminal pada malam hari.\n   (A) — 1 poin: menghindar dengan alasan kewenangan; perlindungan anak diabaikan.\nJadi, jawaban yang tepat adalah (D) Membawa anak ke tempat aman dengan pendampingan, menjaga komunikasi dengan Dinas Sosial untuk serah terima, dan menjelaskannya kepada warga.\nMengapa opsi lain kurang tepat:\n- (A) — 1 poin: menghindar dengan alasan kewenangan.\n- (B) — 3 poin: mengalihkan tanggung jawab kepada warga.\n- (C) — 2 poin: pasif; anak dibiarkan lama di tempat terbuka.\n- (E) — 4 poin: aman, tetapi serah terima ditunda tanpa upaya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Sahabat Anda di satuan bercerita bahwa sebulan lalu ia menerima uang \"terima kasih\" dari seorang pelapor setelah laporannya ditangani. Jumlahnya kecil dan ia kini menyesal. Ia meminta Anda merahasiakan cerita itu karena takut kariernya terganggu. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menjelaskan bahwa pemberian itu termasuk gratifikasi, mendorongnya melapor sesuai ketentuan, dan menawarkan diri menemaninya.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menegaskan bahwa Anda tidak bisa ikut merahasiakannya, lalu memberinya waktu untuk melapor sendiri sebelum Anda menyampaikannya kepada atasan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menasihatinya dengan sungguh-sungguh agar tidak mengulangi perbuatan itu, tanpa mempersoalkan pemberian yang sudah terjadi karena ia telah menyesal.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Merahasiakannya karena jumlahnya kecil, ia sudah menyesal, dan ia mempercayai Anda sebagai sahabat.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Langsung menyampaikan pengakuan sahabat itu kepada Kanit agar segera ditangani.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Sahabat menerima uang terima kasih dari pelapor terkait tugasnya.\n- Jumlahnya kecil dan ia menyesal.\n- Ia meminta Anda merahasiakannya.\n\nDITANYAKAN:\nSikap terbaik ketika sahabat mengakui pelanggaran integritas dan meminta Anda merahasiakannya.\n\nJAWAB:\n1. Dimensi yang diukur: loyalitas (KPR-07) kepada institusi dan aturan antikorupsi di atas persahabatan, serta kerja sama (KPR-08) dalam membantu rekan memperbaiki diri.\n2. Prinsip acuan: Kode Etik Profesi Polri (etika kelembagaan dan etika kepribadian) dan ketentuan gratifikasi: pemberian yang berkaitan dengan jabatan wajib ditolak atau dilaporkan sesuai ketentuan.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (A) — 5 poin: aturan ditegakkan dengan cara yang mendukung sahabat memperbaiki kesalahan secara sukarela.\n   (B) — 4 poin: tegas dan memberi kesempatan, tetapi bernuansa ultimatum dan kurang mendampingi.\n   (E) — 3 poin: sesuai aturan, tetapi tidak memberi kesempatan rekan melapor sendiri sehingga kepercayaan rusak.\n   (C) — 2 poin: mencegah ke depan, tetapi pelanggaran yang sudah terjadi dibiarkan.\n   (D) — 1 poin: loyal kepada sahabat di atas aturan; ikut menutupi pelanggaran.\nJadi, jawaban yang tepat adalah (A) Menjelaskan bahwa pemberian itu termasuk gratifikasi, mendorongnya melapor sesuai ketentuan, dan menawarkan diri menemaninya.\nMengapa opsi lain kurang tepat:\n- (B) — 4 poin: tegas, tetapi bernuansa ultimatum dan kurang mendampingi.\n- (C) — 2 poin: pelanggaran yang sudah terjadi dibiarkan.\n- (D) — 1 poin: ikut menutupi pelanggaran.\n- (E) — 3 poin: tidak memberi kesempatan melapor sendiri.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Tim Anda sedang lembur menyelesaikan pemberkasan perkara. Sudah beberapa kali seorang senior pulang lebih awal dan menyerahkan bagian pekerjaannya kepada Anda dengan alasan \"junior harus banyak belajar\". Malam ini ia kembali melakukannya, dan berkas harus selesai besok. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menyelesaikan berkas malam itu, lalu esoknya mengusulkan kepada senior pembagian bagian berkas yang jelas agar Anda tetap belajar tanpa menanggung semuanya.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menyampaikan kepada Kanit bahwa pembagian beban pemberkasan dalam tim tidak merata.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menerima setiap limpahan pekerjaan karena memang begitulah tradisi junior di satuan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menyelesaikan bagian yang diberikan dan meminta senior memeriksa hasilnya esok hari agar Anda mendapat bimbingan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menerima pekerjaan itu malam ini demi berkas, tetapi bertekad menolak dengan tegas bila senior kembali melimpahkan pekerjaannya pada kesempatan berikutnya.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Senior berulang kali menyerahkan bagian pekerjaannya kepada Anda.\n- Alasannya agar junior banyak belajar.\n- Berkas harus selesai besok.\n\nDITANYAKAN:\nSikap terbaik menghadapi pembagian beban kerja yang tidak adil dari senior.\n\nJAWAB:\n1. Dimensi yang diukur: ketahanan kerja (SKR-03), kerja sama (KPR-08), dan kepercayaan diri (KPR-04) untuk menyampaikan keberatan secara santun.\n2. Prinsip acuan: tugas diselesaikan lebih dahulu; pembagian beban yang tidak seimbang dibicarakan secara terbuka dan santun agar menjadi kesepakatan tim.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (A) — 5 poin: tugas tuntas, keberatan disampaikan langsung dan santun, dan ada usulan yang tetap menghargai niat membimbing.\n   (D) — 4 poin: tuntas dan memanfaatkan alasan belajar secara positif, tetapi pola beban tidak seimbang tidak dibicarakan.\n   (B) — 3 poin: jalur resmi, tetapi melompati dialog dengan senior dan berisiko merusak hubungan.\n   (E) — 2 poin: tahan, tetapi tidak dikomunikasikan dan berpotensi memicu konflik mendadak.\n   (C) — 1 poin: pasif dan menormalkan ketidakadilan atas nama tradisi.\nJadi, jawaban yang tepat adalah (A) Menyelesaikan berkas malam itu, lalu esoknya mengusulkan kepada senior pembagian bagian berkas yang jelas agar Anda tetap belajar tanpa menanggung semuanya.\nMengapa opsi lain kurang tepat:\n- (B) — 3 poin: melompati dialog dengan senior.\n- (C) — 1 poin: pasif; menormalkan ketidakadilan.\n- (D) — 4 poin: positif, tetapi pola beban tidak seimbang tidak dibicarakan.\n- (E) — 2 poin: tidak dikomunikasikan; rawan konflik mendadak.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Seorang pengelola akun media sosial warga yang selama ini aktif membantu menyebarkan imbauan kamtibmas Polsek menghubungi Anda. Ia meminta keterangan rinci tentang identitas tersangka kasus yang baru ditangani, padahal informasi resmi belum dirilis oleh Humas. Ia mengatakan warga sudah ramai bertanya. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Tidak menanggapi telepon dan pesannya sampai rilis resmi keluar.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menjelaskan bahwa informasi kasus disampaikan melalui Humas, lalu menghubungkannya dengan petugas Humas agar ia mendapat rilis resmi begitu terbit.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Memberikan gambaran umum kejadian tanpa menyebut identitas tersangka dan detail penyidikan.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Memberikan informasi yang diminta karena ia mitra yang selama ini banyak membantu Polsek, dan penjelasan dari polisi dapat meredam kabar simpang siur di warga.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menolak memberikan keterangan dengan sopan dan menyarankannya menunggu rilis resmi dari Humas.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pengelola akun media sosial warga selama ini mitra penyebar imbauan kamtibmas.\n- Ia meminta identitas tersangka yang belum dirilis resmi.\n- Warga sudah ramai bertanya.\n\nDITANYAKAN:\nSikap terbaik menjaga jejaring mitra ketika permintaannya bertentangan dengan aturan penyampaian informasi.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama dan jejaring (KPR-08), loyalitas kepada aturan institusi di atas kedekatan dengan mitra (KPR-07), serta kepercayaan diri (KPR-04) menolak secara santun.\n2. Prinsip acuan: penyampaian informasi kasus dilakukan melalui Humas sesuai ketentuan; kemitraan dijaga dengan memberi saluran yang sah, bukan dengan membocorkan informasi.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (B) — 5 poin: aturan dipatuhi, mitra tidak ditinggalkan, dan kebutuhan informasinya diarahkan ke saluran resmi.\n   (E) — 4 poin: sesuai aturan dan santun, tetapi tidak ada upaya menjembatani mitra dengan saluran resmi.\n   (C) — 3 poin: berhati-hati, tetapi tetap menyampaikan informasi kasus di luar saluran resmi.\n   (A) — 2 poin: menghindar; hubungan dengan mitra yang selama ini membantu menjadi renggang.\n   (D) — 1 poin: loyal kepada mitra di atas aturan; berpotensi mengganggu penyidikan dan melanggar hak tersangka.\nJadi, jawaban yang tepat adalah (B) Menjelaskan bahwa informasi kasus disampaikan melalui Humas, lalu menghubungkannya dengan petugas Humas agar ia mendapat rilis resmi begitu terbit.\nMengapa opsi lain kurang tepat:\n- (A) — 2 poin: menghindar dan merenggangkan hubungan.\n- (C) — 3 poin: tetap berbagi informasi di luar saluran resmi.\n- (D) — 1 poin: loyal kepada mitra di atas aturan.\n- (E) — 4 poin: santun, tetapi tidak menjembatani ke saluran resmi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Anda anggota Sabhara yang menjaga garis polisi di sebuah tempat kejadian perkara. Saat olah TKP, seorang penyidik menemukan area di dalam garis polisi terinjak dan menuduh penjagaan Anda lalai di depan beberapa orang. Anda ingat sempat lengah sebentar ketika beberapa warga mendesak masuk, tetapi petugas lain juga keluar-masuk area itu. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menunjukkan bahwa kerusakan bisa terjadi saat petugas lain keluar-masuk area, agar penyidik tidak menyimpulkan kesalahan hanya dari pihak Sabhara.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Membiarkan penyidik menyimpulkan sendiri dan tidak menanggapi karena penjelasan hanya akan memperuncing suasana.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Meminta maaf kepada penyidik atas kejadian itu meskipun penyebabnya belum jelas, agar ketegangan antarfungsi di depan orang banyak segera mereda.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menjelaskan kronologi penjagaan secara faktual, mengakui saat Anda sempat lengah, dan membantu memperketat pengamanan TKP saat itu juga.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menyampaikan kronologi kejadian kepada Kanit agar persoalan diluruskan oleh atasan kedua fungsi.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Area di dalam garis polisi terinjak.\n- Penyidik menuduh penjagaan Anda lalai di depan orang lain.\n- Anda sempat lengah, tetapi petugas lain juga keluar-masuk area.\n\nDITANYAKAN:\nSikap terbaik ketika dituduh lalai oleh fungsi lain, sementara penyebab kejadian belum sepenuhnya jelas.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama lintas fungsi (KPR-08), kepercayaan diri dan kejujuran (KPR-04) dalam mengakui kekurangan, serta ketahanan kerja (SKR-03) menghadapi tekanan.\n2. Prinsip acuan: tanggung jawab bersama atas keutuhan TKP; kejujuran tentang kronologi lebih penting daripada membela diri atau saling menyalahkan.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (D) — 5 poin: jujur, tidak defensif, dan langsung berkontribusi memperbaiki keadaan.\n   (E) — 4 poin: tertib jalur, tetapi tidak menyelesaikan langsung dengan penyidik dan tidak memperbaiki pengamanan di tempat.\n   (C) — 3 poin: meredakan suasana, tetapi tidak memberikan kronologi yang dibutuhkan untuk menilai keutuhan TKP.\n   (A) — 2 poin: membela diri dengan menunjuk pihak lain; memicu saling menyalahkan antarfungsi.\n   (B) — 1 poin: pasif; informasi penting untuk penilaian TKP tidak disampaikan.\nJadi, jawaban yang tepat adalah (D) Menjelaskan kronologi penjagaan secara faktual, mengakui saat Anda sempat lengah, dan membantu memperketat pengamanan TKP saat itu juga.\nMengapa opsi lain kurang tepat:\n- (A) — 2 poin: defensif dan memicu saling menyalahkan.\n- (B) — 1 poin: pasif; informasi penting tidak disampaikan.\n- (C) — 3 poin: meredakan suasana, tetapi kronologi tidak disampaikan.\n- (E) — 4 poin: tidak menyelesaikan langsung dan tidak memperbaiki pengamanan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Dalam rapat perencanaan patroli gabungan, Katim memaparkan rute yang melewati sebuah titik rawan tanpa menempatkan personel cadangan. Dari data tiga bulan terakhir, titik itu beberapa kali menjadi lokasi pengeroyokan. Rencana akan ditetapkan di akhir rapat, dan tidak ada rekan yang memberi tanggapan. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menyampaikan temuan itu kepada Katim secara empat mata setelah rapat selesai, agar ia tidak merasa dikoreksi di depan anggota dan wibawanya tetap terjaga.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menanyakan titik rawan itu kepada Katim dengan menyertakan data kejadian tiga bulan terakhir, lalu mengusulkan alternatif penempatan cadangan.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menyiapkan diri untuk lebih waspada saat melintasi titik itu tanpa mengusulkan perubahan rencana.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menanyakan dulu kepada rekan di sebelah apakah ia juga melihat masalah yang sama sebelum memutuskan untuk berbicara.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mengikuti rencana Katim karena ia tentu sudah mempertimbangkan banyak hal yang mungkin tidak Anda ketahui.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rute patroli melewati titik rawan tanpa personel cadangan.\n- Data tiga bulan terakhir menunjukkan beberapa kejadian pengeroyokan di titik itu.\n- Rencana ditetapkan di akhir rapat; rekan lain diam.\n\nDITANYAKAN:\nSikap terbaik ketika Anda melihat kelemahan rencana atasan dan forum memberi kesempatan untuk menanggapi.\n\nJAWAB:\n1. Dimensi yang diukur: kepercayaan diri (KPR-04) menyampaikan pendapat berbasis data, kerja sama (KPR-08) dalam perencanaan tim, dan loyalitas (KPR-07) kepada keselamatan tim dan keberhasilan tugas.\n2. Prinsip acuan: rapat perencanaan adalah forum resmi untuk memberi masukan; masukan disampaikan dengan santun, berbasis data, dan disertai alternatif, sementara keputusan tetap pada Katim.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (B) — 5 poin: tepat waktu karena disampaikan sebelum rencana ditetapkan, berbasis data, disertai solusi, dan keputusan tetap pada Katim.\n   (A) — 4 poin: santun, tetapi terlambat karena rencana sudah ditetapkan dan dibagikan.\n   (D) — 3 poin: berhati-hati, tetapi ragu-ragu dan bergantung pada dukungan rekan.\n   (C) — 2 poin: waspada untuk diri sendiri, tetapi tim tetap menghadapi risiko yang sama.\n   (E) — 1 poin: pasif dan mengandalkan asumsi; data penting tidak pernah tersampaikan.\nJadi, jawaban yang tepat adalah (B) Menanyakan titik rawan itu kepada Katim dengan menyertakan data kejadian tiga bulan terakhir, lalu mengusulkan alternatif penempatan cadangan.\nMengapa opsi lain kurang tepat:\n- (A) — 4 poin: santun, tetapi terlambat karena rencana sudah ditetapkan.\n- (C) — 2 poin: hanya melindungi diri; risiko tim tetap ada.\n- (D) — 3 poin: ragu-ragu dan bergantung pada rekan.\n- (E) — 1 poin: pasif; data penting tidak disampaikan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Seorang senior yang akan cuti dua minggu memberikan nama pengguna dan kata sandi akun aplikasi pelaporan dinasnya kepada Anda. Ia meminta Anda menginput laporan kegiatan atas namanya selama ia cuti agar kinerjanya tidak tercatat kosong. Setiap anggota memiliki akunnya sendiri di aplikasi itu. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menolak memakai akun senior dan menyarankan agar ia menginput laporan yang tersisa sebelum berangkat cuti.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Bersedia membantu dengan syarat senior lebih dahulu memberi tahu Kanit bahwa akunnya akan Anda gunakan untuk menginput laporan selama ia menjalani cuti.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Memakai akun senior sesuai permintaannya karena tujuannya agar pekerjaan satuan tidak terhenti.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menerima kata sandi itu, tetapi hanya memakainya untuk laporan yang benar-benar mendesak sampai senior kembali.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Mengembalikan kata sandi dengan sopan karena akun dinas melekat pada pemiliknya, lalu menawarkan bantuan menuntaskan laporan sebelum ia cuti.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Setiap anggota memiliki akun aplikasi pelaporan sendiri.\n- Senior menyerahkan nama pengguna dan kata sandinya kepada Anda.\n- Anda diminta menginput laporan atas namanya selama ia cuti.\n\nDITANYAKAN:\nSikap terbaik ketika senior meminta Anda memakai akun dinasnya.\n\nJAWAB:\n1. Dimensi yang diukur: loyalitas (KPR-07) kepada aturan keamanan sistem dan kejujuran data kinerja, kerja sama (KPR-08) dalam membantu senior secara benar, serta kepercayaan diri (KPR-04) menolak dengan santun.\n2. Prinsip acuan: Kode Etik Profesi Polri (etika kelembagaan dan etika kepribadian): akun dinas melekat pada pemiliknya; data kinerja harus mencerminkan siapa yang benar-benar bekerja.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (E) — 5 poin: keamanan akun dan kejujuran data terjaga, sementara kebutuhan senior tetap dibantu secara sah.\n   (A) — 4 poin: benar secara aturan, tetapi tanpa tawaran bantuan sehingga kurang kolaboratif.\n   (B) — 3 poin: transparan kepada atasan, tetapi tetap berbagi akun yang melekat pada pribadi senior.\n   (D) — 2 poin: membatasi pemakaian, tetapi tetap menggunakan akun orang lain tanpa dasar.\n   (C) — 1 poin: loyal kepada senior di atas aturan; data kinerja tidak mencerminkan kenyataan.\nJadi, jawaban yang tepat adalah (E) Mengembalikan kata sandi dengan sopan karena akun dinas melekat pada pemiliknya, lalu menawarkan bantuan menuntaskan laporan sebelum ia cuti.\nMengapa opsi lain kurang tepat:\n- (A) — 4 poin: benar, tetapi tanpa tawaran bantuan.\n- (B) — 3 poin: transparan, tetapi tetap berbagi akun.\n- (C) — 1 poin: loyal kepada oknum; data kinerja tidak jujur.\n- (D) — 2 poin: tetap memakai akun orang lain.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-03",
+    "description": "Anda yang lebih dahulu tiba di lokasi kecelakaan lalu lintas di jalan perbatasan wilayah dua Polsek. Tidak lama kemudian, anggota Polsek tetangga datang dan menyatakan lokasi itu masuk wilayah mereka. Perdebatan kecil mulai terjadi di depan warga, sementara seorang korban masih tergeletak menunggu dievakuasi. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Mendahulukan evakuasi korban bersama anggota Polsek tetangga, lalu melaporkan kepada pimpinan masing-masing untuk penetapan kewenangan.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mempersilakan Polsek tetangga menangani perkaranya bila mereka yakin itu wilayahnya, sambil membantu evakuasi dan mengamankan lokasi.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menghentikan seluruh penanganan di lokasi sampai Kanit memastikan batas wilayah, agar tidak terjadi tumpang-tindih kewenangan yang dapat menyulitkan proses hukum.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tetap menangani perkara karena Anda yang lebih dahulu tiba, dan meminta anggota Polsek tetangga membantu mengatur arus lalu lintas.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menyerahkan penanganan sepenuhnya kepada Polsek tetangga dan kembali ke pos karena lokasinya mungkin di luar wilayah Anda.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Lokasi kecelakaan berada di perbatasan wilayah dua Polsek.\n- Anggota Polsek tetangga menyatakan lokasi masuk wilayah mereka.\n- Korban belum dievakuasi dan warga menyaksikan perdebatan.\n\nDITANYAKAN:\nSikap terbaik ketika terjadi perbedaan klaim kewenangan dengan satuan lain di tengah keadaan darurat.\n\nJAWAB:\n1. Dimensi yang diukur: kerja sama antarsatuan (KPR-08), loyalitas kepada tugas pertolongan dan citra institusi (KPR-07), serta ketahanan kerja (SKR-03) dalam situasi darurat.\n2. Prinsip acuan: Tribrata: keselamatan korban diutamakan; batas kewenangan diselesaikan melalui pimpinan tanpa mempertontonkan perselisihan di depan masyarakat.\n3. Kriteria poin: tertinggi bila masalah diselesaikan secara kolaboratif, sesuai jalur komando dan aturan, tanpa merusak hubungan kerja; menengah bila benar sebagian tetapi kurang tuntas atau melimpahkan keputusan; terendah bila pasif, menghindar, atau loyal kepada oknum alih-alih kepada institusi.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (A) — 5 poin: korban segera ditolong, perselisihan berhenti, dan kewenangan diselesaikan melalui jalur pimpinan.\n   (B) — 4 poin: korban ditolong dan konflik reda, tetapi tidak ada pelaporan kepada pimpinan untuk memastikan kewenangan.\n   (D) — 3 poin: ada pembagian peran, tetapi mempertahankan klaim sepihak dan memperpanjang ketegangan.\n   (E) — 2 poin: menghindar; Anda meninggalkan keadaan darurat yang seharusnya ikut ditangani.\n   (C) — 1 poin: kaku pada prosedur; pertolongan korban tertunda.\nJadi, jawaban yang tepat adalah (A) Mendahulukan evakuasi korban bersama anggota Polsek tetangga, lalu melaporkan kepada pimpinan masing-masing untuk penetapan kewenangan.\nMengapa opsi lain kurang tepat:\n- (B) — 4 poin: konflik reda, tetapi kewenangan tidak dipastikan melalui pimpinan.\n- (C) — 1 poin: kaku pada prosedur; pertolongan korban tertunda.\n- (D) — 3 poin: mempertahankan klaim sepihak.\n- (E) — 2 poin: menghindar dari keadaan darurat.",
+    "difficulty": "sulit"
+  }
+]

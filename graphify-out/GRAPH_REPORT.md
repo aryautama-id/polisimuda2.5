@@ -1,11 +1,11 @@
-# Graph Report - .  (2026-10-01)
+# Graph Report - .  (2026-10-17)
 
 ## Corpus Check
-- 298 files · ~1,632,982 words
+- 314 files · ~1,703,077 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1595 nodes · 1633 edges · 285 communities detected
+- 1930 nodes · 2284 edges · 312 communities detected
 - Extraction: 99% EXTRACTED · 1% INFERRED · 0% AMBIGUOUS · INFERRED: 19 edges (avg confidence: 0.82)
 - Token cost: 0 input · 0 output
 
@@ -295,18 +295,45 @@
 - [[_COMMUNITY_Community 282|Community 282]]
 - [[_COMMUNITY_Community 283|Community 283]]
 - [[_COMMUNITY_Community 284|Community 284]]
+- [[_COMMUNITY_Community 285|Community 285]]
+- [[_COMMUNITY_Community 286|Community 286]]
+- [[_COMMUNITY_Community 287|Community 287]]
+- [[_COMMUNITY_Community 288|Community 288]]
+- [[_COMMUNITY_Community 289|Community 289]]
+- [[_COMMUNITY_Community 290|Community 290]]
+- [[_COMMUNITY_Community 291|Community 291]]
+- [[_COMMUNITY_Community 292|Community 292]]
+- [[_COMMUNITY_Community 293|Community 293]]
+- [[_COMMUNITY_Community 294|Community 294]]
+- [[_COMMUNITY_Community 295|Community 295]]
+- [[_COMMUNITY_Community 296|Community 296]]
+- [[_COMMUNITY_Community 297|Community 297]]
+- [[_COMMUNITY_Community 298|Community 298]]
+- [[_COMMUNITY_Community 299|Community 299]]
+- [[_COMMUNITY_Community 300|Community 300]]
+- [[_COMMUNITY_Community 301|Community 301]]
+- [[_COMMUNITY_Community 302|Community 302]]
+- [[_COMMUNITY_Community 303|Community 303]]
+- [[_COMMUNITY_Community 304|Community 304]]
+- [[_COMMUNITY_Community 305|Community 305]]
+- [[_COMMUNITY_Community 306|Community 306]]
+- [[_COMMUNITY_Community 307|Community 307]]
+- [[_COMMUNITY_Community 308|Community 308]]
+- [[_COMMUNITY_Community 309|Community 309]]
+- [[_COMMUNITY_Community 310|Community 310]]
+- [[_COMMUNITY_Community 311|Community 311]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `Router` - 22 edges
-2. `TestHandler` - 19 edges
-3. `TestRepository` - 19 edges
-4. `TestService` - 19 edges
-5. `QuestionRepository` - 18 edges
-6. `AISoalRepository` - 17 edges
-7. `QuestionService` - 16 edges
-8. `QuestionHandler` - 15 edges
-9. `AISoalService` - 14 edges
-10. `UserRepository` - 13 edges
+1. `judge()` - 30 edges
+2. `idn()` - 29 edges
+3. `Item` - 26 edges
+4. `poly()` - 23 edges
+5. `Router` - 22 edges
+6. `TestHandler` - 19 edges
+7. `TestRepository` - 19 edges
+8. `TestService` - 19 edges
+9. `QuestionRepository` - 18 edges
+10. `AISoalRepository` - 17 edges
 
 ## Surprising Connections (you probably didn't know these)
 - `main()` --calls--> `insertQuestion()`  [EXTRACTED]
@@ -397,794 +424,794 @@
 
 ### Community 0 - "Community 0"
 Cohesion: 0.07
-Nodes (28): classify(), extract_nums(), faktor(), fmt_faktor(), fpb(), gcd(), gcd3(), handle_barisan() (+20 more)
+Nodes (91): ang_of(), arrow_corner(), arrow_poly(), assemble(), assert_distinct(), assert_no_symmetry(), build_svg(), cell_box() (+83 more)
 
 ### Community 1 - "Community 1"
+Cohesion: 0.1
+Nodes (38): circ_tools(), enc(), Fam, inv(), judge(), L1(), L10(), L11() (+30 more)
+
+### Community 2 - "Community 2"
+Cohesion: 0.07
+Nodes (35): clock(), hm(), idn(), L1(), L10(), L11(), L12(), L13() (+27 more)
+
+### Community 3 - "Community 3"
+Cohesion: 0.07
+Nodes (28): classify(), extract_nums(), faktor(), fmt_faktor(), fpb(), gcd(), gcd3(), handle_barisan() (+20 more)
+
+### Community 4 - "Community 4"
 Cohesion: 0.06
 Nodes (30): BankSoalCoverage, BankSoalItem, BankSoalKategori, BankSoalResponse, BankSoalSummary, BankSoalTree, BankSoalTreeCode, BankSoalTreeSubtest (+22 more)
 
-### Community 2 - "Community 2"
+### Community 5 - "Community 5"
+Cohesion: 0.12
+Nodes (26): alt_affine_fit(), calc_q(), check_file(), diffgeo_fit(), fitting_models(), fmt(), gen(), geo_fit() (+18 more)
+
+### Community 6 - "Community 6"
 Cohesion: 0.12
 Nodes (17): classify(), extract_nums(), faktor(), fmt_faktor(), gcd(), gcd3(), h_barisan(), h_debit() (+9 more)
 
-### Community 3 - "Community 3"
+### Community 7 - "Community 7"
 Cohesion: 0.09
 Nodes (7): AISoalRepository, NewQuestion, ReferenceQuestion, Review, scanBatch(), scanQuestion(), SubMaterialInfo
 
-### Community 4 - "Community 4"
+### Community 8 - "Community 8"
 Cohesion: 0.09
 Nodes (3): percent(), ScoringFor(), QuestionRepository
 
-### Community 5 - "Community 5"
+### Community 9 - "Community 9"
 Cohesion: 0.17
 Nodes (1): Router
 
-### Community 6 - "Community 6"
+### Community 10 - "Community 10"
 Cohesion: 0.16
 Nodes (16): classify(), extract_nums(), faktor(), fmt_faktor(), gcd(), h_barisan(), h_debit(), h_default() (+8 more)
 
-### Community 7 - "Community 7"
+### Community 11 - "Community 11"
 Cohesion: 0.1
 Nodes (1): TestHandler
 
-### Community 8 - "Community 8"
+### Community 12 - "Community 12"
 Cohesion: 0.1
 Nodes (1): TestRepository
 
-### Community 9 - "Community 9"
+### Community 13 - "Community 13"
 Cohesion: 0.1
 Nodes (1): TestService
 
-### Community 10 - "Community 10"
+### Community 14 - "Community 14"
 Cohesion: 0.19
 Nodes (5): AISoalService, checkQuestion(), decorate(), normalize(), validateGenerated()
 
-### Community 11 - "Community 11"
-Cohesion: 0.14
-Nodes (18): Answer Handler, Answer Repository, Answer Service, Go Fiber Web Framework, pgxpool PostgreSQL Driver, Form Handler, Form Repository, Form Service (+10 more)
-
-### Community 12 - "Community 12"
+### Community 15 - "Community 15"
 Cohesion: 0.14
 Nodes (1): QuestionService
 
-### Community 13 - "Community 13"
+### Community 16 - "Community 16"
+Cohesion: 0.18
+Nodes (12): buildKey(), buildProblem(), generateKey(), generateRounds(), loadSession(), parseModern(), pick(), readJSON() (+4 more)
+
+### Community 17 - "Community 17"
 Cohesion: 0.12
 Nodes (1): QuestionHandler
 
-### Community 14 - "Community 14"
+### Community 18 - "Community 18"
+Cohesion: 0.18
+Nodes (8): handleRandomGenerate(), handleSelectAkpolType(), handleSelectDifficulty(), handleSelectPack(), handleSelectTrack(), modeFor(), optionsFor(), regenerate()
+
+### Community 19 - "Community 19"
 Cohesion: 0.13
 Nodes (1): UserRepository
 
-### Community 15 - "Community 15"
+### Community 20 - "Community 20"
 Cohesion: 0.14
 Nodes (1): InvoiceRepository
 
-### Community 16 - "Community 16"
+### Community 21 - "Community 21"
 Cohesion: 0.29
 Nodes (13): call_minimax(), clean_output(), is_locked(), load_progress(), log(), main(), ocr_image(), Remove $, $$, LaTeX, and other confusing markup (+5 more)
 
-### Community 17 - "Community 17"
-Cohesion: 0.14
+### Community 22 - "Community 22"
+Cohesion: 0.15
 Nodes (1): UserAttemptRepository
 
-### Community 18 - "Community 18"
+### Community 23 - "Community 23"
 Cohesion: 0.19
 Nodes (3): InvoiceService, referralDiscountPct(), success()
 
-### Community 19 - "Community 19"
+### Community 24 - "Community 24"
 Cohesion: 0.14
 Nodes (13): AnswerRequest, CreateLiveTryoutFromBankRequest, CreateLiveTryoutRequest, CreateTestRequest, DeleteTestRequest, GetAllByCategoryTestRequest, GetByIDTestRequest, QuestionRequest (+5 more)
 
-### Community 20 - "Community 20"
+### Community 25 - "Community 25"
 Cohesion: 0.28
 Nodes (11): callMinimax(), generate_question_with_ai(), generateQuestion(), get_db_connection(), get_test_id(), getTestId(), insert_question(), insertQuestion() (+3 more)
 
-### Community 21 - "Community 21"
+### Community 26 - "Community 26"
 Cohesion: 0.22
 Nodes (2): cookieSettings(), UserHandler
 
-### Community 22 - "Community 22"
+### Community 27 - "Community 27"
 Cohesion: 0.18
 Nodes (3): makeSessionToken(), sessionTokenExpired(), UserService
 
-### Community 23 - "Community 23"
+### Community 28 - "Community 28"
 Cohesion: 0.23
 Nodes (2): AISoalHandler, paramUUID()
 
-### Community 24 - "Community 24"
+### Community 29 - "Community 29"
 Cohesion: 0.27
 Nodes (12): buildGeneratePrompt(), buildReviewPrompt(), buildRevisePrompt(), codesOf(), describeScoring(), describeSubMaterials(), formatOptions(), generatedOption (+4 more)
 
-### Community 25 - "Community 25"
+### Community 30 - "Community 30"
 Cohesion: 0.3
 Nodes (11): build_explanation(), extract_numbers(), fmt_int(), fmt_list(), get_connection(), main(), parse_number(), parse_soal() (+3 more)
 
-### Community 26 - "Community 26"
+### Community 31 - "Community 31"
 Cohesion: 0.33
 Nodes (11): call_minimax(), clean_output(), is_locked(), load_progress(), log(), main(), Remove $, $$, LaTeX, and other confusing markup, remove_lock() (+3 more)
 
-### Community 27 - "Community 27"
+### Community 32 - "Community 32"
 Cohesion: 0.17
 Nodes (0): 
 
-### Community 28 - "Community 28"
+### Community 33 - "Community 33"
 Cohesion: 0.26
 Nodes (7): checkTimeDrift(), createInitialTestSession(), getInitialTimeRemaining(), getTimeForCategory(), handleBeforeUnload(), handleVisibilityChange(), saveLastActive()
 
-### Community 29 - "Community 29"
+### Community 34 - "Community 34"
 Cohesion: 0.24
 Nodes (12): Polisi Muda Education Brand, Coin Reward Gamification Mechanic, Hero / Landing Section – Illustrated Police Aspirants, Student Testimonial / Social Proof Section, Polisi Muda Education Full Logo (icon + wordmark), Hero Banner – Illustrated Indonesian Police Characters, Polisi Muda Police Hat Logo (PNG, black, raster icon), Polisi Muda Police Hat Logo (SVG, black, vector) (+4 more)
 
-### Community 30 - "Community 30"
+### Community 35 - "Community 35"
 Cohesion: 0.33
 Nodes (9): build_prompt(), buildPrompt(), call_minimax(), callMiniMax(), classify_question(), classifyQuestion(), generate_explanation(), generateExplanation() (+1 more)
 
-### Community 31 - "Community 31"
+### Community 36 - "Community 36"
 Cohesion: 0.38
 Nodes (10): build_prompt(), call_minimax(), detect_type(), extract_explanation(), is_locked(), log(), main(), remove_lock() (+2 more)
 
-### Community 32 - "Community 32"
+### Community 37 - "Community 37"
 Cohesion: 0.18
 Nodes (1): UserAttemptHandler
 
-### Community 33 - "Community 33"
+### Community 38 - "Community 38"
 Cohesion: 0.18
 Nodes (1): UserAttemptService
 
-### Community 34 - "Community 34"
+### Community 39 - "Community 39"
 Cohesion: 0.31
 Nodes (8): AnalisisRepository, containsAny(), detectTipeSoal(), formatPct(), generateAnalisis(), getMaksimalisasi(), getTipsBelajar(), getTipsUjian()
 
-### Community 35 - "Community 35"
+### Community 40 - "Community 40"
 Cohesion: 0.18
 Nodes (1): InvoiceHandler
 
-### Community 36 - "Community 36"
+### Community 41 - "Community 41"
 Cohesion: 0.24
 Nodes (4): compressAndConvert(), handleFileChange(), handleMaxWidthChange(), handleQualityChange()
 
-### Community 37 - "Community 37"
+### Community 42 - "Community 42"
 Cohesion: 0.25
 Nodes (6): fetchLiveTryout(), fetchStatus(), formatDate(), formatDateTime(), getStatusInfo(), isToday()
 
-### Community 38 - "Community 38"
+### Community 43 - "Community 43"
 Cohesion: 0.18
 Nodes (0): 
 
-### Community 39 - "Community 39"
+### Community 44 - "Community 44"
 Cohesion: 0.42
 Nodes (9): build_prompt(), call_minimax(), extract_explanations(), is_locked(), log(), main(), remove_lock(), signal_handler() (+1 more)
 
-### Community 40 - "Community 40"
+### Community 45 - "Community 45"
 Cohesion: 0.42
 Nodes (9): build_prompt(), call_minimax(), extract_explanations(), is_locked(), log(), main(), remove_lock(), signal_handler() (+1 more)
 
-### Community 41 - "Community 41"
+### Community 46 - "Community 46"
 Cohesion: 0.42
 Nodes (9): build_prompt(), call_minimax(), extract_explanation(), is_locked(), log(), main(), remove_lock(), signal_handler() (+1 more)
 
-### Community 42 - "Community 42"
+### Community 47 - "Community 47"
 Cohesion: 0.24
 Nodes (1): ReferralRepository
 
-### Community 43 - "Community 43"
+### Community 48 - "Community 48"
 Cohesion: 0.29
 Nodes (3): BankSoalRepository, normalize(), scanEntry()
 
-### Community 44 - "Community 44"
+### Community 49 - "Community 49"
+Cohesion: 0.2
+Nodes (1): MaterialHandler
+
+### Community 50 - "Community 50"
+Cohesion: 0.2
+Nodes (1): MaterialRepository
+
+### Community 51 - "Community 51"
 Cohesion: 0.2
 Nodes (9): BatchUserAnswer, CreateBatchUserAnswerRequest, CreateUserAnswerRequest, DeleteUserAnswerRequest, GetByIDUserAnswerRequest, GetByUserAttemptIDUserAnswerRequest, UpdateLiveScoreRequest, UpdateUserAnswerRequest (+1 more)
 
-### Community 45 - "Community 45"
-Cohesion: 0.2
-Nodes (0): 
-
-### Community 46 - "Community 46"
-Cohesion: 0.2
-Nodes (0): 
-
-### Community 47 - "Community 47"
-Cohesion: 0.2
-Nodes (0): 
-
-### Community 48 - "Community 48"
-Cohesion: 0.22
-Nodes (10): graphify-out/graph.html (Interactive Visualization), graphify-out/graph.json (Raw Graph Data), graphify-out/GRAPH_REPORT.md, Graphify Knowledge Graph, graphify-out/ (Knowledge Graph Outputs), graphify-out/obsidian/ (Obsidian Vault, 1692 notes), Polisimuda2.5 AI Coding Guide, Backend (Go + PostgreSQL + Traefik) (+2 more)
-
-### Community 49 - "Community 49"
-Cohesion: 0.31
-Nodes (2): parseUserID(), ReferralHandler
-
-### Community 50 - "Community 50"
-Cohesion: 0.22
-Nodes (1): ReferralService
-
-### Community 51 - "Community 51"
-Cohesion: 0.22
-Nodes (1): UserAnswerHandler
-
 ### Community 52 - "Community 52"
-Cohesion: 0.22
-Nodes (1): UserAnswerRepository
+Cohesion: 0.2
+Nodes (0): 
 
 ### Community 53 - "Community 53"
-Cohesion: 0.25
-Nodes (1): UserAnswerService
+Cohesion: 0.2
+Nodes (0): 
 
 ### Community 54 - "Community 54"
-Cohesion: 0.28
-Nodes (2): AnnouncementRepository, scanAnnouncements()
+Cohesion: 0.2
+Nodes (0): 
 
 ### Community 55 - "Community 55"
 Cohesion: 0.22
-Nodes (8): AIBatch, AIConfigResponse, AIOption, AIQuestion, CreateAIBatchRequest, PushAIBatchRequest, PushAIBatchResponse, UpdateAIQuestionRequest
+Nodes (10): graphify-out/graph.html (Interactive Visualization), graphify-out/graph.json (Raw Graph Data), graphify-out/GRAPH_REPORT.md, Graphify Knowledge Graph, graphify-out/ (Knowledge Graph Outputs), graphify-out/obsidian/ (Obsidian Vault, 1692 notes), Polisimuda2.5 AI Coding Guide, Backend (Go + PostgreSQL + Traefik) (+2 more)
 
 ### Community 56 - "Community 56"
-Cohesion: 0.22
-Nodes (0): 
+Cohesion: 0.31
+Nodes (2): parseUserID(), ReferralHandler
 
 ### Community 57 - "Community 57"
 Cohesion: 0.22
-Nodes (0): 
+Nodes (1): ReferralService
 
 ### Community 58 - "Community 58"
-Cohesion: 0.25
-Nodes (2): fetchTests(), handleUpdateMetadata()
+Cohesion: 0.22
+Nodes (1): UserAnswerHandler
 
 ### Community 59 - "Community 59"
 Cohesion: 0.22
-Nodes (0): 
+Nodes (1): UserAnswerRepository
 
 ### Community 60 - "Community 60"
-Cohesion: 0.42
-Nodes (9): Hero Illustration 120px - Police Officers (Unused PNG), Hero Illustration - Polisi Muda Education (Unused JPG), Hero Photo - Indonesian Police Cadet (Unused JPG), Police Cap Icon (Unused PNG), Logo Black (Unused SVG), Logo Blue (Unused SVG), Logo Text (Unused SVG), Testimony Group Photo - Young Men (Unused PNG) (+1 more)
+Cohesion: 0.25
+Nodes (1): UserAnswerService
 
 ### Community 61 - "Community 61"
-Cohesion: 0.25
-Nodes (1): PromoCodeHandler
+Cohesion: 0.28
+Nodes (2): AnnouncementRepository, scanAnnouncements()
 
 ### Community 62 - "Community 62"
-Cohesion: 0.25
-Nodes (1): PromoCodeRepository
+Cohesion: 0.22
+Nodes (8): AIBatch, AIConfigResponse, AIOption, AIQuestion, CreateAIBatchRequest, PushAIBatchRequest, PushAIBatchResponse, UpdateAIQuestionRequest
 
 ### Community 63 - "Community 63"
-Cohesion: 0.25
-Nodes (1): PromoCodeService
+Cohesion: 0.22
+Nodes (0): 
 
 ### Community 64 - "Community 64"
-Cohesion: 0.25
-Nodes (1): AnnouncementHandler
+Cohesion: 0.22
+Nodes (0): 
 
 ### Community 65 - "Community 65"
 Cohesion: 0.25
-Nodes (1): AnnouncementService
+Nodes (2): fetchTests(), handleUpdateMetadata()
 
 ### Community 66 - "Community 66"
-Cohesion: 0.25
-Nodes (1): BankSoalHandler
+Cohesion: 0.42
+Nodes (9): Hero Illustration 120px - Police Officers (Unused PNG), Hero Illustration - Polisi Muda Education (Unused JPG), Hero Photo - Indonesian Police Cadet (Unused JPG), Police Cap Icon (Unused PNG), Logo Black (Unused SVG), Logo Blue (Unused SVG), Logo Text (Unused SVG), Testimony Group Photo - Young Men (Unused PNG) (+1 more)
 
 ### Community 67 - "Community 67"
-Cohesion: 0.29
-Nodes (1): BankSoalService
+Cohesion: 0.25
+Nodes (1): AnswerHandler
 
 ### Community 68 - "Community 68"
 Cohesion: 0.25
-Nodes (7): CreateMaterialRequest, DeleteMaterialRequest, GetByCategoryMaterialRequest, GetByChapterMaterialRequest, GetByIDMaterialRequest, MaterialDTO, UpdateMaterialRequest
+Nodes (1): AnswerRepository
 
 ### Community 69 - "Community 69"
 Cohesion: 0.25
-Nodes (7): BankSoalEntry, BankSoalListRequest, BankSoalListResponse, BankSoalOption, BankSoalPackage, BankSoalSyncResponse, UpdateBankSoalRequest
+Nodes (1): PromoCodeHandler
 
 ### Community 70 - "Community 70"
 Cohesion: 0.25
-Nodes (7): AdminInvoiceRow, CreateInvoiceRequest, CreateInvoiceResponse, GetByIDInvoiceRequest, InvoiceDTO, PurchaseCoinsRequest, UpdateInvoiceRequest
+Nodes (1): PromoCodeRepository
 
 ### Community 71 - "Community 71"
-Cohesion: 0.32
-Nodes (3): Client, Info, extractJSONObject()
+Cohesion: 0.25
+Nodes (1): PromoCodeService
 
 ### Community 72 - "Community 72"
-Cohesion: 0.32
-Nodes (3): convertToBase64(), handleCreateGallery(), isValidUrl()
+Cohesion: 0.25
+Nodes (1): AnnouncementHandler
 
 ### Community 73 - "Community 73"
 Cohesion: 0.25
-Nodes (0): 
+Nodes (1): AnnouncementService
 
 ### Community 74 - "Community 74"
+Cohesion: 0.25
+Nodes (1): BankSoalHandler
+
+### Community 75 - "Community 75"
+Cohesion: 0.29
+Nodes (1): BankSoalService
+
+### Community 76 - "Community 76"
+Cohesion: 0.25
+Nodes (7): CreateMaterialRequest, DeleteMaterialRequest, GetByCategoryMaterialRequest, GetByChapterMaterialRequest, GetByIDMaterialRequest, MaterialDTO, UpdateMaterialRequest
+
+### Community 77 - "Community 77"
+Cohesion: 0.25
+Nodes (7): BankSoalEntry, BankSoalListRequest, BankSoalListResponse, BankSoalOption, BankSoalPackage, BankSoalSyncResponse, UpdateBankSoalRequest
+
+### Community 78 - "Community 78"
+Cohesion: 0.25
+Nodes (7): AdminInvoiceRow, CreateInvoiceRequest, CreateInvoiceResponse, GetByIDInvoiceRequest, InvoiceDTO, PurchaseCoinsRequest, UpdateInvoiceRequest
+
+### Community 79 - "Community 79"
+Cohesion: 0.32
+Nodes (3): Client, Info, extractJSONObject()
+
+### Community 80 - "Community 80"
+Cohesion: 0.32
+Nodes (3): convertToBase64(), handleCreateGallery(), isValidUrl()
+
+### Community 81 - "Community 81"
+Cohesion: 0.36
+Nodes (4): clamp100(), kecermatanScore(), nilaiPsikotes(), round1()
+
+### Community 82 - "Community 82"
+Cohesion: 0.25
+Nodes (0): 
+
+### Community 83 - "Community 83"
 Cohesion: 0.29
 Nodes (8): Full Logo - Polisi Muda Education, Hero Illustration - Police Characters, Police Cap Icon (Black, Large), Police Cap Icon (Black, Small), Polisi Muda Wordmark (Small), Polisi Muda Wordmark (Large), PM Coin - Gold Police Cap Coin, Student Testimonials Photo
 
-### Community 75 - "Community 75"
+### Community 84 - "Community 84"
 Cohesion: 0.38
 Nodes (1): NumberedCanvas
 
-### Community 76 - "Community 76"
+### Community 85 - "Community 85"
 Cohesion: 0.43
 Nodes (6): build_message(), get_one_sample(), main(), Get 1 random completed question with full explanation., Build a single question message — complete, no truncation., send_telegram()
 
-### Community 77 - "Community 77"
+### Community 86 - "Community 86"
+Cohesion: 0.29
+Nodes (1): FormRepository
+
+### Community 87 - "Community 87"
+Cohesion: 0.29
+Nodes (1): GalleryRepository
+
+### Community 88 - "Community 88"
 Cohesion: 0.29
 Nodes (1): NewsRepository
 
-### Community 78 - "Community 78"
+### Community 89 - "Community 89"
 Cohesion: 0.29
 Nodes (1): NewsService
 
-### Community 79 - "Community 79"
+### Community 90 - "Community 90"
 Cohesion: 0.29
 Nodes (6): AnswerDTO, CreateAnswerRequest, DeleteAnswerRequest, GetByIDAnswerRequest, GetByQuestionIDAnswerRequest, UpdateAnswerRequest
 
-### Community 80 - "Community 80"
+### Community 91 - "Community 91"
 Cohesion: 0.29
 Nodes (6): CreateUserAttemptRequest, DeleteUserAttemptRequest, GetByIDUserAttemptRequest, GetByUserIDUserAttemptRequest, UpdateUserAttemptRequest, UserAttemptDTO
 
-### Community 81 - "Community 81"
+### Community 92 - "Community 92"
 Cohesion: 0.29
 Nodes (6): AdminReferralUser, ApplyReferralRequest, ClaimLevelRequest, ReferralDiscountInfo, ReferralEntryDTO, ReferralInfoResponse
 
-### Community 82 - "Community 82"
+### Community 93 - "Community 93"
 Cohesion: 0.29
 Nodes (2): AuthMiddleware, SessionChecker
 
-### Community 83 - "Community 83"
+### Community 94 - "Community 94"
 Cohesion: 0.43
 Nodes (4): main(), NewGoogleOAuthConfig(), GoogleOAuthConfig, UserInfo
 
-### Community 84 - "Community 84"
+### Community 95 - "Community 95"
 Cohesion: 0.33
 Nodes (2): SidebarMenuButton(), useSidebar()
 
-### Community 85 - "Community 85"
+### Community 96 - "Community 96"
 Cohesion: 0.29
 Nodes (0): 
 
-### Community 86 - "Community 86"
-Cohesion: 0.33
-Nodes (2): fetchUsers(), handleGrantPremium()
-
-### Community 87 - "Community 87"
-Cohesion: 0.6
-Nodes (5): build_report(), get_last_status(), get_progress(), main(), send_telegram()
-
-### Community 88 - "Community 88"
-Cohesion: 0.6
-Nodes (5): build_report(), get_last_status(), get_progress(), main(), send_telegram()
-
-### Community 89 - "Community 89"
-Cohesion: 0.6
-Nodes (5): callMinimax(), generateQuestion(), generateUUID(), insertQuestion(), main()
-
-### Community 90 - "Community 90"
-Cohesion: 0.6
-Nodes (5): build_report(), get_progress(), get_samples(), main(), send_telegram()
-
-### Community 91 - "Community 91"
-Cohesion: 0.33
-Nodes (1): PsychologyChainHandler
-
-### Community 92 - "Community 92"
-Cohesion: 0.33
-Nodes (1): PsychologyChainRepository
-
-### Community 93 - "Community 93"
-Cohesion: 0.33
-Nodes (1): PsychologyChainService
-
-### Community 94 - "Community 94"
-Cohesion: 0.33
-Nodes (4): Config, host, minio, postgreSQL
-
-### Community 95 - "Community 95"
-Cohesion: 0.33
-Nodes (4): BankCategory, Subtest, Test, Track
-
-### Community 96 - "Community 96"
-Cohesion: 0.33
-Nodes (0): 
-
 ### Community 97 - "Community 97"
-Cohesion: 0.33
+Cohesion: 0.29
 Nodes (0): 
 
 ### Community 98 - "Community 98"
-Cohesion: 0.33
-Nodes (0): 
+Cohesion: 0.38
+Nodes (4): fetchUsers(), getBundleBadge(), getSubscriptionDaysDisplay(), handleGrantPremium()
 
 ### Community 99 - "Community 99"
-Cohesion: 0.33
-Nodes (0): 
+Cohesion: 0.6
+Nodes (5): build_report(), get_last_status(), get_progress(), main(), send_telegram()
 
 ### Community 100 - "Community 100"
-Cohesion: 0.4
-Nodes (2): fmt(), handleRedeem()
+Cohesion: 0.6
+Nodes (5): build_report(), get_last_status(), get_progress(), main(), send_telegram()
 
 ### Community 101 - "Community 101"
-Cohesion: 0.7
-Nodes (4): callMinimax(), generateQuestion(), insertQuestion(), main()
+Cohesion: 0.6
+Nodes (5): callMinimax(), generateQuestion(), generateUUID(), insertQuestion(), main()
 
 ### Community 102 - "Community 102"
-Cohesion: 0.7
-Nodes (4): buildPrompt(), callMinimax(), detectTemplate(), main()
+Cohesion: 0.6
+Nodes (5): build_report(), get_progress(), get_samples(), main(), send_telegram()
 
 ### Community 103 - "Community 103"
-Cohesion: 0.6
-Nodes (3): generateUUID(), getExplanation(), main()
+Cohesion: 0.33
+Nodes (1): PsychologyChainHandler
 
 ### Community 104 - "Community 104"
-Cohesion: 0.4
-Nodes (2): Test, TestCategory
+Cohesion: 0.33
+Nodes (1): PsychologyChainRepository
 
 ### Community 105 - "Community 105"
-Cohesion: 0.4
-Nodes (0): 
+Cohesion: 0.33
+Nodes (1): PsychologyChainService
 
 ### Community 106 - "Community 106"
-Cohesion: 0.4
-Nodes (0): 
+Cohesion: 0.33
+Nodes (1): FormAnswerRepository
 
 ### Community 107 - "Community 107"
-Cohesion: 0.4
-Nodes (0): 
+Cohesion: 0.33
+Nodes (4): Config, host, minio, postgreSQL
 
 ### Community 108 - "Community 108"
-Cohesion: 0.4
-Nodes (0): 
+Cohesion: 0.33
+Nodes (4): BankCategory, Subtest, Test, Track
 
 ### Community 109 - "Community 109"
-Cohesion: 0.4
+Cohesion: 0.33
 Nodes (0): 
 
 ### Community 110 - "Community 110"
-Cohesion: 0.5
-Nodes (2): answerStatus(), scoreLocally()
+Cohesion: 0.33
+Nodes (0): 
 
 ### Community 111 - "Community 111"
-Cohesion: 0.4
-Nodes (1): ApiError
+Cohesion: 0.33
+Nodes (0): 
 
 ### Community 112 - "Community 112"
-Cohesion: 0.4
-Nodes (1): ApiError
+Cohesion: 0.33
+Nodes (0): 
 
 ### Community 113 - "Community 113"
 Cohesion: 0.4
-Nodes (0): 
+Nodes (2): fmt(), handleRedeem()
 
 ### Community 114 - "Community 114"
-Cohesion: 0.4
+Cohesion: 0.33
 Nodes (0): 
 
 ### Community 115 - "Community 115"
 Cohesion: 0.7
-Nodes (4): fetch_(), handleCreate(), handleDelete(), handleToggle()
+Nodes (4): callMinimax(), generateQuestion(), insertQuestion(), main()
 
 ### Community 116 - "Community 116"
-Cohesion: 0.83
-Nodes (3): build_prompt(), call_minimax(), main()
+Cohesion: 0.7
+Nodes (4): buildPrompt(), callMinimax(), detectTemplate(), main()
 
 ### Community 117 - "Community 117"
-Cohesion: 0.83
-Nodes (3): callMinimax(), getPrompt(), main()
+Cohesion: 0.6
+Nodes (3): generateUUID(), getExplanation(), main()
 
 ### Community 118 - "Community 118"
-Cohesion: 0.83
-Nodes (3): callMinimax(), getPrompt(), main()
+Cohesion: 0.4
+Nodes (2): Test, TestCategory
 
 ### Community 119 - "Community 119"
-Cohesion: 0.83
-Nodes (3): callMinimax(), getPrompt(), main()
+Cohesion: 0.4
+Nodes (1): ErrorBoundary
 
 ### Community 120 - "Community 120"
-Cohesion: 0.5
-Nodes (1): AnalisisHandler
+Cohesion: 0.4
+Nodes (0): 
 
 ### Community 121 - "Community 121"
-Cohesion: 0.5
-Nodes (1): AnalisisService
+Cohesion: 0.4
+Nodes (0): 
 
 ### Community 122 - "Community 122"
-Cohesion: 0.5
-Nodes (3): LoginRequest, RegisterRequest, UserDTO
+Cohesion: 0.4
+Nodes (0): 
 
 ### Community 123 - "Community 123"
-Cohesion: 0.5
-Nodes (3): AnnouncementDTO, CreateAnnouncementRequest, UpdateAnnouncementRequest
+Cohesion: 0.4
+Nodes (0): 
 
 ### Community 124 - "Community 124"
-Cohesion: 0.5
-Nodes (1): GuideEntry
+Cohesion: 0.4
+Nodes (0): 
 
 ### Community 125 - "Community 125"
 Cohesion: 0.5
-Nodes (2): User, UserRole
+Nodes (2): answerStatus(), scoreLocally()
 
 ### Community 126 - "Community 126"
-Cohesion: 0.5
-Nodes (1): Question
+Cohesion: 0.4
+Nodes (1): ApiError
 
 ### Community 127 - "Community 127"
-Cohesion: 0.5
-Nodes (2): BundleSlug, Invoice
+Cohesion: 0.4
+Nodes (0): 
 
 ### Community 128 - "Community 128"
-Cohesion: 0.5
-Nodes (2): LiveTryout, LiveTryoutStatus
+Cohesion: 0.4
+Nodes (1): ApiError
 
 ### Community 129 - "Community 129"
-Cohesion: 0.5
+Cohesion: 0.4
 Nodes (0): 
 
 ### Community 130 - "Community 130"
-Cohesion: 0.5
-Nodes (0): 
+Cohesion: 0.7
+Nodes (4): fetch_(), handleCreate(), handleDelete(), handleToggle()
 
 ### Community 131 - "Community 131"
-Cohesion: 0.5
-Nodes (0): 
+Cohesion: 0.83
+Nodes (3): build_prompt(), call_minimax(), main()
 
 ### Community 132 - "Community 132"
-Cohesion: 0.5
-Nodes (0): 
+Cohesion: 0.83
+Nodes (3): callMinimax(), getPrompt(), main()
 
 ### Community 133 - "Community 133"
-Cohesion: 0.5
-Nodes (0): 
+Cohesion: 0.83
+Nodes (3): callMinimax(), getPrompt(), main()
 
 ### Community 134 - "Community 134"
-Cohesion: 0.5
-Nodes (0): 
+Cohesion: 0.83
+Nodes (3): callMinimax(), getPrompt(), main()
 
 ### Community 135 - "Community 135"
-Cohesion: 0.67
-Nodes (2): formatDate(), timeAgo()
+Cohesion: 0.5
+Nodes (1): Bangun SQL paket baru: Kecerdasan 11, Kepribadian 11, dan Live Tryout Psikotes 3
 
 ### Community 136 - "Community 136"
 Cohesion: 0.5
-Nodes (0): 
+Nodes (1): Simulasikan repairs.json terhadap DB lokal, lalu tulis repairs.sql (idempoten pe
 
 ### Community 137 - "Community 137"
 Cohesion: 0.5
-Nodes (0): 
+Nodes (4): Form Handler, Form Service, FormAnswer Handler, FormAnswer Service
 
 ### Community 138 - "Community 138"
 Cohesion: 0.5
-Nodes (0): 
+Nodes (1): AnalisisHandler
 
 ### Community 139 - "Community 139"
 Cohesion: 0.5
-Nodes (0): 
+Nodes (1): AnalisisService
 
 ### Community 140 - "Community 140"
 Cohesion: 0.5
-Nodes (0): 
+Nodes (3): LoginRequest, RegisterRequest, UserDTO
 
 ### Community 141 - "Community 141"
-Cohesion: 0.67
-Nodes (2): checkAnswer(), shuffleArray()
+Cohesion: 0.5
+Nodes (3): AnnouncementDTO, CreateAnnouncementRequest, UpdateAnnouncementRequest
 
 ### Community 142 - "Community 142"
-Cohesion: 1.0
-Nodes (2): build_batch(), main()
+Cohesion: 0.5
+Nodes (1): GuideEntry
 
 ### Community 143 - "Community 143"
-Cohesion: 1.0
-Nodes (2): callMinimax(), main()
+Cohesion: 0.5
+Nodes (2): User, UserRole
 
 ### Community 144 - "Community 144"
-Cohesion: 0.67
-Nodes (2): CreatePromoCodeRequest, PromoCodeDTO
+Cohesion: 0.5
+Nodes (1): Question
 
 ### Community 145 - "Community 145"
-Cohesion: 0.67
-Nodes (2): CreateFormAnswerRequest, FormAnswerDTO
+Cohesion: 0.5
+Nodes (2): BundleSlug, Invoice
 
 ### Community 146 - "Community 146"
-Cohesion: 0.67
-Nodes (2): UnlockDTO, UnlockedTestDTO
+Cohesion: 0.5
+Nodes (2): LiveTryout, LiveTryoutStatus
 
 ### Community 147 - "Community 147"
-Cohesion: 0.67
-Nodes (2): CreatePsychologyChainRequest, PsychologyChainDTO
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 148 - "Community 148"
-Cohesion: 0.67
-Nodes (2): AnalisisKategoriResponse, TipeSoalAnalisis
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 149 - "Community 149"
-Cohesion: 0.67
-Nodes (2): CreateFormRequest, FormDTO
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 150 - "Community 150"
-Cohesion: 0.67
-Nodes (2): CreateNewsRequest, NewsDTO
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 151 - "Community 151"
-Cohesion: 0.67
-Nodes (2): CreateGalleryRequest, GalleryDTO
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 152 - "Community 152"
-Cohesion: 0.67
+Cohesion: 0.5
 Nodes (0): 
 
 ### Community 153 - "Community 153"
 Cohesion: 0.67
-Nodes (1): PromoCode
+Nodes (2): formatDate(), timeAgo()
 
 ### Community 154 - "Community 154"
-Cohesion: 0.67
-Nodes (1): Answer
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 155 - "Community 155"
-Cohesion: 0.67
-Nodes (1): FormAnswer
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 156 - "Community 156"
-Cohesion: 0.67
-Nodes (1): Unlock
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 157 - "Community 157"
-Cohesion: 0.67
-Nodes (1): Material
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 158 - "Community 158"
-Cohesion: 0.67
-Nodes (1): UserAttempt
+Cohesion: 0.5
+Nodes (0): 
 
 ### Community 159 - "Community 159"
-Cohesion: 0.67
-Nodes (1): PsychologyChain
+Cohesion: 1.0
+Nodes (2): build_batch(), main()
 
 ### Community 160 - "Community 160"
-Cohesion: 0.67
-Nodes (1): Form
+Cohesion: 1.0
+Nodes (2): callMinimax(), main()
 
 ### Community 161 - "Community 161"
 Cohesion: 0.67
-Nodes (1): UserAnswer
+Nodes (2): CreatePromoCodeRequest, PromoCodeDTO
 
 ### Community 162 - "Community 162"
 Cohesion: 0.67
-Nodes (1): News
+Nodes (2): CreateFormAnswerRequest, FormAnswerDTO
 
 ### Community 163 - "Community 163"
 Cohesion: 0.67
-Nodes (1): Gallery
+Nodes (2): UnlockDTO, UnlockedTestDTO
 
 ### Community 164 - "Community 164"
 Cohesion: 0.67
-Nodes (1): APIError
+Nodes (2): CreatePsychologyChainRequest, PsychologyChainDTO
 
 ### Community 165 - "Community 165"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (2): AnalisisKategoriResponse, TipeSoalAnalisis
 
 ### Community 166 - "Community 166"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (2): CreateFormRequest, FormDTO
 
 ### Community 167 - "Community 167"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (2): CreateNewsRequest, NewsDTO
 
 ### Community 168 - "Community 168"
-Cohesion: 1.0
-Nodes (2): handleKeyPress(), handleRedeemCode()
+Cohesion: 0.67
+Nodes (2): CreateGalleryRequest, GalleryDTO
 
 ### Community 169 - "Community 169"
-Cohesion: 1.0
-Nodes (2): parsePembahasan(), Pembahasan()
+Cohesion: 0.67
+Nodes (0): 
 
 ### Community 170 - "Community 170"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): PromoCode
 
 ### Community 171 - "Community 171"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): Answer
 
 ### Community 172 - "Community 172"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): FormAnswer
 
 ### Community 173 - "Community 173"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): Unlock
 
 ### Community 174 - "Community 174"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): Material
 
 ### Community 175 - "Community 175"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): UserAttempt
 
 ### Community 176 - "Community 176"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): PsychologyChain
 
 ### Community 177 - "Community 177"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): Form
 
 ### Community 178 - "Community 178"
 Cohesion: 0.67
-Nodes (0): 
+Nodes (1): UserAnswer
 
 ### Community 179 - "Community 179"
-Cohesion: 1.0
-Nodes (0): 
+Cohesion: 0.67
+Nodes (1): News
 
 ### Community 180 - "Community 180"
-Cohesion: 1.0
-Nodes (0): 
+Cohesion: 0.67
+Nodes (1): Gallery
 
 ### Community 181 - "Community 181"
-Cohesion: 1.0
-Nodes (0): 
+Cohesion: 0.67
+Nodes (1): APIError
 
 ### Community 182 - "Community 182"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 183 - "Community 183"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 184 - "Community 184"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 185 - "Community 185"
 Cohesion: 1.0
-Nodes (1): LiveTryoutDTO
+Nodes (2): handleKeyPress(), handleRedeemCode()
 
 ### Community 186 - "Community 186"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (2): parsePembahasan(), Pembahasan()
 
 ### Community 187 - "Community 187"
-Cohesion: 1.0
-Nodes (1): ReferralEntry
+Cohesion: 0.67
+Nodes (0): 
 
 ### Community 188 - "Community 188"
-Cohesion: 1.0
-Nodes (1): Announcement
+Cohesion: 0.67
+Nodes (0): 
 
 ### Community 189 - "Community 189"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 190 - "Community 190"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 191 - "Community 191"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 192 - "Community 192"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 193 - "Community 193"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 194 - "Community 194"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 195 - "Community 195"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 196 - "Community 196"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 197 - "Community 197"
-Cohesion: 1.0
+Cohesion: 0.67
 Nodes (0): 
 
 ### Community 198 - "Community 198"
@@ -1205,7 +1232,7 @@ Nodes (0):
 
 ### Community 202 - "Community 202"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): Validasi semua file soal baru terhadap SPEC.md.
 
 ### Community 203 - "Community 203"
 Cohesion: 1.0
@@ -1217,11 +1244,11 @@ Nodes (0):
 
 ### Community 205 - "Community 205"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (2): Gallery Handler, Gallery Service
 
 ### Community 206 - "Community 206"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): LiveTryoutDTO
 
 ### Community 207 - "Community 207"
 Cohesion: 1.0
@@ -1229,11 +1256,11 @@ Nodes (0):
 
 ### Community 208 - "Community 208"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): ReferralEntry
 
 ### Community 209 - "Community 209"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): Announcement
 
 ### Community 210 - "Community 210"
 Cohesion: 1.0
@@ -1445,7 +1472,7 @@ Nodes (0):
 
 ### Community 262 - "Community 262"
 Cohesion: 1.0
-Nodes (1): ESLint Config
+Nodes (0): 
 
 ### Community 263 - "Community 263"
 Cohesion: 1.0
@@ -1517,7 +1544,7 @@ Nodes (0):
 
 ### Community 280 - "Community 280"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): Answer Service
 
 ### Community 281 - "Community 281"
 Cohesion: 1.0
@@ -1525,246 +1552,370 @@ Nodes (0):
 
 ### Community 282 - "Community 282"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): News Handler
 
 ### Community 283 - "Community 283"
 Cohesion: 1.0
-Nodes (0): 
+Nodes (1): Material Service
 
 ### Community 284 - "Community 284"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 285 - "Community 285"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 286 - "Community 286"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 287 - "Community 287"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 288 - "Community 288"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 289 - "Community 289"
+Cohesion: 1.0
+Nodes (1): ESLint Config
+
+### Community 290 - "Community 290"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 291 - "Community 291"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 292 - "Community 292"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 293 - "Community 293"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 294 - "Community 294"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 295 - "Community 295"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 296 - "Community 296"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 297 - "Community 297"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 298 - "Community 298"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 299 - "Community 299"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 300 - "Community 300"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 301 - "Community 301"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 302 - "Community 302"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 303 - "Community 303"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 304 - "Community 304"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 305 - "Community 305"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 306 - "Community 306"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 307 - "Community 307"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 308 - "Community 308"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 309 - "Community 309"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 310 - "Community 310"
+Cohesion: 1.0
+Nodes (0): 
+
+### Community 311 - "Community 311"
 Cohesion: 1.0
 Nodes (1): Frontend README
 
 ## Knowledge Gaps
-- **179 isolated node(s):** `Parse number string - handle Indonesian (1.234,567) and English (1234.567) forma`, `Extract all number tokens from description.`, `Silogisme / logika deduksi`, `FPB / pembagi bersama terbesar`, `KPK / kelipatan persekutuan terkecil` (+174 more)
+- **201 isolated node(s):** `Parse number string - handle Indonesian (1.234,567) and English (1234.567) forma`, `Extract all number tokens from description.`, `Silogisme / logika deduksi`, `FPB / pembagi bersama terbesar`, `KPK / kelipatan persekutuan terkecil` (+196 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **Thin community `Community 179`** (2 nodes): `generate_docx()`, `gen_docx.py`
+- **Thin community `Community 198`** (2 nodes): `generate_docx()`, `gen_docx.py`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 180`** (2 nodes): `fix_k9.js`, `main()`
+- **Thin community `Community 199`** (2 nodes): `fix_k9.js`, `main()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 181`** (2 nodes): `update_explanation.js`, `main()`
+- **Thin community `Community 200`** (2 nodes): `update_explanation.js`, `main()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 182`** (2 nodes): `test_api.js`, `main()`
+- **Thin community `Community 201`** (2 nodes): `test_api.js`, `main()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 183`** (2 nodes): `runMigrations()`, `migrate.go`
+- **Thin community `Community 202`** (2 nodes): `validate.py`, `Validasi semua file soal baru terhadap SPEC.md.`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 184`** (2 nodes): `main()`, `main.go`
+- **Thin community `Community 203`** (2 nodes): `runMigrations()`, `migrate.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 185`** (2 nodes): `LiveTryoutDTO`, `livetryout.go`
+- **Thin community `Community 204`** (2 nodes): `main()`, `main.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 186`** (2 nodes): `NewDB()`, `pgxpool.go`
+- **Thin community `Community 205`** (2 nodes): `Gallery Handler`, `Gallery Service`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 187`** (2 nodes): `ReferralEntry`, `referral.go`
+- **Thin community `Community 206`** (2 nodes): `LiveTryoutDTO`, `livetryout.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 188`** (2 nodes): `Announcement`, `announcement.go`
+- **Thin community `Community 207`** (2 nodes): `NewDB()`, `pgxpool.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 189`** (2 nodes): `send.go`, `Send()`
+- **Thin community `Community 208`** (2 nodes): `ReferralEntry`, `referral.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 190`** (2 nodes): `App()`, `App.tsx`
+- **Thin community `Community 209`** (2 nodes): `Announcement`, `announcement.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 191`** (2 nodes): `Label()`, `label.tsx`
+- **Thin community `Community 210`** (2 nodes): `send.go`, `Send()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 192`** (2 nodes): `sonner.tsx`, `Toaster()`
+- **Thin community `Community 211`** (2 nodes): `App()`, `App.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 193`** (2 nodes): `tooltip.tsx`, `TooltipContent()`
+- **Thin community `Community 212`** (2 nodes): `Label()`, `label.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 194`** (2 nodes): `Badge()`, `badge.tsx`
+- **Thin community `Community 213`** (2 nodes): `sonner.tsx`, `Toaster()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 195`** (2 nodes): `separator.tsx`, `Separator()`
+- **Thin community `Community 214`** (2 nodes): `tooltip.tsx`, `TooltipContent()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 196`** (2 nodes): `cn()`, `button.tsx`
+- **Thin community `Community 215`** (2 nodes): `Badge()`, `badge.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 197`** (2 nodes): `Checkbox()`, `checkbox.tsx`
+- **Thin community `Community 216`** (2 nodes): `separator.tsx`, `Separator()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 198`** (2 nodes): `Collapsible()`, `collapsible.tsx`
+- **Thin community `Community 217`** (2 nodes): `cn()`, `button.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 199`** (2 nodes): `textarea.tsx`, `cn()`
+- **Thin community `Community 218`** (2 nodes): `Checkbox()`, `checkbox.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 200`** (2 nodes): `Input()`, `input.tsx`
+- **Thin community `Community 219`** (2 nodes): `Collapsible()`, `collapsible.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 201`** (2 nodes): `skeleton.tsx`, `Skeleton()`
+- **Thin community `Community 220`** (2 nodes): `textarea.tsx`, `cn()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 202`** (2 nodes): `AppSidebarAdmin()`, `app-sidebar-admin.tsx`
+- **Thin community `Community 221`** (2 nodes): `Input()`, `input.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 203`** (2 nodes): `score-calculator.tsx`, `ScoreCalculator()`
+- **Thin community `Community 222`** (2 nodes): `skeleton.tsx`, `Skeleton()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 204`** (2 nodes): `site-header-admin.tsx`, `SiteHeaderAdmin()`
+- **Thin community `Community 223`** (2 nodes): `AppSidebarAdmin()`, `app-sidebar-admin.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 205`** (2 nodes): `FormSubmission()`, `form-submission.tsx`
+- **Thin community `Community 224`** (2 nodes): `score-calculator.tsx`, `ScoreCalculator()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 206`** (2 nodes): `CoinBank()`, `coin-bank.tsx`
+- **Thin community `Community 225`** (2 nodes): `site-header-admin.tsx`, `SiteHeaderAdmin()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 207`** (2 nodes): `LiveTryoutCardMobile()`, `live-tryout-card-mobile.tsx`
+- **Thin community `Community 226`** (2 nodes): `FormSubmission()`, `form-submission.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 208`** (2 nodes): `handleClose()`, `coin-apology-popup.tsx`
+- **Thin community `Community 227`** (2 nodes): `CoinBank()`, `coin-bank.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 209`** (2 nodes): `MainContentAdmin()`, `main-content-admin.tsx`
+- **Thin community `Community 228`** (2 nodes): `LiveTryoutCardMobile()`, `live-tryout-card-mobile.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 210`** (2 nodes): `CoinPurchasePopup()`, `coin-purchase-popup.tsx`
+- **Thin community `Community 229`** (2 nodes): `handleClose()`, `coin-apology-popup.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 211`** (2 nodes): `LiveTryoutCard()`, `live-tryout-card.tsx`
+- **Thin community `Community 230`** (2 nodes): `MainContentAdmin()`, `main-content-admin.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 212`** (2 nodes): `question-navigator.tsx`, `QuestionNavigator()`
+- **Thin community `Community 231`** (2 nodes): `CoinPurchasePopup()`, `coin-purchase-popup.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 213`** (2 nodes): `PersonalityTestCreator()`, `personality-test-creator.tsx`
+- **Thin community `Community 232`** (2 nodes): `LiveTryoutCard()`, `live-tryout-card.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 214`** (2 nodes): `handleLogout()`, `logout-section.tsx`
+- **Thin community `Community 233`** (2 nodes): `question-navigator.tsx`, `QuestionNavigator()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 215`** (2 nodes): `subscription-info.tsx`, `isActive()`
+- **Thin community `Community 234`** (2 nodes): `PersonalityTestCreator()`, `personality-test-creator.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 216`** (2 nodes): `profile-form.tsx`, `onSubmit()`
+- **Thin community `Community 235`** (2 nodes): `super-admin-header.tsx`, `AdminHeader()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 217`** (2 nodes): `profile-tabs.tsx`, `ProfileTabs()`
+- **Thin community `Community 236`** (2 nodes): `handleLogout()`, `logout-section.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 218`** (2 nodes): `loadArticles()`, `news-section.tsx`
+- **Thin community `Community 237`** (2 nodes): `subscription-info.tsx`, `isActive()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 219`** (2 nodes): `use-local-storage.ts`, `useLocalStorage()`
+- **Thin community `Community 238`** (2 nodes): `profile-form.tsx`, `onSubmit()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 220`** (2 nodes): `use-mobile.ts`, `useIsMobile()`
+- **Thin community `Community 239`** (2 nodes): `profile-tabs.tsx`, `ProfileTabs()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 221`** (2 nodes): `use-gallery.ts`, `useGallery()`
+- **Thin community `Community 240`** (2 nodes): `loadArticles()`, `news-section.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 222`** (2 nodes): `use-cookie.ts`, `getCookie()`
+- **Thin community `Community 241`** (2 nodes): `use-local-storage.ts`, `useLocalStorage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 223`** (2 nodes): `renderIcon()`, `icons.tsx`
+- **Thin community `Community 242`** (2 nodes): `use-mobile.ts`, `useIsMobile()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 224`** (2 nodes): `GooglePage()`, `GooglePage.tsx`
+- **Thin community `Community 243`** (2 nodes): `use-gallery.ts`, `useGallery()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 225`** (2 nodes): `TransitPage.tsx`, `TransitPage()`
+- **Thin community `Community 244`** (2 nodes): `use-cookie.ts`, `getCookie()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 226`** (2 nodes): `getStatus()`, `MiniTryoutReviewPage.tsx`
+- **Thin community `Community 245`** (2 nodes): `renderIcon()`, `icons.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 227`** (2 nodes): `SuperadminReferralPage.tsx`, `formatRp()`
+- **Thin community `Community 246`** (2 nodes): `symbols.ts`, `isKnownSymbol()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 228`** (2 nodes): `AdminPage()`, `AdminPage.tsx`
+- **Thin community `Community 247`** (2 nodes): `getPictogram()`, `pictograms.ts`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 229`** (2 nodes): `SuperadminFormsPage.tsx`, `SuperadminFormsPage()`
+- **Thin community `Community 248`** (2 nodes): `GooglePage()`, `GooglePage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 230`** (2 nodes): `loadArticles()`, `NewsListPage.tsx`
+- **Thin community `Community 249`** (2 nodes): `TransitPage.tsx`, `TransitPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 231`** (2 nodes): `SuperadminGalleryPage.tsx`, `SuperadminGalleryPage()`
+- **Thin community `Community 250`** (2 nodes): `getStatus()`, `MiniTryoutReviewPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 232`** (2 nodes): `SuperadminPromoPage.tsx`, `SuperadminPromoPage()`
+- **Thin community `Community 251`** (2 nodes): `SuperadminReferralPage.tsx`, `formatRp()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 233`** (2 nodes): `ProfilePage.tsx`, `ProfilePage()`
+- **Thin community `Community 252`** (2 nodes): `AdminPage()`, `AdminPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 234`** (2 nodes): `CreateTestPage()`, `CreateTestPage.tsx`
+- **Thin community `Community 253`** (2 nodes): `SuperadminFormsPage.tsx`, `SuperadminFormsPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 235`** (2 nodes): `SuperadminTestCreatorPage.tsx`, `TestCreatorPage()`
+- **Thin community `Community 254`** (2 nodes): `loadArticles()`, `NewsListPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 236`** (2 nodes): `scrollCallback()`, `OldLandingPage.tsx`
+- **Thin community `Community 255`** (2 nodes): `SuperadminGalleryPage.tsx`, `SuperadminGalleryPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 237`** (2 nodes): `SalesPremiumPage.tsx`, `purchasePackage()`
+- **Thin community `Community 256`** (2 nodes): `SuperadminPromoPage.tsx`, `SuperadminPromoPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 238`** (2 nodes): `SuperadminFormsAnswersPage.tsx`, `SuperadminFormAnswersPage()`
+- **Thin community `Community 257`** (2 nodes): `ProfilePage.tsx`, `ProfilePage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 239`** (2 nodes): `SolutionReviewPage.tsx`, `getStatus()`
+- **Thin community `Community 258`** (2 nodes): `CreateTestPage()`, `CreateTestPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 240`** (2 nodes): `CreatePersonalityTestPage()`, `CreatePersonalityTestPage.tsx`
+- **Thin community `Community 259`** (2 nodes): `SuperadminTestCreatorPage.tsx`, `TestCreatorPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 241`** (2 nodes): `SuperadminDashboard.tsx`, `fetchAll()`
+- **Thin community `Community 260`** (2 nodes): `scrollCallback()`, `OldLandingPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 242`** (2 nodes): `AdminPage()`, `ImageConverter.tsx`
+- **Thin community `Community 261`** (2 nodes): `SalesPremiumPage.tsx`, `purchasePackage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 243`** (2 nodes): `CreateNewsPage()`, `CreateNewsPage.tsx`
+- **Thin community `Community 262`** (2 nodes): `SuperadminFormsAnswersPage.tsx`, `SuperadminFormAnswersPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 244`** (2 nodes): `countAvailable()`, `KatalogTesPage.tsx`
+- **Thin community `Community 263`** (2 nodes): `SolutionReviewPage.tsx`, `getStatus()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 245`** (2 nodes): `SuperadminAISoalPage.tsx`, `SuperadminAISoalPage()`
+- **Thin community `Community 264`** (2 nodes): `CreatePersonalityTestPage()`, `CreatePersonalityTestPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 246`** (2 nodes): `AccuracyTestResultsPage()`, `AccuracyTestResultsPage.tsx`
+- **Thin community `Community 265`** (2 nodes): `SuperadminDashboard.tsx`, `fetchAll()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 247`** (2 nodes): `RedeemPage.tsx`, `RedeemPage()`
+- **Thin community `Community 266`** (2 nodes): `AdminPage()`, `ImageConverter.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 248`** (2 nodes): `SuperadminMaterialsPage.tsx`, `SuperadminMaterialsPage()`
+- **Thin community `Community 267`** (2 nodes): `CreateNewsPage()`, `CreateNewsPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 249`** (2 nodes): `FormSubmissionPage()`, `FormSubmissionPage.tsx`
+- **Thin community `Community 268`** (2 nodes): `countAvailable()`, `KatalogTesPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 250`** (2 nodes): `ComingSoonPage()`, `ComingSoonPage.tsx`
+- **Thin community `Community 269`** (2 nodes): `SuperadminAISoalPage.tsx`, `SuperadminAISoalPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 251`** (2 nodes): `SuperadminNewsPage.tsx`, `loadArticles()`
+- **Thin community `Community 270`** (2 nodes): `AccuracyTestResultsPage()`, `AccuracyTestResultsPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 252`** (2 nodes): `ScoreCalculatorPage.tsx`, `ScoreCalculatorPage()`
+- **Thin community `Community 271`** (2 nodes): `RedeemPage.tsx`, `RedeemPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 253`** (2 nodes): `HomePage()`, `HomePage.tsx`
+- **Thin community `Community 272`** (2 nodes): `SuperadminMaterialsPage.tsx`, `SuperadminMaterialsPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 254`** (1 nodes): `test_batch.py`
+- **Thin community `Community 273`** (2 nodes): `FormSubmissionPage()`, `FormSubmissionPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 255`** (1 nodes): `embed.go`
+- **Thin community `Community 274`** (2 nodes): `ComingSoonPage()`, `ComingSoonPage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 256`** (1 nodes): `banktree.go`
+- **Thin community `Community 275`** (2 nodes): `SuperadminNewsPage.tsx`, `loadArticles()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 257`** (1 nodes): `status.go`
+- **Thin community `Community 276`** (2 nodes): `ScoreCalculatorPage.tsx`, `ScoreCalculatorPage()`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 258`** (1 nodes): `aisoal.go`
+- **Thin community `Community 277`** (2 nodes): `HomePage()`, `HomePage.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 259`** (1 nodes): `user.go`
+- **Thin community `Community 278`** (1 nodes): `test_batch.py`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 260`** (1 nodes): `livetryout.go`
+- **Thin community `Community 279`** (1 nodes): `embed.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 261`** (1 nodes): `payment.go`
+- **Thin community `Community 280`** (1 nodes): `Answer Service`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 262`** (1 nodes): `ESLint Config`
+- **Thin community `Community 281`** (1 nodes): `banktree.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 263`** (1 nodes): `vite.config.ts`
+- **Thin community `Community 282`** (1 nodes): `News Handler`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 264`** (1 nodes): `main.tsx`
+- **Thin community `Community 283`** (1 nodes): `Material Service`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 265`** (1 nodes): `vite-env.d.ts`
+- **Thin community `Community 284`** (1 nodes): `status.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 266`** (1 nodes): `news.ts`
+- **Thin community `Community 285`** (1 nodes): `aisoal.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 267`** (1 nodes): `user.ts`
+- **Thin community `Community 286`** (1 nodes): `user.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 268`** (1 nodes): `progress.tsx`
+- **Thin community `Community 287`** (1 nodes): `livetryout.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 269`** (1 nodes): `switch.tsx`
+- **Thin community `Community 288`** (1 nodes): `payment.go`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 270`** (1 nodes): `site-header.tsx`
+- **Thin community `Community 289`** (1 nodes): `ESLint Config`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 271`** (1 nodes): `announcement-banner.tsx`
+- **Thin community `Community 290`** (1 nodes): `vite.config.ts`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 272`** (1 nodes): `app-sidebar.tsx`
+- **Thin community `Community 291`** (1 nodes): `main.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 273`** (1 nodes): `solution-question-card.tsx`
+- **Thin community `Community 292`** (1 nodes): `vite-env.d.ts`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 274`** (1 nodes): `test-card.tsx`
+- **Thin community `Community 293`** (1 nodes): `news.ts`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 275`** (1 nodes): `question-card.tsx`
+- **Thin community `Community 294`** (1 nodes): `user.ts`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 276`** (1 nodes): `gallery-controls.tsx`
+- **Thin community `Community 295`** (1 nodes): `progress.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 277`** (1 nodes): `super-admin-sidebar.tsx`
+- **Thin community `Community 296`** (1 nodes): `switch.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 278`** (1 nodes): `MiniTryoutResultsPage.tsx`
+- **Thin community `Community 297`** (1 nodes): `site-header.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 279`** (1 nodes): `PsychologyPage.tsx`
+- **Thin community `Community 298`** (1 nodes): `announcement-banner.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 280`** (1 nodes): `AcademicPage.tsx`
+- **Thin community `Community 299`** (1 nodes): `app-sidebar.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 281`** (1 nodes): `ResultsPage.tsx`
+- **Thin community `Community 300`** (1 nodes): `solution-question-card.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 282`** (1 nodes): `KetrampilanPage.tsx`
+- **Thin community `Community 301`** (1 nodes): `test-card.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 283`** (1 nodes): `LiveTryoutListPage.tsx`
+- **Thin community `Community 302`** (1 nodes): `question-card.tsx`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
-- **Thin community `Community 284`** (1 nodes): `Frontend README`
+- **Thin community `Community 303`** (1 nodes): `gallery-controls.tsx`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 304`** (1 nodes): `super-admin-sidebar.tsx`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 305`** (1 nodes): `kecermatan-gallery.tsx`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 306`** (1 nodes): `MiniTryoutResultsPage.tsx`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 307`** (1 nodes): `PsychologyPage.tsx`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 308`** (1 nodes): `AcademicPage.tsx`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 309`** (1 nodes): `ResultsPage.tsx`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 310`** (1 nodes): `KetrampilanPage.tsx`
+  Too small to be a meaningful cluster - may be noise or needs more connections extracted.
+- **Thin community `Community 311`** (1 nodes): `Frontend README`
   Too small to be a meaningful cluster - may be noise or needs more connections extracted.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
 - **What connects `Parse number string - handle Indonesian (1.234,567) and English (1234.567) forma`, `Extract all number tokens from description.`, `Silogisme / logika deduksi` to the rest of the system?**
-  _179 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _201 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
   _Cohesion score 0.07 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
-  _Cohesion score 0.06 - nodes in this community are weakly interconnected._
-- **Should `Community 2` be split into smaller, more focused modules?**
-  _Cohesion score 0.12 - nodes in this community are weakly interconnected._
-- **Should `Community 3` be split into smaller, more focused modules?**
-  _Cohesion score 0.09 - nodes in this community are weakly interconnected._
-- **Should `Community 4` be split into smaller, more focused modules?**
-  _Cohesion score 0.09 - nodes in this community are weakly interconnected._
-- **Should `Community 7` be split into smaller, more focused modules?**
   _Cohesion score 0.1 - nodes in this community are weakly interconnected._
+- **Should `Community 2` be split into smaller, more focused modules?**
+  _Cohesion score 0.07 - nodes in this community are weakly interconnected._
+- **Should `Community 3` be split into smaller, more focused modules?**
+  _Cohesion score 0.07 - nodes in this community are weakly interconnected._
+- **Should `Community 4` be split into smaller, more focused modules?**
+  _Cohesion score 0.06 - nodes in this community are weakly interconnected._
+- **Should `Community 5` be split into smaller, more focused modules?**
+  _Cohesion score 0.12 - nodes in this community are weakly interconnected._
