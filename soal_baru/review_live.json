@@ -1,0 +1,16 @@
+[
+  {
+    "file": "VRB_A_L.json",
+    "index": 17,
+    "severity": "minor",
+    "issue": "Kriteria 'cara pembentukan kata' bisa digugat: radar dan laser masuk ke bahasa Indonesia sebagai kata serapan utuh (akronimnya dibentuk dalam bahasa Inggris), sama seperti kurir. Peserta yang kritis bisa mengelompokkan {radar, laser, kurir} = serapan dan {tilang, rudal} = akronim bahasa Indonesia, sehingga tidak ada satu kata yang jelas berbeda. Kunci (D) kurir tetap satu-satunya jawaban dengan kriteria 'berasal dari akronim', jadi tidak fatal. Selain itu, kepanjangan radar yang lazim adalah 'radio detection and ranging', bukan 'detecting'.",
+    "suggested_fix": "Ganti radar dan laser dengan akronim bahasa Indonesia (misalnya: humas – tilang – kurir – rudal – sidak), atau tambahkan keterangan bahwa akronim asing juga dihitung. Di pembahasan, ubah 'radio detecting and ranging' menjadi 'radio detection and ranging'."
+  },
+  {
+    "file": "NUM_B_L.json",
+    "index": 4,
+    "severity": "minor",
+    "issue": "Kalimat 'Banyak anggota Regu A lebih banyak daripada banyak anggota Regu B' mengulang kata 'banyak' sehingga kaku dan tidak baku. Kunci (A) P < Q sudah benar.",
+    "suggested_fix": "Ubah menjadi: 'Jumlah anggota Regu A lebih banyak daripada jumlah anggota Regu B, tetapi jumlah pastinya tidak diketahui.'"
+  }
+]

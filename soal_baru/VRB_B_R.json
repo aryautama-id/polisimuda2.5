@@ -1,0 +1,512 @@
+[
+  {
+    "sub_material_code": "VRB-09",
+    "description": "Dalam sebuah persidangan perkara pidana diketahui hal-hal berikut.\n(1) Semua saksi ahli adalah orang yang memiliki sertifikasi keahlian.\n(2) Tidak ada orang yang memiliki hubungan keluarga dengan terdakwa yang menjadi saksi ahli.\n(3) Sebagian orang yang memiliki sertifikasi keahlian memiliki hubungan keluarga dengan terdakwa.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Tidak ada orang yang memiliki sertifikasi keahlian yang menjadi saksi ahli.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian orang yang memiliki sertifikasi keahlian bukan saksi ahli.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Semua orang bersertifikasi keahlian yang tidak memiliki hubungan keluarga dengan terdakwa adalah saksi ahli.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian orang yang memiliki hubungan keluarga dengan terdakwa tidak memiliki sertifikasi keahlian.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian saksi ahli memiliki hubungan keluarga dengan terdakwa.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- E = saksi ahli; S = memiliki sertifikasi keahlian; F = memiliki hubungan keluarga dengan terdakwa.\n- (1) E ⊆ S; (2) F∩E kosong; (3) S∩F tidak kosong.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Ambil z dari premis (3): z ∈ S dan z ∈ F.\n2. Karena z ∈ F, menurut premis (2) z ∉ E.\n3. Jadi ada anggota S yang bukan E: \"Sebagian orang bersertifikasi keahlian bukan saksi ahli\" (bentuk O, partikular negatif).\n4. Diagram: E di dalam S; F memotong S tetapi tidak menyentuh E. Daerah S∩F selalu berada di luar E pada setiap gambar yang sah.\n5. Simpulan bersifat partikular karena premis (3) partikular, dan bersifat negatif karena premis (2) negatif; kedua aturan silogisme kategoris terpenuhi.\nJadi, jawaban yang tepat adalah (B) Sebagian orang yang memiliki sertifikasi keahlian bukan saksi ahli.\nMengapa opsi lain kurang tepat:\n- (A) Generalisasi berlebihan: premis hanya menjamin bagian S∩F berada di luar E. Bagian lain S tetap boleh berisi saksi ahli (memang E ⊆ S).\n- (C) Konvers ilegal: premis menyatakan saksi ahli pasti bersertifikasi, bukan bahwa setiap orang bersertifikasi tanpa hubungan keluarga pasti menjadi saksi ahli.\n- (D) Premis (3) hanya menyebut sebagian S adalah F; bisa saja semua F memiliki sertifikasi. Pembalikan \"sebagian S adalah F\" menjadi \"sebagian F bukan S\" tidak sah.\n- (E) Pasti salah: premis (2) menyatakan F dan E tidak beririsan sama sekali.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-09",
+    "description": "Diketahui premis-premis berikut.\n(1) Semua penjinak bom adalah anggota Gegana.\n(2) Semua anggota Gegana telah lulus uji kesamaptaan tingkat lanjut.\n(3) Tidak ada personel yang memiliki riwayat cedera lutut berat yang lulus uji kesamaptaan tingkat lanjut.\n(4) Sebagian anggota Gegana adalah lulusan Akpol.\n(5) Dimas adalah personel yang memiliki riwayat cedera lutut berat.\n\nPernyataan yang pasti benar tentang Dimas atau kelompoknya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Dimas bukan lulusan Akpol.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Dimas anggota Gegana, tetapi bukan penjinak bom.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Dimas lulusan Akpol yang bukan anggota Gegana.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Dimas bukan anggota Gegana dan bukan penjinak bom.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Semua personel yang bukan anggota Gegana memiliki riwayat cedera lutut berat.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- J = penjinak bom; G = anggota Gegana; U = lulus uji kesamaptaan tingkat lanjut; C = memiliki riwayat cedera lutut berat; K = lulusan Akpol.\n- (1) J ⊆ G; (2) G ⊆ U; (3) C∩U kosong; (4) G∩K tidak kosong; (5) Dimas ∈ C.\n\nDITANYAKAN:\nPernyataan yang pasti benar.\n\nJAWAB:\n1. Rantai universal: J ⊆ G ⊆ U, sehingga dalam bentuk implikasi J → G → U.\n2. Premis (3): C → ~U. Dimas ∈ C, maka Dimas ∉ U.\n3. Modus tollens pada G → U: Dimas ∉ U ⊢ Dimas ∉ G.\n4. Modus tollens pada J → G: Dimas ∉ G ⊢ Dimas ∉ J.\n5. Jadi Dimas bukan anggota Gegana dan bukan penjinak bom. Premis (4) tentang lulusan Akpol tidak memberi informasi tentang Dimas karena Dimas berada di luar G.\nJadi, jawaban yang tepat adalah (D) Dimas bukan anggota Gegana dan bukan penjinak bom.\nMengapa opsi lain kurang tepat:\n- (A) Status Akpol Dimas tidak ditentukan. Premis (4) hanya tentang anggota Gegana, sedangkan Dimas bukan anggota Gegana; ia bisa lulusan Akpol atau bukan.\n- (B) Bagian \"anggota Gegana\" bertentangan dengan langkah 3.\n- (C) Bagian \"bukan anggota Gegana\" benar, tetapi bagian \"lulusan Akpol\" tidak dapat dipastikan. Konjungsi hanya pasti benar jika kedua bagiannya pasti benar.\n- (E) Konvers dari kontraposisi: premis hanya menjamin C → ~G, bukan ~G → C. Bisa ada personel non-Gegana yang tidak cedera.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-09",
+    "description": "Diketahui premis-premis berikut.\n(1) Sebagian anggota Ditpolairud adalah penyelam bersertifikat.\n(2) Tidak ada penyelam bersertifikat yang memiliki riwayat gangguan telinga.\n(3) Semua personel yang memiliki riwayat gangguan telinga dibebastugaskan dari operasi bawah air.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Sebagian anggota Ditpolairud tidak memiliki riwayat gangguan telinga.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Sebagian anggota Ditpolairud tidak dibebastugaskan dari operasi bawah air.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada penyelam bersertifikat yang dibebastugaskan dari operasi bawah air.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian anggota Ditpolairud memiliki riwayat gangguan telinga.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua anggota Ditpolairud yang bukan penyelam bersertifikat memiliki riwayat gangguan telinga.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- A = anggota Ditpolairud; P = penyelam bersertifikat; T = memiliki riwayat gangguan telinga; B = dibebastugaskan dari operasi bawah air.\n- (1) A∩P tidak kosong; (2) P∩T kosong; (3) T ⊆ B.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Ambil w dari (1): w ∈ A dan w ∈ P.\n2. Dari (2): w ∈ P, maka w ∉ T. Jadi \"Sebagian A bukan T\" pasti benar.\n3. Perhatikan premis (3) T → B. Dari w ∉ T tidak dapat disimpulkan w ∉ B; itu penolakan anteseden. Orang dapat dibebastugaskan karena alasan lain.\n4. Diagram tandingan: B dibuat sangat luas sehingga mencakup seluruh A (termasuk w). Semua premis tetap terpenuhi, sehingga klaim apa pun tentang \"tidak dibebastugaskan\" gugur.\n5. Hanya simpulan pada langkah 2 yang bertahan di semua diagram sah.\nJadi, jawaban yang tepat adalah (A) Sebagian anggota Ditpolairud tidak memiliki riwayat gangguan telinga.\nMengapa opsi lain kurang tepat:\n- (B) Penolakan anteseden: dari \"tidak punya gangguan telinga\" tidak dapat disimpulkan \"tidak dibebastugaskan\", karena B bisa lebih luas daripada T.\n- (C) Sesat pikir yang sama dengan (B), bahkan digeneralisasi ke semua penyelam bersertifikat.\n- (D) Premis tidak menjamin ada anggota Ditpolairud yang memiliki riwayat gangguan telinga; T bahkan bisa kosong.\n- (E) Tidak ada premis yang mengatur anggota non-penyelam; mereka boleh punya riwayat gangguan telinga atau tidak.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-10",
+    "description": "Ketentuan penanganan pelanggaran kode etik di sebuah satuan:\n(1) Sidang kode etik digelar jika dan hanya jika berkas pemeriksaan Propam dinyatakan lengkap.\n(2) Jika keterangan pelapor dan keterangan terlapor sudah diambil, maka berkas pemeriksaan Propam dinyatakan lengkap.\n(3) Keterangan pelapor sudah diambil.\n(4) Sidang kode etik tidak digelar.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Berkas pemeriksaan Propam dinyatakan lengkap.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Keterangan pelapor belum diambil.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Keterangan terlapor sudah diambil, tetapi berkas pemeriksaan belum dinyatakan lengkap.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak dapat dipastikan apakah keterangan terlapor sudah diambil.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Berkas pemeriksaan belum dinyatakan lengkap dan keterangan terlapor belum diambil.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- s = sidang digelar; l = berkas lengkap; p = keterangan pelapor diambil; t = keterangan terlapor diambil.\n- (1) s ↔ l; (2) (p ∧ t) → l; (3) p; (4) ~s.\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Biimplikasi (1) berarti s → l dan l → s. Dari ~s dan l → s, modus tollens: ~l. Berkas belum lengkap.\n2. Modus tollens pada (2): (p ∧ t) → l, ~l ⊢ ~(p ∧ t) ≡ ~p ∨ ~t.\n3. Silogisme disjungtif dengan (3): ~p ∨ ~t, p ⊢ ~t. Keterangan terlapor belum diambil.\n4. Jadi ~l ∧ ~t pasti benar.\n5. Uji tabel kebenaran: dari 16 baris, hanya baris s = S, l = S, p = B, t = S yang memenuhi semua premis.\nJadi, jawaban yang tepat adalah (E) Berkas pemeriksaan belum dinyatakan lengkap dan keterangan terlapor belum diambil.\nMengapa opsi lain kurang tepat:\n- (A) Bertentangan dengan langkah 1. Pada biimplikasi, jika sidang tidak digelar, berkas pasti belum lengkap.\n- (B) Bertentangan langsung dengan premis (3).\n- (C) Jika t benar bersama p, premis (2) memaksa l benar; jadi pilihan ini melanggar premis.\n- (D) Peserta yang hanya membaca (1) sebagai \"jika\" satu arah (s → l) tidak dapat menurunkan ~l dari ~s, lalu terjebak di sini. Dengan biimplikasi, nilai t dapat dipastikan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-10",
+    "description": "Prosedur pengamanan gudang barang bukti menetapkan:\n(1) Jika alarm gudang berbunyi, maka petugas jaga melapor ke pos komando.\n(2) Jika ada penyusup di gudang, maka alarm gudang berbunyi atau anjing pelacak menggonggong.\n(3) Petugas jaga melapor ke pos komando.\n(4) Anjing pelacak tidak menggonggong.\n\nPernyataan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Alarm gudang berbunyi.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Ada penyusup di gudang.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika ada penyusup di gudang, maka alarm gudang berbunyi.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada penyusup di gudang.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada pernyataan pada pilihan lain yang pasti benar.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- a = alarm berbunyi; p = petugas melapor; s = ada penyusup; g = anjing menggonggong.\n- (1) a → p; (2) s → (a ∨ g); (3) p; (4) ~g.\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nPernyataan yang pasti benar.\n\nJAWAB:\n1. Premis (1) dan (3): a → p, p. Menyimpulkan a dari sini adalah sesat pikir afirmasi konsekuen; petugas bisa melapor karena hal lain. Jadi a tidak diketahui.\n2. Karena a tidak diketahui, s juga tidak diketahui. Model a = S, s = S dan model a = B, s = B sama-sama memenuhi premis.\n3. Namun premis (2) dapat disederhanakan dengan (4): s → (a ∨ g) dan ~g. Untuk setiap keadaan, jika s benar maka a ∨ g benar, dan karena g salah, a harus benar.\n4. Jadi s → a berlaku pada setiap model premis (silogisme disjungtif di dalam konsekuen). Pernyataan \"Jika ada penyusup, maka alarm berbunyi\" pasti benar.\n5. Uji tabel kebenaran 16 baris: pada setiap baris yang memenuhi premis tidak ada baris dengan s = B dan a = S.\nJadi, jawaban yang tepat adalah (C) Jika ada penyusup di gudang, maka alarm gudang berbunyi.\nMengapa opsi lain kurang tepat:\n- (A) Afirmasi konsekuen: dari a → p dan p tidak dapat disimpulkan a.\n- (B) Tidak ada premis yang memastikan keberadaan penyusup; model s = S memenuhi semua premis.\n- (D) Juga tidak pasti: model s = B, a = B, p = B, g = S memenuhi semua premis.\n- (E) Gugur karena s → a terbukti benar pada setiap model premis (langkah 3–4).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-10",
+    "description": "Pembagian tugas pengamanan arus mudik:\n(1) Bripka Dodi bertugas di pos pengamanan atau di posko kesehatan, tetapi tidak di keduanya.\n(2) Jika Bripka Dodi bertugas di posko kesehatan, maka Briptu Sari bertugas di pos pengamanan.\n(3) Jika Bripka Dodi bertugas di pos pengamanan, maka Aipda Joko bertugas di posko kesehatan.\n(4) Briptu Sari tidak bertugas di pos pengamanan.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Bripka Dodi bertugas di pos pengamanan dan Aipda Joko bertugas di posko kesehatan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Bripka Dodi bertugas di posko kesehatan dan Aipda Joko tidak bertugas di posko kesehatan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bripka Dodi bertugas di pos pengamanan, tetapi Aipda Joko tidak bertugas di posko kesehatan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bripka Dodi tidak bertugas di pos pengamanan maupun di posko kesehatan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak dapat dipastikan tempat tugas Bripka Dodi.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- d = Dodi di pos pengamanan; k = Dodi di posko kesehatan; s = Sari di pos pengamanan; j = Joko di posko kesehatan.\n- (1) d ⊕ k (atau eksklusif: tepat satu benar); (2) k → s; (3) d → j; (4) ~s.\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Modus tollens pada (2) dan (4): k → s, ~s ⊢ ~k. Dodi tidak di posko kesehatan.\n2. Silogisme disjungtif eksklusif pada (1): tepat satu dari d, k benar; karena ~k, maka d. Dodi di pos pengamanan.\n3. Modus ponens pada (3): d, d → j ⊢ j. Joko di posko kesehatan.\n4. Jadi d ∧ j pasti benar.\n5. Uji tabel kebenaran: dari 16 baris hanya d = B, k = S, s = S, j = B yang memenuhi keempat premis.\nJadi, jawaban yang tepat adalah (A) Bripka Dodi bertugas di pos pengamanan dan Aipda Joko bertugas di posko kesehatan.\nMengapa opsi lain kurang tepat:\n- (B) Bertentangan dengan langkah 1 (Dodi tidak mungkin di posko kesehatan).\n- (C) Bagian pertama benar, tetapi bagian kedua bertentangan dengan modus ponens pada langkah 3.\n- (D) Melanggar premis (1): Dodi harus berada di tepat satu tempat.\n- (E) Tempat Dodi dapat dipastikan melalui modus tollens yang dilanjutkan silogisme disjungtif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-11",
+    "description": "Perhatikan pernyataan berikut.\n\"Setiap tersangka yang ditahan lebih dari 1 × 24 jam didampingi penasihat hukum atau keluarganya diberi tahu.\"\n\nIngkaran dari pernyataan tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Setiap tersangka yang ditahan lebih dari 1 × 24 jam tidak didampingi penasihat hukum dan keluarganya tidak diberi tahu.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Ada tersangka yang ditahan lebih dari 1 × 24 jam yang tidak didampingi penasihat hukum atau keluarganya tidak diberi tahu.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Ada tersangka yang ditahan tidak lebih dari 1 × 24 jam yang tidak didampingi penasihat hukum dan keluarganya tidak diberi tahu.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Ada tersangka yang ditahan lebih dari 1 × 24 jam yang tidak didampingi penasihat hukum dan keluarganya pun tidak diberi tahu.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Setiap tersangka yang tidak didampingi penasihat hukum dan keluarganya tidak diberi tahu ditahan tidak lebih dari 1 × 24 jam.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Untuk setiap tersangka x: H(x) = ditahan lebih dari 1 × 24 jam; D(x) = didampingi penasihat hukum; K(x) = keluarganya diberi tahu.\n- Pernyataan asal: ∀x [H(x) → (D(x) ∨ K(x))].\n\nDITANYAKAN:\nIngkaran pernyataan berkuantor tersebut.\n\nJAWAB:\n1. Ingkaran kuantor universal: ~∀x P(x) ≡ ∃x ~P(x). \"Setiap\" berubah menjadi \"ada\".\n2. Ingkaran implikasi di dalamnya: ~(H → (D ∨ K)) ≡ H ∧ ~(D ∨ K).\n3. De Morgan: ~(D ∨ K) ≡ ~D ∧ ~K.\n4. Hasil: ∃x [H(x) ∧ ~D(x) ∧ ~K(x)] = \"Ada tersangka yang ditahan lebih dari 1 × 24 jam yang tidak didampingi penasihat hukum dan keluarganya pun tidak diberi tahu.\"\n5. Verifikasi dengan semua 256 kemungkinan diagram Venn tiga himpunan (H, D, K): bentuk langkah 4 selalu bernilai kebalikan dari pernyataan asal.\nJadi, jawaban yang tepat adalah (D) Ada tersangka yang ditahan lebih dari 1 × 24 jam yang tidak didampingi penasihat hukum dan keluarganya pun tidak diberi tahu.\nMengapa opsi lain kurang tepat:\n- (A) Kuantor tidak diubah (masih \"setiap\"). Ini pernyataan kontrer, bukan ingkaran; keduanya bisa sama-sama salah.\n- (B) De Morgan keliru (~D ∨ ~K). Tersangka yang didampingi penasihat hukum tetapi keluarganya tidak diberi tahu tidak melanggar pernyataan asal.\n- (C) Syarat \"ditahan lebih dari 1 × 24 jam\" ikut diingkar. Tersangka yang ditahan singkat tidak diatur oleh pernyataan asal.\n- (E) Ini kontraposisi pernyataan asal (∀x [(~D ∧ ~K) → ~H]), sehingga senilai dengan pernyataan asal, bukan ingkarannya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-11",
+    "description": "Diketahui ketentuan berikut.\n\"Seorang anggota boleh membawa senjata api dinas di luar jam tugas hanya jika ia memiliki surat izin pimpinan dan lulus tes psikologi tahunan.\"\n\nPernyataan yang senilai dengan ketentuan tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Jika seorang anggota memiliki surat izin pimpinan dan lulus tes psikologi tahunan, maka ia boleh membawa senjata api dinas di luar jam tugas.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang anggota tidak memiliki surat izin pimpinan atau tidak lulus tes psikologi tahunan, maka ia tidak boleh membawa senjata api dinas di luar jam tugas.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang anggota tidak memiliki surat izin pimpinan dan tidak lulus tes psikologi tahunan, maka ia tidak boleh membawa senjata api dinas di luar jam tugas.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Seorang anggota tidak boleh membawa senjata api dinas di luar jam tugas, atau ia memiliki surat izin pimpinan atau lulus tes psikologi tahunan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang anggota tidak boleh membawa senjata api dinas di luar jam tugas, maka ia tidak memiliki surat izin pimpinan atau tidak lulus tes psikologi tahunan.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- b = boleh membawa senjata api dinas di luar jam tugas; i = memiliki surat izin pimpinan; t = lulus tes psikologi tahunan.\n- \"b hanya jika (i ∧ t)\" dibaca b → (i ∧ t); syarat i ∧ t adalah syarat perlu, bukan syarat cukup.\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nPernyataan yang senilai dengan b → (i ∧ t).\n\nJAWAB:\n1. Kontraposisi: b → (i ∧ t) ≡ ~(i ∧ t) → ~b.\n2. De Morgan: ~(i ∧ t) ≡ ~i ∨ ~t.\n3. Hasil: (~i ∨ ~t) → ~b = \"Jika tidak memiliki surat izin pimpinan atau tidak lulus tes psikologi tahunan, maka tidak boleh membawa senjata api dinas di luar jam tugas.\"\n4. Makna praktis: cukup satu syarat tidak terpenuhi untuk membuat anggota tidak boleh membawa senjata.\n5. Uji tabel kebenaran 8 baris: pernyataan asal dan bentuk langkah 3 sama-sama hanya salah pada tiga baris dengan b = B dan (i ∧ t) = S, sehingga senilai.\nJadi, jawaban yang tepat adalah (B) Jika seorang anggota tidak memiliki surat izin pimpinan atau tidak lulus tes psikologi tahunan, maka ia tidak boleh membawa senjata api dinas di luar jam tugas.\nMengapa opsi lain kurang tepat:\n- (A) Konvers ((i ∧ t) → b). Mengubah syarat perlu menjadi syarat cukup; baris b = S, i = B, t = B membedakannya.\n- (C) Anteseden ~i ∧ ~t terlalu sempit. Baris b = B, i = B, t = S melanggar ketentuan asal, tetapi pilihan ini tetap benar.\n- (D) ~b ∨ i ∨ t ≡ b → (i ∨ t): cukup salah satu syarat terpenuhi. Lebih longgar daripada ketentuan asal.\n- (E) Invers (~b → ~(i ∧ t)), yang senilai dengan konvers, bukan dengan ketentuan asal.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-11",
+    "description": "Perhatikan pernyataan berikut.\n\"Tidak benar bahwa SIM diterbitkan jika dan hanya jika peserta lulus ujian praktik.\"\n\nPernyataan yang senilai dengan pernyataan tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "SIM tidak diterbitkan jika dan hanya jika peserta tidak lulus ujian praktik.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "SIM diterbitkan padahal peserta tidak lulus ujian praktik.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika peserta lulus ujian praktik, maka SIM tidak diterbitkan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "SIM diterbitkan dan peserta lulus ujian praktik, atau SIM tidak diterbitkan dan peserta tidak lulus ujian praktik.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "SIM diterbitkan padahal peserta tidak lulus ujian praktik, atau peserta lulus ujian praktik tetapi SIM tidak diterbitkan.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- s = SIM diterbitkan; l = peserta lulus ujian praktik.\n- Pernyataan: ~(s ↔ l).\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nPernyataan yang senilai dengan ~(s ↔ l).\n\nJAWAB:\n1. s ↔ l ≡ (s → l) ∧ (l → s). Biimplikasi benar jika s dan l bernilai sama.\n2. Ingkarannya: ~(s ↔ l) ≡ ~(s → l) ∨ ~(l → s) (De Morgan).\n3. ~(s → l) ≡ s ∧ ~l dan ~(l → s) ≡ l ∧ ~s.\n4. Hasil: (s ∧ ~l) ∨ (l ∧ ~s): \"SIM diterbitkan padahal peserta tidak lulus, atau peserta lulus tetapi SIM tidak diterbitkan.\" Inilah keadaan ketika s dan l bernilai berbeda.\n5. Tabel kebenaran: ~(s ↔ l) bernilai B tepat pada baris (s, l) = (B, S) dan (S, B); bentuk langkah 4 juga hanya B pada kedua baris itu.\nJadi, jawaban yang tepat adalah (E) SIM diterbitkan padahal peserta tidak lulus ujian praktik, atau peserta lulus ujian praktik tetapi SIM tidak diterbitkan.\nMengapa opsi lain kurang tepat:\n- (A) ~s ↔ ~l senilai dengan s ↔ l (pernyataan sebelum diingkar), bukan ingkarannya.\n- (B) Hanya satu ruas ingkaran (s ∧ ~l). Baris s = S, l = B juga membuat ingkaran benar, tetapi pilihan ini salah.\n- (C) l → ~s bernilai B pada baris s = S, l = S, padahal ~(s ↔ l) bernilai S pada baris itu.\n- (D) Ini penjabaran s ↔ l itu sendiri (kedua nilai sama), kebalikan dari yang ditanyakan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-12",
+    "description": "Diketahui premis-premis berikut (urutannya sengaja diacak).\n(1) Semua instruktur selam adalah penyelam tim SAR.\n(2) Tidak ada perokok aktif yang lulus tes fungsi paru.\n(3) Semua penyelam tim SAR memiliki lisensi selam tingkat lanjut.\n(4) Sebagian relawan adalah perokok aktif.\n(5) Semua pemegang lisensi selam tingkat lanjut telah lulus tes fungsi paru.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Tidak ada relawan yang menjadi penyelam tim SAR.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian penyelam tim SAR adalah relawan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian relawan bukan instruktur selam.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Semua yang lulus tes fungsi paru adalah penyelam tim SAR.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian relawan adalah instruktur selam.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- I = instruktur selam; S = penyelam tim SAR; L = pemegang lisensi selam tingkat lanjut; P = lulus tes fungsi paru; R = perokok aktif; V = relawan.\n- (1) I ⊆ S; (2) R∩P kosong; (3) S ⊆ L; (4) V∩R tidak kosong; (5) L ⊆ P.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Susun premis universal menjadi rantai: (1) I ⊆ S, (3) S ⊆ L, (5) L ⊆ P. Jadi I ⊆ S ⊆ L ⊆ P (empat lingkaran bersarang).\n2. Premis (2): R berada di luar P, sehingga R juga di luar L, S, dan I.\n3. Premis (4): ada v dengan v ∈ V dan v ∈ R.\n4. Karena v ∈ R, maka v ∉ P, v ∉ L, v ∉ S, dan v ∉ I (modus tollens berantai).\n5. Jadi \"Sebagian relawan bukan instruktur selam\" pasti benar. Simpulan ini partikular dan negatif, mengikuti premis (4) yang partikular dan premis (2) yang negatif.\nJadi, jawaban yang tepat adalah (C) Sebagian relawan bukan instruktur selam.\nMengapa opsi lain kurang tepat:\n- (A) Generalisasi berlebihan: hanya relawan yang perokok yang pasti bukan penyelam tim SAR. Relawan bukan perokok masih mungkin penyelam tim SAR.\n- (B) Tidak dijamin: premis tidak memastikan ada relawan di dalam S.\n- (D) Konvers ilegal dari rantai S ⊆ L ⊆ P. Dari \"semua S lulus tes paru\" tidak dapat disimpulkan \"semua yang lulus tes paru adalah S\".\n- (E) Tidak dijamin; relawan yang diketahui (perokok) justru pasti bukan instruktur.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-12",
+    "description": "Dalam rencana kontinjensi banjir sebuah Polres diketahui hal-hal berikut.\n(1) Jika curah hujan melewati ambang batas, maka status siaga dinaikkan.\n(2) Status siaga tidak dinaikkan kecuali posko darurat telah didirikan.\n(3) Jika posko darurat didirikan, maka personel cadangan dipanggil.\n(4) Personel cadangan tidak dipanggil jika anggaran operasional belum cair.\n(5) Jika status siaga dinaikkan, maka sekolah di wilayah rawan diliburkan.\n(6) Anggaran operasional belum cair.\n\nPernyataan yang nilai kebenarannya TIDAK dapat dipastikan dari premis-premis tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Sekolah di wilayah rawan tidak diliburkan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Curah hujan tidak melewati ambang batas.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Posko darurat tidak didirikan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Status siaga dinaikkan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Personel cadangan dipanggil.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- h = curah hujan melewati ambang batas; s = status siaga dinaikkan; d = posko darurat didirikan; c = personel cadangan dipanggil; a = anggaran sudah cair; l = sekolah diliburkan.\n- (1) h → s; (2) \"tidak s kecuali d\" = s → d; (3) d → c; (4) ~a → ~c; (5) s → l; (6) ~a.\n\nDITANYAKAN:\nPernyataan yang nilainya tidak dapat ditentukan (bisa benar, bisa salah).\n\nJAWAB:\n1. Modus ponens (6) dan (4): ~a ⊢ ~c. Personel cadangan tidak dipanggil.\n2. Rantai (1)–(2)–(3): h → s → d → c. Modus tollens berantai dari ~c: ~d, lalu ~s, lalu ~h.\n3. Jadi c salah, d salah, s salah, dan h salah; semuanya sudah pasti nilainya.\n4. Premis (5) s → l. Karena s salah, implikasi ini benar untuk l bernilai apa pun. Menyimpulkan ~l dari ~s adalah sesat pikir penolakan anteseden.\n5. Jadi l (dan ingkarannya, \"sekolah tidak diliburkan\") tidak dapat dipastikan. Tabel kebenaran menyisakan tepat dua baris yang memenuhi premis, yang hanya berbeda pada nilai l.\nJadi, jawaban yang tepat adalah (A) Sekolah di wilayah rawan tidak diliburkan.\nMengapa opsi lain kurang tepat:\n- (B) Nilainya pasti benar (~h) melalui modus tollens berantai pada langkah 2.\n- (C) Nilainya pasti benar (~d), karena d → c dan ~c.\n- (D) Nilainya pasti salah (s salah), jadi nilainya dapat dipastikan.\n- (E) Nilainya pasti salah, karena premis (4) dan (6) memastikan ~c.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-12",
+    "description": "Diketahui premis-premis berikut.\n(1) Semua anggota yang ditugaskan ke Satgas Pangan pernah mengikuti pelatihan audit distribusi.\n(2) Setiap peserta pelatihan audit distribusi menandatangani pakta integritas.\n(3) Semua penanda tangan pakta integritas telah menyerahkan laporan harta kekayaan.\n(4) Bripda Lukas belum menyerahkan laporan harta kekayaan.\n(5) Bripda Nanda ditugaskan ke Satgas Pangan.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Bripda Lukas pernah mengikuti pelatihan audit distribusi, tetapi belum menandatangani pakta integritas.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bripda Nanda belum menandatangani pakta integritas.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua yang telah menyerahkan laporan harta kekayaan pernah ditugaskan ke Satgas Pangan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bripda Nanda telah menyerahkan laporan harta kekayaan, sedangkan Bripda Lukas tidak ditugaskan ke Satgas Pangan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Bripda Lukas tidak ditugaskan ke Satgas Pangan, tetapi ia pernah mengikuti pelatihan audit distribusi.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- G = ditugaskan ke Satgas Pangan; A = pernah ikut pelatihan audit distribusi; P = menandatangani pakta integritas; H = telah menyerahkan laporan harta kekayaan.\n- (1) G → A; (2) A → P; (3) P → H; (4) ~H(Lukas); (5) G(Nanda).\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Silogisme hipotetik berantai: G → A → P → H, sehingga G → H.\n2. Untuk Nanda, modus ponens berantai: G(Nanda) ⊢ A ⊢ P ⊢ H. Nanda telah menyerahkan laporan harta kekayaan.\n3. Untuk Lukas, modus tollens berantai: ~H(Lukas) ⊢ ~P ⊢ ~A ⊢ ~G. Lukas tidak menandatangani pakta, tidak ikut pelatihan, dan tidak ditugaskan ke Satgas Pangan.\n4. Gabungan langkah 2 dan 3: \"Nanda telah menyerahkan laporan harta kekayaan, sedangkan Lukas tidak ditugaskan ke Satgas Pangan\" pasti benar.\n5. Diagram: G di dalam A di dalam P di dalam H. Nanda berada di lingkaran terdalam; Lukas berada di luar lingkaran terluar (H).\nJadi, jawaban yang tepat adalah (D) Bripda Nanda telah menyerahkan laporan harta kekayaan, sedangkan Bripda Lukas tidak ditugaskan ke Satgas Pangan.\nMengapa opsi lain kurang tepat:\n- (A) Bertentangan dengan langkah 3: Lukas tidak mungkin pernah ikut pelatihan (A → P → H, sedangkan ~H).\n- (B) Bertentangan dengan langkah 2.\n- (C) Konvers ilegal dari rantai G → H. Bisa ada anggota lain yang menyerahkan laporan tanpa pernah ditugaskan ke Satgas Pangan.\n- (E) Bagian pertama benar, tetapi bagian \"pernah mengikuti pelatihan\" bertentangan dengan langkah 3.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-13",
+    "description": "Evaluasi pengamanan kawasan publik di sebuah kota menghasilkan data berikut.\n(1) Semua pos polisi yang dilengkapi kamera pengawas mencatat penurunan laporan pencopetan.\n(2) Sebagian pos polisi di terminal dilengkapi kamera pengawas.\n(3) Tidak ada pos polisi di pasar tradisional yang mencatat penurunan laporan pencopetan.\n\nSimpulan yang TIDAK melebihi isi data tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Pemasangan kamera pengawas menyebabkan turunnya laporan pencopetan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua pos polisi di terminal mencatat penurunan laporan pencopetan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Pos polisi yang mencatat penurunan laporan pencopetan pasti dilengkapi kamera pengawas.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Pos polisi di pasar tradisional perlu dipasangi kamera pengawas agar laporan pencopetan turun.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian pos polisi yang mencatat penurunan laporan pencopetan berada di terminal.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- K = pos berkamera; T = mencatat penurunan laporan pencopetan; R = pos di terminal; P = pos di pasar tradisional.\n- (1) K ⊆ T; (2) R∩K tidak kosong; (3) P∩T kosong.\n\nDITANYAKAN:\nSimpulan yang seluruhnya didukung data, tanpa klaim tambahan (kausal, normatif, atau kuantor yang dinaikkan).\n\nJAWAB:\n1. Ambil pos q dari (2): q ∈ R dan q ∈ K.\n2. Dari (1), q ∈ T. Jadi ada pos yang mencatat penurunan sekaligus berada di terminal: \"Sebagian T adalah R\" (konversi sah dari \"sebagian R adalah T\").\n3. Data hanya menyatakan hubungan keanggotaan (K selalu disertai T), bukan hubungan sebab-akibat. Penurunan bisa disebabkan faktor lain, misalnya patroli yang ditambah.\n4. Data juga hanya bersifat deskriptif; klaim \"perlu\" atau \"agar\" adalah rekomendasi yang tidak tercakup dalam premis.\n5. Diagram tandingan untuk pilihan berkuantor: T boleh lebih luas daripada K, dan pos terminal tanpa kamera boleh berada di luar T. Keduanya tidak melanggar premis.\nJadi, jawaban yang tepat adalah (E) Sebagian pos polisi yang mencatat penurunan laporan pencopetan berada di terminal.\nMengapa opsi lain kurang tepat:\n- (A) Melebihi data: premis (1) menunjukkan keterkaitan, bukan kausalitas. Ini lompatan dari korelasi ke sebab-akibat.\n- (B) Overgeneralisasi \"sebagian\" menjadi \"semua\": pos terminal tanpa kamera tidak diatur oleh data.\n- (C) Konvers ilegal dari (1): K ⊆ T tidak berarti T ⊆ K.\n- (D) Klaim normatif sekaligus kausal (\"perlu ... agar turun\") yang tidak terdapat dalam data. Data hanya memastikan pos pasar tidak berkamera (P → ~T → ~K), bukan bahwa kamera akan menurunkan laporan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-13",
+    "description": "Hasil operasi gabungan uji emisi dan penertiban kendaraan:\n(1) Tidak ada kendaraan yang lolos uji emisi yang ditilang dalam operasi gabungan.\n(2) Sebagian kendaraan dinas lolos uji emisi.\n(3) Semua kendaraan yang ditilang dalam operasi gabungan didata ulang oleh Samsat.\n(4) Sebagian kendaraan dinas ditilang dalam operasi gabungan.\n\nSimpulan yang MELEBIHI isi premis (tidak dapat dipastikan kebenarannya) adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Sebagian kendaraan dinas tidak ditilang dalam operasi gabungan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada kendaraan yang lolos uji emisi yang didata ulang oleh Samsat.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Sebagian kendaraan dinas didata ulang oleh Samsat.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian kendaraan dinas tidak lolos uji emisi.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian kendaraan yang didata ulang oleh Samsat tidak lolos uji emisi.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- E = lolos uji emisi; T = ditilang dalam operasi gabungan; S = didata ulang Samsat; D = kendaraan dinas.\n- (1) E∩T kosong; (2) D∩E tidak kosong; (3) T ⊆ S; (4) D∩T tidak kosong.\n\nDITANYAKAN:\nSatu-satunya simpulan yang tidak dijamin premis.\n\nJAWAB:\n1. Ambil u dari (2): u ∈ D, u ∈ E. Dari (1), u ∉ T. Maka \"sebagian kendaraan dinas tidak ditilang\" pasti benar.\n2. Ambil v dari (4): v ∈ D, v ∈ T. Dari (3), v ∈ S, sehingga \"sebagian kendaraan dinas didata ulang\" pasti benar.\n3. Kendaraan v juga ∈ T sehingga menurut (1) v ∉ E. Maka \"sebagian kendaraan dinas tidak lolos uji emisi\" dan \"sebagian kendaraan yang didata ulang tidak lolos uji emisi\" pasti benar.\n4. Pernyataan \"Tidak ada kendaraan lolos uji emisi yang didata ulang\" memakai pola: E → ~T dan T → S, lalu disimpulkan E → ~S. Ini penolakan anteseden pada T → S: kendaraan yang tidak ditilang tetap bisa didata ulang Samsat karena alasan lain (misalnya mutasi kendaraan).\n5. Diagram tandingan: S dibuat mencakup seluruh E dan T. Semua premis terpenuhi, tetapi ada kendaraan lolos emisi yang didata ulang. Jadi pilihan ini melebihi premis.\nJadi, jawaban yang tepat adalah (B) Tidak ada kendaraan yang lolos uji emisi yang didata ulang oleh Samsat.\nMengapa opsi lain kurang tepat:\n- (A) Pasti benar menurut langkah 1.\n- (C) Pasti benar menurut langkah 2.\n- (D) Pasti benar menurut langkah 3 (kendaraan dinas yang ditilang tidak lolos uji emisi).\n- (E) Pasti benar menurut langkah 3 (kendaraan v didata ulang dan tidak lolos uji emisi).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-13",
+    "description": "Laporan pelatihan menembak sebuah Polres:\n(1) Pelatihan diikuti 120 peserta, dan 90 peserta di antaranya memperoleh nilai di atas 80.\n(2) Semua peserta yang memperoleh nilai di atas 80 dinyatakan lulus.\n(3) Sebanyak 25 peserta berasal dari Polsek Kota, dan tidak ada satu pun dari mereka yang memperoleh nilai di atas 80.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Semua peserta dari Polsek Kota tidak lulus.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tepat 90 peserta dinyatakan lulus.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tepat 5 peserta dari luar Polsek Kota tidak memperoleh nilai di atas 80.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Sebanyak 30 peserta tidak lulus.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua peserta dari luar Polsek Kota memperoleh nilai di atas 80.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Total peserta 120; peserta bernilai > 80 = 90 orang; semua peserta bernilai > 80 lulus (> 80 → lulus).\n- Peserta Polsek Kota = 25 orang, dan tidak ada yang bernilai > 80.\n\nDITANYAKAN:\nSimpulan yang pasti benar, tanpa menambah asumsi.\n\nJAWAB:\n1. Peserta bernilai tidak di atas 80 = 120 − 90 = 30 orang.\n2. Ke-25 peserta Polsek Kota seluruhnya termasuk dalam 30 orang tersebut (karena tidak ada yang > 80).\n3. Peserta dari luar Polsek Kota yang tidak > 80 = 30 − 25 = 5 orang. Angka ini pasti (tepat 5), bukan perkiraan.\n4. Premis (2) hanya menyatakan > 80 → lulus. Peserta bernilai ≤ 80 bisa lulus atau tidak (premis tidak mengatur), sehingga jumlah peserta lulus berada di antara 90 dan 120.\n5. Enumerasi semua kemungkinan (banyak peserta Kota yang lulus 0–25, banyak peserta non-Kota bernilai ≤ 80 yang lulus 0–5) menunjukkan hanya simpulan \"tepat 5\" yang selalu benar.\nJadi, jawaban yang tepat adalah (C) Tepat 5 peserta dari luar Polsek Kota tidak memperoleh nilai di atas 80.\nMengapa opsi lain kurang tepat:\n- (A) Penolakan anteseden: dari \"> 80 → lulus\" dan \"Kota tidak > 80\" tidak dapat disimpulkan Kota tidak lulus. Batas lulus bisa lebih rendah dari 80.\n- (B) Melebihi premis: 90 hanyalah batas bawah. Peserta bernilai ≤ 80 masih mungkin lulus.\n- (D) Mengandaikan semua peserta bernilai ≤ 80 tidak lulus (invers premis (2)); jumlah tidak lulus sebenarnya antara 0 dan 30.\n- (E) Pasti salah: menurut langkah 3 ada tepat 5 peserta non-Kota yang tidak memperoleh nilai di atas 80.",
+    "difficulty": "sulit"
+  }
+]

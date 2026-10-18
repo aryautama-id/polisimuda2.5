@@ -1,0 +1,614 @@
+[
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya bintara di urusan administrasi sebuah polsek. Pukul 13.00 Kanit meminta rekap data kecelakaan lalu lintas bulan ini untuk rapat pukul 16.00 (perkiraan pengerjaan 2 jam). Pada saat yang sama Kasi Humas meminta draf rilis kegiatan untuk diunggah sore ini (perkiraan 1 jam). Lalu seorang warga datang mengambil surat keterangan kehilangan yang kemarin saya janjikan selesai hari ini; surat itu tinggal dicetak dan ditandatangani, kira-kira 10 menit. Tindakan yang paling tepat saya ambil adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menyampaikan kepada Kanit bahwa permintaan datang bersamaan dari beberapa pihak, lalu memohon beliau menentukan urutan yang harus didahulukan dan memaklumi bila ada pekerjaan yang terlambat karena keterbatasan waktu.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mengerjakan rekap kecelakaan lebih dahulu karena ditunggu pimpinan untuk rapat, lalu menyelesaikan surat warga dan draf rilis sesudahnya secepat mungkin.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengerjakan ketiganya secara bergantian sedikit demi sedikit, misalnya beberapa menit untuk rekap lalu beralih ke draf rilis dan surat warga, agar setiap pihak melihat ada kemajuan dan tidak ada yang merasa diabaikan sama sekali.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menyelesaikan surat warga lebih dulu karena hanya 10 menit dan sudah dijanjikan, lalu mengerjakan rekap untuk rapat, dan memberi tahu Kasi Humas bahwa draf rilis menyusul selepas rekap.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Meminta warga datang kembali besok dengan penjelasan bahwa hari ini ada tugas mendesak dari pimpinan, lalu memusatkan perhatian pada rekap dan draf rilis.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rekap laka: tenggat pukul 16.00 untuk rapat, butuh sekitar 2 jam.\n- Draf rilis Humas: diminta sore ini, butuh sekitar 1 jam.\n- Surat warga: sudah dijanjikan hari ini, hanya butuh sekitar 10 menit.\n- Waktu tersedia sejak pukul 13.00 tidak cukup untuk mengerjakan semuanya serentak.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nUrutan tindakan yang paling profesional ketika tiga permintaan datang bersamaan.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-06 Pengambilan keputusan dan SKR-01 Kecepatan kerja, yaitu menyusun prioritas secara cepat dan beralasan.\n2. Prinsip acuan: penetapan prioritas — urgensi, dampak terhadap keselamatan dan masyarakat, serta komitmen yang sudah dijanjikan; Tribrata butir ketiga — senantiasa melindungi, mengayomi, dan melayani masyarakat dengan keikhlasan.\n3. Pembeda antaropsi: opsi terbaik menyelesaikan semua kewajiban dengan urutan yang beralasan dan mengomunikasikan tugas yang harus menunggu, bukan sekadar memilih satu tugas.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (D) — 5 poin: Urutan disusun berdasarkan durasi, tenggat, dan janji kepada warga, dan tugas yang menunggu dikomunikasikan; tanggung jawab penuh dan pelayanan prima.\n   (B) — 4 poin: Tenggat terdekat diperhatikan, tetapi warga dibuat menunggu sekitar dua jam untuk pekerjaan 10 menit yang sudah dijanjikan, dan Kasi Humas tidak diberi kabar.\n   (C) — 3 poin: Tampak responsif, tetapi berpindah-pindah tugas tanpa prioritas menambah waktu dan berisiko membuat ketiganya terlambat.\n   (E) — 2 poin: Tugas internal diselesaikan, tetapi janji layanan kepada masyarakat diingkari padahal penyelesaiannya hanya 10 menit; bertentangan dengan semangat melayani.\n   (A) — 1 poin: Terdengar santun dan koordinatif, tetapi sebenarnya melempar keputusan sederhana kepada atasan sekaligus menyiapkan alasan bila terlambat (pola menghindar).\nJadi, jawaban yang tepat adalah (D) Menyelesaikan surat warga lebih dulu karena hanya 10 menit dan sudah dijanjikan, lalu mengerjakan rekap untuk rapat, dan memberi tahu Kasi Humas bahwa draf rilis menyusul selepas rekap.\nMengapa opsi lain kurang tepat:\n- (B) 4 poin: Mengabaikan janji kepada warga dan tidak mengomunikasikan tugas yang tertunda.\n- (C) 3 poin: Tidak ada keputusan prioritas sehingga efisiensi menurun.\n- (E) 2 poin: Mengorbankan kepentingan masyarakat demi urusan internal.\n- (A) 1 poin: Melempar keputusan dan menyiapkan dalih sejak awal.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saat apel pagi, atasan menegur saya di depan regu karena data jumlah personel yang saya laporkan kemarin keliru. Sebagian angka itu sebenarnya saya terima dari rekan regu lain dan tidak saya periksa ulang sebelum melapor. Sikap saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengakui bahwa laporan itu tanggung jawab saya karena tidak saya periksa ulang, menyerahkan data koreksi hari itu juga, dan sejak itu mencocokkan angka dengan daftar hadir sebelum melapor.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menjelaskan dengan sopan di depan regu bahwa angka tersebut berasal dari laporan rekan regu lain agar duduk perkaranya jelas bagi semua, lalu berjanji akan lebih berhati-hati dalam menerima data dari rekan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menerima teguran, memperbaiki data hari itu juga, lalu meminta rekan regu lain agar lain kali hanya mengirim angka yang sudah dicek dan pasti benar supaya kejadian ini tidak terulang.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menerima teguran dengan tenang tanpa membantah, segera memperbaiki data hari itu juga, lalu menyerahkan koreksinya langsung kepada atasan tanpa banyak penjelasan agar tidak terkesan mencari-cari alasan di depan regu.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Diam dan menerima teguran agar suasana apel tidak berlarut, lalu menunggu atasan meminta data perbaikan.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Saya ditegur di depan regu karena laporan data personel keliru.\n- Sebagian angka berasal dari rekan regu lain.\n- Saya tidak memeriksa ulang angka tersebut sebelum melapor.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nSikap yang paling profesional terhadap teguran atas kesalahan yang sebagian bersumber dari orang lain.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-01 Stabilitas emosi dan tanggung jawab atas hasil kerja (TKP-06), yaitu tetap tenang dan akuntabel ketika ditegur di depan umum.\n2. Prinsip acuan: akuntabilitas — kesalahan diakui sebagai tanggung jawab sendiri, diperbaiki, dan dicegah agar tidak terulang; Kode Etik Profesi Polri (Perpol Nomor 7 Tahun 2022) yang menuntut anggota jujur, bertanggung jawab, dan menjaga kehormatan profesi.\n3. Pembeda antaropsi: opsi terbaik mengakui kesalahan sebagai milik sendiri, memperbaikinya segera, dan mengubah cara kerja; opsi terendah membela diri dengan menunjuk pihak lain secara halus.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (A) — 5 poin: Pelapor bertanggung jawab atas laporan yang ditandatanganinya, terlepas dari sumber angkanya. Opsi ini memuat pengakuan, perbaikan segera, dan pencegahan (belajar dari evaluasi).\n   (D) — 4 poin: Emosi terjaga dan kesalahan diperbaiki, tetapi tidak ada perubahan cara kerja sehingga kesalahan serupa dapat terulang.\n   (C) — 3 poin: Perbaikan dilakukan, tetapi akar masalah ditempatkan pada rekan, bukan pada kelalaian saya untuk memverifikasi.\n   (E) — 2 poin: Tidak reaktif, tetapi pasif; perbaikan menunggu perintah sehingga data keliru bertahan lebih lama.\n   (B) — 1 poin: Dibungkus kesantunan, tetapi intinya membela diri dan menyalahkan rekan di depan umum; merusak kekompakan dan menghindari tanggung jawab.\nJadi, jawaban yang tepat adalah (A) Mengakui bahwa laporan itu tanggung jawab saya karena tidak saya periksa ulang, menyerahkan data koreksi hari itu juga, dan sejak itu mencocokkan angka dengan daftar hadir sebelum melapor.\nMengapa opsi lain kurang tepat:\n- (D) 4 poin: Tidak ada langkah pencegahan.\n- (C) 3 poin: Akar masalah dialihkan kepada orang lain.\n- (E) 2 poin: Pasif dan menunda perbaikan.\n- (B) 1 poin: Defensif dan menyalahkan rekan secara terbuka.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Lengkapi pernyataan berikut dengan pilihan yang paling menggambarkan diri Anda.\n\n\"Saat target kerja yang saya tetapkan sendiri tidak tercapai, saya ...\"",
+    "image": "",
+    "options": [
+      {
+        "text": "menurunkan target ke tingkat yang lebih realistis sesuai kemampuan saat ini agar tidak terus merasa kecewa.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "memaklumi diri karena hasil yang saya capai sebenarnya sudah lebih baik daripada sebagian besar rekan, sehingga target berikutnya cukup dipertahankan pada tingkat yang sama.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "menambah jam kerja dan latihan secara signifikan pada periode berikutnya agar target yang sama tetap terkejar.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "menyadari bahwa pencapaian target banyak dipengaruhi beban tugas dan keadaan di luar kendali saya, sehingga tidak perlu dipikirkan terlalu jauh.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "menelaah bagian rencana yang meleset, menyusun langkah perbaikan yang terukur, lalu menetapkan ulang target yang tetap menantang.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Target ditetapkan sendiri, bukan oleh atasan.\n- Target tersebut tidak tercapai.\n- Butir berbentuk pernyataan sikap diri.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nKelanjutan pernyataan yang paling mencerminkan motif berprestasi yang sehat.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-05 Motif berprestasi dan KPR-01 Stabilitas emosi, yaitu cara seseorang menanggapi kegagalan mencapai target yang ia tetapkan sendiri.\n2. Prinsip acuan: belajar dari evaluasi — kegagalan dianalisis penyebabnya, diperbaiki dengan langkah terukur, dan target tetap dijaga menantang.\n3. Pembeda antaropsi: opsi terbaik menggabungkan analisis penyebab, rencana perbaikan, dan target yang tetap tinggi; opsi terendah melempar penyebab ke faktor luar.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (E) — 5 poin: Kegagalan diubah menjadi bahan evaluasi; ada analisis, tindakan, dan aspirasi yang tetap tinggi. Inilah ciri motif berprestasi dan stabilitas emosi.\n   (C) — 4 poin: Usaha meningkat dan target dipertahankan, tetapi tanpa analisis penyebab sehingga kesalahan cara kerja bisa terulang.\n   (A) — 3 poin: Realistis dan menjaga emosi, tetapi aspirasi turun dan penyebab kegagalan tidak dibenahi.\n   (B) — 2 poin: Terdengar percaya diri, tetapi ukuran keberhasilan dipindahkan ke perbandingan sosial sehingga dorongan berprestasi melemah.\n   (D) — 1 poin: Terdengar bijak dan tenang, tetapi sebenarnya atribusi eksternal: penyebab dilempar ke luar diri sehingga tidak ada pembelajaran.\nJadi, jawaban yang tepat adalah (E) Menelaah bagian rencana yang meleset, menyusun langkah perbaikan yang terukur, lalu menetapkan ulang target yang tetap menantang.\nMengapa opsi lain kurang tepat:\n- (C) 4 poin: Menambah usaha tanpa menelaah penyebab.\n- (A) 3 poin: Aspirasi diturunkan tanpa perbaikan.\n- (B) 2 poin: Puas diri dengan membandingkan orang lain.\n- (D) 1 poin: Atribusi eksternal yang dibungkus ketenangan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya petugas loket pelayanan SIM. Seorang pemohon lanjut usia yang saya bantu mengisi formulir hingga prosesnya selesai kembali ke loket membawa sekotak kue dan sebuah amplop kecil \"sekadar uang bensin\" sebagai tanda terima kasih. Antrean di belakangnya masih panjang. Tindakan yang paling tepat saya ambil adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menolak kue dan amplop dengan ramah, menjelaskan bahwa membantu pemohon memang tugas saya dan petugas tidak boleh menerima pemberian, berterima kasih atas niat baiknya, lalu melanjutkan layanan.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menerimanya karena pemberian dilakukan setelah layanan selesai sehingga tidak memengaruhi keputusan saya, sedangkan menolak justru dapat menyinggung perasaan orang tua.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menolak keduanya dengan tegas sambil menunjuk papan larangan gratifikasi di loket agar pemohon memahami aturannya.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menolak amplop dengan sopan karena berupa uang, tetapi menerima kue yang nilainya kecil agar orang tua tersebut tidak tersinggung dan niat baiknya tetap dihargai.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menerima kue untuk dinikmati bersama rekan di loket dan menyarankan agar amplopnya dimasukkan ke kotak amal kantor.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Saya petugas pelayanan publik (loket SIM).\n- Pemberi adalah pemohon yang baru saja saya layani.\n- Pemberian berupa kue dan amplop uang, diberikan setelah layanan selesai.\n- Antrean masih panjang.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nSikap yang paling tepat terhadap pemberian kecil dari penerima layanan.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-06 Profesionalisme (integritas) dan KPR-06 Pengambilan keputusan, yaitu konsistensi menolak pemberian terkait layanan tanpa mengorbankan kesantunan.\n2. Prinsip acuan: ketentuan gratifikasi (UU Nomor 31 Tahun 1999 jo. UU Nomor 20 Tahun 2001 Pasal 12B) — gratifikasi kepada pegawai negeri dianggap suap apabila berhubungan dengan jabatannya dan berlawanan dengan kewajiban atau tugasnya; Kode Etik Profesi Polri (Perpol Nomor 7 Tahun 2022) yang menuntut anggota jujur, bertanggung jawab, dan menjaga kehormatan profesi.\n3. Pembeda antaropsi: opsi terbaik menolak seluruh pemberian, menjelaskan alasannya dengan santun, dan tetap melayani antrean; opsi terendah menerima dengan rasionalisasi yang terdengar wajar.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (A) — 5 poin: Integritas utuh (seluruh pemberian ditolak), alasan disampaikan sehingga pemohon tidak tersinggung, dan pelayanan kepada antrean tidak terganggu.\n   (C) — 4 poin: Integritas terjaga sepenuhnya, tetapi cara penyampaian kepada warga lanjut usia kurang santun sehingga mutu pelayanan berkurang.\n   (D) — 3 poin: Uang ditolak, tetapi sebagian pemberian tetap diterima; nilai kecil tidak menghapus larangan menerima pemberian terkait layanan.\n   (E) — 2 poin: Terlihat tidak mengambil untuk pribadi, tetapi petugas tetap menerima dan mengelola pemberian dari penerima layanan.\n   (B) — 1 poin: Rasionalisasi yang terdengar bijak; padahal pemberian kepada petugas yang berhubungan dengan jabatannya tetap dilarang, kapan pun diberikan.\nJadi, jawaban yang tepat adalah (A) Menolak kue dan amplop dengan ramah, menjelaskan bahwa membantu pemohon memang tugas saya dan petugas tidak boleh menerima pemberian, berterima kasih atas niat baiknya, lalu melanjutkan layanan.\nMengapa opsi lain kurang tepat:\n- (C) 4 poin: Integritas terjaga, tetapi kurang santun.\n- (D) 3 poin: Kompromi sebagian terhadap integritas.\n- (E) 2 poin: Tetap menerima dan mengelola pemberian.\n- (B) 1 poin: Rasionalisasi untuk menerima gratifikasi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya dan seorang rekan berpatroli malam di jalan sepi yang sedikit di luar rute patroli kami. Kami mendapati seorang pengendara tergeletak di dekat tikungan di samping sepeda motornya. Ia sadar, mengeluh kakinya sakit dan tidak bisa digerakkan, dan tidak ada saksi. Ambulans rumah sakit dapat tiba sekitar 15 menit setelah dihubungi, sedangkan puskesmas terdekat berjarak sekitar 20 menit. Tindakan yang paling tepat kami ambil adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menghubungi polsek yang wilayahnya mencakup lokasi itu dan memberikan keterangan lengkap agar petugasnya segera menangani, lalu melanjutkan patroli sesuai rute supaya wilayah tugas kami sendiri tidak kosong.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Melapor ke pusat komando dan menunggu arahan lebih lanjut sebelum menyentuh korban atau mengubah apa pun di lokasi, agar setiap tindakan sesuai perintah.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Segera membawa korban ke puskesmas dengan mobil patroli karena tindakan medis lebih cepat diperoleh daripada menunggu ambulans datang, lalu melaporkan kejadian ke pusat komando dalam perjalanan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengamankan lokasi dengan lampu kendaraan dan tanda peringatan, memeriksa korban tanpa memindahkannya, memanggil ambulans dan melapor ke pusat komando, lalu mencatat keadaan lokasi sambil menunggu.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Memotret dan mencatat posisi kendaraan serta korban terlebih dahulu agar keadaan lokasi terdokumentasi, baru kemudian menghubungi ambulans.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Korban sadar, kakinya sakit dan tidak bisa digerakkan (kemungkinan patah).\n- Lokasi di dekat tikungan, gelap dan sepi; tidak ada saksi.\n- Ambulans ±15 menit, puskesmas ±20 menit.\n- Lokasi sedikit di luar rute patroli.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nKeputusan cepat yang paling tepat dengan informasi terbatas.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-06 Pengambilan keputusan dalam waktu terbatas dengan informasi tidak lengkap.\n2. Prinsip acuan: Catur Prasetya butir kedua — menjaga keselamatan jiwa raga, harta benda, dan hak asasi manusia; prinsip pertolongan pertama — amankan lokasi, jangan memindahkan korban tanpa alasan bahaya, panggil bantuan medis.\n3. Pembeda antaropsi: opsi terbaik bertindak cepat sekaligus aman bagi korban dan pengguna jalan lain; opsi terendah menghindari tanggung jawab dengan alasan wilayah.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (D) — 5 poin: Keselamatan korban dan pengguna jalan didahulukan, cedera tidak diperparah, bantuan medis dan pelaporan berjalan bersamaan, dan dokumentasi tetap dilakukan.\n   (C) — 4 poin: Cepat dan peduli, tetapi memindahkan korban dengan dugaan patah kaki tanpa alat berisiko memperparah cedera, dan lokasi kejadian ditinggalkan tanpa pengamanan.\n   (B) — 3 poin: Taat jalur komando, tetapi pasif; tindakan yang jelas perlu (mengamankan lokasi, memanggil ambulans) tertunda.\n   (E) — 2 poin: Dokumentasi penting, tetapi didahulukan di atas pertolongan; urutan prioritas terbalik.\n   (A) — 1 poin: Terdengar taat pembagian wilayah, tetapi meninggalkan korban yang membutuhkan pertolongan; pola menghindar dan melempar tanggung jawab.\nJadi, jawaban yang tepat adalah (D) Mengamankan lokasi dengan lampu kendaraan dan tanda peringatan, memeriksa korban tanpa memindahkannya, memanggil ambulans dan melapor ke pusat komando, lalu mencatat keadaan lokasi sambil menunggu.\nMengapa opsi lain kurang tepat:\n- (C) 4 poin: Berisiko memperparah cedera dan meninggalkan lokasi.\n- (B) 3 poin: Menunggu arahan untuk tindakan yang seharusnya segera.\n- (E) 2 poin: Prosedur administratif didahulukan di atas keselamatan.\n- (A) 1 poin: Menghindar dengan dalih pembagian wilayah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya ditugaskan memindahkan 1.200 data registrasi dari arsip kertas ke sistem daring dalam dua minggu. Pada hari ketiga saya mulai jenuh dan menemukan dua kesalahan ketik pada data yang sudah saya masukkan. Tindakan yang paling tepat saya ambil adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Melanjutkan input seperti biasa karena kesalahan ketik dalam jumlah kecil wajar pada pekerjaan sebanyak itu, dan alur kerja ini memang sudah dilengkapi tahap verifikasi oleh petugas lain yang akan mendeteksinya.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Memperbaiki kedua kesalahan dan memeriksa ulang data hari-hari sebelumnya, lalu membagi sisa pekerjaan menjadi target harian dengan jeda terjadwal dan pemeriksaan silang tiap kelompok data.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mempercepat input agar pekerjaan cepat selesai, lalu memeriksa seluruh data sekaligus pada hari terakhir.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Memperbaiki kedua kesalahan tersebut, lalu melanjutkan pekerjaan dengan tempo yang lebih pelan dan lebih hati-hati agar kesalahan serupa tidak terulang.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengusulkan kepada atasan agar tugas input data ini digilir dengan rekan lain setiap beberapa hari, supaya kejenuhan tidak menurunkan mutu dan setiap orang tetap bekerja dalam kondisi segar hingga seluruh data selesai.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pekerjaan berulang: 1.200 data dalam dua minggu.\n- Hari ketiga muncul kejenuhan.\n- Sudah ditemukan dua kesalahan ketik pada data yang tersimpan.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nCara paling profesional menjaga mutu pada pekerjaan berulang yang membosankan.\n\nJAWAB:\n1. Dimensi yang diukur: SKR-02 Ketelitian dan SKR-03 Ketahanan kerja, yaitu menjaga mutu pada pekerjaan berulang yang panjang.\n2. Prinsip acuan: ketuntasan dan kendali mutu — kesalahan diperbaiki, ditelusuri ke belakang, dan dicegah dengan cara kerja yang sistematis.\n3. Pembeda antaropsi: opsi terbaik mengatur ritme kerja sekaligus membangun pemeriksaan mutu dan menelusuri data lama; opsi terendah menganggap kesalahan wajar dan mengandalkan pemeriksa lain.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (B) — 5 poin: Kesalahan diperbaiki dan ditelusuri ke belakang, kejenuhan dikelola dengan ritme kerja, dan mutu dijaga dengan pemeriksaan berkala; tuntas dan sistematis.\n   (D) — 4 poin: Bertanggung jawab atas kesalahan yang ditemukan, tetapi data lama tidak ditelusuri dan memperlambat diri tanpa sistem belum tentu efektif.\n   (C) — 3 poin: Ada niat memeriksa, tetapi pemeriksaan ditumpuk di akhir saat kelelahan memuncak sehingga peluang kesalahan terlewat besar.\n   (E) — 2 poin: Beralasan mutu, tetapi intinya menghindari tugas yang tidak disukai dan memindahkan beban kepada rekan.\n   (A) — 1 poin: Terdengar realistis, tetapi menormalkan kesalahan dan menyerahkan mutu kepada pihak lain; bertentangan dengan ketelitian.\nJadi, jawaban yang tepat adalah (B) Memperbaiki kedua kesalahan dan memeriksa ulang data hari-hari sebelumnya, lalu membagi sisa pekerjaan menjadi target harian dengan jeda terjadwal dan pemeriksaan silang tiap kelompok data.\nMengapa opsi lain kurang tepat:\n- (D) 4 poin: Tidak menelusuri data lama dan tanpa sistem pemeriksaan.\n- (C) 3 poin: Pemeriksaan ditumpuk di akhir.\n- (E) 2 poin: Menghindari tugas dengan memindahkannya.\n- (A) 1 poin: Menormalkan kesalahan dan mengandalkan pemeriksa lain.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Setelah saya memaparkan rencana pengamanan kegiatan pasar malam, seorang perwira senior berkata dengan nada keras di depan forum bahwa rencana saya \"seperti dibuat anak magang\" karena tidak memperhitungkan jalur evakuasi. Kritik soal jalur evakuasi itu benar, sedangkan bagian lain rencana sudah matang dan telah diuji di lapangan. Tanggapan saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menerima kritik itu, mencatat kekurangannya, dan merevisi seluruh rencana sebelum batas waktu tanpa menanggapi nada bicaranya.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Diam selama forum berlangsung agar tidak terlihat membantah perwira senior di depan peserta lain, lalu merevisi bagian jalur evakuasi dengan sungguh-sungguh setelah rapat selesai dan segera menyerahkannya kembali.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menjelaskan secara santun bahwa waktu penyusunan sangat singkat dan data denah lokasi baru diterima kemarin sehingga wajar ada bagian yang belum lengkap, lalu menyatakan akan segera merevisinya.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Meminta maaf berulang kali di forum dan menyerahkan penyusunan ulang rencana kepada perwira tersebut karena beliau jauh lebih berpengalaman.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Tetap tenang, mengakui bahwa jalur evakuasi belum saya perhitungkan, menyampaikan singkat bagian yang sudah teruji, dan menjanjikan revisi dengan tenggat yang jelas untuk beliau tinjau.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kritik disampaikan dengan nada keras di depan forum.\n- Isi kritik (jalur evakuasi belum diperhitungkan) benar.\n- Bagian lain rencana sudah matang dan teruji.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nTanggapan paling tepat terhadap kritik pedas yang isinya sebagian benar.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-01 Stabilitas emosi dan KPR-04 Kepercayaan diri, yaitu menerima kritik keras secara proporsional tanpa runtuh dan tanpa defensif.\n2. Prinsip acuan: menerima umpan balik — pisahkan isi kritik dari nada penyampaiannya, akui bagian yang benar, pertahankan bagian yang berdasar.\n3. Pembeda antaropsi: opsi terbaik mengakui kekurangan, tetap percaya diri pada bagian yang matang, dan menjanjikan revisi dengan tenggat jelas; opsi terendah berdalih soal waktu dan data.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (E) — 5 poin: Emosi terkendali, kekurangan diakui, kepercayaan diri wajar ditunjukkan pada bagian yang berdasar, dan ada komitmen perbaikan yang terukur.\n   (A) — 4 poin: Tenang dan bertanggung jawab, tetapi tidak menyampaikan bagian yang sudah kuat sehingga forum tidak mendapat gambaran utuh, dan revisi menyeluruh kurang efisien.\n   (B) — 3 poin: Tidak reaktif dan tetap memperbaiki, tetapi pasif di forum sehingga tidak ada pengakuan maupun komitmen yang terdengar.\n   (D) — 2 poin: Tampak rendah hati, tetapi menunjukkan kepercayaan diri yang runtuh dan melepaskan tanggung jawab atas tugas sendiri.\n   (C) — 1 poin: Nada santun, tetapi isinya dalih pembelaan diri; fokus pada alasan, bukan pada tanggung jawab.\nJadi, jawaban yang tepat adalah (E) Tetap tenang, mengakui bahwa jalur evakuasi belum saya perhitungkan, menyampaikan singkat bagian yang sudah teruji, dan menjanjikan revisi dengan tenggat yang jelas untuk beliau tinjau.\nMengapa opsi lain kurang tepat:\n- (A) 4 poin: Kurang menunjukkan kepercayaan diri pada bagian yang sudah matang.\n- (B) 3 poin: Pasif dan tidak menyampaikan komitmen di forum.\n- (D) 2 poin: Kepercayaan diri runtuh dan tugas dilepaskan.\n- (C) 1 poin: Defensif dengan dalih waktu dan data.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya tidak lolos seleksi pendidikan pengembangan karier tahun ini, sedangkan rekan seangkatan yang menurut saya kinerjanya setara justru lolos. Pengumuman hasil menunjukkan nilai saya kurang pada tes kesamaptaan jasmani. Sikap saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menerima hasil dengan lapang dada dan kembali fokus pada tugas harian; soal mengikuti seleksi berikutnya akan saya pertimbangkan lagi nanti.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Memaklumi hasil itu karena jadwal dinas saya padat sehingga tidak sempat berlatih seperti rekan lain, lalu berharap tahun depan beban tugas lebih ringan agar persiapan dapat lebih maksimal.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Meminta penjelasan kepada panitia mengapa rekan yang kinerjanya setara dapat lolos, untuk memastikan seleksi sudah berjalan adil.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Mengucapkan selamat kepada rekan, mempelajari rincian nilai kesamaptaan, menyusun program latihan terjadwal dengan target terukur, dan tetap menjaga kinerja tugas harian.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Langsung menambah porsi latihan fisik setiap pagi dan sore hari, termasuk lari dan latihan kekuatan, dengan intensitas setinggi mungkin agar pada seleksi tahun depan saya dipastikan lolos tanpa kendala.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Saya gagal seleksi, rekan seangkatan lolos.\n- Penyebab tercatat: nilai kesamaptaan jasmani kurang.\n- Seleksi dapat diikuti kembali pada periode berikutnya.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nSikap paling tepat setelah gagal seleksi yang penyebabnya jelas.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-01 Stabilitas emosi dan KPR-05 Motif berprestasi setelah mengalami kegagalan seleksi.\n2. Prinsip acuan: belajar dari evaluasi — hasil seleksi dijadikan data untuk perbaikan yang terukur, tanpa mengganggu kinerja tugas saat ini.\n3. Pembeda antaropsi: opsi terbaik sportif terhadap rekan, memakai data nilai untuk program perbaikan terukur, dan menjaga kinerja harian; opsi terendah mengalihkan penyebab ke beban tugas.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (D) — 5 poin: Emosi stabil (sportif), penyebab kegagalan dianalisis, perbaikan terukur disusun, dan tugas pokok tetap terjaga; lengkap dan tuntas.\n   (E) — 4 poin: Motivasi tinggi, tetapi tanpa analisis rincian nilai dan tanpa takaran yang terukur sehingga berisiko tidak tepat sasaran atau cedera.\n   (A) — 3 poin: Emosi stabil, tetapi dorongan berprestasi lemah dan tidak ada rencana perbaikan.\n   (C) — 2 poin: Tampak kritis, tetapi fokus pada perbandingan dan kecurigaan, padahal penyebab kegagalan sudah jelas pada nilai sendiri.\n   (B) — 1 poin: Terdengar wajar, tetapi menyalahkan keadaan dan menggantungkan perbaikan pada faktor luar; tidak ada tanggung jawab pribadi.\nJadi, jawaban yang tepat adalah (D) Mengucapkan selamat kepada rekan, mempelajari rincian nilai kesamaptaan, menyusun program latihan terjadwal dengan target terukur, dan tetap menjaga kinerja tugas harian.\nMengapa opsi lain kurang tepat:\n- (E) 4 poin: Usaha tanpa analisis dan takaran.\n- (A) 3 poin: Stabil tetapi tanpa dorongan berprestasi.\n- (C) 2 poin: Fokus pada kecurigaan, bukan perbaikan diri.\n- (B) 1 poin: Menyalahkan keadaan dan menunggu faktor luar berubah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya bertugas di SPKT. Prosedur mewajibkan setiap laporan kehilangan dicocokkan dengan identitas asli pelapor dan diinput lengkap ke sistem sebelum surat keterangan diterbitkan. Sore itu antrean menumpuk dan sistem berjalan lambat. Seorang rekan senior menyarankan agar data cukup ditulis tangan dulu, surat keterangan diberikan, dan input sistem dilakukan besok pagi supaya antrean cepat habis. Tindakan saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Tetap menjalankan prosedur lengkap, melapor kepada perwira piket tentang lambatnya sistem dan meminta tambahan petugas, serta memberi tahu warga perkiraan waktu tunggu.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mengikuti saran rekan karena tujuannya baik, dengan catatan saya sendiri yang memastikan semua data diinput besok pagi.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Mengikuti saran rekan karena ia lebih senior dan lebih memahami kebiasaan di SPKT, sehingga bila ada masalah ia yang dapat menjelaskannya.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tetap menjalankan prosedur lengkap untuk setiap pelapor dan bekerja secepat mungkin, meskipun antrean menjadi panjang.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menerima saran rekan hanya untuk laporan sederhana seperti kehilangan KTP, sedangkan laporan lain yang lebih penting tetap diproses lengkap.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Prosedur: cocokkan identitas asli dan input sistem sebelum surat terbit.\n- Antrean menumpuk, sistem lambat.\n- Rekan senior menyarankan jalan pintas: surat terbit dulu, input besok.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nKeputusan paling tepat dalam dilema kecepatan layanan melawan prosedur.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-06 Pengambilan keputusan dan SKR-01 Kecepatan kerja pada dilema efisiensi melawan prosedur.\n2. Prinsip acuan: kepastian hukum (Catur Prasetya butir ketiga — menjamin kepastian berdasarkan hukum) dan pelayanan prima — prosedur yang menjamin keabsahan dokumen tidak boleh dikorbankan demi kecepatan.\n3. Pembeda antaropsi: opsi terbaik tetap patuh prosedur sekaligus mencari solusi atas antrean melalui jalur resmi; opsi terendah melanggar prosedur dan berlindung di balik senioritas rekan.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (A) — 5 poin: Keabsahan dokumen terjaga, masalah antrean diatasi melalui jalur resmi, dan warga mendapat kepastian informasi; patuh sekaligus solutif.\n   (D) — 4 poin: Patuh prosedur dan bersungguh-sungguh, tetapi tidak ada upaya mengatasi antrean maupun memberi informasi kepada warga.\n   (E) — 3 poin: Berusaha menyeimbangkan, tetapi membuat pengecualian prosedur atas penilaian sendiri tanpa kewenangan.\n   (B) — 2 poin: Ada rasa tanggung jawab atas tindak lanjut, tetapi prosedur tetap dilanggar dan surat terbit tanpa dasar data yang sah.\n   (C) — 1 poin: Terdengar menghormati senior, tetapi sebenarnya melanggar prosedur sambil menyiapkan pihak lain untuk disalahkan.\nJadi, jawaban yang tepat adalah (A) Tetap menjalankan prosedur lengkap, melapor kepada perwira piket tentang lambatnya sistem dan meminta tambahan petugas, serta memberi tahu warga perkiraan waktu tunggu.\nMengapa opsi lain kurang tepat:\n- (D) 4 poin: Patuh tetapi tanpa inisiatif mengatasi antrean.\n- (E) 3 poin: Pengecualian prosedur tanpa kewenangan.\n- (B) 2 poin: Melanggar prosedur walau berniat menuntaskan.\n- (C) 1 poin: Melanggar prosedur dan berlindung di balik senior.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Lengkapi pernyataan berikut dengan pilihan yang paling menggambarkan diri Anda.\n\n\"Sebelum menyerahkan laporan yang memuat banyak angka dan nama, saya ...\"",
+    "image": "",
+    "options": [
+      {
+        "text": "memeriksa bagian-bagian yang menurut pengalaman saya paling rawan salah, seperti angka dan ejaan nama, agar waktu tidak terbuang untuk bagian yang sudah pasti benar.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "memeriksa ulang setiap angka dan nama terhadap sumber aslinya, termasuk bagian yang saya yakini sudah benar.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "meminta rekan memeriksanya karena mata orang lain biasanya lebih jeli menemukan kesalahan.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "membaca ulang seluruh laporan dari awal hingga akhir dengan saksama untuk menemukan kesalahan yang terlihat.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "menyerahkannya tepat waktu, karena koreksi kecil biasanya sudah menjadi bagian dari proses pemeriksaan oleh atasan.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Laporan memuat banyak angka dan nama (rawan salah).\n- Butir berbentuk pernyataan sikap diri tentang kebiasaan kerja.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nKebiasaan kerja yang paling mencerminkan ketelitian.\n\nJAWAB:\n1. Dimensi yang diukur: SKR-02 Ketelitian, yaitu kebiasaan memeriksa hasil kerja sebelum diserahkan.\n2. Prinsip acuan: kendali mutu — pemeriksa pertama hasil kerja adalah pembuatnya sendiri, dan pemeriksaan dilakukan terhadap sumber asli.\n3. Pembeda antaropsi: opsi terbaik memverifikasi setiap data ke sumber aslinya; opsi terendah menyerahkan tanggung jawab ketelitian kepada atasan.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (B) — 5 poin: Verifikasi ke sumber asli adalah cara paling andal menemukan kesalahan; tidak mengandalkan ingatan atau rasa yakin.\n   (D) — 4 poin: Ada pemeriksaan menyeluruh, tetapi membaca ulang tanpa membandingkan dengan sumber sering melewatkan salah angka atau salah eja nama.\n   (A) — 3 poin: Efisien, tetapi bergantung pada dugaan sendiri sehingga kesalahan di bagian yang dianggap aman lolos.\n   (C) — 2 poin: Kolaboratif, tetapi pemeriksaan pertama dialihkan kepada orang lain sebelum saya sendiri memastikan mutu.\n   (E) — 1 poin: Terdengar disiplin waktu, tetapi menjadikan atasan sebagai penyaring kesalahan; menghindari tanggung jawab ketelitian.\nJadi, jawaban yang tepat adalah (B) Memeriksa ulang setiap angka dan nama terhadap sumber aslinya, termasuk bagian yang saya yakini sudah benar.\nMengapa opsi lain kurang tepat:\n- (D) 4 poin: Tidak membandingkan dengan sumber asli.\n- (A) 3 poin: Pemeriksaan hanya sebagian.\n- (C) 2 poin: Tanggung jawab pemeriksaan dialihkan.\n- (E) 1 poin: Mengandalkan atasan untuk menemukan kesalahan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Dalam penilaian kinerja triwulan, saya mendapat nilai tinggi pada indikator penyelesaian perkara karena tercatat menuntaskan tiga berkas. Padahal satu berkas sebenarnya dikerjakan hampir seluruhnya oleh rekan saya yang sedang cuti ketika pencatatan dilakukan. Nilai ini akan menjadi salah satu dasar usulan penghargaan. Sikap saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Membiarkan nilai itu, lalu membalas jasa rekan dengan membantunya secara sungguh-sungguh pada perkara-perkara berikutnya sampai nilainya juga ikut terangkat pada penilaian triwulan berikutnya.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menganggap pencatatan nilai sebagai wewenang bagian penilai, sehingga bukan tanggung jawab saya untuk mengubah hasil yang sudah ditetapkan melalui mekanisme resmi.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Melaporkan kepada penilai bahwa berkas itu dikerjakan rekan saya dan meminta pencatatan dikoreksi, meskipun nilai saya turun.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Membiarkan nilai itu karena saya juga ikut membantu berkas tersebut, tetapi akan menyebutkan peran rekan bila ditanya.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Memberi tahu rekan tersebut tentang kekeliruan pencatatan itu agar ia sendiri mengajukan koreksi ketika kembali dari cuti.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Saya tercatat menuntaskan tiga berkas.\n- Satu berkas hampir seluruhnya dikerjakan rekan yang sedang cuti.\n- Nilai tersebut berpengaruh pada usulan penghargaan.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nSikap paling tepat ketika catatan kinerja menguntungkan diri secara tidak semestinya.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-06 Profesionalisme (integritas) dan KPR-01 Stabilitas emosi, yaitu kejujuran ketika kebenaran merugikan diri sendiri.\n2. Prinsip acuan: Kode Etik Profesi Polri (Perpol Nomor 7 Tahun 2022) yang menuntut anggota jujur, bertanggung jawab, dan menjaga kehormatan profesi; prinsip keadilan — penghargaan harus diberikan kepada yang benar-benar bekerja.\n3. Pembeda antaropsi: opsi terbaik meminta koreksi sendiri meskipun nilai turun; opsi terendah berlindung di balik kewenangan pihak lain.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (C) — 5 poin: Jujur dan adil tanpa menunggu, menanggung kerugian pribadi demi kebenaran data; integritas tanpa kompromi.\n   (E) — 4 poin: Ada niat meluruskan, tetapi koreksi ditunda dan dibebankan kepada rekan padahal saya yang mengetahui dan diuntungkan.\n   (D) — 3 poin: Tidak berbohong secara aktif, tetapi pasif dan memanfaatkan kontribusi kecil untuk membenarkan nilai yang tidak semestinya.\n   (A) — 2 poin: Terkesan setia kawan, tetapi data penilaian tetap keliru dan penghargaan tetap dinikmati secara tidak adil.\n   (B) — 1 poin: Terdengar taat pembagian kewenangan, tetapi sebenarnya menghindar dari kewajiban moral untuk meluruskan data yang menguntungkan diri.\nJadi, jawaban yang tepat adalah (C) Melaporkan kepada penilai bahwa berkas itu dikerjakan rekan saya dan meminta pencatatan dikoreksi, meskipun nilai saya turun.\nMengapa opsi lain kurang tepat:\n- (E) 4 poin: Menunda dan membebankan koreksi kepada rekan.\n- (D) 3 poin: Kejujuran pasif.\n- (A) 2 poin: Mengganti kejujuran dengan balas jasa pribadi.\n- (B) 1 poin: Berlindung di balik kewenangan pihak lain.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya ketua regu pengamanan di tribun timur sebuah pertandingan sepak bola. Rencana pengamanan menyebutkan ketua regu boleh membuka pintu keluar tambahan bila terjadi penumpukan penonton. Lima menit sebelum laga usai, penonton mulai mendorong pagar karena hanya satu pintu keluar yang dibuka. Komunikasi radio dengan perwira pengendali sedang padat dan belum tersambung. Tindakan saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Membuka pintu keluar tambahan sesuai rencana pengamanan, menempatkan anggota untuk mengarahkan arus penonton, dan melapor begitu radio tersambung.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mengumumkan berulang kali melalui pengeras suara stadion agar penonton tidak mendorong pagar, tetap tenang, dan bersabar menunggu giliran keluar melalui pintu yang tersedia.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menunggu sampai radio dengan perwira pengendali tersambung, karena membuka pintu tambahan tanpa perintah langsung dapat dipersalahkan bila terjadi sesuatu.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menempatkan anggota di depan pagar untuk menenangkan penonton sambil terus mencoba menghubungi perwira pengendali untuk meminta izin membuka pintu tambahan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menarik anggota dari tribun lain ke tribun timur untuk memperkuat dan menahan pagar agar tidak jebol oleh dorongan penonton.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rencana pengamanan memberi ketua regu kewenangan membuka pintu tambahan saat penumpukan.\n- Penonton mulai mendorong pagar (risiko berdesakan).\n- Radio ke perwira pengendali belum tersambung.\n- Waktu sangat terbatas.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nKeputusan paling tepat dalam situasi kerumunan yang mulai berbahaya.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-06 Pengambilan keputusan dan KPR-04 Kepercayaan diri, yaitu berani mengambil keputusan dalam kewenangannya di bawah tekanan waktu.\n2. Prinsip acuan: Catur Prasetya butir kedua — menjaga keselamatan jiwa raga, harta benda, dan hak asasi manusia; prinsip pengambilan keputusan lapangan — bertindak dalam batas kewenangan yang diberikan rencana pengamanan, lalu segera melapor.\n3. Pembeda antaropsi: opsi terbaik memakai kewenangan yang tersedia untuk mencegah bahaya lalu melapor; opsi terendah menunggu perintah demi melindungi diri dari kesalahan.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (A) — 5 poin: Keputusan cepat, berada dalam kewenangan, mengutamakan keselamatan jiwa, disertai pengendalian arus dan pelaporan; percaya diri secara wajar.\n   (D) — 4 poin: Ada upaya pengendalian, tetapi meminta izin untuk tindakan yang sudah menjadi kewenangan membuat risiko berdesakan terus meningkat.\n   (B) — 3 poin: Bertindak cepat, tetapi imbauan tidak menyelesaikan penyebab, yaitu pintu keluar yang terlalu sedikit.\n   (E) — 2 poin: Responsif, tetapi menahan desakan pada pagar justru menambah tekanan pada penonton dan mengosongkan pengamanan di tribun lain.\n   (C) — 1 poin: Terdengar disiplin, tetapi motif utamanya melindungi diri dari kesalahan; keselamatan penonton dipertaruhkan demi menghindari tanggung jawab.\nJadi, jawaban yang tepat adalah (A) Membuka pintu keluar tambahan sesuai rencana pengamanan, menempatkan anggota untuk mengarahkan arus penonton, dan melapor begitu radio tersambung.\nMengapa opsi lain kurang tepat:\n- (D) 4 poin: Ragu memakai kewenangan sehingga keputusan tertunda.\n- (B) 3 poin: Tidak menyentuh akar masalah.\n- (E) 2 poin: Langkah keliru yang dapat memperbesar bahaya.\n- (C) 1 poin: Menghindari keputusan demi keamanan diri.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Lengkapi pernyataan berikut dengan pilihan yang paling menggambarkan diri Anda.\n\n\"Ketika ditunjuk memimpin kegiatan yang belum pernah saya tangani, saya ...\"",
+    "image": "",
+    "options": [
+      {
+        "text": "menerimanya sambil menyampaikan sejak awal kepada atasan bahwa saya belum berpengalaman, agar beliau memahami keadaan saya dan dapat memaklumi bila hasilnya belum maksimal.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "menerimanya dengan syarat didampingi senior yang berpengalaman selama kegiatan berlangsung agar hasilnya tetap terjamin.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "menerimanya, mempelajari petunjuk dan catatan kegiatan serupa, menyusun rencana, dan meminta masukan pihak berpengalaman untuk bagian yang belum saya kuasai.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "menyarankan agar tugas itu diberikan kepada rekan yang lebih berpengalaman, tetapi bersedia membantu bila diperlukan.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "menerimanya dan langsung bekerja dengan kemampuan yang saya miliki, karena pengalaman terbaik justru didapat dari praktik dan belajar dari kesalahan di lapangan secara langsung.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Penugasan memimpin kegiatan baru.\n- Belum ada pengalaman sebelumnya.\n- Butir berbentuk pernyataan sikap diri.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nSikap yang paling mencerminkan kepercayaan diri yang wajar.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-04 Kepercayaan diri, yaitu keyakinan pada kemampuan sendiri yang ditampilkan secara wajar dan disertai persiapan.\n2. Prinsip acuan: kesiapan profesional — menerima amanah, mempersiapkan diri dengan sungguh-sungguh, dan meminta masukan untuk bagian yang belum dikuasai.\n3. Pembeda antaropsi: opsi terbaik percaya diri sekaligus terencana; opsi terendah menerima tugas sambil menyiapkan dalih sejak awal.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (C) — 5 poin: Percaya diri menerima amanah, diimbangi persiapan dan keterbukaan belajar; wajar, tidak berlebihan dan tidak minder.\n   (E) — 4 poin: Berani dan sigap, tetapi kurang persiapan sehingga kesalahan yang sebenarnya dapat dicegah berisiko terjadi.\n   (B) — 3 poin: Bertanggung jawab atas mutu, tetapi menaruh syarat menunjukkan ketergantungan dan kurangnya keyakinan diri.\n   (D) — 2 poin: Tampak rendah hati, tetapi menghindari kesempatan berkembang dan amanah yang diberikan.\n   (A) — 1 poin: Terdengar jujur, tetapi fungsinya menyiapkan pembenaran bila gagal; pola defensif yang dibungkus keterbukaan.\nJadi, jawaban yang tepat adalah (C) Menerimanya, mempelajari petunjuk dan catatan kegiatan serupa, menyusun rencana, dan meminta masukan pihak berpengalaman untuk bagian yang belum saya kuasai.\nMengapa opsi lain kurang tepat:\n- (E) 4 poin: Berani tetapi kurang persiapan.\n- (B) 3 poin: Bergantung pada pendampingan.\n- (D) 2 poin: Menghindari amanah.\n- (A) 1 poin: Menyiapkan dalih kegagalan sejak awal.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Sudah tiga hari saya lembur menyelesaikan berkas perkara yang tenggatnya lusa pukul 10.00. Malam ini saya sangat lelah. Tersisa dua bagian: daftar barang bukti (butuh sekitar 1,5 jam) dan resume perkara (butuh sekitar 3 jam); keduanya menuntut ketelitian tinggi. Besok saya bertugas seperti biasa dan dapat menyediakan waktu kerja sekitar 4 jam. Tindakan saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Memaksakan diri menyelesaikan kedua bagian malam ini juga selagi materinya masih segar di ingatan, agar besok dapat diperiksa ulang dengan tenang.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menyelesaikan daftar barang bukti malam ini dengan mencocokkan ulang setiap nomor, beristirahat, lalu mengerjakan resume besok dengan menyisakan waktu pemeriksaan akhir.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Meminta perpanjangan tenggat kepada atasan dengan alasan berkas lain juga sedang menumpuk.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Beristirahat penuh malam ini dan menyelesaikan kedua bagian besok dalam kondisi segar, meskipun waktu untuk pemeriksaan ulang menjadi sangat sempit.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menyalin format dan sebagian isi resume dari berkas perkara serupa yang pernah dibuat rekan agar lebih cepat, lalu menyesuaikan seperlunya.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tenggat: lusa pukul 10.00.\n- Sisa: daftar barang bukti ±1,5 jam dan resume ±3 jam.\n- Malam ini sangat lelah; besok tersedia ±4 jam.\n- Total kebutuhan ±4,5 jam, sedangkan malam ini ditambah besok tersedia cukup bila dibagi.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nCara paling tepat menyelesaikan pekerjaan teliti dalam keadaan lelah dan tenggat dekat.\n\nJAWAB:\n1. Dimensi yang diukur: SKR-03 Ketahanan kerja dan SKR-02 Ketelitian, didukung KPR-05 Motif berprestasi, yaitu menjaga mutu di bawah kelelahan dan tenggat.\n2. Prinsip acuan: ketuntasan — dokumen hukum menuntut ketelitian penuh, sehingga energi dan waktu diatur agar pemeriksaan akhir tetap tersedia.\n3. Pembeda antaropsi: opsi terbaik mengatur energi dan urutan kerja agar tenggat terpenuhi dengan pemeriksaan akhir; opsi terendah meminta perpanjangan dengan alasan beban lain.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (B) — 5 poin: Pekerjaan dibagi sesuai sisa energi dan waktu (1,5 jam malam ini, 3 jam besok, sisa waktu untuk pemeriksaan), ketelitian tetap dijaga, dan tenggat terpenuhi.\n   (A) — 4 poin: Tekun dan ada rencana pemeriksaan, tetapi bekerja 4,5 jam lagi dalam keadaan sangat lelah meningkatkan risiko kesalahan pada dokumen hukum.\n   (D) — 3 poin: Menjaga kondisi, tetapi seluruh pekerjaan ditumpuk pada satu hari sehingga pemeriksaan akhir hampir tidak tersedia.\n   (E) — 2 poin: Efisien, tetapi menyalin isi berkas lain pada dokumen perkara berisiko memasukkan data yang tidak sesuai.\n   (C) — 1 poin: Terdengar wajar, tetapi menghindari tanggung jawab yang sebenarnya masih dapat dipenuhi dengan pengaturan kerja.\nJadi, jawaban yang tepat adalah (B) Menyelesaikan daftar barang bukti malam ini dengan mencocokkan ulang setiap nomor, beristirahat, lalu mengerjakan resume besok dengan menyisakan waktu pemeriksaan akhir.\nMengapa opsi lain kurang tepat:\n- (A) 4 poin: Memaksakan diri sehingga risiko kesalahan meningkat.\n- (D) 3 poin: Pekerjaan ditumpuk dan pemeriksaan terabaikan.\n- (E) 2 poin: Jalan pintas yang mengancam ketepatan isi.\n- (C) 1 poin: Menghindar dengan meminta perpanjangan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Lengkapi pernyataan berikut dengan pilihan yang paling menggambarkan diri Anda.\n\n\"Ketika atasan menegur saya dengan nada tinggi atas kesalahan yang memang saya lakukan, saya ...\"",
+    "image": "",
+    "options": [
+      {
+        "text": "menjelaskan alasan-alasan yang menyebabkan kesalahan itu terjadi agar atasan memahami posisi saya.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "memperbaiki kesalahan, lalu menyampaikan secara pribadi kepada atasan bahwa saya lebih mudah menerima teguran yang disampaikan dengan nada biasa.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "menahan diri, menangkap inti teguran, mengakui kesalahan, lalu memperbaikinya dan memastikan tidak terulang.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "menjadi kurang bersemangat selama beberapa hari dan cenderung menghindari interaksi dengan atasan sampai suasana membaik.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "menerima teguran itu dalam diam tanpa membantah, lalu langsung memperbaiki kesalahannya.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Teguran disampaikan dengan nada tinggi.\n- Kesalahan memang dilakukan oleh saya sendiri.\n- Butir berbentuk pernyataan sikap diri.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nReaksi yang paling mencerminkan stabilitas emosi dan tanggung jawab.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-01 Stabilitas emosi, yaitu mengendalikan reaksi ketika ditegur keras atas kesalahan sendiri.\n2. Prinsip acuan: akuntabilitas — kesalahan diakui sebagai tanggung jawab sendiri, diperbaiki, dan dicegah agar tidak terulang.\n3. Pembeda antaropsi: opsi terbaik memisahkan nada dari isi teguran, mengakui, memperbaiki, dan mencegah; opsi terendah sibuk menjelaskan alasan.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (C) — 5 poin: Emosi terkendali dan perhatian tertuju pada isi, bukan nada; ada pengakuan, perbaikan, dan pencegahan.\n   (E) — 4 poin: Tenang dan bertindak, tetapi tanpa pengakuan eksplisit dan tanpa upaya pencegahan.\n   (B) — 3 poin: Kesalahan diperbaiki dan komunikasi asertif, tetapi perhatian bergeser ke perasaan sendiri tentang cara ditegur.\n   (D) — 2 poin: Tidak membantah, tetapi menunjukkan regulasi emosi yang lemah dan mengganggu hubungan kerja.\n   (A) — 1 poin: Terdengar komunikatif, tetapi intinya defensif; kesalahan dibela, bukan dipertanggungjawabkan.\nJadi, jawaban yang tepat adalah (C) Menahan diri, menangkap inti teguran, mengakui kesalahan, lalu memperbaikinya dan memastikan tidak terulang.\nMengapa opsi lain kurang tepat:\n- (E) 4 poin: Tanpa pengakuan dan pencegahan.\n- (B) 3 poin: Fokus bergeser ke cara ditegur.\n- (D) 2 poin: Regulasi emosi lemah.\n- (A) 1 poin: Defensif dengan penjelasan alasan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya baru menyadari bahwa satu digit nomor rangka kendaraan pada berita acara yang kemarin saya serahkan ke unit reskrim salah ketik. Belum ada yang mengetahuinya. Memperbaikinya berarti saya harus mengakui kecerobohan kepada atasan yang minggu lalu memuji ketelitian saya. Tindakan saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Segera menghubungi petugas unit reskrim yang menerima berkas agar kesalahan nomor rangka dikoreksi sebelum berkas diproses lebih lanjut ke tahap berikutnya.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Segera melapor kepada atasan dan unit reskrim, mengakui kekeliruan, mengoreksi dokumen sesuai prosedur, dan menambahkan pencocokan nomor rangka dalam daftar periksa saya.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menunggu saat atasan tidak sibuk agar dapat menjelaskan kekeliruan itu dalam suasana yang lebih baik.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menganggap kesalahan satu digit itu tidak substansial karena identitas kendaraan masih dapat dikenali dengan jelas dari nomor polisi, nomor mesin, dan data lain yang tercantum dalam berkas.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mencatat kesalahan itu dengan rapi, lalu memperbaikinya ketika berkas dikembalikan untuk dilengkapi atau ketika ada pihak yang menanyakan, agar proses berkas yang sedang berjalan tidak terganggu.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kesalahan: satu digit nomor rangka pada berita acara.\n- Dokumen sudah diserahkan ke unit lain.\n- Belum ada yang mengetahui kesalahan itu.\n- Mengakuinya berpotensi menurunkan citra saya di mata atasan.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nTindakan paling tepat atas kesalahan sendiri yang belum diketahui orang lain.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-06 Profesionalisme (kejujuran yang merugikan diri) dan SKR-02 Ketelitian.\n2. Prinsip acuan: Kode Etik Profesi Polri (Perpol Nomor 7 Tahun 2022) yang menuntut anggota jujur, bertanggung jawab, dan menjaga kehormatan profesi; prinsip akuntabilitas — kesalahan diakui sebagai tanggung jawab sendiri, diperbaiki, dan dicegah agar tidak terulang.\n3. Pembeda antaropsi: opsi terbaik segera mengakui kepada atasan, mengoreksi lewat jalur resmi, dan memperbaiki cara kerja; opsi terendah mengecilkan arti kesalahan.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (B) — 5 poin: Jujur meski merugikan citra, perbaikan melalui jalur resmi, dan ada pencegahan; tanggung jawab penuh dan ketelitian ditingkatkan.\n   (A) — 4 poin: Cepat dan memperbaiki dampak, tetapi atasan yang bertanggung jawab atas berkas tidak diberi tahu dan tidak ada pencegahan.\n   (C) — 3 poin: Berniat jujur, tetapi menunda koreksi pada dokumen hukum yang sedang berjalan.\n   (E) — 2 poin: Ada kesadaran, tetapi kejujuran bergantung pada ketahuan; bersifat pasif.\n   (D) — 1 poin: Terdengar rasional, tetapi mengecilkan kesalahan untuk menghindari pengakuan; pada dokumen hukum satu digit dapat berakibat fatal.\nJadi, jawaban yang tepat adalah (B) Segera melapor kepada atasan dan unit reskrim, mengakui kekeliruan, mengoreksi dokumen sesuai prosedur, dan menambahkan pencocokan nomor rangka dalam daftar periksa saya.\nMengapa opsi lain kurang tepat:\n- (A) 4 poin: Atasan tidak diberi tahu dan tanpa pencegahan.\n- (C) 3 poin: Jujur tetapi menunda.\n- (E) 2 poin: Menunggu ketahuan.\n- (D) 1 poin: Mengecilkan kesalahan untuk menghindari pengakuan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Saya piket penjagaan pintu masuk markas. Prosedur mewajibkan setiap tamu menitipkan identitas dan dicatat. Pagi itu ada acara dan puluhan tamu undangan datang bersamaan sehingga antrean kendaraan mengular hingga mengganggu arus jalan raya. Seorang tamu yang mengaku kerabat pejabat meminta langsung masuk tanpa dicatat. Tindakan saya adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Mempersilakan tamu yang mengaku kerabat pejabat masuk lebih dulu agar tidak terjadi keributan, lalu mendata tamu lainnya seperti biasa.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menghubungi panitia acara agar mereka sendiri yang mendata tamu undangannya di dalam, karena kemacetan panjang ini muncul akibat kurangnya koordinasi panitia dengan piket penjagaan sejak awal acara direncanakan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tetap mencatat semua tamu tanpa pengecualian, meminta anggota piket lain membuka jalur pendataan kedua dan mengatur kendaraan, serta menjelaskan dengan sopan bahwa prosedur berlaku bagi semua.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mempercepat pendataan dengan hanya mencatat nama dan instansi tamu yang tercantum dalam daftar undangan, sedangkan tamu di luar daftar tetap didata lengkap sesuai prosedur.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Tetap mencatat semua tamu tanpa pengecualian dan menjelaskan dengan sopan kepada tamu tersebut bahwa aturan berlaku bagi siapa pun, meskipun antrean kendaraan tetap panjang hingga ke jalan raya sampai acara dimulai.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Prosedur: setiap tamu menitipkan identitas dan dicatat.\n- Puluhan tamu datang bersamaan; antrean mengganggu jalan raya.\n- Ada tamu yang meminta pengecualian karena mengaku kerabat pejabat.\n- Ada anggota piket lain yang bertugas.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nTindakan paling tepat ketika prosedur pengamanan berbenturan dengan kelancaran dan tekanan status.\n\nJAWAB:\n1. Dimensi yang diukur: KPR-06 Pengambilan keputusan dan SKR-01 Kecepatan kerja, yaitu menjaga prosedur keamanan tanpa mengabaikan kelancaran.\n2. Prinsip acuan: kesetaraan perlakuan dan prosedur pengamanan markas — prosedur berlaku bagi semua tanpa memandang kedudukan, disertai upaya mengatasi dampaknya.\n3. Pembeda antaropsi: opsi terbaik tegas tanpa pengecualian sekaligus menambah kapasitas layanan; opsi terendah menyalahkan panitia dan melimpahkan pendataan.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (C) — 5 poin: Prosedur keamanan utuh, perlakuan setara, dan dampak antrean diatasi dengan menambah kapasitas; tegas, santun, dan solutif.\n   (E) — 4 poin: Konsisten dan setara, tetapi tidak ada inisiatif mengatasi antrean yang mengganggu jalan raya.\n   (D) — 3 poin: Berupaya efisien, tetapi menyederhanakan prosedur atas inisiatif sendiri tanpa kewenangan.\n   (A) — 2 poin: Tampak meredam konflik, tetapi memberi perlakuan istimewa berdasarkan pengakuan status dan membuka celah keamanan.\n   (B) — 1 poin: Terdengar koordinatif, tetapi melimpahkan tugas pengamanan kepada pihak yang tidak berwenang sambil menyalahkan pihak lain.\nJadi, jawaban yang tepat adalah (C) Tetap mencatat semua tamu tanpa pengecualian, meminta anggota piket lain membuka jalur pendataan kedua dan mengatur kendaraan, serta menjelaskan dengan sopan bahwa prosedur berlaku bagi semua.\nMengapa opsi lain kurang tepat:\n- (E) 4 poin: Tanpa inisiatif mengurai antrean.\n- (D) 3 poin: Menyederhanakan prosedur tanpa kewenangan.\n- (A) 2 poin: Perlakuan istimewa yang melanggar prosedur.\n- (B) 1 poin: Melimpahkan tugas dan menyalahkan panitia.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-06",
+    "description": "Lengkapi pernyataan berikut dengan pilihan yang paling menggambarkan diri Anda.\n\n\"Saat diberi pekerjaan rutin dalam jumlah besar dengan waktu terbatas, saya ...\"",
+    "image": "",
+    "options": [
+      {
+        "text": "mengerjakan bagian yang paling mudah lebih dahulu agar kemajuan pekerjaan cepat terlihat dan semangat tetap terjaga.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "mengerjakannya dengan cermat satu per satu walaupun ada kemungkinan tidak seluruhnya selesai tepat waktu sesuai tenggat.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "mengerjakannya secepat mungkin sejak awal selagi tenaga masih penuh agar tersisa waktu untuk memeriksa hasil di akhir.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "menyampaikan kepada atasan sejak awal bahwa waktunya kurang memadai, sehingga hasilnya mungkin belum optimal meskipun saya sudah berusaha sebaik mungkin.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "membagi pekerjaan menjadi target per satuan waktu, bekerja dengan ritme stabil, dan memantau mutu hasil hingga selesai.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pekerjaan rutin dan berulang.\n- Jumlah besar, waktu terbatas.\n- Butir berbentuk pernyataan sikap diri.\n- Soal TKP: kelima opsi bernilai 1 sampai 5; tidak ada opsi bernilai nol, yang dinilai adalah tingkat kepatutannya.\n\nDITANYAKAN:\nCara kerja yang paling mencerminkan sikap kerja yang baik.\n\nJAWAB:\n1. Dimensi yang diukur: SKR-01 Kecepatan kerja, SKR-02 Ketelitian, dan SKR-03 Ketahanan kerja, yaitu menjaga laju dan mutu stabil sepanjang pekerjaan berulang.\n2. Prinsip acuan: sikap kerja — hasil terbaik dicapai dengan ritme stabil, target per satuan waktu, dan pemantauan mutu berkelanjutan.\n3. Pembeda antaropsi: opsi terbaik memadukan kecepatan, ketelitian, dan ketahanan; opsi terendah menyiapkan alasan sebelum bekerja.\n4. Urutan opsi dari poin 5 ke poin 1:\n   (E) — 5 poin: Laju terukur (kecepatan), mutu dipantau (ketelitian), dan ritme stabil mencegah penurunan di akhir (ketahanan).\n   (C) — 4 poin: Cepat dan ada pemeriksaan, tetapi laju awal yang berlebihan rawan menurunkan hasil dan konsentrasi di bagian akhir.\n   (B) — 3 poin: Teliti, tetapi mengabaikan tuntutan waktu sehingga tugas berisiko tidak tuntas.\n   (A) — 2 poin: Memberi kesan produktif, tetapi bagian sulit menumpuk di akhir ketika waktu dan tenaga menipis.\n   (D) — 1 poin: Terdengar terbuka, tetapi menyiapkan pembenaran sebelum berusaha; pola menghindar yang halus.\nJadi, jawaban yang tepat adalah (E) Membagi pekerjaan menjadi target per satuan waktu, bekerja dengan ritme stabil, dan memantau mutu hasil hingga selesai.\nMengapa opsi lain kurang tepat:\n- (C) 4 poin: Laju tidak stabil.\n- (B) 3 poin: Teliti tetapi mengabaikan tenggat.\n- (A) 2 poin: Mengejar kesan kemajuan.\n- (D) 1 poin: Menyiapkan pembenaran sebelum berusaha.",
+    "difficulty": "sulit"
+  }
+]

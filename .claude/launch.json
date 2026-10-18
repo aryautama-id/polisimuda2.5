@@ -1,0 +1,52 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "api",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd polisi-muda-api && DB_USERNAME=aryautama DB_PASSWORD= go run ./cmd/app"
+      ],
+      "port": 3000
+    },
+    {
+      "name": "web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "polisi-muda",
+        "run",
+        "dev"
+      ],
+      "port": 5173
+    },
+    {
+      "name": "api-mockai",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd polisi-muda-api && DB_USERNAME=aryautama DB_PASSWORD= AI_API_KEY=mock-local-key AI_BASE_URL=http://127.0.0.1:8765 AI_MODEL=mock-model go run ./cmd/app"
+      ],
+      "port": 3000
+    },
+    {
+      "name": "api-3100",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd polisi-muda-api && APP_PORT=3100 DB_USERNAME=aryautama DB_PASSWORD= go run ./cmd/app"
+      ],
+      "port": 3100
+    },
+    {
+      "name": "web-api3100",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd polisi-muda && VITE_API_BASE_URL=http://localhost:3100/api/v1 npx vite"
+      ],
+      "port": 5173
+    }
+  ]
+}
