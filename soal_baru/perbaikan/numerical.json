@@ -1,0 +1,1396 @@
+[
+ {
+  "id": "01986564-fa95-79eb-a6c1-919bd457efde",
+  "action": "revise",
+  "description": "Suatu barisan bilangan memiliki sifat: mulai suku ketiga dan seterusnya, setiap suku merupakan hasil penjumlahan dua suku sebelumnya. Jika suku ke-1 adalah a dan suku ke-2 adalah b, suku ke-6 barisan tersebut dapat dinyatakan sebagai …",
+  "options": [
+   {
+    "id": "01986564-fa98-78ad-8f9e-0181370c5413",
+    "description": "2a + 3b",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fa9d-74ee-a186-d6a5e7542067",
+    "description": "5a + 3b",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fa9f-7cb0-9520-481441d198e4",
+    "description": "5a + 8b",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-faa2-70b8-b794-c53fb6d2682c",
+    "description": "3a + 4b",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-faa4-72f4-9173-3170e2bef3e3",
+    "description": "3a + 5b",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Mulai suku ke-3, setiap suku = jumlah dua suku sebelumnya (pola Fibonacci).\n- U1 = a, U2 = b.\n\nDITANYAKAN:\nBentuk aljabar suku ke-6 (U6) dalam a dan b.\n\nJAWAB:\n1. Aturan: Un = U(n−1) + U(n−2) untuk n ≥ 3.\n2. Hitung satu per satu:\n   U3 = U2 + U1 = a + b\n   U4 = U3 + U2 = (a + b) + b = a + 2b\n   U5 = U4 + U3 = (a + 2b) + (a + b) = 2a + 3b\n   U6 = U5 + U4 = (2a + 3b) + (a + 2b) = 3a + 5b\n3. Cek dengan angka: ambil a = 1, b = 1. Barisannya 1, 1, 2, 3, 5, 8, dan 3a + 5b = 3 + 5 = 8. Cocok.\nCara cepat: koefisien a dan b mengikuti bilangan Fibonacci; pada U6 koefisien a = 3 dan koefisien b = 5.\nJadi, jawaban yang tepat adalah (E) 3a + 5b.\nMengapa opsi lain kurang tepat:\n- (A) 2a + 3b: ini suku ke-5 (U5), bukan suku ke-6.\n- (B) 5a + 3b: koefisien a dan b tertukar.\n- (C) 5a + 8b: ini suku ke-7 (U7 = U6 + U5).\n- (D) 3a + 4b: koefisien b salah; seharusnya 5.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: redaksi dirapikan; pengecoh dipertajam dengan U5 (2a + 3b), U7 (5a + 8b), dan koefisien tertukar; spasi opsi diperbaiki. Kunci tetap E."
+ },
+ {
+  "id": "01986564-fcf0-76e4-a3da-296ff344f570",
+  "action": "revise",
+  "description": "Bilangan real x dan y memenuhi sistem persamaan berikut:\n(1) x + 1/y = 3\n(2) y + 1/x = 5\nHubungan yang benar antara x dan y adalah …",
+  "options": [
+   {
+    "id": "01986564-fcf3-7560-92a0-e6b0486057cf",
+    "description": "x = y",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fcf7-77b5-ace3-bfcb1fef8221",
+    "description": "x > y",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fcfa-7100-83dc-5a79ae48c9af",
+    "description": "x < y",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986564-fcfc-7356-a39b-f78c408aedc1",
+    "description": "3x = 5y",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fcfe-796c-b1a7-939039278166",
+    "description": "xy = 1",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- x + 1/y = 3 ... (1)\n- y + 1/x = 5 ... (2)\n- x ≠ 0 dan y ≠ 0 (agar pecahan terdefinisi).\n\nDITANYAKAN:\nHubungan yang pasti benar antara x dan y.\n\nJAWAB:\n1. Samakan penyebut pada (1): (xy + 1)/y = 3, sehingga xy + 1 = 3y.\n2. Samakan penyebut pada (2): (xy + 1)/x = 5, sehingga xy + 1 = 5x.\n3. Ruas kiri keduanya sama, maka 3y = 5x, atau y = 5x/3.\n4. Tentukan tanda x. Substitusi y = 5x/3 ke xy + 1 = 5x: 5x²/3 + 1 = 5x, atau 5x² − 15x + 3 = 0.\n   Diskriminan = 225 − 60 = 165 > 0, jadi ada dua nilai x real: x = (15 ± √165)/10 (≈ 2,78 atau ≈ 0,22).\n   Jumlah akar = 3 > 0 dan hasil kali akar = 3/5 > 0, sehingga kedua nilai x positif.\n5. Karena x > 0, y = 5x/3 > x. Jadi x < y berlaku untuk kedua pasangan solusi.\n6. Cek: x ≈ 2,785 dan y ≈ 4,641 memberi x + 1/y ≈ 2,785 + 0,215 = 3 dan y + 1/x ≈ 4,641 + 0,359 = 5. Cocok.\nJadi, jawaban yang tepat adalah (C) x < y.\nMengapa opsi lain kurang tepat:\n- (A) x = y: bersama y = 5x/3 akan memaksa x = 0, padahal x ≠ 0.\n- (B) x > y: berlawanan dengan hasil y = 5x/3 dengan x positif.\n- (D) 3x = 5y: perbandingannya terbalik; yang benar 3y = 5x.\n- (E) xy = 1: dari xy = 5x − 1 diperoleh xy = (13 ± √165)/2 ≈ 12,92 atau ≈ 0,08, bukan 1.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: penulisan sistem dirapikan; pengecoh xy = 2 diganti 3x = 5y (perbandingan terbalik); pembahasan menambahkan bukti x > 0 lewat jumlah dan hasil kali akar. Kunci C."
+ },
+ {
+  "id": "019865a9-fc38-76a1-8323-c7890c6e28a2",
+  "action": "revise",
+  "description": "Lima silinder logam disusun berjajar dari kiri ke kanan sehingga beratnya membentuk barisan aritmetika. Pada tahun 2025, silinder paling kiri beratnya 40 kg dan silinder paling kanan beratnya 20 kg. Setiap tahun, berat setiap silinder bertambah 1 kg. Berapakah berat silinder ketiga (dari kiri) pada tahun 2030?",
+  "options": [
+   {
+    "id": "019865a9-fc3a-7d4f-8c87-7de9b16b17d2",
+    "description": "35 kg",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc3d-7453-98e9-68f8f37f6397",
+    "description": "30 kg",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc3f-79d3-9de5-e49dc4685553",
+    "description": "36 kg",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc42-73a7-95af-66528e852a08",
+    "description": "40 kg",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc44-7d14-acf4-54df53db2867",
+    "description": "45 kg",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Berat lima silinder pada tahun 2025 membentuk barisan aritmetika: U1 = 40 kg, U5 = 20 kg.\n- Setiap silinder bertambah 1 kg per tahun.\n\nDITANYAKAN:\nBerat silinder ketiga pada tahun 2030.\n\nJAWAB:\n1. Beda barisan: U5 = U1 + 4b, maka 20 = 40 + 4b, sehingga b = −5.\n2. Berat silinder ketiga tahun 2025: U3 = U1 + 2b = 40 − 10 = 30 kg.\n   (Cara cepat: U3 adalah suku tengah, (40 + 20)/2 = 30 kg.)\n3. Lama penambahan dari 2025 ke 2030 = 2030 − 2025 = 5 tahun, sehingga bertambah 5 × 1 kg = 5 kg.\n4. Berat pada tahun 2030 = 30 + 5 = 35 kg.\nJadi, jawaban yang tepat adalah (A) 35 kg.\nMengapa opsi lain kurang tepat:\n- (B) 30 kg: ini berat tahun 2025, penambahan 5 kg belum dihitung.\n- (C) 36 kg: menghitung 6 tahun (2025 sampai 2030 dihitung inklusif), padahal selang waktunya 5 tahun.\n- (D) 40 kg: ini berat silinder paling kiri pada tahun 2025, bukan silinder ketiga.\n- (E) 45 kg: ini berat silinder paling kiri pada tahun 2030.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: tahun acuan 2025 ditegaskan untuk kedua berat, posisi 'ketiga dari kiri' diperjelas; pengecoh diganti dengan kesalahan khas (tanpa penambahan, hitung 6 tahun, salah silinder). Kunci A."
+ },
+ {
+  "id": "019865a9-fc47-74b2-8b90-92e1506b6ef1",
+  "action": "revise",
+  "description": "Dalam sebuah pelatihan, pada sesi ke-1 tersedia 2 lembar kertas. Pada setiap sesi berikutnya, setiap lembar yang ada dipotong tepat satu kali menjadi 2 bagian sama besar. Berapakah banyak potongan kertas pada sesi ke-5?",
+  "options": [
+   {
+    "id": "019865a9-fc49-78de-b2fe-f605db357263",
+    "description": "16",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc4b-77d3-b282-6a68329d4951",
+    "description": "24",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc4e-7df7-815a-66b7470f5bc8",
+    "description": "32",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc52-729d-b6bc-b91df7f8f4fe",
+    "description": "48",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc54-7e9f-97ea-e6cfc2be40e8",
+    "description": "64",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Sesi ke-1: 2 lembar kertas.\n- Setiap sesi berikutnya, setiap lembar dipotong sekali menjadi 2 bagian, sehingga banyak kertas menjadi 2 kali lipat.\n\nDITANYAKAN:\nBanyak potongan kertas pada sesi ke-5.\n\nJAWAB:\n1. Banyak kertas membentuk barisan geometri dengan U1 = 2 dan rasio r = 2.\n2. Rumus: Un = U1 × r^(n−1).\n3. U5 = 2 × 2⁴ = 2 × 16 = 32.\n4. Cek dengan mendaftar: sesi 1 = 2, sesi 2 = 4, sesi 3 = 8, sesi 4 = 16, sesi 5 = 32.\nJadi, jawaban yang tepat adalah (C) 32.\nMengapa opsi lain kurang tepat:\n- (A) 16: ini banyak kertas pada sesi ke-4.\n- (B) 24: bukan suku barisan 2, 4, 8, 16, 32; muncul bila pertambahan dianggap tetap (aritmetika).\n- (D) 48: bukan suku barisan; tidak sesuai pola kelipatan 2.\n- (E) 64: ini sesi ke-6, atau hasil bila 2 lembar dianggap keadaan sebelum sesi ke-1.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: kata 'dilipat' yang membingungkan dihapus; ditegaskan 2 lembar adalah keadaan sesi ke-1 dan setiap lembar dipotong sekali per sesi. Kunci C."
+ },
+ {
+  "id": "0199fd77-931d-7eed-9e0f-de3b558e2628",
+  "action": "revise",
+  "description": "Tio ingin mengirim kue ulang tahun menggunakan kotak berbentuk balok. Panjang alas kotak dua kali lebar alasnya, lebar alasnya 20 cm, dan volume kotak 20.000 cm³. Seluruh permukaan kotak akan dibungkus dengan plastik pembungkus kado tahan air. Toko menyediakan dua jenis pembungkus seperti pada tabel (ukuran dalam cm). Jika Tio hanya memakai satu jenis pembungkus dan lembaran boleh dipotong lalu disambung, pilihan manakah yang memberikan biaya paling murah?",
+  "options": [
+   {
+    "id": "0199fd77-931e-7ba7-b2dc-248460544b32",
+    "description": "2 lembar pembungkus tipe merah",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-931f-7129-8364-bc75d68acb02",
+    "description": "1 lembar pembungkus tipe merah",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-931f-7569-9603-d857f7022a80",
+    "description": "2 lembar pembungkus tipe ungu",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-931f-789c-b81b-4f628091331c",
+    "description": "1 lembar pembungkus tipe ungu",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-931f-7e37-805f-774c98a5d39f",
+    "description": "3 lembar pembungkus tipe merah",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kotak balok: lebar l = 20 cm, panjang p = 2l = 40 cm, volume V = 20.000 cm³.\n- Pembungkus merah 50 × 60 cm seharga Rp6.000/lembar; ungu 75 × 40 cm seharga Rp7.000/lembar.\n- Hanya satu jenis pembungkus; lembaran boleh dipotong dan disambung.\n\nDITANYAKAN:\nPilihan pembungkus dengan biaya paling murah yang cukup menutup seluruh permukaan kotak.\n\nJAWAB:\n1. Tinggi kotak: t = V/(p × l) = 20.000/(40 × 20) = 20.000/800 = 25 cm.\n2. Luas permukaan: L = 2(pl + pt + lt) = 2(800 + 1.000 + 500) = 2 × 2.300 = 4.600 cm².\n3. Luas satu lembar: merah = 50 × 60 = 3.000 cm²; ungu = 75 × 40 = 3.000 cm².\n4. Satu lembar (3.000 cm²) tidak cukup, sedangkan dua lembar (6.000 cm²) cukup untuk 4.600 cm².\n5. Biaya: 2 lembar merah = 2 × Rp6.000 = Rp12.000; 2 lembar ungu = 2 × Rp7.000 = Rp14.000.\n6. Biaya termurah yang cukup adalah 2 lembar merah.\nJadi, jawaban yang tepat adalah (A) 2 lembar pembungkus tipe merah.\nMengapa opsi lain kurang tepat:\n- (B) 1 lembar merah: luasnya 3.000 cm², kurang dari 4.600 cm².\n- (C) 2 lembar ungu: cukup, tetapi biayanya Rp14.000, lebih mahal dari Rp12.000.\n- (D) 1 lembar ungu: luasnya 3.000 cm², tidak cukup.\n- (E) 3 lembar merah: cukup, tetapi berlebih dan biayanya Rp18.000.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: ukuran kotak kini tertentu (lebar 20 cm, volume 20.000 cm³ sehingga tinggi 25 cm), menghilangkan ambiguitas luas permukaan; asumsi potong-sambung ditegaskan; opsi 'kuning' (tidak ada di tabel) diganti '3 lembar merah'. Kunci A."
+ },
+ {
+  "id": "019a6927-5142-74e1-be2e-80adfe0a003e",
+  "action": "revise",
+  "description": "Perhatikan barisan berselang berikut: x, 12, 4, 24, 6, 48, 8, y. Suku-suku pada urutan ganjil dan suku-suku pada urutan genap masing-masing mengikuti polanya sendiri. Nilai x dan y yang sesuai dengan pola barisan tersebut adalah …",
+  "options": [
+   {
+    "id": "019a6927-5142-7c41-82c2-47fc73bfb216",
+    "description": "2 dan 96",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5143-72b8-ab02-6106fb31dbdf",
+    "description": "2 dan 72",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5143-76fb-a21c-b1f54dcd2f68",
+    "description": "4 dan 96",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5143-7bd0-85a3-9c5a7f1ee788",
+    "description": "10 dan 40",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5144-70b5-8a14-7ec2ce33beba",
+    "description": "0 dan 96",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Barisan: x, 12, 4, 24, 6, 48, 8, y.\n- Suku urutan ganjil dan suku urutan genap membentuk pola masing-masing.\n\nDITANYAKAN:\nNilai x dan y.\n\nJAWAB:\n1. Pisahkan suku urutan ganjil (ke-1, 3, 5, 7): x, 4, 6, 8.\n   Polanya bertambah 2 (4 → 6 → 8), maka x = 4 − 2 = 2.\n2. Pisahkan suku urutan genap (ke-2, 4, 6, 8): 12, 24, 48, y.\n   Polanya dikali 2 (12 → 24 → 48), maka y = 48 × 2 = 96.\n3. Cek: barisan lengkap 2, 12, 4, 24, 6, 48, 8, 96; kedua larik konsisten.\nJadi, jawaban yang tepat adalah (A) 2 dan 96.\nMengapa opsi lain kurang tepat:\n- (B) 2 dan 72: y = 72 menganggap larik genap bertambah 24 secara tetap, padahal 12 → 24 → 48 dikali 2.\n- (C) 4 dan 96: x = 4 membuat larik ganjil 4, 4, 6, 8 yang tidak berpola.\n- (D) 10 dan 40: tidak cocok dengan kedua larik (x harus 2, y harus 96).\n- (E) 0 dan 96: x = 0 membuat larik ganjil 0, 4, 6, 8 dengan selisih tidak tetap.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: syarat rata-rata 19 yang bertentangan dengan pola dihapus; soal kini murni deret berselang (sesuai NUM-12) dengan x = 2 dan y = 96; opsi disusun ulang. Kunci berubah dari '10 dan 40' menjadi '2 dan 96' (tetap posisi A)."
+ },
+ {
+  "id": "019ac054-e00d-7de4-b9fe-9633992eff7e",
+  "action": "revise",
+  "description": "Diketahui x dan y bilangan bulat positif yang memenuhi 3 < x < 7 dan 4 < y < 8. Jika z = x + y, himpunan semua nilai z yang mungkin dapat dinyatakan sebagai {z bilangan bulat | …}. Pernyataan yang tepat untuk melengkapi himpunan tersebut adalah …",
+  "options": [
+   {
+    "id": "019ac054-e00e-7229-9d28-0419ac48ea95",
+    "description": "7 < z < 15",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ac054-e00e-7524-b76c-3e6d5b903fae",
+    "description": "7 < z < 14",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ac054-e00e-78ca-8000-9d92d1554519",
+    "description": "8 < z < 14",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ac054-e00e-7ccc-b351-c2f7f7050ca7",
+    "description": "8 < z < 15",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ac054-e00f-71ca-8815-c95c4503bc05",
+    "description": "9 < z < 16",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- x, y bilangan bulat positif.\n- 3 < x < 7, sehingga x ∈ {4, 5, 6}.\n- 4 < y < 8, sehingga y ∈ {5, 6, 7}.\n- z = x + y.\n\nDITANYAKAN:\nPertidaksamaan yang tepat menggambarkan himpunan SEMUA nilai z yang mungkin (z bilangan bulat).\n\nJAWAB:\n1. Nilai z terkecil = 4 + 5 = 9; nilai z terbesar = 6 + 7 = 13.\n2. Semua bilangan bulat di antaranya dapat dicapai (mis. 4 + 6 = 10, 5 + 6 = 11, 5 + 7 = 12), sehingga z ∈ {9, 10, 11, 12, 13}.\n3. Untuk z bilangan bulat, {9, 10, 11, 12, 13} sama dengan {z | 8 < z < 14}.\nJadi, jawaban yang tepat adalah (C) 8 < z < 14.\nMengapa opsi lain kurang tepat:\n- (A) 7 < z < 15: memuat 8 dan 14 yang tidak mungkin dicapai (ini hasil bila x, y bilangan real).\n- (B) 7 < z < 14: memuat 8 yang tidak mungkin dicapai.\n- (D) 8 < z < 15: memuat 14 yang tidak mungkin dicapai.\n- (E) 9 < z < 16: tidak memuat 9 (padahal 4 + 5 = 9) dan memuat 14, 15.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: pertanyaan 'rentang paling tepat' diganti 'himpunan semua nilai z yang mungkin' sehingga hanya satu opsi tepat (sebelumnya A, B, C, D sama-sama pernyataan benar). Kunci C."
+ },
+ {
+  "id": "019cf46c-3c8c-72ea-b90c-8c21f28026a0",
+  "action": "revise",
+  "description": "Diberikan sistem persamaan linear dalam x dan y dengan a ≠ 0:\n(1) a²x − 3y = 1\n(2) ((4a + 6)/3)x + ((a + 1)/a)y = 6\nAgar sistem tersebut tidak memiliki tepat satu solusi, nilai a yang memenuhi adalah …",
+  "options": [
+   {
+    "id": "019cf46c-3c8c-7731-961c-391070e9be4b",
+    "description": "{a ∈ R : a = −2 atau a = −3}",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c8c-7c73-99b1-0611d20c0680",
+    "description": "{a ∈ R : a = 2 atau a = 3}",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c8d-7046-97f2-31c74c8a2239",
+    "description": "{a ∈ R : a = 2 atau a = −3}",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c8d-757f-852e-e5e458f12c96",
+    "description": "{a ∈ R : a = −2 atau a = 3}",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c8d-7947-b91b-0b7b4db9e84b",
+    "description": "{a ∈ R : a ≠ −2 dan a ≠ −3}",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- (1) a²x − 3y = 1\n- (2) ((4a + 6)/3)x + ((a + 1)/a)y = 6, dengan a ≠ 0.\n\nDITANYAKAN:\nNilai a agar sistem TIDAK memiliki tepat satu solusi.\n\nJAWAB:\n1. Sistem a₁x + b₁y = c₁ dan a₂x + b₂y = c₂ memiliki tepat satu solusi jika dan hanya jika determinan D = a₁b₂ − a₂b₁ ≠ 0. Jadi syaratnya D = 0.\n2. Koefisien: a₁ = a², b₁ = −3, a₂ = (4a + 6)/3, b₂ = (a + 1)/a.\n3. D = a² × (a + 1)/a − ((4a + 6)/3) × (−3) = a(a + 1) + (4a + 6) = a² + 5a + 6.\n4. D = 0 → a² + 5a + 6 = 0 → (a + 2)(a + 3) = 0 → a = −2 atau a = −3 (keduanya ≠ 0, sah).\n5. Cek a = −2: D = 4 − 10 + 6 = 0. Cek a = −3: D = 9 − 15 + 6 = 0.\nJadi, jawaban yang tepat adalah (A) {a ∈ R : a = −2 atau a = −3}.\nMengapa opsi lain kurang tepat:\n- (B) a = 2 atau a = 3: tanda akar terbalik; untuk a = 2, D = 20 ≠ 0.\n- (C) a = 2 atau a = −3: a = 2 memberi D = 20 ≠ 0.\n- (D) a = −2 atau a = 3: a = 3 memberi D = 30 ≠ 0.\n- (E) a ≠ −2 dan a ≠ −3: ini justru syarat sistem memiliki tepat satu solusi.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: koefisien y ditulis tegas (a + 1)/a agar tidak terbaca 1/(a + 1); opsi duplikat (D dan E identik) diganti dengan syarat kebalikan 'a ≠ −2 dan a ≠ −3'. Kunci A."
+ },
+ {
+  "id": "019cf46c-3c8d-7d01-b48d-3432c0ca58a0",
+  "action": "revise",
+  "description": "Sebuah restoran cepat saji menyetok 16 lusin dan 12 botol minuman untuk akhir pekan. Setelah hari Minggu berakhir, minuman yang tersisa tinggal 4 lusin botol. Berapa botol minuman yang terjual selama akhir pekan?",
+  "options": [
+   {
+    "id": "019cf46c-3c8e-7322-90bf-48b10503f9bd",
+    "description": "144",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c8e-77a5-8dd9-c2ffd503ea94",
+    "description": "108",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c8e-7bc5-818d-b2ee01880c97",
+    "description": "200",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c8f-7150-a1ef-69a0a90ca49d",
+    "description": "192",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c8f-74f6-b900-9f41d3c09db1",
+    "description": "156",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Stok awal: 16 lusin dan 12 botol.\n- Sisa: 4 lusin botol.\n- 1 lusin = 12 botol.\n\nDITANYAKAN:\nBanyak botol yang terjual.\n\nJAWAB:\n1. Stok awal = 16 × 12 + 12 = 192 + 12 = 204 botol.\n2. Sisa = 4 × 12 = 48 botol.\n3. Terjual = 204 − 48 = 156 botol.\nJadi, jawaban yang tepat adalah (E) 156.\nMengapa opsi lain kurang tepat:\n- (A) 144: hanya (16 − 4) × 12; tambahan 12 botol terlupa.\n- (B) 108: sisa 48 botol terkurangkan dua kali (204 − 48 − 48).\n- (C) 200: sisa dianggap 4 botol, bukan 4 lusin.\n- (D) 192: ini hanya 16 lusin stok awal, belum ditambah 12 botol dan belum dikurangi sisa.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: redaksi '16 lusin + 12 botol' diganti '16 lusin dan 12 botol'; pengecoh diganti dengan kesalahan hitung yang khas. Kunci E (156)."
+ },
+ {
+  "id": "019cf46c-3c94-7e57-b662-a7483edda39f",
+  "action": "revise",
+  "description": "Pada tahun 2025, usia seorang ayah 6 tahun lebih tua daripada tiga kali usia anaknya. Enam tahun yang lalu, usia ayah sama dengan lima kali usia anaknya saat itu. Berapakah usia anak tersebut enam tahun dari sekarang?",
+  "options": [
+   {
+    "id": "019cf46c-3c95-71f0-859e-968be2452c88",
+    "description": "9 tahun",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c95-7512-9981-d5f69b509abc",
+    "description": "15 tahun",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c95-7890-9b0c-2b3c24660ad7",
+    "description": "21 tahun",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c95-7b4b-af6b-5e2eceff938c",
+    "description": "27 tahun",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3c96-700f-96e6-859710b1e9d8",
+    "description": "57 tahun",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Misalkan usia anak tahun 2025 = A dan usia ayah = Y.\n- Y = 3A + 6.\n- Enam tahun lalu: Y − 6 = 5(A − 6).\n\nDITANYAKAN:\nUsia anak enam tahun dari sekarang (A + 6).\n\nJAWAB:\n1. Substitusi: (3A + 6) − 6 = 5A − 30.\n2. 3A = 5A − 30, sehingga 2A = 30 dan A = 15 tahun.\n3. Usia ayah: Y = 3 × 15 + 6 = 51 tahun.\n4. Cek: enam tahun lalu ayah 45 tahun dan anak 9 tahun; 45 = 5 × 9. Cocok.\n5. Usia anak enam tahun lagi = 15 + 6 = 21 tahun.\nJadi, jawaban yang tepat adalah (C) 21 tahun.\nMengapa opsi lain kurang tepat:\n- (A) 9 tahun: ini usia anak enam tahun yang lalu.\n- (B) 15 tahun: ini usia anak sekarang, belum ditambah 6 tahun.\n- (D) 27 tahun: menambahkan 12 tahun, bukan 6 tahun.\n- (E) 57 tahun: ini usia ayah enam tahun lagi, bukan usia anak.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: angka diubah agar usia realistis (anak 15 tahun, ayah 51 tahun; sebelumnya anak 34 dan ayah 174 tahun); opsi disesuaikan dengan pengecoh khas. Kunci C (21 tahun)."
+ },
+ {
+  "id": "01986564-fab5-7f0b-b2ba-5ec2a72cb94d",
+  "action": "fix",
+  "description": "Perhatikan dua persamaan pada gambar. Selain itu, diketahui pula bahwa a, b, c, dan d bilangan real positif dengan 2c² = 15d². Nilai a²/d² adalah …",
+  "options": [
+   {
+    "id": "01986564-faba-7619-8d19-20ab9ba82028",
+    "description": "1",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fabe-76ee-ba81-fa7d869b3475",
+    "description": "2",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fac0-7bfd-a733-34e3f9a9278d",
+    "description": "4",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986564-fac3-7920-9e42-e9716ef4fab3",
+    "description": "5",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fac6-72cc-95ae-a0866be7d2e0",
+    "description": "8",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- a/b = 2c/(3d) dan b/c = 4d/(5a) (dari gambar).\n- 2c² = 15d², dengan a, b, c, d positif.\n\nDITANYAKAN:\nNilai a²/d².\n\nJAWAB:\n1. Kalikan kedua persamaan agar b hilang:\n   (a/b) × (b/c) = (2c/(3d)) × (4d/(5a))\n   a/c = 8cd/(15ad) = 8c/(15a).\n2. Kali silang: 15a² = 8c², sehingga a² = 8c²/15.\n3. Dari syarat tambahan: c² = 15d²/2.\n4. Substitusi: a² = (8/15) × (15d²/2) = 4d².\n5. Maka a²/d² = 4.\n6. Cek dengan angka: ambil d = 1, maka c² = 7,5 dan a² = 4 (a = 2). Dari persamaan pertama b = 3ad/(2c) = 3/√7,5; lalu b/c = 3/7,5 = 0,4 dan 4d/(5a) = 4/10 = 0,4. Cocok.\nJadi, jawaban yang tepat adalah (C) 4.\nMengapa opsi lain kurang tepat:\n- (A) 1: berarti a = d, tidak sesuai a² = 4d².\n- (B) 2: ini nilai a/d, belum dikuadratkan.\n- (D) 5: tidak dapat diturunkan dari a² = 8c²/15 dan c² = 15d²/2.\n- (E) 8: angka 8 hanya muncul pada hubungan 15a² = 8c², bukan a²/d².",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: data pada gambar membuat d bebas (a²/d² tidak tunggal). Ditambahkan syarat teks 2c² = 15d² dan a, b, c, d positif sehingga a²/d² = 4 tunggal. Kunci C (4) dipertahankan; pembahasan ditulis ulang dengan cek angka."
+ },
+ {
+  "id": "01986564-fb45-7a1a-8582-586f316debab",
+  "action": "fix",
+  "description": "Perhatikan:",
+  "options": [
+   {
+    "id": "01986564-fb4a-7ad4-8261-34acc8a2ca8a",
+    "description": "x pasti bukan bilangan ganjil",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fb4c-7e03-b03b-920c8f169ca9",
+    "description": "x merupakan bilangan genap dan bukan kelipatan 3",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fb50-7170-a126-49a4fe931f85",
+    "description": "x bukan bilangan prima",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fb52-761c-8a77-21bca0b46c0d",
+    "description": "x adalah kelipatan 3 dan bilangan genap",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986564-fb55-7412-8f0c-979f304f7887",
+    "description": "x adalah bilangan ganjil dan prima",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- P: Jika x habis dibagi 3, maka x adalah bilangan ganjil. P bernilai SALAH.\n- Q: x bukan kelipatan 6 atau x ganjil. Q bernilai BENAR.\n- R: Jika x ganjil, maka x bukan bilangan prima genap. R bernilai BENAR.\n- Pilihan: (A) x pasti bukan bilangan ganjil; (B) x genap dan bukan kelipatan 3; (C) x bukan bilangan prima; (D) x kelipatan 3 dan genap; (E) x ganjil dan prima.\n\nDITANYAKAN:\nPernyataan yang dapat disimpulkan secara logis dari nilai kebenaran P, Q, dan R.\n\nJAWAB:\n1. Bentuk logika P: p → q, dengan p = \"x habis dibagi 3\" dan q = \"x ganjil\".\n   Implikasi p → q hanya SALAH bila p benar dan q salah. Jadi dari P salah:\n   x habis dibagi 3 (benar) dan x tidak ganjil, artinya x genap.\n2. x habis dibagi 3 dan habis dibagi 2, sehingga x habis dibagi 6 (x kelipatan 6).\n3. Bentuk logika Q: r ∨ q, dengan r = \"x bukan kelipatan 6\". Disjungsi bernilai benar bila minimal satu bagian benar.\n   Dari langkah 1-2: r salah (x justru kelipatan 6) dan q salah (x genap). Maka Q bernilai SALAH.\n4. Padahal soal menyatakan Q BENAR. Jadi premis P salah dan Q benar saling bertentangan; tidak ada bilangan x yang memenuhi keduanya.\n5. R: \"jika x ganjil, maka x bukan prima genap\" selalu benar untuk semua x, karena satu-satunya prima genap adalah 2 dan 2 tidak ganjil. Jadi R tidak memberi informasi tambahan.\n6. Jika kita hanya memakai P salah (mengabaikan pertentangan dengan Q), hasilnya x kelipatan 6. Uji setiap opsi:\n   - (A) x bukan ganjil: BENAR, karena x genap.\n   - (B) x genap dan bukan kelipatan 3: SALAH, x kelipatan 3.\n   - (C) x bukan prima: BENAR, kelipatan 6 (6, 12, 18, ...) selalu punya faktor 2 dan 3.\n   - (D) x kelipatan 3 dan genap: BENAR, langsung dari negasi P.\n   - (E) x ganjil dan prima: SALAH, x genap.\n7. Ada tiga opsi yang sama-sama benar (A, C, D), dan premisnya pun saling bertentangan.\nJadi, jawaban yang tepat adalah (D) x adalah kelipatan 3 dan bilangan genap sebagai bentuk langsung negasi P, tetapi opsi (A) dan (C) juga benar dan premis Q bertentangan dengan P, sehingga soal perlu diperbaiki.\nMengapa opsi lain kurang tepat:\n- (A) x pasti bukan bilangan ganjil: sebenarnya juga benar (x genap), sehingga soal punya jawaban ganda.\n- (B) x genap dan bukan kelipatan 3: salah, karena P salah memaksa x habis dibagi 3.\n- (C) x bukan bilangan prima: sebenarnya juga benar (kelipatan 6 tidak prima), jawaban ganda.\n- (E) x ganjil dan prima: salah, karena x genap.",
+  "status": "nonaktif",
+  "quality_score": 2,
+  "quality_notes": "Nonaktif: premis pada gambar saling bertentangan (P salah berarti x kelipatan 6, sehingga Q 'x bukan kelipatan 6 atau x ganjil' pasti salah padahal dinyatakan benar) dan opsi A, C, D sama-sama benar. Cacat ada di teks gambar sehingga tidak dapat diperbaiki lewat teks/opsi; perlu gambar baru."
+ },
+ {
+  "id": "01986564-fb57-7c7c-89bf-f79d55b4fcf8",
+  "action": "fix",
+  "description": "Sebuah limas segiempat beraturan memiliki panjang sisi alas 12 cm dan tinggi limas 8 cm. Berapakah tinggi segitiga sisi tegaknya (jarak dari puncak limas ke titik tengah rusuk alas)?",
+  "options": [
+   {
+    "id": "01986564-fb5b-760d-ad64-9dcc2c9a8d2f",
+    "description": "6 cm",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fb5d-7cda-bc39-d8cbe7c4aeba",
+    "description": "10 cm",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986564-fb60-74c8-b358-d78a1cabf6c4",
+    "description": "2√34 cm",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fb62-78a7-b901-80f838d8d6a2",
+    "description": "12 cm",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fb64-7a60-b3c9-87fed3815846",
+    "description": "4√13 cm",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Limas segiempat beraturan, sisi alas s = 12 cm.\n- Tinggi limas t = 8 cm.\n\nDITANYAKAN:\nTinggi segitiga sisi tegak (apotema), yaitu jarak puncak ke titik tengah rusuk alas.\n\nJAWAB:\n1. Titik kaki tinggi limas berada di pusat alas. Jarak pusat alas ke titik tengah rusuk alas = s/2 = 6 cm.\n2. Tinggi limas (8 cm), jarak 6 cm, dan apotema membentuk segitiga siku-siku.\n3. Teorema Pythagoras: apotema = √(8² + 6²) = √(64 + 36) = √100 = 10 cm.\nJadi, jawaban yang tepat adalah (B) 10 cm.\nMengapa opsi lain kurang tepat:\n- (A) 6 cm: ini hanya setengah sisi alas, salah satu sisi siku-siku.\n- (C) 2√34 cm: ini panjang rusuk tegak, √(8² + (6√2)²) = √136, yang memakai setengah diagonal alas.\n- (D) 12 cm: ini panjang sisi alas.\n- (E) 4√13 cm: hasil √(8² + 12²) bila keliru memakai sisi alas penuh, bukan setengahnya.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: soal lama menanyakan 'rusuk sisi tegak' (√136 ≈ 11,66 cm, tidak ada di opsi). Pertanyaan diubah menjadi tinggi segitiga sisi tegak (apotema) = 10 cm; pengecoh diganti dengan rusuk tegak 2√34, setengah sisi, sisi alas, dan √(8²+12²). Kunci B."
+ },
+ {
+  "id": "01986564-fc00-7afb-9e97-464c087b01ce",
+  "action": "fix",
+  "description": "Dalam suatu lomba, tim A beranggotakan 4 orang dengan rata-rata nilai 80, sedangkan tim B beranggotakan 8 orang (dua kali jumlah anggota tim A) dengan rata-rata nilai 70. Panitia menambahkan satu peserta baru ke tim A agar rata-rata gabungan seluruh peserta kedua tim menjadi tepat 75. Berapakah nilai yang harus diperoleh peserta baru tersebut?",
+  "options": [
+   {
+    "id": "01986564-fc02-7c79-9533-4e17f4b94c06",
+    "description": "90",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fc06-7582-af1d-ba67c7228417",
+    "description": "85",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fc09-7162-9679-607ff46fb45c",
+    "description": "80",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fc0b-7558-a4dd-7b71aa4cb6b2",
+    "description": "95",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986564-fc0f-7591-98d7-7281723e5bf7",
+    "description": "100",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Tim A: 4 orang, rata-rata 80, sehingga jumlah nilai = 320.\n- Tim B: 8 orang, rata-rata 70, sehingga jumlah nilai = 560.\n- Ditambah 1 peserta baru bernilai x; rata-rata gabungan menjadi 75.\n\nDITANYAKAN:\nNilai x.\n\nJAWAB:\n1. Banyak peserta setelah penambahan = 4 + 8 + 1 = 13 orang.\n2. Jumlah nilai yang dibutuhkan = 13 × 75 = 975.\n3. Jumlah nilai sebelum penambahan = 320 + 560 = 880.\n4. x = 975 − 880 = 95.\n5. Cek: (880 + 95)/13 = 975/13 = 75. Cocok.\nJadi, jawaban yang tepat adalah (D) 95.\nMengapa opsi lain kurang tepat:\n- (A) 90: rata-rata menjadi 970/13 ≈ 74,6, belum 75.\n- (B) 85: rata-rata menjadi 965/13 ≈ 74,2; nilai 85 hanya cocok bila tim A beranggotakan 2 orang.\n- (C) 80: rata-rata menjadi 960/13 ≈ 73,8; ini sekadar rata-rata tim A.\n- (E) 100: rata-rata menjadi 980/13 ≈ 75,4, melebihi 75.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: jumlah anggota tim tidak diketahui sehingga jawaban tidak tunggal (x = 5n + 75). Ditambahkan data tim A 4 orang dan tim B 8 orang, sehingga nilai peserta baru = 95. Kunci berpindah dari B (85) ke D (95)."
+ },
+ {
+  "id": "01986564-fc99-778b-8f11-39af7116eecb",
+  "action": "fix",
+  "description": "Perhatikan bentuk operasi hitung pada gambar. Hasil operasi tersebut adalah …",
+  "options": [
+   {
+    "id": "01986564-fc9c-7b34-a528-e1cea23f16ec",
+    "description": "7/6",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fc9f-7929-bc10-dd153c0f029c",
+    "description": "68/35",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fca2-79b0-9d59-b241307dee78",
+    "description": "7/12",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fca5-725e-8671-e6a727233e3f",
+    "description": "49/72",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fca7-7854-90ba-3f2c59673bc4",
+    "description": "2",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Bentuk: (125% − 0,75 + 2/3 − 1 1/3 + 1,3̄) ÷ (5/6 − 0,5 + 1/4).\n- 125% = 5/4; 0,75 = 3/4; 1 1/3 = 4/3; 1,3̄ (1,333…) = 4/3; 0,5 = 1/2.\n\nDITANYAKAN:\nHasil operasi tersebut.\n\nJAWAB:\n1. Bagian dalam kurung pertama:\n   5/4 − 3/4 = 2/4 = 1/2\n   1/2 + 2/3 = 3/6 + 4/6 = 7/6\n   7/6 − 4/3 + 4/3 = 7/6 (− 4/3 dan + 4/3 saling menghapus)\n2. Bagian dalam kurung kedua (KPK 12):\n   5/6 − 1/2 + 1/4 = 10/12 − 6/12 + 3/12 = 7/12\n3. Pembagian: 7/6 ÷ 7/12 = 7/6 × 12/7 = 12/6 = 2.\nJadi, jawaban yang tepat adalah (E) 2.\nMengapa opsi lain kurang tepat:\n- (A) 7/6: ini hanya hasil kurung pertama, belum dibagi.\n- (B) 68/35: hasil bila 1,3̄ keliru dibaca 1,3 (bukan 1,333…).\n- (C) 7/12: ini hanya hasil kurung kedua.\n- (D) 49/72: hasil bila kedua kurung dikalikan, bukan dibagi.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: hasil benar adalah 2 (dihitung eksak dengan pecahan) tetapi tidak ada di opsi. Opsi disusun ulang dengan 2 sebagai kunci (E) dan pengecoh dari kesalahan khas (hasil kurung, membaca 1,3̄ sebagai 1,3, mengalikan). Deskripsi teks diperjelas. Catatan: gambar masih memuat frasa janggal 'dari adalah' (kosmetik)."
+ },
+ {
+  "id": "01986564-fca9-7b37-99b3-8342029534db",
+  "action": "fix",
+  "description": "Di suatu sekolah, setiap siswa peserta ekstrakurikuler mengikuti minimal satu dari tiga kegiatan: Karya Ilmiah Remaja (KIR), Musik, dan Bahasa. Tercatat 24 siswa mengikuti KIR, 19 siswa mengikuti Musik, dan 16 siswa mengikuti Bahasa. Di antara mereka, 10 siswa mengikuti tepat dua kegiatan dan 2 siswa mengikuti ketiga kegiatan. Berapa banyak siswa yang hanya mengikuti satu kegiatan?",
+  "options": [
+   {
+    "id": "01986564-fcac-7f3e-837c-419822e1e9ef",
+    "description": "45",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fcaf-7aa1-92ea-b4a7f1c720ab",
+    "description": "37",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fcb2-75a3-9c8f-2dcc08246a7a",
+    "description": "35",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986564-fcb6-77a1-b0cf-bd7958661c42",
+    "description": "33",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986564-fcba-70cb-8787-b92a858319fb",
+    "description": "47",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- KIR = 24, Musik = 19, Bahasa = 16 (jumlah pendaftaran = 59).\n- Tepat dua kegiatan = 10 siswa; ketiga kegiatan = 2 siswa.\n- Setiap siswa mengikuti minimal satu kegiatan.\n\nDITANYAKAN:\nBanyak siswa yang hanya mengikuti satu kegiatan.\n\nJAWAB:\n1. Dalam jumlah 24 + 19 + 16 = 59, siswa satu kegiatan terhitung 1 kali, siswa dua kegiatan terhitung 2 kali, dan siswa tiga kegiatan terhitung 3 kali.\n2. Misalkan banyak siswa satu kegiatan = n. Maka n + 2 × 10 + 3 × 2 = 59.\n3. n + 20 + 6 = 59, sehingga n = 33.\n4. Cek: total siswa = 33 + 10 + 2 = 45. Salah satu sebaran yang memenuhi: KIR-Musik 4, KIR-Bahasa 3, Musik-Bahasa 3, hanya KIR 15, hanya Musik 10, hanya Bahasa 8 (15 + 10 + 8 = 33).\nJadi, jawaban yang tepat adalah (D) 33.\nMengapa opsi lain kurang tepat:\n- (A) 45: ini total seluruh siswa, termasuk yang mengikuti dua atau tiga kegiatan.\n- (B) 37: siswa tiga kegiatan hanya dikurangkan sekali (59 − 20 − 2).\n- (C) 35: siswa tiga kegiatan dikurangkan dua kali, seharusnya tiga kali (59 − 20 − 4).\n- (E) 47: siswa dua dan tiga kegiatan masing-masing hanya dikurangkan sekali (59 − 10 − 2).",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: data lama tidak konsisten (25 + 20 + 18 memberi 49 siswa, bukan 45). Jumlah peserta tiap kegiatan diubah menjadi 24, 19, 16 sehingga konsisten (satu kegiatan = 33, total 45); frasa 'dipilih secara acak ... kemungkinan' dihapus; opsi pengecoh diganti kesalahan khas. Kunci D (33)."
+ },
+ {
+  "id": "019865a9-fa5f-7da4-bacf-142d07d80dbc",
+  "action": "fix",
+  "description": "Perhatikan gambar berikut!",
+  "options": [
+   {
+    "id": "019865a9-fa69-75cd-881a-720eb9b0ab6f",
+    "description": "38◦",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fa6c-71aa-bba7-67edbb4ddf2b",
+    "description": "26◦",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fa6f-716f-967c-d86bb8e9c5f5",
+    "description": "40◦",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fa71-7856-9173-f754d2cd6cc4",
+    "description": "18◦",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fa73-7982-9626-6e6da19f9416",
+    "description": "12◦",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Garis p sejajar garis q, dipotong dua garis transversal yang saling berpotongan di antara p dan q.\n- Di titik potong transversal kiri dengan p: sudut kiri atas 3x° dan sudut kanan atas (2x + 50)°.\n- Di titik potong transversal kanan dengan p: sudut kiri atas (3y − 10)° dan sudut kanan atas 2y°.\n- Sudut di bawah titik potong kedua transversal diberi label (y − x)°.\n- Pilihan jawaban: 38°, 26°, 40°, 18°, 12° (kunci tercatat 40°).\n\nDITANYAKAN:\nBesar sudut (y − x)°.\n\nJAWAB:\n1. Sudut 3x° dan (2x + 50)° terletak berdampingan pada garis lurus p, jadi saling berpelurus (jumlahnya 180°):\n   3x + 2x + 50 = 180\n   5x = 180 − 50 = 130\n   x = 130 : 5 = 26.\n   Cek: 3x = 78° dan 2x + 50 = 102°; 78 + 102 = 180. Benar.\n2. Sudut (3y − 10)° dan 2y° juga berpelurus pada garis p:\n   3y − 10 + 2y = 180\n   5y = 190\n   y = 190 : 5 = 38.\n   Cek: 3y − 10 = 104° dan 2y = 76°; 104 + 76 = 180. Benar.\n3. Nilai y − x = 38 − 26 = 12, sehingga secara aljabar (y − x)° = 12°.\n4. Cek dengan geometri gambar. Garis p dan kedua transversal membentuk segitiga dengan titik sudut di kedua titik potong pada p dan titik potong transversal (X).\n   - Sudut dalam segitiga di titik potong kiri bertolak belakang dengan 3x°, jadi 78°.\n   - Sudut dalam segitiga di titik potong kanan bertolak belakang dengan 2y°, jadi 76°.\n   - Sudut di X = 180° − 78° − 76° = 26°.\n   Sudut berlabel (y − x)° bertolak belakang dengan sudut di X, sehingga menurut gambar besarnya 26°.\n5. Hasil langkah 3 (12°) dan langkah 4 (26°) berbeda. Artinya label pada gambar tidak konsisten.\n6. Kunci 40° tidak muncul dari perhitungan yang benar. Angka 40 baru muncul jika keliru menyamakan 3x = 2x + 50 (x = 50) dan 3y − 10 = 2y (y = 10) lalu mengambil selisihnya, padahal pasangan sudut itu berpelurus, bukan sama besar.\nJadi, jawaban yang tepat adalah (E) 12° bila mengikuti nilai x dan y dari sudut berpelurus; namun gambar menghasilkan 26°, sehingga soal perlu diperbaiki dan kunci (C) 40° jelas keliru.\nMengapa opsi lain kurang tepat:\n- (A) 38°: ini nilai y, bukan y − x.\n- (B) 26°: ini nilai x (dan juga besar sudut di titik potong menurut gambar), bukan nilai y − x.\n- (C) 40°: hasil dari anggapan keliru bahwa pasangan sudut berpelurus sama besar.\n- (D) 18°: tidak muncul dari perhitungan mana pun yang benar.",
+  "status": "nonaktif",
+  "quality_score": 2,
+  "quality_notes": "Nonaktif: label sudut pada gambar tidak konsisten. Sudut berpelurus memberi x = 26 dan y = 38 (y − x = 12), tetapi secara geometri sudut berlabel (y − x)° adalah sudut puncak segitiga = 180 − 78 − 76 = 26°; kedua nilai ada di opsi. Cacat di gambar, perlu gambar baru."
+ },
+ {
+  "id": "019865a9-faa4-7b57-86ea-e4e34ba0dd67",
+  "action": "fix",
+  "description": "Pada bulan Maret 2025, seorang teknisi mencatat rata-rata tegangan dari sejumlah sel baterai sebesar 9 volt. Setelah diperiksa ulang, ternyata terdapat dua kesalahan pencatatan: nilai 7 volt seharusnya 12 volt, dan nilai 14 volt seharusnya 11 volt. Setelah dikoreksi, rata-rata tegangan menjadi 9,25 volt. Berapa banyak sel baterai yang dicatat?",
+  "options": [
+   {
+    "id": "019865a9-faaa-7943-957e-e1c36aac482b",
+    "description": "6",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-faae-7058-bb2a-c8c6e03db2f7",
+    "description": "8",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fab0-7c6f-aa77-eb76247bb1d7",
+    "description": "10",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fab2-7d96-9396-37588aabd0cc",
+    "description": "12",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fab5-73af-854b-f48058ca84af",
+    "description": "14",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Rata-rata awal = 9 volt untuk n sel.\n- Koreksi: 7 → 12 (naik 5) dan 14 → 11 (turun 3).\n- Rata-rata setelah koreksi = 9,25 volt.\n\nDITANYAKAN:\nBanyak sel baterai (n).\n\nJAWAB:\n1. Perubahan jumlah data = (+5) + (−3) = +2 volt.\n2. Banyak data tetap n, sehingga kenaikan rata-rata = 2/n.\n3. Kenaikan rata-rata = 9,25 − 9 = 0,25.\n4. 2/n = 0,25, sehingga n = 2/0,25 = 8.\n5. Cek: jumlah awal = 9 × 8 = 72; setelah koreksi 72 + 2 = 74; 74/8 = 9,25. Cocok.\nJadi, jawaban yang tepat adalah (B) 8.\nMengapa opsi lain kurang tepat:\n- (A) 6: rata-rata baru = 9 + 2/6 ≈ 9,33, bukan 9,25.\n- (C) 10: rata-rata baru = 9 + 2/10 = 9,2.\n- (D) 12: rata-rata baru = 9 + 2/12 ≈ 9,17.\n- (E) 14: rata-rata baru = 9 + 2/14 ≈ 9,14.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: koreksi lama (7→12 dan 14→7) menurunkan jumlah sehingga rata-rata tidak mungkin naik. Koreksi kedua diubah menjadi 14 → 11 volt (perubahan total +2), sehingga n = 8 tunggal. Kunci B."
+ },
+ {
+  "id": "019865a9-fb1e-7ed4-9900-7a9836e8d8af",
+  "action": "fix",
+  "description": "Diketahui x dan y bilangan bulat positif. Berapakah nilai x × y?\n(1) x = 3 dan y = z − 2 untuk suatu bilangan bulat z.\n(2) y = 5 dan x + y = 8.",
+  "options": [
+   {
+    "id": "019865a9-fb21-7399-b03f-a7bf2e93f64b",
+    "description": "Pernyataan (1) saja cukup untuk menjawab pertanyaan, tetapi pernyataan (2) saja tidak cukup",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fb23-730e-979b-f3b0e49cfc04",
+    "description": "Pernyataan (2) saja cukup untuk menjawab pertanyaan, tetapi pernyataan (1) saja tidak cukup",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fb26-75d0-8032-63ccc061b0bb",
+    "description": "Kedua pernyataan bersama-sama cukup untuk menjawab pertanyaan, tetapi satu pernyataan saja tidak cukup",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fb29-7997-b533-3339806c3c65",
+    "description": "Pernyataan (1) saja cukup, dan pernyataan (2) saja juga cukup",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fb2b-7ef9-98f4-0457682bdeea",
+    "description": "Kedua pernyataan bersama-sama pun tidak cukup untuk menjawab pertanyaan",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- x dan y bilangan bulat positif.\n- (1) x = 3 dan y = z − 2 untuk suatu bilangan bulat z.\n- (2) y = 5 dan x + y = 8.\n\nDITANYAKAN:\nPernyataan mana yang cukup untuk menentukan nilai x × y.\n\nJAWAB:\n1. Uji pernyataan (1) saja: x = 3, tetapi z dapat berupa bilangan bulat apa pun (z ≥ 3), sehingga y bisa 1, 2, 3, dan seterusnya. Nilai x × y bisa 3, 6, 9, ... (tidak tunggal). Jadi (1) saja tidak cukup.\n2. Uji pernyataan (2) saja: y = 5 dan x + 5 = 8, sehingga x = 3. Maka x × y = 3 × 5 = 15 (tunggal). Jadi (2) saja cukup.\nJadi, jawaban yang tepat adalah (B) Pernyataan (2) saja cukup untuk menjawab pertanyaan, tetapi pernyataan (1) saja tidak cukup.\nMengapa opsi lain kurang tepat:\n- (A) (1) saja cukup: salah, karena y pada (1) tidak tertentu.\n- (C) Keduanya harus digabung: tidak perlu, karena (2) saja sudah cukup.\n- (D) Masing-masing cukup: salah, karena (1) saja tidak cukup.\n- (E) Keduanya pun tidak cukup: salah, karena (2) saja sudah memberi x × y = 15.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: pernyataan berbentuk implikasi ('Jika ..., maka ...') yang tidak menetapkan nilai diganti pernyataan fakta; salah ketik 'jik' dan teks opsi terduplikasi dirapikan; opsi E diperjelas. Kunci B."
+ },
+ {
+  "id": "019865a9-fbbe-78f4-b699-9cdf156eb4e1",
+  "action": "fix",
+  "description": "Jika ²log 7 = p, maka nilai ⁷log 56 adalah …",
+  "options": [
+   {
+    "id": "019865a9-fbc1-74e6-b734-867cced1d19a",
+    "description": "(p + 3)/p",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fbc3-7d66-8fcf-3a01df63c9c7",
+    "description": "(p + 1)/3",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fbc6-7227-9206-39e1aa5cb60d",
+    "description": "3p + 1",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fbc8-7187-9e7f-857570c486f5",
+    "description": "(p + 3)/3",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fbc9-7f33-96f6-69823277ed8d",
+    "description": "3/(2p)",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- ²log 7 = p.\n\nDITANYAKAN:\nNilai ⁷log 56 dalam p.\n\nJAWAB:\n1. Uraikan 56 = 7 × 8 = 7 × 2³.\n2. ⁷log 56 = ⁷log 7 + ⁷log 2³ = 1 + 3 × ⁷log 2.\n3. Sifat kebalikan basis: ⁷log 2 = 1/(²log 7) = 1/p.\n4. ⁷log 56 = 1 + 3/p = (p + 3)/p.\n5. Cek numerik: p = ²log 7 ≈ 2,807; (p + 3)/p ≈ 2,069 dan ⁷log 56 ≈ 2,069. Cocok.\nJadi, jawaban yang tepat adalah (A) (p + 3)/p.\nMengapa opsi lain kurang tepat:\n- (B) (p + 1)/3: pembilang dan penyebut keliru; nilainya ≈ 1,27.\n- (C) 3p + 1: keliru menganggap ⁷log 2 = ²log 7 = p; nilainya ≈ 9,42.\n- (D) (p + 3)/3: penyebut seharusnya p, bukan 3; nilainya ≈ 1,94.\n- (E) 3/(2p): tidak memuat suku ⁷log 7 = 1; nilainya ≈ 0,53.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: dua opsi benar (3/p + 1 dan ²log56/p). Opsi ²log56/p diganti, kunci dinyatakan sebagai (p + 3)/p dan dipindah ke A; pengecoh diganti bentuk keliru yang khas; penulisan basis logaritma dirapikan."
+ },
+ {
+  "id": "019865a9-fc15-733d-9baa-5715def065ee",
+  "action": "fix",
+  "description": "Operasi ⬮ dan ⬖ mengikuti satu aturan yang sama pada ketiga contoh berikut:\n2 ⬮ 4 ⬖ 1 = 10\n3 ⬮ 2 ⬖ 4 = 14\n5 ⬮ 1 ⬖ 3 = 11\nNilai dari 3 ⬮ 5 ⬖ 2 adalah …",
+  "options": [
+   {
+    "id": "019865a9-fc18-747e-bd4c-f143e9edbdea",
+    "description": "18",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc1b-7688-9b9a-65bc296b3b1f",
+    "description": "19",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc1d-7dce-bc74-be58ec7e38a5",
+    "description": "20",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc20-709e-b6fd-8a66de314980",
+    "description": "21",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865a9-fc22-7450-a6ec-ca35b0d1f9e2",
+    "description": "22",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- 2 ⬮ 4 ⬖ 1 = 10\n- 3 ⬮ 2 ⬖ 4 = 14\n- 5 ⬮ 1 ⬖ 3 = 11\n\nDITANYAKAN:\nNilai 3 ⬮ 5 ⬖ 2.\n\nJAWAB:\n1. Misalkan bentuknya a ⬮ b ⬖ c. Coba aturan a × b + 2c:\n   2 × 4 + 2 × 1 = 8 + 2 = 10 (cocok)\n   3 × 2 + 2 × 4 = 6 + 8 = 14 (cocok)\n   5 × 1 + 2 × 3 = 5 + 6 = 11 (cocok)\n2. Aturan lain yang cocok pada contoh pertama gugur pada contoh berikutnya, misalnya a × (b + c): 3 × (2 + 4) = 18 ≠ 14; a × b + c + 1: 3 × 2 + 4 + 1 = 11 ≠ 14.\n3. Terapkan: 3 ⬮ 5 ⬖ 2 = 3 × 5 + 2 × 2 = 15 + 4 = 19.\nJadi, jawaban yang tepat adalah (B) 19.\nMengapa opsi lain kurang tepat:\n- (A) 18: hasil aturan a × b + c + 1, yang tidak cocok dengan contoh kedua.\n- (C) 20: hasil aturan a × b + c² + 1, yang tidak cocok dengan contoh kedua (6 + 16 + 1 = 23).\n- (D) 21: hasil aturan a × (b + c), yang tidak cocok dengan contoh kedua.\n- (E) 22: tidak sesuai aturan yang memenuhi ketiga contoh.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: satu contoh tidak cukup menentukan aturan (beberapa aturan memberi 18, 19, 20, 21). Ditambahkan dua contoh sehingga hanya a × b + 2c yang cocok (dicek dengan python pada keluarga aturan sederhana). Kunci B (19)."
+ },
+ {
+  "id": "019865d5-047c-7bd4-9017-f0e710358ea1",
+  "action": "fix",
+  "description": "Dalam sebuah rak terdapat 12 tabung plasma merah, 9 tabung plasma hitam, dan 15 tabung plasma putih. Satu tabung diambil secara acak. Peluang terambilnya tabung plasma hitam adalah …",
+  "options": [
+   {
+    "id": "019865d5-047f-714c-b393-5f35a28206c7",
+    "description": "1/3",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865d5-0481-71ce-b29b-262f0146aef7",
+    "description": "5/12",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865d5-0483-7506-b558-7b1c6a49c6ef",
+    "description": "3/4",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865d5-0485-7aa7-8bc2-66cccc42b53d",
+    "description": "3/7",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865d5-0488-7344-87cd-ae8c4c731078",
+    "description": "1/4",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Merah 12, hitam 9, putih 15 tabung.\n- Diambil 1 tabung secara acak.\n\nDITANYAKAN:\nPeluang terambil tabung plasma hitam.\n\nJAWAB:\n1. Banyak seluruh tabung n(S) = 12 + 9 + 15 = 36.\n2. Banyak tabung hitam n(A) = 9.\n3. P(hitam) = n(A)/n(S) = 9/36 = 1/4.\nJadi, jawaban yang tepat adalah (E) 1/4.\nMengapa opsi lain kurang tepat:\n- (A) 1/3: ini peluang tabung merah (12/36).\n- (B) 5/12: ini peluang tabung putih (15/36).\n- (C) 3/4: ini peluang BUKAN tabung hitam (27/36).\n- (D) 3/7: membagi 9 dengan 21 (merah + hitam saja), bukan dengan seluruh tabung.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: opsi ganda bernilai sama (3/12, 9/36, 1/4) diganti pengecoh bernilai berbeda (peluang merah, putih, komplemen, penyebut keliru). Kunci E (1/4)."
+ },
+ {
+  "id": "019865d5-048a-7b8e-a0ca-85f22825d507",
+  "action": "fix",
+  "description": "Narel diminta mengambil satu kristal secara acak tanpa melihat dari sebuah kotak artefak bersegel. Di dalam kotak terdapat 18 kristal bayangan, 8 kristal api, dan 10 kristal cahaya yang bentuk dan ukurannya identik. Peluang Narel TIDAK mendapatkan kristal api adalah …",
+  "options": [
+   {
+    "id": "019865d5-048d-7231-92d6-db96f44032eb",
+    "description": "7/9",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019865d5-0490-73c4-a34c-981e4deec8af",
+    "description": "2/9",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865d5-0492-7b91-8641-d9f1820c2181",
+    "description": "1/2",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865d5-0494-7e52-b32b-e5b7679a4a19",
+    "description": "5/18",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019865d5-0496-7d8e-bd7d-5fc199703b93",
+    "description": "13/18",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kristal bayangan 18, api 8, cahaya 10 (bentuk identik, diambil acak).\n\nDITANYAKAN:\nPeluang yang terambil BUKAN kristal api.\n\nJAWAB:\n1. Banyak seluruh kristal n(S) = 18 + 8 + 10 = 36.\n2. Peluang kristal api = 8/36 = 2/9.\n3. Peluang bukan kristal api = 1 − 2/9 = 7/9.\n   (Cara langsung: kristal bukan api = 18 + 10 = 28, dan 28/36 = 7/9.)\nJadi, jawaban yang tepat adalah (A) 7/9.\nMengapa opsi lain kurang tepat:\n- (B) 2/9: ini peluang MENDAPATKAN kristal api, bukan tidak mendapatkan.\n- (C) 1/2: ini peluang kristal bayangan saja (18/36).\n- (D) 5/18: ini peluang kristal cahaya saja (10/36).\n- (E) 13/18: ini peluang tidak mendapatkan kristal cahaya (26/36), bukan kristal api.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: soal lama duplikat dari 019cc375-4179-78ce-ae8a-6eab5fbc3dd7 dan memuat informasi pengalih '4 detik'. Ditulis ulang sebagai varian berbeda (18/8/10 kristal, peluang komplemen 'tidak mendapat kristal api' = 7/9); opsi bernilai unik. Kunci A."
+ },
+ {
+  "id": "0199fd77-92fb-7c41-ba6d-b152585493e8",
+  "action": "fix",
+  "description": "Diagram lingkaran di bawah ini menunjukkan hasil survei terhadap 800 responden mengenai platform media sosial yang paling sering mereka gunakan.\n\nBerdasarkan data pada diagram tersebut, selisih jumlah responden yang paling sering menggunakan Platform A dan Platform C adalah...",
+  "options": [
+   {
+    "id": "0199fd77-92fd-7d4d-9a83-1a65a23b25ec",
+    "description": "40 orang",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-92fe-72cb-955b-d578cf083984",
+    "description": "120 orang",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-92fe-772e-934d-65c973e02fd9",
+    "description": "160 orang",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-92fe-7b56-98cc-f538fd1e78e7",
+    "description": "200 orang",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-92ff-700d-8ca7-d834cdf2488f",
+    "description": "320 orang",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Jumlah responden survei: 800 orang.\n- Dari gambar (berupa diagram batang): Platform A (40%), Platform B (30%), Platform C (20%), Platform D (20%).\n- Batang Platform A mencapai angka 320 pada sumbu tegak.\n- Catatan: jumlah persentase pada gambar 110% dan skala sumbunya tidak teratur, jadi yang dipakai adalah label persentase Platform A dan C.\n\nDITANYAKAN:\nSelisih jumlah responden yang paling sering menggunakan Platform A dan Platform C.\n\nJAWAB:\n1. Rumus: jumlah responden suatu platform = persentase × total responden.\n2. Platform A = 40% × 800 = 40/100 × 800 = 0,4 × 800 = 320 orang. (Cocok dengan puncak batang A di angka 320.)\n3. Platform C = 20% × 800 = 20/100 × 800 = 0,2 × 800 = 160 orang.\n4. Selisih = 320 − 160 = 160 orang.\n5. Cek ulang: 160 orang ÷ 800 orang = 0,2 = 20%, sama dengan selisih persentase 40% − 20%.\nCara cepat: kurangkan persentasenya dulu, 40% − 20% = 20%, lalu 20% × 800 = 160 orang.\nJadi, jawaban yang tepat adalah (C) 160 orang.\nMengapa opsi lain kurang tepat:\n- (A) 40 orang: setara 5% dari 800, tidak sesuai selisih 20%.\n- (B) 120 orang: setara 15% dari 800, tidak sesuai selisih 20%.\n- (D) 200 orang: setara 25% dari 800, tidak sesuai selisih 20%.\n- (E) 320 orang: itu jumlah pengguna Platform A saja, belum dikurangi Platform C.",
+  "status": "nonaktif",
+  "quality_score": 2,
+  "quality_notes": "Nonaktif: gambar berupa diagram batang (teks menyebut diagram lingkaran), label persentase berjumlah 110%, skala sumbu tegak tidak teratur (0, 100, 240, 250, 320), dan tinggi batang C dan D berbeda padahal sama-sama 20%. Cacat di gambar, perlu gambar baru."
+ },
+ {
+  "id": "0199fd77-930e-776d-b9a6-440e023edbfa",
+  "action": "fix",
+  "description": "Diketahui sifat-sifat suatu bangun ruang sebagai berikut:\n1. Memiliki 5 buah bidang sisi.\n2. Bidang sisinya terdiri atas 2 segitiga dan 3 persegi panjang.\n3. Memiliki 9 rusuk dan 6 titik sudut.\nBerdasarkan informasi tersebut, bangun ruang yang dimaksud adalah …",
+  "options": [
+   {
+    "id": "0199fd77-930e-7b21-9ba7-8d96716f5622",
+    "description": "Limas segitiga",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-930e-7e84-b26d-f7848c983cbb",
+    "description": "Prisma segitiga",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-930f-72c0-b5f5-46612f87f6ca",
+    "description": "Prisma segi empat",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-930f-7655-b2c4-4a56aea54ad6",
+    "description": "Limas segi empat",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-930f-7a51-9b7a-1e850c63df15",
+    "description": "Kubus",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- 5 bidang sisi: 2 segitiga dan 3 persegi panjang.\n- 9 rusuk dan 6 titik sudut.\n\nDITANYAKAN:\nNama bangun ruang tersebut.\n\nJAWAB:\n1. Dua sisi segitiga yang sejajar (alas dan tutup) dan sisi tegak berbentuk persegi panjang adalah ciri prisma dengan alas segitiga.\n2. Prisma segi-n memiliki n + 2 sisi, 3n rusuk, dan 2n titik sudut. Untuk n = 3: 5 sisi, 9 rusuk, 6 titik sudut. Cocok dengan semua sifat.\n3. Cek rumus Euler: S + T = R + 2 → 5 + 6 = 9 + 2 = 11. Cocok.\nJadi, jawaban yang tepat adalah (B) Prisma segitiga.\nMengapa opsi lain kurang tepat:\n- (A) Limas segitiga: 4 sisi (semuanya segitiga), 6 rusuk, 4 titik sudut.\n- (C) Prisma segi empat: 6 sisi, 12 rusuk, 8 titik sudut.\n- (D) Limas segi empat: memang 5 sisi, tetapi terdiri atas 1 segi empat dan 4 segitiga, dengan 8 rusuk dan 5 titik sudut.\n- (E) Kubus: 6 sisi persegi, 12 rusuk, 8 titik sudut.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: data bertentangan (6 sisi dengan 4 persegi panjang, melanggar rumus Euler) diganti menjadi 5 sisi, 2 segitiga dan 3 persegi panjang; penomoran sifat dipisah per baris. Kunci B."
+ },
+ {
+  "id": "0199fd77-931a-7d05-b4ef-bdd64f6bd2be",
+  "action": "fix",
+  "description": "Lintasan roller coaster berbentuk parabola seperti pada gambar. Titik tertinggi lintasan berada 30 m di atas tanah dan ditopang tiang penyangga tengah. Dua tiang penyangga lain berdiri tegak di kiri dan kanan, masing-masing berjarak 5 m dari tiang tengah. Lintasan menyentuh tanah pada jarak 5√2 m dari tiang tengah di kedua sisi. Berapakah total panjang besi yang diperlukan untuk membuat ketiga tiang penyangga tersebut?",
+  "options": [
+   {
+    "id": "0199fd77-931c-790e-b6b8-4895a4dfaef5",
+    "description": "60 m",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-931c-7d78-891c-9fadab46b37f",
+    "description": "45 m",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-931d-73bd-862f-35e09564be02",
+    "description": "75 m",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-931d-7768-91b2-c260a99f17f9",
+    "description": "90 m",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0199fd77-931d-7ae0-b34c-5487b5de79e1",
+    "description": "30 m",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Lintasan parabola dengan puncak setinggi 30 m tepat di atas tiang tengah.\n- Tiang samping berjarak 5 m dari tiang tengah.\n- Lintasan menyentuh tanah pada jarak 5√2 m dari tiang tengah.\n\nDITANYAKAN:\nTotal panjang ketiga tiang penyangga.\n\nJAWAB:\n1. Letakkan tiang tengah pada x = 0. Persamaan parabola: h(x) = 30 − kx².\n2. Titik potong tanah: h(5√2) = 0 → 30 − k × 50 = 0 → k = 30/50 = 0,6. Jadi h(x) = 30 − 0,6x².\n3. Tinggi tiang samping: h(5) = 30 − 0,6 × 25 = 30 − 15 = 15 m (setengah tinggi tiang tengah, sesuai gambar).\n4. Total panjang besi = 30 + 15 + 15 = 60 m.\nJadi, jawaban yang tepat adalah (A) 60 m.\nMengapa opsi lain kurang tepat:\n- (B) 45 m: hanya menghitung satu tiang samping (30 + 15).\n- (C) 75 m: hasil bila lintasan dianggap menyentuh tanah 10 m dari tiang tengah (tiang samping 22,5 m), tidak sesuai data.\n- (D) 90 m: menganggap ketiga tiang sama tinggi 30 m.\n- (E) 30 m: hanya tiang tengah.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: data titik potong tanah tidak ada sehingga tinggi tiang samping tak dapat dihitung, dan 'jumlah besi' ambigu. Ditambahkan jarak titik potong tanah 5√2 m (konsisten dengan gambar: tiang samping = setengah tiang tengah) dan pertanyaan diubah menjadi total panjang ketiga tiang = 60 m. Opsi diganti; kunci A (60 m)."
+ },
+ {
+  "id": "019a6927-5136-7975-adc1-88fc83ca86e8",
+  "action": "fix",
+  "description": "Dua buah kubus memiliki perbandingan panjang rusuk 2 : 3. Jika panjang rusuk kubus yang lebih kecil adalah 8 cm, berapakah selisih volume kedua kubus?",
+  "options": [
+   {
+    "id": "019a6927-5136-7ebb-92fa-b52bba8169cc",
+    "description": "2.240 cm³",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "1d3f9eaf-8baa-4234-a522-c6b0eba663a7",
+    "description": "512 cm³",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "274e8b3c-5129-4e6c-920a-9d803eba0e1f",
+    "description": "1.728 cm³",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "91f3082e-2c44-4922-96e9-1bfb94745da8",
+    "description": "1.216 cm³",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "1f2e9b0d-e8b4-4b9e-9139-e665de825f6c",
+    "description": "64 cm³",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Perbandingan rusuk kubus kecil : besar = 2 : 3.\n- Rusuk kubus kecil = 8 cm.\n\nDITANYAKAN:\nSelisih volume kedua kubus.\n\nJAWAB:\n1. Rusuk kubus besar = 8 × 3/2 = 12 cm.\n2. Volume kubus kecil = 8³ = 512 cm³.\n3. Volume kubus besar = 12³ = 1.728 cm³.\n4. Selisih = 1.728 − 512 = 1.216 cm³.\n5. Cek dengan perbandingan volume 2³ : 3³ = 8 : 27; satu bagian = 512/8 = 64, selisih = (27 − 8) × 64 = 19 × 64 = 1.216. Cocok.\nJadi, jawaban yang tepat adalah (D) 1.216 cm³.\nMengapa opsi lain kurang tepat:\n- (A) 2.240 cm³: ini jumlah kedua volume, bukan selisih.\n- (B) 512 cm³: ini volume kubus kecil saja.\n- (C) 1.728 cm³: ini volume kubus besar saja.\n- (E) 64 cm³: ini (12 − 8)³, memangkatkan selisih rusuk, bukan menyelisihkan volume.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: soal lama rusak (hanya 1 opsi, tanpa kunci) dan duplikat 019a6927-5137-74e9-8349-f08a79bef075. Ditulis ulang sebagai varian berbeda (perbandingan 2 : 3, rusuk 8 cm, selisih 1.216 cm³) dengan 5 opsi lengkap. Kunci D."
+ },
+ {
+  "id": "019a6927-5150-78a4-8bbe-dc2652428032",
+  "action": "fix",
+  "description": "Sebuah toko alat tulis menjual satu paket berisi 2 pulpen dan 1 penghapus seharga Rp14.000. Harga paket sama dengan jumlah harga satuan isinya, dan harga 3 penghapus adalah Rp9.000. Tari membeli 3 paket dan 2 pulpen tambahan secara satuan. Jika Tari membayar dengan uang Rp100.000, berapa uang kembalian yang ia terima?",
+  "options": [
+   {
+    "id": "019a6927-5150-7dc8-af87-5dd3c769dac4",
+    "description": "Rp58.000",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5151-748b-88f0-4b61da4bc17e",
+    "description": "Rp44.000",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5151-7a23-922c-677c669d1059",
+    "description": "Rp53.000",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5152-70a8-9c70-30206b9c0029",
+    "description": "Rp47.000",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5152-75cb-8459-5c4c05aac66b",
+    "description": "Rp36.000",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- 1 paket = 2 pulpen + 1 penghapus = Rp14.000.\n- 3 penghapus = Rp9.000.\n- Tari membeli 3 paket + 2 pulpen, membayar Rp100.000.\n\nDITANYAKAN:\nUang kembalian Tari.\n\nJAWAB:\n1. Harga 1 penghapus = 9.000 : 3 = Rp3.000.\n2. Harga 1 pulpen (p): 2p + 3.000 = 14.000 → 2p = 11.000 → p = Rp5.500.\n3. Harga 3 paket = 3 × 14.000 = Rp42.000.\n4. Harga 2 pulpen tambahan = 2 × 5.500 = Rp11.000.\n5. Total belanja = 42.000 + 11.000 = Rp53.000.\n6. Kembalian = 100.000 − 53.000 = Rp47.000.\nJadi, jawaban yang tepat adalah (D) Rp47.000.\nMengapa opsi lain kurang tepat:\n- (A) Rp58.000: 2 pulpen tambahan terlupa (100.000 − 42.000).\n- (B) Rp44.000: harga pulpen keliru dianggap 14.000 : 2 = Rp7.000.\n- (C) Rp53.000: ini total belanja, bukan kembalian.\n- (E) Rp36.000: harga 2 pulpen keliru dihitung 2 × 11.000.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: opsi lama berupa ekspresi aljabar dengan beberapa opsi bernilai sama (A, C, D, E = 47.000). Opsi diganti nilai rupiah dengan pengecoh dari kesalahan khas; ditegaskan harga paket = jumlah harga satuan. Kunci D (Rp47.000)."
+ },
+ {
+  "id": "019a6927-5164-7976-91a9-ec7cac886123",
+  "action": "fix",
+  "description": "Bilangan manakah berikut yang sekaligus merupakan bilangan kuadrat dan bilangan kubik (pangkat tiga) dari suatu bilangan bulat positif?",
+  "options": [
+   {
+    "id": "019a6927-5164-7ea5-bb22-a614d08b27fd",
+    "description": "16",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5165-751f-9f78-7707d5c40037",
+    "description": "27",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5165-7a5f-a4d2-efe24c41cc7f",
+    "description": "125",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5165-7ea4-812f-33cf7accee46",
+    "description": "144",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a6927-5166-7549-b975-1d21f3b79acd",
+    "description": "64",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Dicari bilangan yang dapat ditulis sebagai m² dan juga sebagai n³ (m, n bilangan bulat positif).\n\nDITANYAKAN:\nOpsi yang memenuhi kedua syarat.\n\nJAWAB:\n1. Bilangan yang sekaligus kuadrat dan kubik adalah pangkat enam: k⁶ (1, 64, 729, ...).\n2. Periksa tiap opsi:\n   16 = 4² (kuadrat), tetapi bukan kubik (2³ = 8, 3³ = 27).\n   27 = 3³ (kubik), tetapi bukan kuadrat.\n   125 = 5³ (kubik), tetapi bukan kuadrat.\n   144 = 12² (kuadrat), tetapi bukan kubik (5³ = 125, 6³ = 216).\n   64 = 8² = 4³ = 2⁶ (kuadrat dan kubik).\nJadi, jawaban yang tepat adalah (E) 64.\nMengapa opsi lain kurang tepat:\n- (A) 16: hanya bilangan kuadrat (4²).\n- (B) 27: hanya bilangan kubik (3³).\n- (C) 125: hanya bilangan kubik (5³).\n- (D) 144: hanya bilangan kuadrat (12²).",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: opsi rusak (kosong/sisa format pernyataan) sudah tersusun ulang menjadi 16, 27, 125, 144, 64; redaksi soal diringkas dan diperjelas; pembahasan menambahkan konsep pangkat enam. Kunci E (64)."
+ },
+ {
+  "id": "019abd94-3ecd-7521-85b3-887d234fc599",
+  "action": "fix",
+  "description": "Di Pasar Gede Solo, harga daging sapi super Rp120.000 per kg dan sedang mendapat potongan harga 10%, sedangkan harga daging ayam potong Rp36.000 per kg tanpa potongan.\nKuantitas X = harga 2 kg daging sapi super setelah potongan.\nKuantitas Y = harga 6 kg daging ayam potong.\nHubungan yang tepat antara kuantitas X dan Y adalah …",
+  "options": [
+   {
+    "id": "019abd94-3ecd-798b-b46c-2c6d39aa4d1b",
+    "description": "Kuantitas X lebih besar dari Y",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019abd94-3ecd-7d5c-9c2b-0b6e720c62b6",
+    "description": "Kuantitas X lebih kecil dari Y",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019abd94-3ece-749d-aa26-725238d00d62",
+    "description": "Kuantitas X sama dengan Y",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019abd94-3ece-7ab7-a1e8-c7a56e03aa54",
+    "description": "Hubungan tidak dapat ditentukan",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019abd94-3ece-7f0d-b4b8-a8d0cea4ebe9",
+    "description": "X = 2Y",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Daging sapi super Rp120.000/kg, potongan 10%.\n- Daging ayam potong Rp36.000/kg.\n- X = harga 2 kg sapi setelah potongan; Y = harga 6 kg ayam.\n\nDITANYAKAN:\nHubungan X dan Y.\n\nJAWAB:\n1. Harga sapi setelah potongan = 120.000 × 90% = Rp108.000 per kg.\n2. X = 2 × 108.000 = Rp216.000.\n3. Y = 6 × 36.000 = Rp216.000.\n4. X = Y.\nJadi, jawaban yang tepat adalah (C) Kuantitas X sama dengan Y.\nMengapa opsi lain kurang tepat:\n- (A) X lebih besar dari Y: benar hanya bila potongan 10% diabaikan (X = 240.000).\n- (B) X lebih kecil dari Y: tidak sesuai hasil hitung (216.000 = 216.000).\n- (D) Tidak dapat ditentukan: semua data harga tersedia, jadi hubungan dapat ditentukan.\n- (E) X = 2Y: berarti X = 432.000, tidak sesuai.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: soal lama tidak memuat data harga sehingga ambigu (pengetahuan umum vs 'tidak dapat ditentukan'). Ditambahkan harga per kg dan potongan 10%; Y diubah menjadi 6 kg ayam agar X = Y = Rp216.000. Kunci berpindah dari D ke C."
+ },
+ {
+  "id": "019abd94-3efc-774b-ab4f-8ddb57c6ed3e",
+  "action": "fix",
+  "description": "Dalam uji kesamaptaan jasmani, waktu tempuh lari 2.400 meter lima peserta dicatat sebagai berikut:\n- Kurniawan: 10 menit 42 detik\n- Lukman: 598 detik\n- Prasetyo: 10,25 menit\n- Rahardjo: 9 menit 47 detik\n- Susanto: 631 detik\nSemakin singkat waktu tempuh, semakin baik kemampuan larinya. Siapakah peserta dengan kemampuan lari terbaik ketiga?",
+  "options": [
+   {
+    "id": "019abd94-3efc-7b2c-b935-1eb614e92e0e",
+    "description": "Kurniawan",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019abd94-3efd-7102-91bb-00744f821e1d",
+    "description": "Lukman",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019abd94-3efd-74f4-b0af-1c7912423312",
+    "description": "Prasetyo",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019abd94-3efd-7962-877b-73a09a79bc99",
+    "description": "Rahardjo",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019abd94-3efd-7d79-871a-c44ae1c7cfe2",
+    "description": "Susanto",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Waktu tempuh lima peserta dalam satuan berbeda (menit-detik, detik, menit desimal).\n- Waktu lebih singkat berarti kemampuan lebih baik.\n\nDITANYAKAN:\nPeserta dengan kemampuan lari terbaik ketiga.\n\nJAWAB:\n1. Samakan semua ke detik:\n   Kurniawan = 10 × 60 + 42 = 642 detik\n   Lukman = 598 detik\n   Prasetyo = 10,25 × 60 = 615 detik\n   Rahardjo = 9 × 60 + 47 = 587 detik\n   Susanto = 631 detik\n2. Urutkan dari tercepat: Rahardjo (587), Lukman (598), Prasetyo (615), Susanto (631), Kurniawan (642).\n3. Urutan ketiga terbaik adalah Prasetyo.\nJadi, jawaban yang tepat adalah (C) Prasetyo.\nMengapa opsi lain kurang tepat:\n- (A) Kurniawan: waktunya paling lama (642 detik), urutan kelima.\n- (B) Lukman: urutan kedua (598 detik).\n- (D) Rahardjo: urutan pertama/tercepat (587 detik).\n- (E) Susanto: urutan keempat (631 detik); keliru bila 10,25 menit dibaca 10 menit 25 detik (625 detik).",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: data hasil tes yang terpotong dilengkapi (waktu tempuh dalam satuan campuran yang perlu dikonversi), sehingga Prasetyo tunggal sebagai urutan ketiga. Kunci C."
+ },
+ {
+  "id": "019ac054-dfea-7117-8b49-0cfaa1b33ebd",
+  "action": "fix",
+  "description": "Perhatikan gambar bangun datar di samping. Seluruh sudut pada bangun tersebut siku-siku. Sisi yang bertanda satu garis memiliki panjang s, sedangkan sisi yang bertanda dua garis memiliki panjang 2s. Jika luas bangun tersebut 320 satuan luas, berapakah kelilingnya?",
+  "options": [
+   {
+    "id": "019ac054-dfee-7c5b-99df-b525d7a5f8be",
+    "description": "64 satuan",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ac054-dfef-7229-8bea-6bb3776ce6fd",
+    "description": "72 satuan",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ac054-dfef-75d3-9b7e-17cc5aef6a8f",
+    "description": "80 satuan",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ac054-dfef-7d6b-ba03-c489b98b4b3c",
+    "description": "84 satuan",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ac054-dff0-725e-a2db-3e5977ab9c82",
+    "description": "96 satuan",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Semua sudut siku-siku; tanda satu garis = s, tanda dua garis = 2s.\n- Luas bangun = 320 satuan luas.\n\nDITANYAKAN:\nKeliling bangun.\n\nJAWAB:\n1. Baca ukuran dari gambar:\n   - Sisi kiri dan kanan: s + 2s + s = 4s.\n   - Lebar badan utama: s + 2s + s = 4s, sehingga badan utama berupa persegi 4s × 4s.\n   - Tonjolan atas dan bawah masing-masing persegi panjang 2s × s.\n2. Luas = (4s × 4s) + 2 × (2s × s) = 16s² + 4s² = 20s².\n3. 20s² = 320 → s² = 16 → s = 4.\n4. Keliling (jumlah semua sisi luar):\n   - Tonjolan atas: s + 2s + s = 4s; tonjolan bawah: 4s.\n   - Bahu kiri-kanan atas dan bawah: 4 × s = 4s.\n   - Sisi kiri dan kanan: 4s + 4s = 8s.\n   Total = 4s + 4s + 4s + 8s = 20s = 20 × 4 = 80 satuan.\nJadi, jawaban yang tepat adalah (C) 80 satuan.\nMengapa opsi lain kurang tepat:\n- (A) 64 satuan: ini keliling persegi 4s × 4s saja (16s), tonjolan tidak dihitung.\n- (B) 72 satuan: setara 18s, ada sisi luar yang terlewat.\n- (D) 84 satuan: setara 21s; muncul bila s dianggap 4,2 (luas 352,8), tidak sesuai luas 320.\n- (E) 96 satuan: setara 24s; sisi pertemuan tonjolan dengan badan (2s di atas dan 2s di bawah) yang berada di dalam bangun ikut dihitung.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: luas 288 memberi s² = 14,4 sehingga keliling ≈ 75,9 (tidak ada di opsi). Luas diubah menjadi 320 (s = 4, keliling 20s = 80) dan arti tanda sisi dijelaskan di teks; opsi diganti. Kunci C (80 satuan). Gambar tidak diubah."
+ },
+ {
+  "id": "019cf46c-3c9a-747a-a2d5-9c1b277a02fb",
+  "action": "fix",
+  "description": "Lima delegasi, yaitu Raka, Sinta, Tomi, Ulfa, dan Vino, menghadiri forum diplomatik internasional.\n- Raka hanya berbicara bahasa Arab dan Jepang.\n- Sinta hanya berbicara bahasa Jepang dan Spanyol.\n- Tomi hanya berbicara bahasa Spanyol dan Rusia.\n- Ulfa hanya berbicara bahasa Rusia dan Arab.\n- Vino hanya berbicara bahasa Arab dan Spanyol.\nDi antara pasangan berikut, pasangan delegasi yang tidak memiliki bahasa bersama sehingga memerlukan penerjemah adalah …",
+  "options": [
+   {
+    "id": "019cf46c-3c9a-780c-a9b7-326614a2eb7f",
+    "description": "Raka dan Ulfa",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "ac5efde4-dfeb-4c10-becf-8713a203ae83",
+    "description": "Sinta dan Vino",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "5227b6d3-da41-429a-ac42-f6d380aaa144",
+    "description": "Tomi dan Ulfa",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "bd4bf811-f179-49c5-84fb-39ef5610a29e",
+    "description": "Raka dan Tomi",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "87b1d99d-a0de-46d5-bdcf-e6a961acce36",
+    "description": "Ulfa dan Vino",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Raka: Arab, Jepang\n- Sinta: Jepang, Spanyol\n- Tomi: Spanyol, Rusia\n- Ulfa: Rusia, Arab\n- Vino: Arab, Spanyol\n\nDITANYAKAN:\nPasangan pada opsi yang tidak memiliki bahasa bersama.\n\nJAWAB:\n1. Buat tabel bantu: cari irisan bahasa tiap pasangan pada opsi.\n   Raka – Ulfa: {Arab, Jepang} ∩ {Rusia, Arab} = {Arab}\n   Sinta – Vino: {Jepang, Spanyol} ∩ {Arab, Spanyol} = {Spanyol}\n   Tomi – Ulfa: {Spanyol, Rusia} ∩ {Rusia, Arab} = {Rusia}\n   Raka – Tomi: {Arab, Jepang} ∩ {Spanyol, Rusia} = { } (kosong)\n   Ulfa – Vino: {Rusia, Arab} ∩ {Arab, Spanyol} = {Arab}\n2. Hanya pasangan Raka dan Tomi yang irisannya kosong.\nJadi, jawaban yang tepat adalah (D) Raka dan Tomi.\nMengapa opsi lain kurang tepat:\n- (A) Raka dan Ulfa: sama-sama berbahasa Arab.\n- (B) Sinta dan Vino: sama-sama berbahasa Spanyol.\n- (C) Tomi dan Ulfa: sama-sama berbahasa Rusia.\n- (E) Ulfa dan Vino: sama-sama berbahasa Arab.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: soal lama rusak (opsi/kunci/pembahasan hilang, salah ketik 'only', klaim 'satu-satunya pasangan' keliru) dan duplikat 019cf46c-3c99-7b10-b6d2-59050e1ad036. Ditulis ulang sebagai varian berbeda (nama dan bahasa baru) dengan pertanyaan 'di antara pasangan berikut'; hanya satu opsi tanpa bahasa bersama. Kunci D."
+ },
+ {
+  "id": "019cf46c-3cc3-7979-8448-a78fbbc151ab",
+  "action": "fix",
+  "description": "Diberikan x = 10^(2 + 2m) dan diketahui 10^m = 5. Jika y = 500, hubungan yang benar antara x dan y adalah …",
+  "options": [
+   {
+    "id": "019cf46c-3cc3-7cc0-9c81-52aca2e29cc4",
+    "description": "x = 4y",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3cc4-70c2-86d5-be060b9c68c7",
+    "description": "x = 5y",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3cc4-74ce-9ed8-49f06673f4f2",
+    "description": "5x = y",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3cc4-77a3-b527-be6beeec229d",
+    "description": "x = y",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019cf46c-3cc4-7bb3-aa09-782d0110ec89",
+    "description": "x = 25y",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- x = 10^(2 + 2m).\n- 10^m = 5.\n- y = 500.\n\nDITANYAKAN:\nHubungan yang tepat antara x dan y.\n\nJAWAB:\n1. Pecah pangkat: 10^(2 + 2m) = 10² × 10^(2m) = 10² × (10^m)².\n2. Substitusi 10^m = 5: x = 100 × 5² = 100 × 25 = 2.500.\n3. Bandingkan dengan y: x/y = 2.500/500 = 5, sehingga x = 5y.\nJadi, jawaban yang tepat adalah (B) x = 5y.\nMengapa opsi lain kurang tepat:\n- (A) x = 4y: 4 × 500 = 2.000 ≠ 2.500.\n- (C) 5x = y: perbandingannya terbalik; berarti x = 100.\n- (D) x = y: 2.500 ≠ 500.\n- (E) x = 25y: keliru menganggap x/y = (10^m)² = 25; berarti x = 12.500.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perbaikan: dua opsi benar (x = 5y dan x > y). Opsi disusun ulang menjadi perbandingan yang saling eksklusif (4y, 5y, y/5, y, 25y) sehingga hanya x = 5y benar. Kunci B."
+ }
+]

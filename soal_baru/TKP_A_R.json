@@ -1,0 +1,614 @@
+[
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Saat bertugas di pos pengamanan kawasan wisata, seorang wisatawan asing melapor bahwa tasnya yang berisi paspor hilang di pantai. Ia sangat panik karena penerbangannya lusa, hanya sedikit menguasai bahasa Inggris, dan Anda sendiri juga tidak terlalu lancar berbahasa Inggris. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Menuliskan alamat polsek dan kantor perwakilan negaranya agar ia dapat mengurus sendiri kebutuhannya sesuai prosedur.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mengantarnya ke polsek terdekat agar laporan kehilangan dibuat oleh petugas SPKT yang lebih berpengalaman menangani laporan warga negara asing di kawasan wisata.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengajak rekan dan petugas pantai menyisir lokasi kehilangan bersama wisatawan tersebut, karena tas yang tertinggal di pantai sering kali masih dapat ditemukan dalam beberapa jam pertama.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menenangkannya, menggali kronologi dengan aplikasi penerjemah, membantu membuat surat keterangan kehilangan, lalu memberinya kontak perwakilan negaranya untuk dokumen pengganti.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menghubungi pemandu wisata atau pihak hotelnya agar mereka membantu menerjemahkan dan mengurus keperluannya.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Wisatawan asing kehilangan tas berisi paspor.\n- Penerbangannya lusa dan ia sangat panik.\n- Ada kendala bahasa di kedua pihak.\n\nDITANYAKAN:\nLayanan paling patut agar wisatawan dapat kembali ke negaranya tepat waktu.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (warga negara asing), dengan pemetaan KPR-03 Adaptasi (mengatasi kendala bahasa) dan KPR-01 Stabilitas emosi (menenangkan orang yang panik).\n2. Prinsip acuan: Tribrata butir ketiga, pelayanan prima tanpa membedakan kewarganegaraan, dan peran Polri sebagai pelayan masyarakat di kawasan wisata.\n3. Kunci pembeda: Yang paling dibutuhkan wisatawan adalah dokumen untuk pulang. Layanan tuntas mengantar hingga jalur penyelesaiannya jelas.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(D) — 5 poin: Kendala bahasa diatasi dengan sarana yang ada, surat keterangan yang dibutuhkan perwakilan negaranya disiapkan, dan langkah lanjutan menjadi jelas.\n(B) — 4 poin: Tepat sasaran dan ada pendampingan, tetapi langkah lanjutan ke perwakilan negaranya belum dijembatani.\n(C) — 3 poin: Proaktif mencari, tetapi dokumen yang ia butuhkan bila tas tidak ditemukan belum disiapkan sementara waktunya sempit.\n(E) — 2 poin: Memanfaatkan jejaring, tetapi tanggung jawab layanan bergeser kepada pihak swasta.\n(A) — 1 poin: Informasinya benar, tetapi wisatawan yang panik dan terkendala bahasa dibiarkan mengurus sendiri; paling pasif.\nJadi, jawaban yang tepat adalah (D) Menenangkannya, menggali kronologi dengan aplikasi penerjemah, membantu membuat surat keterangan kehilangan, lalu memberinya kontak perwakilan negaranya untuk dokumen pengganti.\nMengapa opsi lain kurang tepat:\n- (B) — 4 poin: Langkah lanjutan ke perwakilan negaranya belum dijembatani.\n- (C) — 3 poin: Dokumen yang ia butuhkan bila tas tidak ditemukan belum disiapkan sementara waktunya sempit.\n- (E) — 2 poin: Tanggung jawab layanan bergeser kepada pihak swasta.\n- (A) — 1 poin: Wisatawan yang panik dan terkendala bahasa dibiarkan mengurus sendiri; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Anda seorang polwan dalam tim olah TKP pencurian benda pusaka di sebuah rumah adat. Menurut aturan adat, perempuan dilarang memasuki ruang penyimpanan pusaka. Padahal Anda yang paling menguasai teknik pengambilan sidik jari di tim tersebut, dan kepala adat bersikeras pada larangan itu. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Menghormati larangan itu, lalu memandu rekan laki-laki dari ambang pintu langkah demi langkah mengangkat jejak, sambil mengajak kepala adat menyaksikan prosesnya.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Tetap masuk dengan sopan karena olah TKP adalah tugas negara yang dilindungi hukum, sambil meminta maaf kepada kepala adat dan berjanji menyelesaikannya secepat mungkin.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menyerahkan seluruh olah TKP di ruang penyimpanan kepada rekan laki-laki, sedangkan Anda menangani pemeriksaan saksi di luar.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Meminta pimpinan mengirim personel identifikasi laki-laki dari polres untuk menggantikan peran Anda di dalam ruangan.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Meminta waktu kepada kepala adat untuk menjelaskan pentingnya olah TKP bagi pengungkapan kasus pusaka mereka sendiri, lalu memohon pengecualian khusus bagi Anda.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Olah TKP pencurian pusaka di rumah adat.\n- Adat melarang perempuan memasuki ruang penyimpanan pusaka.\n- Anda paling menguasai teknik pengambilan sidik jari di tim.\n\nDITANYAKAN:\nCara paling patut agar olah TKP tetap bermutu tanpa melanggar aturan adat.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (aturan adat dalam pelaksanaan tugas), dengan pemetaan KPR-03 Adaptasi (mencari cara kerja yang sesuai adat) dan KPR-01 Stabilitas emosi (tidak tersinggung oleh larangan).\n2. Prinsip acuan: Pengakuan negara terhadap kesatuan masyarakat hukum adat (Pasal 18B ayat 2 UUD 1945), prinsip Polmas, dan profesionalisme penyidikan.\n3. Kunci pembeda: Adaptasi terbaik menemukan cara agar tugas tetap terlaksana penuh tanpa melanggar adat, bukan memilih salah satunya.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(A) — 5 poin: Mutu olah TKP tetap terjaga melalui arahan Anda, adat tidak dilanggar, dan kehadiran kepala adat menumbuhkan kepercayaan.\n(E) — 4 poin: Komunikatif, tetapi menempatkan adat sebagai hal yang harus ditawar dan memakan waktu sementara jejak berisiko rusak.\n(C) — 3 poin: Menghormati adat dan membagi tugas, tetapi keahlian terbaik tim tidak dimanfaatkan sehingga mutu olah TKP bisa menurun.\n(D) — 2 poin: Taat adat, tetapi menunda olah TKP dan melempar tugas yang sebenarnya dapat diselesaikan saat itu.\n(B) — 1 poin: Benar bahwa penyidikan dilindungi hukum, tetapi memaksakan diri ketika ada alternatif yang tidak melanggar adat merusak kepercayaan dan dapat memicu konflik.\nJadi, jawaban yang tepat adalah (A) Menghormati larangan itu, lalu memandu rekan laki-laki dari ambang pintu langkah demi langkah mengangkat jejak, sambil mengajak kepala adat menyaksikan prosesnya.\nMengapa opsi lain kurang tepat:\n- (E) — 4 poin: Menempatkan adat sebagai hal yang harus ditawar dan memakan waktu sementara jejak berisiko rusak.\n- (C) — 3 poin: Keahlian terbaik tim tidak dimanfaatkan sehingga mutu olah TKP bisa menurun.\n- (D) — 2 poin: Menunda olah TKP dan melempar tugas yang sebenarnya dapat diselesaikan saat itu.\n- (B) — 1 poin: Memaksakan diri ketika ada alternatif yang tidak melanggar adat merusak kepercayaan dan dapat memicu konflik.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Seorang ibu rumah tangga datang ke SPKT untuk ketiga kalinya menanyakan laporan penipuan investasi daring yang ia buat dua bulan lalu. Ia kehilangan tabungan untuk biaya sekolah anaknya dan menangis karena merasa tidak pernah diberi kabar. Anda petugas SPKT, bukan penyidik yang menangani perkaranya. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengantarnya langsung ke ruang unit reskrim agar ia dapat bertemu dan bertanya sendiri kepada penyidiknya, sehingga ia mendengar perkembangan perkara dari sumber pertama.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menenangkannya dan menjelaskan bahwa penanganan penipuan daring memang memerlukan waktu karena melibatkan penelusuran rekening dan pihak lain.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menghubungi penyidik perkaranya untuk menanyakan perkembangan, menyampaikan informasinya kepada ibu itu, dan menjelaskan haknya menerima SP2HP secara berkala.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Memberikan nomor telepon unit reskrim agar ia dapat menanyakan langsung perkembangan perkaranya kapan saja.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menjelaskan bahwa perkembangan perkara adalah wewenang penyidik sehingga ia perlu menunggu kabar resmi dari penyidik.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pelapor datang ketiga kalinya menanyakan perkara penipuan daring.\n- Ia merasa tidak pernah mendapat kabar dan sangat terpukul.\n- Anda petugas SPKT, bukan penyidik perkaranya.\n\nDITANYAKAN:\nLayanan paling patut ketika pelapor menanyakan perkara yang bukan Anda tangani.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (penanganan keluhan dan kepastian layanan), dengan pemetaan KPR-02 Prososial (menjembatani tanpa diminta) dan KPR-01 Stabilitas emosi (tenang menghadapi pelapor yang emosional).\n2. Prinsip acuan: Hak pelapor memperoleh Surat Pemberitahuan Perkembangan Hasil Penyidikan (SP2HP), asas kepastian dan keterbukaan dalam UU No. 25 Tahun 2009, serta Tribrata butir ketiga.\n3. Kunci pembeda: Petugas yang bukan pemegang perkara tetap dapat menuntaskan layanan dengan menjembatani informasi dan memastikan hak pelapor.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(C) — 5 poin: Pelapor mendapat kabar nyata hari itu juga, dan haknya atas informasi berkala dipastikan sehingga ia tidak perlu bolak-balik lagi.\n(A) — 4 poin: Mempertemukan dengan pihak yang tepat, tetapi tanpa koordinasi lebih dulu penyidik bisa tidak ada di tempat dan hak atas SP2HP belum dijelaskan.\n(B) — 3 poin: Empatik dan informatif, tetapi bersifat umum; ia tetap tidak tahu perkembangan perkaranya sendiri.\n(D) — 2 poin: Informasinya berguna, tetapi beban kembali kepada pelapor yang sudah tiga kali datang.\n(E) — 1 poin: Benar secara kewenangan, tetapi melempar dan tidak memberi jalan keluar; paling pasif.\nJadi, jawaban yang tepat adalah (C) Menghubungi penyidik perkaranya untuk menanyakan perkembangan, menyampaikan informasinya kepada ibu itu, dan menjelaskan haknya menerima SP2HP secara berkala.\nMengapa opsi lain kurang tepat:\n- (A) — 4 poin: Tanpa koordinasi lebih dulu penyidik bisa tidak ada di tempat dan hak atas SP2HP belum dijelaskan.\n- (B) — 3 poin: Bersifat umum; ia tetap tidak tahu perkembangan perkaranya sendiri.\n- (D) — 2 poin: Beban kembali kepada pelapor yang sudah tiga kali datang.\n- (E) — 1 poin: Melempar dan tidak memberi jalan keluar; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Pada bulan Ramadan, Anda mendapat informasi bahwa sebuah ormas berencana melakukan sweeping terhadap warung makan yang buka siang hari di wilayah binaan Anda. Sebagian warga mendukung karena menganggap warung yang terbuka tidak menghormati orang berpuasa, sementara para pemilik warung ketakutan. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Membiarkan ormas berkegiatan selama tidak ada kekerasan, karena aspirasi mereka didukung sebagian warga.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mengimbau para pemilik warung memasang tirai penutup dan tidak menyajikan makanan di bagian depan selama Ramadan agar tidak memancing reaksi dari ormas maupun warga yang berpuasa.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Berjaga di sekitar warung-warung tersebut pada siang hari bersama rekan untuk mencegah sweeping, sekaligus menunjukkan bahwa negara hadir melindungi para pemilik warung kecil.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Melaporkan rencana sweeping kepada pimpinan dan menunggu keputusan apakah kegiatan itu perlu dicegah.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menegaskan kepada ormas bahwa penertiban bukan kewenangan mereka, memusyawarahkan tata cara berjualan dengan pemerintah setempat dan pemilik warung, serta menyiagakan pengamanan.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Ormas berencana melakukan sweeping warung makan pada siang hari Ramadan.\n- Sebagian warga mendukung rencana itu.\n- Pemilik warung ketakutan.\n\nDITANYAKAN:\nSikap paling patut untuk mencegah main hakim sambil menjaga rasa saling menghormati.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (toleransi dan gesekan sosial), dengan pemetaan KPR-01 Stabilitas emosi (tegas tanpa konfrontatif) dan KPR-02 Prososial (melindungi warga yang terancam).\n2. Prinsip acuan: Netralitas Polri, prinsip bahwa penertiban hanya dilakukan aparat berwenang, serta Catur Prasetya butir meniadakan segala bentuk gangguan keamanan dan memelihara perasaan tenteram dan damai.\n3. Kunci pembeda: Menghormati yang berpuasa dan melindungi yang tidak berpuasa bukan pilihan yang saling meniadakan: cegah main hakim dan musyawarahkan tata caranya.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(E) — 5 poin: Main hakim dicegah sejak rencana, kepentingan kedua pihak dipertemukan melalui musyawarah, dan keamanan pemilik warung dijamin.\n(C) — 4 poin: Melindungi pemilik warung secara langsung, tetapi rencana ormas dan ketegangan dengan warga pendukung tidak disentuh.\n(B) — 3 poin: Kompromi yang lazim, tetapi diputuskan sepihak dan membebani pihak yang terancam tanpa menghentikan rencana sweeping.\n(D) — 2 poin: Tertib secara komando, tetapi melempar keputusan pencegahan yang jelas termasuk tugas Bhabinkamtibmas.\n(A) — 1 poin: Tampak menghormati aspirasi, tetapi membiarkan tindakan di luar kewenangan yang menakut-nakuti warga; paling tidak patut.\nJadi, jawaban yang tepat adalah (E) Menegaskan kepada ormas bahwa penertiban bukan kewenangan mereka, memusyawarahkan tata cara berjualan dengan pemerintah setempat dan pemilik warung, serta menyiagakan pengamanan.\nMengapa opsi lain kurang tepat:\n- (C) — 4 poin: Rencana ormas dan ketegangan dengan warga pendukung tidak disentuh.\n- (B) — 3 poin: Diputuskan sepihak dan membebani pihak yang terancam tanpa menghentikan rencana sweeping.\n- (D) — 2 poin: Melempar keputusan pencegahan yang jelas termasuk tugas Bhabinkamtibmas.\n- (A) — 1 poin: Membiarkan tindakan di luar kewenangan yang menakut-nakuti warga; paling tidak patut.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Seorang pemohon SKCK marah karena berkasnya belum dapat diproses: namanya di KTP berbeda satu huruf dengan nama di akta kelahiran. Ia harus menyerahkan SKCK untuk lamaran kerja besok pagi dan menuduh petugas sengaja mempersulit. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Memproses berkasnya karena perbedaan satu huruf jelas hanya salah ketik, sementara foto, tanggal lahir, dan data lain pada kedua dokumen itu sudah sesuai.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menjelaskan alasan ketentuan itu dengan tenang, menelusuri dokumen sah lain yang dapat dipakai, dan bila tidak ada, memberi petunjuk rinci perbaikan data agar berkas segera diproses.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Meminta waktu untuk berkonsultasi dengan kepala unit tentang kemungkinan kebijakan khusus, mengingat perbedaannya hanya satu huruf, data lain sesuai, dan kebutuhan pemohon sangat mendesak.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menjelaskan bahwa data yang tidak sesuai harus diperbaiki terlebih dahulu, lalu menyarankannya mengurus perbaikan di Dukcapil.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mempersilakan pemohon menyampaikan keberatannya melalui kanal pengaduan resmi bila ia merasa dipersulit.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Nama di KTP dan akta kelahiran berbeda satu huruf.\n- SKCK dibutuhkan untuk lamaran kerja besok pagi.\n- Pemohon menuduh petugas mempersulit.\n\nDITANYAKAN:\nSikap paling patut antara ketentuan verifikasi identitas dan kebutuhan mendesak pemohon.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (keluhan atas ketentuan), dengan pemetaan KPR-01 Stabilitas emosi (tidak terpancing tuduhan) dan KPR-02 Prososial (mencari jalan keluar bagi pemohon).\n2. Prinsip acuan: Asas kepastian hukum serta kecepatan dan kemudahan dalam UU No. 25 Tahun 2009, integritas dalam verifikasi dokumen, dan pelayanan prima yang solutif.\n3. Kunci pembeda: Aturan tetap ditegakkan, tetapi petugas aktif mencari jalan sah tercepat. Membengkokkan aturan atau sekadar menyebut aturan sama-sama kurang tuntas.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(B) — 5 poin: Tuduhan dijawab dengan penjelasan, semua kemungkinan sah ditelusuri, dan pemohon pulang dengan langkah pasti.\n(C) — 4 poin: Berupaya membantu, tetapi mengarah pada pengecualian di luar ketentuan dan belum memberi kepastian langkah kepada pemohon.\n(D) — 3 poin: Benar dan informatif, tetapi berhenti pada pernyataan aturan tanpa menelusuri alternatif sah atau memberi petunjuk rinci.\n(A) — 2 poin: Sangat membantu, tetapi melanggar ketentuan verifikasi identitas dan dapat menimbulkan masalah keabsahan SKCK.\n(E) — 1 poin: Saluran resmi memang ada, tetapi pemohon dilempar tanpa penjelasan maupun jalan keluar; paling pasif.\nJadi, jawaban yang tepat adalah (B) Menjelaskan alasan ketentuan itu dengan tenang, menelusuri dokumen sah lain yang dapat dipakai, dan bila tidak ada, memberi petunjuk rinci perbaikan data agar berkas segera diproses.\nMengapa opsi lain kurang tepat:\n- (C) — 4 poin: Mengarah pada pengecualian di luar ketentuan dan belum memberi kepastian langkah kepada pemohon.\n- (D) — 3 poin: Berhenti pada pernyataan aturan tanpa menelusuri alternatif sah atau memberi petunjuk rinci.\n- (A) — 2 poin: Melanggar ketentuan verifikasi identitas dan dapat menimbulkan masalah keabsahan SKCK.\n- (E) — 1 poin: Pemohon dilempar tanpa penjelasan maupun jalan keluar; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Setelah tiga warga meninggal dalam sebulan, beredar kabar di desa binaan Anda bahwa seorang nenek yang hidup sendirian adalah dukun santet. Sekelompok warga berencana mengusirnya dari desa malam ini. Kepala desa ragu bertindak karena takut dianggap melindungi dukun. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengamankan nenek itu ke tempat aman, meredam rencana pengusiran bersama tokoh agama dan kepala desa, lalu meminta puskesmas menjelaskan penyebab kematian ketiga warga.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mengumpulkan warga dan menjelaskan bahwa tuduhan santet tidak dapat dibuktikan secara hukum sehingga pengusiran terhadap siapa pun merupakan pelanggaran yang dapat dipidana.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menyarankan keluarga nenek menjemputnya untuk tinggal sementara di tempat lain sampai keadaan desa kembali tenang.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Berjaga di rumah nenek tersebut bersama rekan sepanjang malam ini untuk mencegah pengusiran.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menyerahkan penyelesaian kepada kepala desa dan tokoh adat karena persoalan kepercayaan berada di luar ranah hukum.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tiga warga meninggal dalam sebulan; seorang nenek dituduh dukun santet.\n- Sekelompok warga berencana mengusirnya malam ini.\n- Kepala desa ragu bertindak.\n\nDITANYAKAN:\nTindakan paling patut terhadap kepercayaan lokal yang mengancam keselamatan seseorang.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (kepercayaan lokal dan gesekan sosial), dengan pemetaan KPR-02 Prososial (melindungi warga paling rentan) dan KPR-01 Stabilitas emosi (tenang di tengah kepanikan warga).\n2. Prinsip acuan: Catur Prasetya butir menjaga keselamatan jiwa raga dan hak asasi manusia, Tribrata butir kedua, dan prinsip Polmas (menggerakkan tokoh masyarakat).\n3. Kunci pembeda: Keselamatan orang yang dituduh didahulukan, lalu ketakutan warga dijawab dengan penjelasan dari sumber yang mereka percayai.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(A) — 5 poin: Keselamatan orang yang terancam didahulukan, massa diredam melalui tokoh yang dipercaya, dan akar isu dijawab dengan penjelasan medis.\n(D) — 4 poin: Melindungi secara langsung, tetapi isu santet tetap hidup dan ancaman dapat muncul kembali kapan saja.\n(B) — 3 poin: Tegas soal hukum, tetapi tanpa tokoh yang dipercaya dan penjelasan penyebab kematian, warga yang takut sulit diyakinkan.\n(C) — 2 poin: Melindungi sementara, tetapi secara tidak langsung membenarkan pengusiran dengan menyingkirkan korban.\n(E) — 1 poin: Berdalih ranah kepercayaan, tetapi melempar dan mengabaikan ancaman nyata terhadap keselamatan seseorang.\nJadi, jawaban yang tepat adalah (A) Mengamankan nenek itu ke tempat aman, meredam rencana pengusiran bersama tokoh agama dan kepala desa, lalu meminta puskesmas menjelaskan penyebab kematian ketiga warga.\nMengapa opsi lain kurang tepat:\n- (D) — 4 poin: Isu santet tetap hidup dan ancaman dapat muncul kembali kapan saja.\n- (B) — 3 poin: Tanpa tokoh yang dipercaya dan penjelasan penyebab kematian, warga yang takut sulit diyakinkan.\n- (C) — 2 poin: Secara tidak langsung membenarkan pengusiran dengan menyingkirkan korban.\n- (E) — 1 poin: Melempar dan mengabaikan ancaman nyata terhadap keselamatan seseorang.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Anda baru ditugasi mengelola akun media sosial resmi polsek. Anda menemukan seorang warga sudah tiga kali mengirim pesan langsung tentang balap liar setiap malam Minggu di jalan dekat rumahnya, tetapi belum pernah dibalas. Pesan terakhirnya bernada kecewa dan ia menyatakan akan mengunggah keluhannya secara terbuka. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Membalas bahwa aduan sudah diterima dan menyarankannya juga melapor kepada ketua RT agar warga sekitar ikut mengawasi.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Meneruskan aduan itu kepada unit patroli tanpa membalas pesan warga, agar tidak menjanjikan sesuatu yang belum pasti.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Membalas dengan permohonan maaf dan memberikan nomor layanan darurat agar ia dapat melapor langsung saat balap liar sedang terjadi sehingga petugas bisa segera datang.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menyusun prosedur balasan otomatis agar setiap aduan yang masuk ke depan langsung mendapat tanggapan.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Meminta maaf atas keterlambatan, meminta detail lokasi dan waktu, meneruskannya ke unit patroli dan lalu lintas, lalu mengabarkan hasil tindak lanjutnya kepada warga.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Warga tiga kali mengadukan balap liar melalui pesan langsung.\n- Aduan belum pernah dibalas.\n- Warga kecewa dan berencana mengunggah keluhannya secara terbuka.\n\nDITANYAKAN:\nPenanganan paling patut atas aduan yang terabaikan di kanal digital.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (keluhan melalui kanal digital), dengan pemetaan KPR-02 Prososial (inisiatif menindaklanjuti tanpa diperintah) dan KPR-01 Stabilitas emosi (tidak defensif terhadap ancaman unggahan).\n2. Prinsip acuan: Pelayanan prima (responsif, tuntas, ada umpan balik), asas akuntabilitas dan keterbukaan pelayanan publik, serta Tribrata butir ketiga.\n3. Kunci pembeda: Keluhan tuntas bila tiga hal terpenuhi: diakui, ditindaklanjuti, dan dikabarkan hasilnya.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(E) — 5 poin: Keluhan diakui, ditindaklanjuti oleh unit yang tepat, dan hasilnya dikabarkan; kepercayaan warga dipulihkan.\n(C) — 4 poin: Responsif dan memberi saluran cepat, tetapi aduan berulang itu tidak diteruskan untuk penanganan yang terencana.\n(B) — 3 poin: Substansi ditindaklanjuti, tetapi warga tidak tahu aduannya diproses sehingga kekecewaannya berlanjut.\n(D) — 2 poin: Perbaikan sistem yang baik, tetapi aduan yang sedang ada tidak terselesaikan.\n(A) — 1 poin: Tampak responsif, tetapi tanpa tindak lanjut kepolisian dan beban dialihkan kepada warga; paling pasif.\nJadi, jawaban yang tepat adalah (E) Meminta maaf atas keterlambatan, meminta detail lokasi dan waktu, meneruskannya ke unit patroli dan lalu lintas, lalu mengabarkan hasil tindak lanjutnya kepada warga.\nMengapa opsi lain kurang tepat:\n- (C) — 4 poin: Aduan berulang itu tidak diteruskan untuk penanganan yang terencana.\n- (B) — 3 poin: Warga tidak tahu aduannya diproses sehingga kekecewaannya berlanjut.\n- (D) — 2 poin: Aduan yang sedang ada tidak terselesaikan.\n- (A) — 1 poin: Tanpa tindak lanjut kepolisian dan beban dialihkan kepada warga; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Setelah terjadi perkelahian antara dua penghuni asrama mahasiswa perantauan dan pemuda setempat, sejumlah warga meminta Anda selaku Bhabinkamtibmas agar seluruh penghuni asrama tersebut diusir dari kampung. Sebagian besar penghuni asrama tidak terlibat dan berasal dari satu daerah yang sama. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Meminta pengurus asrama memperketat jam malam dan aturan tamu bagi seluruh penghuni agar warga sekitar merasa lebih tenang dan kejadian serupa tidak terulang.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Meneruskan tuntutan warga kepada pengelola asrama dan pemerintah daerah asal mahasiswa agar merekalah yang memutuskan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Memproses para pelaku tanpa membedakan asal, menolak pengusiran kolektif, lalu mempertemukan pengurus asrama, tokoh kampung, dan pemuda untuk menyepakati aturan bersama.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mengajak kedua pihak berdamai secara kekeluargaan di balai desa dan menganggap persoalan selesai setelah para pelaku saling memaafkan di hadapan tokoh kampung.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Memproses para pelaku perkelahian secara adil sesuai hukum, lalu menjelaskan kepada warga dalam pertemuan kampung bahwa pengusiran kolektif terhadap penghuni yang tidak terlibat tidak dapat dibenarkan.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Dua penghuni asrama berkelahi dengan pemuda setempat.\n- Warga menuntut seluruh penghuni asrama diusir.\n- Sebagian besar penghuni tidak terlibat.\n\nDITANYAKAN:\nSikap paling patut terhadap tuntutan hukuman kolektif kepada kelompok pendatang.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (prasangka terhadap pendatang), dengan pemetaan KPR-02 Prososial (melindungi kelompok yang distigma) dan KPR-03 Adaptasi (membangun kesepakatan hidup bersama).\n2. Prinsip acuan: Kesamaan kedudukan warga negara di depan hukum (Pasal 27 ayat 1 UUD 1945), semboyan Bhinneka Tunggal Ika, dan prinsip Polmas.\n3. Kunci pembeda: Tanggung jawab pidana bersifat pribadi, bukan kelompok. Solusi tuntas menegakkan hukum terhadap pelaku dan mencegah prasangka berkembang.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(C) — 5 poin: Hukum ditegakkan secara adil terhadap pelaku, hukuman kolektif dicegah, dan mekanisme hidup bersama dibangun untuk mencegah insiden baru.\n(E) — 4 poin: Adil dan menegaskan hukum, tetapi belum membangun mekanisme hidup bersama sehingga prasangka dapat memicu insiden baru.\n(A) — 3 poin: Meredakan kekhawatiran warga, tetapi membebankan tanggung jawab kolektif kepada penghuni yang tidak terlibat.\n(D) — 2 poin: Perdamaian itu baik, tetapi prasangka kolektif dan tuntutan pengusiran tidak ditangani.\n(B) — 1 poin: Melempar dan secara tidak langsung memberi legitimasi pada tuntutan yang diskriminatif.\nJadi, jawaban yang tepat adalah (C) Memproses para pelaku tanpa membedakan asal, menolak pengusiran kolektif, lalu mempertemukan pengurus asrama, tokoh kampung, dan pemuda untuk menyepakati aturan bersama.\nMengapa opsi lain kurang tepat:\n- (E) — 4 poin: Belum membangun mekanisme hidup bersama sehingga prasangka dapat memicu insiden baru.\n- (A) — 3 poin: Membebankan tanggung jawab kolektif kepada penghuni yang tidak terlibat.\n- (D) — 2 poin: Prasangka kolektif dan tuntutan pengusiran tidak ditangani.\n- (B) — 1 poin: Melempar dan secara tidak langsung memberi legitimasi pada tuntutan yang diskriminatif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Pukul 01.00 seorang pengemudi ojek daring datang ke SPKT dengan luka lecet setelah sepeda motornya dirampas di jalan sepi. Ia kelelahan, ingin segera pulang, dan berkata akan kembali besok untuk membuat laporan. Anda tahu keterangan awal yang masih segar sangat berguna untuk pengejaran pelaku. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengantarnya ke rumah sakit terdekat, lalu meminta petugas piket reskrim menemuinya di sana untuk mengambil keterangan.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mengambil keterangan lengkap malam itu juga sambil menyediakan minum dan obat luka, karena laporan yang lengkap sejak awal akan mempercepat proses penyidikan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menyarankannya segera melapor kepada perusahaan aplikasi agar akunnya diamankan dan ia mendapat pendampingan serta santunan dari perusahaan sebelum membuat laporan polisi.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Merawat lukanya, mencatat keterangan pokok (lokasi, waktu, ciri pelaku, data kendaraan) untuk segera diteruskan ke tim piket, dan menjadwalkan pemeriksaan lengkap besok.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mempersilakannya pulang dan kembali besok sesuai keinginannya, setelah mencatat identitas dan nomor teleponnya.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Korban perampasan sepeda motor datang pukul 01.00 dengan luka lecet.\n- Ia kelelahan dan ingin melapor besok.\n- Keterangan awal penting untuk pengejaran.\n\nDITANYAKAN:\nLayanan paling patut yang memperhatikan kondisi korban sekaligus kepentingan pengejaran.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (korban kejahatan), dengan pemetaan KPR-02 Prososial (memperhatikan kondisi korban) dan KPR-03 Adaptasi (menyesuaikan prosedur dengan kondisi korban).\n2. Prinsip acuan: Catur Prasetya butir menjaga keselamatan jiwa raga dan harta benda, Tribrata butir ketiga, dan pelayanan yang berpusat pada korban.\n3. Kunci pembeda: Kepentingan korban dan kepentingan pengejaran dipenuhi bersama: ambil yang mendesak sekarang, lengkapi sisanya kemudian.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(D) — 5 poin: Kondisi korban dihormati, informasi kritis untuk pengejaran didapat saat masih segar, dan pemeriksaan lengkap tetap terjadwal.\n(B) — 4 poin: Mendukung pengejaran dan ada perhatian, tetapi memaksa korban yang kelelahan sehingga keterangannya pun bisa kurang akurat.\n(A) — 3 poin: Peduli kesehatan, tetapi berlebihan (TKP-09) untuk luka lecet dan menunda informasi yang dibutuhkan untuk pengejaran.\n(E) — 2 poin: Menghormati keinginan korban, tetapi informasi awal yang krusial untuk pengejaran hilang.\n(C) — 1 poin: Terdengar membantu, tetapi melempar korban ke pihak lain tanpa menerima laporan kepolisian; paling pasif.\nJadi, jawaban yang tepat adalah (D) Merawat lukanya, mencatat keterangan pokok (lokasi, waktu, ciri pelaku, data kendaraan) untuk segera diteruskan ke tim piket, dan menjadwalkan pemeriksaan lengkap besok.\nMengapa opsi lain kurang tepat:\n- (B) — 4 poin: Memaksa korban yang kelelahan sehingga keterangannya pun bisa kurang akurat.\n- (A) — 3 poin: Berlebihan (TKP-09) untuk luka lecet dan menunda informasi yang dibutuhkan untuk pengejaran.\n- (E) — 2 poin: Informasi awal yang krusial untuk pengejaran hilang.\n- (C) — 1 poin: Melempar korban ke pihak lain tanpa menerima laporan kepolisian; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Sebagai Bhabinkamtibmas, Anda mendengar bahwa seorang siswi kelas 8 di desa binaan akan dinikahkan bulan depan dengan alasan tradisi keluarga dan kesulitan ekonomi. Orang tuanya menganggap hal itu urusan keluarga dan sudah lazim di kampung tersebut. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Menghormati keputusan keluarga karena perkawinan termasuk ranah adat dan agama, sambil memastikan acaranya berjalan tertib.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Bersama pemerintah desa, KUA, sekolah, dan tokoh agama berdialog dengan keluarga tentang batas usia perkawinan dan dampaknya bagi anak, sambil menjajaki bantuan sosial bagi keluarga itu.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menyampaikan rencana itu kepada KUA setempat agar pernikahan tersebut tidak dicatatkan karena calon mempelai perempuan belum memenuhi batas usia.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mendatangi orang tua siswi untuk menjelaskan bahwa batas usia perkawinan menurut undang-undang adalah 19 tahun, lalu meminta mereka dengan tegas membatalkan rencana itu demi masa depan anaknya.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengimbau warga dalam pertemuan rutin desa tentang bahaya perkawinan usia anak tanpa menyebut keluarga tertentu.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Siswi kelas 8 akan dinikahkan bulan depan.\n- Alasannya tradisi keluarga dan kesulitan ekonomi.\n- Orang tua menganggapnya urusan keluarga yang lazim.\n\nDITANYAKAN:\nSikap paling patut terhadap kebiasaan setempat yang bertentangan dengan perlindungan anak.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (kebiasaan setempat vs hukum), dengan pemetaan KPR-02 Prososial (melindungi anak) dan KPR-03 Adaptasi (bekerja melalui jejaring lokal).\n2. Prinsip acuan: UU No. 16 Tahun 2019 tentang Perubahan atas UU Perkawinan (batas usia perkawinan 19 tahun bagi laki-laki dan perempuan), prinsip perlindungan anak, dan prinsip Polmas.\n3. Kunci pembeda: Akar masalahnya tradisi dan ekonomi, sehingga larangan saja tidak cukup; perlu dialog melalui tokoh yang dipercaya dan jalan keluar ekonomi.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(B) — 5 poin: Pendekatan melalui tokoh yang dipercaya mengubah sikap keluarga, dan bantuan sosial menjawab akar ekonominya sehingga anak dapat terus bersekolah.\n(D) — 4 poin: Tegas berdasarkan hukum, tetapi tanpa tokoh yang dipercaya dan tanpa solusi ekonomi, keluarga bisa menikahkan anaknya secara tidak tercatat.\n(C) — 3 poin: Menutup jalur pencatatan, tetapi tidak mengubah sikap keluarga dan berisiko mendorong perkawinan di bawah tangan.\n(E) — 2 poin: Edukatif dan tidak mempermalukan, tetapi terlalu umum untuk kasus yang sudah nyata.\n(A) — 1 poin: Tampak menghormati adat, tetapi membiarkan pelanggaran hak anak; paling pasif.\nJadi, jawaban yang tepat adalah (B) Bersama pemerintah desa, KUA, sekolah, dan tokoh agama berdialog dengan keluarga tentang batas usia perkawinan dan dampaknya bagi anak, sambil menjajaki bantuan sosial bagi keluarga itu.\nMengapa opsi lain kurang tepat:\n- (D) — 4 poin: Tanpa tokoh yang dipercaya dan tanpa solusi ekonomi, keluarga bisa menikahkan anaknya secara tidak tercatat.\n- (C) — 3 poin: Tidak mengubah sikap keluarga dan berisiko mendorong perkawinan di bawah tangan.\n- (E) — 2 poin: Terlalu umum untuk kasus yang sudah nyata.\n- (A) — 1 poin: Membiarkan pelanggaran hak anak; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Seorang kakek pensiunan hampir setiap hari datang ke polsek untuk mengadukan hal kecil, seperti suara motor tetangga atau kucing yang masuk halaman. Rekan-rekan mulai menghindarinya. Dari obrolan, Anda menangkap bahwa ia tinggal sendirian sejak istrinya meninggal. Siang ini ia datang lagi saat Anda sedang menyelesaikan laporan yang harus diserahkan sore nanti. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Meminta rekan piket yang sedang longgar untuk menemaninya berbincang sampai ia puas dan pulang.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menanggapi aduan-aduannya secara resmi dengan mencatat dan menindaklanjutinya satu per satu, agar ia merasa setiap keluhannya dihargai sama seperti aduan warga lain.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mendengarkannya sebentar, menjanjikan waktu berbincang setelah laporan selesai, dan meminta Bhabinkamtibmas serta pengurus lingkungan melibatkannya dalam kegiatan warga.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menghentikan pekerjaan untuk mendengarkan seluruh aduannya dengan sabar, karena ia jelas membutuhkan teman bicara, lalu melanjutkan laporan setelah ia pulang meskipun harus lembur.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menjelaskan dengan sopan bahwa polsek hanya menangani gangguan kamtibmas dan menyarankannya menyampaikan persoalan kecil kepada ketua RT.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kakek pensiunan hampir setiap hari mengadukan hal kecil.\n- Ia tinggal sendirian sejak istrinya meninggal.\n- Anda sedang mengejar tenggat laporan sore ini.\n\nDITANYAKAN:\nSikap paling patut menanggapi kebutuhan di balik aduan tanpa mengorbankan tugas.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (aduan masyarakat rentan), dengan pemetaan KPR-02 Prososial (peka pada kebutuhan tersembunyi) dan KPR-01 Stabilitas emosi (sabar tanpa mengorbankan tugas).\n2. Prinsip acuan: Tribrata butir ketiga (mengayomi dengan keikhlasan), pelayanan prima, dan prinsip Polmas yang melibatkan lingkungan dalam menyelesaikan masalah warga.\n3. Kunci pembeda: Yang perlu diselesaikan adalah kebutuhan di balik aduan, sambil tetap menuntaskan tugas sendiri.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(C) — 5 poin: Kakek merasa dihargai, tugas tetap selesai, dan kebutuhan sebenarnya (kesepian) dijawab melalui jejaring lingkungannya.\n(D) — 4 poin: Empati tinggi, tetapi tenggat tugas dipertaruhkan dan akar masalahnya (kesepian) tidak tersentuh.\n(B) — 3 poin: Prosedural dan menghargai, tetapi menghabiskan sumber daya untuk gejala tanpa menjawab kebutuhan sebenarnya.\n(A) — 2 poin: Kakek tetap ditemani, tetapi Anda melempar dan rekan yang ditunjuk belum tentu bersedia.\n(E) — 1 poin: Benar secara fungsi, tetapi menolak warga yang sebenarnya membutuhkan kepedulian; paling pasif.\nJadi, jawaban yang tepat adalah (C) Mendengarkannya sebentar, menjanjikan waktu berbincang setelah laporan selesai, dan meminta Bhabinkamtibmas serta pengurus lingkungan melibatkannya dalam kegiatan warga.\nMengapa opsi lain kurang tepat:\n- (D) — 4 poin: Tenggat tugas dipertaruhkan dan akar masalahnya (kesepian) tidak tersentuh.\n- (B) — 3 poin: Menghabiskan sumber daya untuk gejala tanpa menjawab kebutuhan sebenarnya.\n- (A) — 2 poin: Anda melempar dan rekan yang ditunjuk belum tentu bersedia.\n- (E) — 1 poin: Menolak warga yang sebenarnya membutuhkan kepedulian; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Pada malam penyambutan Anda sebagai Bhabinkamtibmas baru, tetua kampung menyuguhkan minuman tradisional beralkohol yang menurut adat diminum bersama sebagai tanda penerimaan tamu. Anda tidak minum alkohol, dan warga tampak menunggu reaksi Anda. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Menerima gelas dengan kedua tangan sebagai penghormatan, menjelaskan dengan santun bahwa Anda tidak minum alkohol, dan menanyakan cara adat bagi tamu yang tidak minum.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Meminum sedikit sebagai bentuk penghormatan kepada tetua dan warga, lalu menolak dengan halus ketika ditawari gelas berikutnya agar tetap dapat bertugas dengan baik.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menolak dengan santun sambil meminta maaf, lalu menyampaikan di depan warga bahwa Anda sangat menghargai sambutan mereka dan siap bekerja sama menjaga keamanan kampung.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Pamit lebih awal dengan alasan tugas agar tidak perlu menolak suguhan di depan warga.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Meminta rekan pendamping mewakili Anda menerima suguhan tersebut agar suasana tetap hangat.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tetua menyuguhkan minuman tradisional beralkohol sebagai tanda penerimaan.\n- Anda tidak minum alkohol.\n- Warga menunggu reaksi Anda.\n\nDITANYAKAN:\nSikap paling patut menghormati adat tanpa meninggalkan prinsip pribadi.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (adaptasi terhadap kebiasaan setempat), dengan pemetaan KPR-03 Adaptasi dan KPR-01 Stabilitas emosi (tenang di bawah tekanan sosial).\n2. Prinsip acuan: Prinsip Polmas (diterima oleh masyarakat), etika kepribadian dalam kode etik profesi Polri, dan penghormatan terhadap keberagaman budaya.\n3. Kunci pembeda: Adaptasi yang sehat menghormati makna adat tanpa meninggalkan prinsip pribadi. Menyesuaikan diri tidak berarti larut.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(A) — 5 poin: Makna ritual (penerimaan) dihormati, prinsip pribadi tetap terjaga, dan tetua dilibatkan untuk menemukan cara yang sesuai adat.\n(C) — 4 poin: Sopan dan teguh, tetapi belum mencari bentuk penghormatan pengganti sehingga warga dapat merasa ditolak.\n(B) — 3 poin: Adaptif terhadap adat, tetapi mengorbankan prinsip pribadi; penyesuaian yang berlebihan (TKP-09).\n(E) — 2 poin: Menghindari konflik, tetapi melempar momen penting yang seharusnya Anda hadapi sendiri.\n(D) — 1 poin: Tampak menjaga perasaan warga, tetapi menghindar sehingga ketidakhadiran Anda dapat ditafsirkan sebagai penolakan; paling pasif.\nJadi, jawaban yang tepat adalah (A) Menerima gelas dengan kedua tangan sebagai penghormatan, menjelaskan dengan santun bahwa Anda tidak minum alkohol, dan menanyakan cara adat bagi tamu yang tidak minum.\nMengapa opsi lain kurang tepat:\n- (C) — 4 poin: Belum mencari bentuk penghormatan pengganti sehingga warga dapat merasa ditolak.\n- (B) — 3 poin: Mengorbankan prinsip pribadi; penyesuaian yang berlebihan (TKP-09).\n- (E) — 2 poin: Melempar momen penting yang seharusnya Anda hadapi sendiri.\n- (D) — 1 poin: Menghindar sehingga ketidakhadiran Anda dapat ditafsirkan sebagai penolakan; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Saat arus mudik, Anda bertugas di pos pengamanan di jalur arteri. Sebuah keluarga pemudik dengan bayi yang terus menangis meminta izin beristirahat di dalam pos karena rest area terdekat penuh dan sopirnya sudah sangat mengantuk. Pos tersebut sempit dan berisi perangkat komunikasi serta perlengkapan dinas. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengarahkan keluarga itu ke pos pelayanan berikutnya yang berjarak sekitar 15 km karena di sana tersedia ruang istirahat dan tenaga kesehatan yang siaga.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mempersilakan ibu dan bayinya beristirahat di dalam pos yang lebih teduh, sementara sopir tidur di kendaraan yang diparkir di dekat pos dengan pengawasan petugas sampai kantuknya hilang.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menugaskan seorang rekan mengemudikan kendaraan keluarga itu sampai pos pelayanan berikutnya.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menjelaskan bahwa pos pengamanan bukan tempat istirahat dan menyarankan mereka mencari rest area lain yang lebih lengang.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menyiapkan tempat duduk di area aman sekitar pos, mengizinkan sopir beristirahat dengan kendaraan terparkir aman, lalu menunjukkan pos pelayanan terdekat untuk ibu dan bayi.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Keluarga pemudik dengan bayi meminta beristirahat di pos.\n- Rest area penuh dan sopir sangat mengantuk.\n- Pos sempit dan berisi perangkat dinas.\n\nDITANYAKAN:\nSikap paling patut agar keluarga itu aman tanpa mengganggu fungsi pos.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (pelayanan pada momen padat), dengan pemetaan KPR-02 Prososial dan KPR-03 Adaptasi (luwes memanfaatkan sarana yang ada).\n2. Prinsip acuan: Catur Prasetya butir menjaga keselamatan jiwa raga, Tribrata butir ketiga, dan keselamatan berlalu lintas sebagai tujuan utama pengamanan mudik.\n3. Kunci pembeda: Ancaman terbesar adalah sopir yang mengantuk. Solusi tuntas menolong segera dengan sarana yang aman, bukan menolak atau berlebihan.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(E) — 5 poin: Keselamatan (sopir mengantuk) dan kenyamanan bayi segera terpenuhi tanpa mengorbankan keamanan perangkat pos, ditambah informasi lanjutan.\n(B) — 4 poin: Sangat membantu dan empatik, tetapi ruang berisi perangkat dinas sebaiknya tidak dipakai warga.\n(A) — 3 poin: Informasinya tepat, tetapi membiarkan sopir yang sangat mengantuk berkendara lagi berisiko kecelakaan.\n(C) — 2 poin: Murah hati, tetapi berlebihan (TKP-09): mengurangi personel pengamanan dan di luar kewajaran tugas.\n(D) — 1 poin: Benar secara fungsi, tetapi mengabaikan bahaya sopir mengantuk; paling pasif.\nJadi, jawaban yang tepat adalah (E) Menyiapkan tempat duduk di area aman sekitar pos, mengizinkan sopir beristirahat dengan kendaraan terparkir aman, lalu menunjukkan pos pelayanan terdekat untuk ibu dan bayi.\nMengapa opsi lain kurang tepat:\n- (B) — 4 poin: Ruang berisi perangkat dinas sebaiknya tidak dipakai warga.\n- (A) — 3 poin: Membiarkan sopir yang sangat mengantuk berkendara lagi berisiko kecelakaan.\n- (C) — 2 poin: Berlebihan (TKP-09): mengurangi personel pengamanan dan di luar kewajaran tugas.\n- (D) — 1 poin: Mengabaikan bahaya sopir mengantuk; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Sebuah keluarga menggelar pesta pernikahan adat selama tiga hari dengan menutup penuh jalan kabupaten di depan rumahnya tanpa izin. Pengendara terpaksa memutar jauh dan sebagian mulai memprotes di media sosial. Keluarga tersebut tokoh yang dihormati di kampung, dan menurut mereka begitulah kebiasaan setempat. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Meminta keluarga membuka seluruh jalan karena kegiatan itu tidak berizin, sambil menawarkan bantuan pengurusan izin keramaian agar sisa acara dapat dilanjutkan secara sah esok harinya.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Membiarkannya karena pesta hanya berlangsung tiga hari dan merupakan bagian dari adat yang dihormati warga.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menempatkan petugas untuk mengatur jalur alternatif dan memasang rambu pengalihan di kedua ujung jalan agar pengendara tidak terlalu dirugikan selama tiga hari pesta.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Bermusyawarah dengan keluarga dan tokoh kampung agar jalan hanya ditutup sebagian dengan rambu dan pengatur lalu lintas, serta mengarahkan pengurusan izin untuk acara berikutnya.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mengunggah informasi jalur alternatif di akun media sosial polsek untuk menanggapi keluhan pengendara.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pesta adat tiga hari menutup penuh jalan kabupaten tanpa izin.\n- Pengendara memutar jauh dan memprotes di media sosial.\n- Penyelenggara tokoh yang dihormati.\n\nDITANYAKAN:\nSikap paling patut antara kebiasaan setempat dan hak pengguna jalan.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (kebiasaan setempat vs aturan), dengan pemetaan KPR-03 Adaptasi (solusi kompromi yang sah) dan KPR-01 Stabilitas emosi (tenang menghadapi tokoh berpengaruh).\n2. Prinsip acuan: UU No. 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan (penggunaan jalan untuk kegiatan di luar fungsi lalu lintas memerlukan izin), asas persamaan perlakuan, dan prinsip Polmas.\n3. Kunci pembeda: Adat dan hak pengguna jalan dapat dipertemukan: acara tetap berlangsung, jalan tetap berfungsi, dan perizinan dibenahi.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(D) — 5 poin: Acara adat tetap berjalan, hak pengguna jalan dipulihkan, dan kebiasaan menutup jalan tanpa izin diperbaiki ke depan.\n(C) — 4 poin: Mengurangi dampak bagi pengendara, tetapi pelanggarannya dibiarkan dan kebiasaan menutup jalan tanpa izin berlanjut.\n(A) — 3 poin: Tegas menurut aturan, tetapi mengabaikan acara adat yang sedang berlangsung dan berisiko menyinggung tokoh kampung.\n(E) — 2 poin: Responsif terhadap keluhan, tetapi sumber masalah di lapangan tidak disentuh.\n(B) — 1 poin: Berdalih menghormati adat, tetapi hak pengguna jalan diabaikan; paling pasif.\nJadi, jawaban yang tepat adalah (D) Bermusyawarah dengan keluarga dan tokoh kampung agar jalan hanya ditutup sebagian dengan rambu dan pengatur lalu lintas, serta mengarahkan pengurusan izin untuk acara berikutnya.\nMengapa opsi lain kurang tepat:\n- (C) — 4 poin: Pelanggarannya dibiarkan dan kebiasaan menutup jalan tanpa izin berlanjut.\n- (A) — 3 poin: Mengabaikan acara adat yang sedang berlangsung dan berisiko menyinggung tokoh kampung.\n- (E) — 2 poin: Sumber masalah di lapangan tidak disentuh.\n- (B) — 1 poin: Hak pengguna jalan diabaikan; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Seorang pemohon SIM C gagal ujian praktik untuk ketiga kalinya. Di depan pemohon lain, ia menuduh ujian sengaja dipersulit agar orang memakai jasa calo, dan beberapa pemohon ikut mengangguk. Anda adalah penguji di lintasan tersebut. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Menjelaskan di depan semua pemohon bahwa standar ujian berlaku sama bagi setiap orang, diawasi secara berjenjang, dan tidak ada praktik calo di tempat itu sehingga tuduhannya tidak berdasar.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Dengan tenang menunjukkan lembar penilaiannya, menjelaskan bagian yang belum ia kuasai dan cara melatihnya, serta menyampaikan saluran pengaduan bila ia tetap merasa dirugikan.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mempersilakannya menyampaikan keberatan ke bagian pengaduan agar ditangani pihak yang berwenang.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Melanjutkan ujian pemohon berikutnya agar antrean tidak terganggu, sambil memberinya waktu menenangkan diri.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menawarkan uji ulang hari itu juga dengan penguji lain agar ia yakin penilaiannya objektif dan pemohon lain melihat bahwa tidak ada yang ditutup-tutupi.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pemohon gagal ujian praktik SIM C tiga kali.\n- Ia menuduh ujian dipersulit agar orang memakai calo.\n- Pemohon lain ikut menyimak dan mengangguk.\n\nDITANYAKAN:\nSikap paling patut menghadapi tuduhan terbuka terhadap petugas.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (keluhan dan tuduhan terhadap petugas), dengan pemetaan KPR-01 Stabilitas emosi (tidak defensif saat dituduh) dan KPR-02 Prososial (membantu pemohon berhasil).\n2. Prinsip acuan: Asas keterbukaan dan akuntabilitas dalam UU No. 25 Tahun 2009, integritas Polri, dan pelayanan prima.\n3. Kunci pembeda: Tuduhan dijawab dengan transparansi data dan bantuan nyata, bukan dengan pembelaan atau penghindaran.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(B) — 5 poin: Transparan dan berbasis data, membantu pemohon lulus pada kesempatan berikutnya, serta membuka saluran pengaduan yang akuntabel.\n(A) — 4 poin: Meluruskan tuduhan secara terbuka, tetapi bersifat membela diri dan tidak membantu pemohon memperbaiki kemampuannya.\n(E) — 3 poin: Menunjukkan keterbukaan, tetapi mengabaikan jadwal uji ulang yang berlaku dan dapat dianggap perlakuan istimewa karena ia memprotes.\n(C) — 2 poin: Saluran resmi diberikan, tetapi penguji yang paling memahami penilaiannya justru melempar penjelasan.\n(D) — 1 poin: Menghindari konflik, tetapi tuduhan dibiarkan menggantung di hadapan pemohon lain; paling pasif.\nJadi, jawaban yang tepat adalah (B) Dengan tenang menunjukkan lembar penilaiannya, menjelaskan bagian yang belum ia kuasai dan cara melatihnya, serta menyampaikan saluran pengaduan bila ia tetap merasa dirugikan.\nMengapa opsi lain kurang tepat:\n- (A) — 4 poin: Bersifat membela diri dan tidak membantu pemohon memperbaiki kemampuannya.\n- (E) — 3 poin: Mengabaikan jadwal uji ulang yang berlaku dan dapat dianggap perlakuan istimewa karena ia memprotes.\n- (C) — 2 poin: Penguji yang paling memahami penilaiannya justru melempar penjelasan.\n- (D) — 1 poin: Tuduhan dibiarkan menggantung di hadapan pemohon lain; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Masyarakat adat di wilayah binaan Anda memblokade jalan menuju area perkebunan karena merasa tanah ulayatnya digunakan perusahaan tanpa persetujuan. Perusahaan meminta polisi segera membubarkan blokade karena operasionalnya terhenti. Sebagian pemuda adat mulai membawa senjata tradisional. Apa yang Anda lakukan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Menyerahkan penyelesaian kepada pemerintah daerah karena sengketa tanah adalah urusan perdata dan administrasi.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Membujuk perusahaan menghentikan sementara kegiatannya sampai ada kejelasan status tanah tersebut.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mendekati tetua adat secara persuasif, mencegah penggunaan senjata, lalu mendorong pertemuan perwakilan adat, perusahaan, dan pemerintah daerah untuk menyelesaikan sengketa lewat jalur resmi.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Membubarkan blokade sesuai permintaan perusahaan karena menutup jalan merupakan pelanggaran hukum, dengan mengerahkan personel yang cukup agar pembubaran berlangsung tertib dan cepat selesai.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Meminta tetua adat membuka sebagian jalan untuk kendaraan darurat dan kebutuhan warga, sambil berjaga bersama rekan agar tidak terjadi bentrokan antara warga dan pihak perusahaan.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Masyarakat adat memblokade jalan karena sengketa tanah ulayat.\n- Perusahaan meminta blokade segera dibubarkan.\n- Sebagian pemuda adat membawa senjata tradisional.\n\nDITANYAKAN:\nSikap paling patut menjaga keamanan dan netralitas dalam sengketa adat dengan perusahaan.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (masyarakat adat dan konflik kepentingan), dengan pemetaan KPR-01 Stabilitas emosi (tidak terburu-buru di bawah tekanan) dan KPR-03 Adaptasi (pendekatan melalui tetua adat).\n2. Prinsip acuan: Netralitas Polri, pengakuan masyarakat hukum adat (Pasal 18B ayat 2 UUD 1945), Catur Prasetya butir meniadakan segala bentuk gangguan keamanan, dan penanganan konflik sosial yang mengedepankan pencegahan.\n3. Kunci pembeda: Polisi menjaga keamanan dan netralitas, bukan memutus sengketa tanah. Solusi tuntas meredam ancaman sekaligus mengarahkan sengketa ke forum yang berwenang.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(C) — 5 poin: Ancaman kekerasan diredam lewat tetua yang dihormati, netralitas terjaga, dan sengketa diarahkan ke forum yang berwenang.\n(E) — 4 poin: Menjaga ketertiban dan kebutuhan dasar, tetapi sengketa pokoknya belum didorong ke penyelesaian.\n(B) — 3 poin: Meredakan ketegangan, tetapi polisi masuk ke substansi sengketa yang bukan kewenangannya dan dapat dinilai tidak netral.\n(D) — 2 poin: Ada dasar hukumnya, tetapi tanpa pendekatan persuasif terhadap massa yang bersenjata, tindakan itu berisiko bentrokan dan terkesan memihak.\n(A) — 1 poin: Benar soal substansi sengketa, tetapi aspek keamanan ditinggalkan; melempar.\nJadi, jawaban yang tepat adalah (C) Mendekati tetua adat secara persuasif, mencegah penggunaan senjata, lalu mendorong pertemuan perwakilan adat, perusahaan, dan pemerintah daerah untuk menyelesaikan sengketa lewat jalur resmi.\nMengapa opsi lain kurang tepat:\n- (E) — 4 poin: Sengketa pokoknya belum didorong ke penyelesaian.\n- (B) — 3 poin: Polisi masuk ke substansi sengketa yang bukan kewenangannya dan dapat dinilai tidak netral.\n- (D) — 2 poin: Tanpa pendekatan persuasif terhadap massa yang bersenjata, tindakan itu berisiko bentrokan dan terkesan memihak.\n- (A) — 1 poin: Aspek keamanan ditinggalkan; melempar.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-02",
+    "description": "Pernyataan sikap.\nKetika jam layanan hampir berakhir, masih ada warga yang sudah terdaftar dalam antrean, sementara saya sudah sangat lelah setelah melayani sejak pagi, saya ....",
+    "image": "",
+    "options": [
+      {
+        "text": "tetap menuntaskan layanan bagi seluruh warga yang sudah terdaftar dengan mutu yang sama seperti pada pagi hari",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "melayani warga yang berkasnya lengkap, sedangkan yang berkasnya kurang saya minta kembali besok",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "membagikan nomor antrean prioritas untuk besok kepada warga yang belum terlayani agar mereka tidak perlu mengantre dari awal lagi",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "meminta rekan yang kondisinya lebih segar menggantikan saya agar kelelahan saya tidak menurunkan mutu layanan kepada warga",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "menyelesaikan seluruh antrean, tetapi mempersingkat penjelasan kepada warga agar layanan cepat selesai",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Butir berbentuk pernyataan sikap.\n- Jam layanan hampir berakhir dan masih ada warga dalam antrean.\n- Anda sangat lelah.\n\nDITANYAKAN:\nSikap paling patut menjaga mutu layanan ketika kondisi pribadi menurun.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-02 Pelayanan publik (konsistensi mutu layanan), dengan pemetaan KPR-01 Stabilitas emosi (mutu kerja tetap saat lelah) dan KPR-02 Prososial.\n2. Prinsip acuan: Pelayanan prima, asas ketepatan waktu dan persamaan perlakuan dalam UU No. 25 Tahun 2009, serta Tribrata butir ketiga (melayani dengan keikhlasan).\n3. Kunci pembeda: Ukuran stabilitas emosi adalah mutu kerja yang tidak berubah meski kondisi pribadi menurun.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(A) — 5 poin: Tanggung jawab tuntas dan mutu layanan konsisten; kelelahan tidak dibebankan kepada warga.\n(E) — 4 poin: Tuntas secara jumlah, tetapi mutu layanan menurun karena kelelahan.\n(B) — 3 poin: Efisien, tetapi warga yang berkasnya kurang tidak dibantu atau diberi petunjuk melengkapinya.\n(D) — 2 poin: Warga tetap dilayani, tetapi tanggung jawab dialihkan kepada orang lain (TKP-08).\n(C) — 1 poin: Ada kompensasi, tetapi warga yang sudah antre dipulangkan padahal jam layanan belum berakhir; paling pasif.\nJadi, jawaban yang tepat adalah (A) tetap menuntaskan layanan bagi seluruh warga yang sudah terdaftar dengan mutu yang sama seperti pada pagi hari.\nMengapa opsi lain kurang tepat:\n- (E) — 4 poin: Mutu layanan menurun karena kelelahan.\n- (B) — 3 poin: Warga yang berkasnya kurang tidak dibantu atau diberi petunjuk melengkapinya.\n- (D) — 2 poin: Tanggung jawab dialihkan kepada orang lain (TKP-08).\n- (C) — 1 poin: Warga yang sudah antre dipulangkan padahal jam layanan belum berakhir; paling pasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-04",
+    "description": "Pernyataan sikap.\nKetika kebiasaan masyarakat di tempat tugas saya terasa janggal atau berbeda jauh dengan kebiasaan saya sendiri, saya ....",
+    "image": "",
+    "options": [
+      {
+        "text": "tetap menjalankan kebiasaan saya sendiri dan membiarkan warga menjalankan kebiasaan mereka, karena perbedaan semacam itu wajar dan tidak perlu dipersoalkan",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "menghormati kebiasaan tersebut dan ikut menjalankannya sejauh tidak bertentangan dengan keyakinan saya, sebagai bentuk penghargaan yang tulus kepada warga yang saya layani",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "membatasi diri dari kegiatan warga yang kebiasaannya tidak sesuai dengan saya agar tidak menimbulkan salah paham",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "menyesuaikan diri sepenuhnya dengan kebiasaan setempat agar cepat diterima oleh warga",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "berusaha memahami makna kebiasaan itu dengan bertanya kepada tokoh setempat, menghormatinya selama tidak melanggar hukum, dan meluruskannya secara santun bila perlu",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Butir berbentuk pernyataan sikap.\n- Kebiasaan masyarakat di tempat tugas berbeda jauh dengan kebiasaan Anda.\n\nDITANYAKAN:\nSikap paling patut terhadap perbedaan budaya di wilayah tugas.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-04 Sosial budaya (sikap terhadap perbedaan budaya), dengan pemetaan KPR-03 Adaptasi dan KPR-02 Prososial (membangun kedekatan).\n2. Prinsip acuan: Semboyan Bhinneka Tunggal Ika, prinsip Polmas, dan kepastian hukum sebagai batas penghormatan terhadap adat.\n3. Kunci pembeda: Sikap terbaik adalah memahami lebih dulu, menghormati dalam batas hukum, dan berani meluruskan dengan santun.\n4. Urutan kepatutan dari poin 5 ke poin 1:\n(E) — 5 poin: Memahami lebih dulu, menghormati dengan batas yang jelas, dan tetap berani meluruskan secara santun.\n(B) — 4 poin: Menghormati dan menyesuaikan diri, tetapi belum berusaha memahami maknanya dan tidak mempertimbangkan batas hukum.\n(D) — 3 poin: Adaptif, tetapi berlebihan (TKP-09): penyesuaian tanpa batas berisiko melanggar prinsip pribadi maupun hukum.\n(A) — 2 poin: Toleran, tetapi pasif dan tidak membangun kedekatan dengan warga.\n(C) — 1 poin: Berdalih mencegah salah paham, tetapi menjauh dari masyarakat; paling menghindar.\nJadi, jawaban yang tepat adalah (E) berusaha memahami makna kebiasaan itu dengan bertanya kepada tokoh setempat, menghormatinya selama tidak melanggar hukum, dan meluruskannya secara santun bila perlu.\nMengapa opsi lain kurang tepat:\n- (B) — 4 poin: Belum berusaha memahami maknanya dan tidak mempertimbangkan batas hukum.\n- (D) — 3 poin: Berlebihan (TKP-09): penyesuaian tanpa batas berisiko melanggar prinsip pribadi maupun hukum.\n- (A) — 2 poin: Pasif dan tidak membangun kedekatan dengan warga.\n- (C) — 1 poin: Menjauh dari masyarakat; paling menghindar.",
+    "difficulty": "sulit"
+  }
+]

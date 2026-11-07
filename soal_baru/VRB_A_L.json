@@ -1,0 +1,682 @@
+[
+  {
+    "sub_material_code": "VRB-01",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Mutasi besar-besaran pekan ini menyentuh hampir seluruh pejabat teras Polda, mulai dari wakapolda hingga para direktur.”\n\nKata “teras” pada kalimat tersebut paling dekat maknanya dengan ....",
+    "image": "",
+    "options": [
+      {
+        "text": "serambi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "utama",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "lapangan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "harian",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "daerah",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: “... hampir seluruh pejabat teras Polda, mulai dari wakapolda hingga para direktur.”\n- Kata yang diuji: “teras”, yang bersifat polisemi (memiliki lebih dari satu makna).\n- Pilihan: serambi, utama, lapangan, harian, daerah.\n\nDITANYAKAN:\nMakna kata “teras” yang sesuai dengan konteks “pejabat teras Polda”.\n\nJAWAB:\n1. Kenali bahwa “teras” dalam KBBI memiliki dua kelompok makna. Teras (I): lantai datar di depan rumah; serambi. Teras (II): (1) bagian kayu yang keras di tengah batang; galih, (2) kiasan: inti, pokok, (3) kiasan: yang terutama, seperti dalam frasa “pejabat teras”.\n2. Baca petunjuk konteks: pejabat yang dimaksud adalah wakapolda dan para direktur, yaitu jajaran pimpinan tertinggi di lingkungan Polda. Jadi, “teras” tidak merujuk pada bangunan, tetapi pada kedudukan.\n3. Simpulkan makna kontekstual: pejabat teras = pejabat inti/terutama, yaitu pejabat utama.\n4. Uji substitusi: “pejabat utama Polda, mulai dari wakapolda hingga para direktur” tetap bermakna utuh dan logis.\nJadi, jawaban yang tepat adalah (B) utama. Dalam konteks ini, “teras” bermakna kiasan ‘yang terutama’.\nMengapa opsi lain kurang tepat:\n- (A) “Serambi” adalah makna harfiah teras (I) sebagai bagian bangunan. Ini jebakan makna leksikal yang tidak cocok dengan konteks jabatan.\n- (C) “Pejabat lapangan” justru mengacu pada pelaksana teknis di lapangan, bukan jajaran pimpinan seperti wakapolda dan direktur.\n- (D) “Harian” berarti ‘setiap hari’ atau ‘sehari-hari’ (misalnya pelaksana harian). Makna ini tidak ada dalam kata teras.\n- (E) “Daerah” hanya terpancing oleh kata Polda (kepolisian daerah). Teras tidak bermakna wilayah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-01",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Pengemudi yang selamat dari tabrakan beruntun itu duduk di bahu jalan dengan tatapan nanar; ia tidak menjawab pertanyaan petugas dan berulang kali menanyakan di mana dirinya berada.”\n\nKata “nanar” pada kalimat tersebut bersinonim dengan ....",
+    "image": "",
+    "options": [
+      {
+        "text": "tajam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "sayu",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "berkaca-kaca",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "linglung",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "waspada",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: pengemudi yang baru selamat dari tabrakan menatap dengan “nanar”.\n- Petunjuk konteks: ia tidak menjawab pertanyaan dan berulang kali menanyakan di mana dirinya berada.\n- Pilihan: tajam, sayu, berkaca-kaca, linglung, waspada.\n\nDITANYAKAN:\nSinonim kata “nanar” sesuai konteks kalimat.\n\nJAWAB:\n1. Cari makna KBBI. Nanar berarti (1) bingung (pusing, linglung); hilang akal, dan (2) tidak dapat melihat dengan terang (karena pening).\n2. Cocokkan dengan petunjuk konteks. Orang yang tidak menjawab pertanyaan dan tidak tahu sedang berada di mana jelas berada dalam keadaan bingung atau hilang orientasi.\n3. Kenali kesalahan umum. Banyak orang mengira “menatap nanar” berarti menatap dengan tajam atau marah. Menurut KBBI, makna itu tidak ada.\n4. Uji substitusi: “duduk dengan tatapan linglung; ia tidak menjawab pertanyaan ...” selaras dengan seluruh kalimat.\nJadi, jawaban yang tepat adalah (D) linglung. Nanar = bingung, hilang akal, dan hal itu didukung oleh perilaku pengemudi dalam kalimat.\nMengapa opsi lain kurang tepat:\n- (A) “Tajam” adalah salah kaprah yang paling sering muncul untuk kata nanar. KBBI tidak memuat makna ‘tajam/garang’ untuk nanar.\n- (B) “Sayu” berarti redup atau kuyu karena sedih atau mengantuk. Kata ini menggambarkan suasana hati, bukan hilangnya orientasi.\n- (C) “Berkaca-kaca” berarti tergenang air mata. Ini reaksi emosional, bukan kebingungan.\n- (E) “Waspada” berarti berhati-hati dan siaga. Maknanya justru berlawanan dengan keadaan orang yang hilang orientasi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-01",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Dalam penggerebekan di sebuah ruko, petugas menyita ratusan lembar ijazah lancung yang dijual kepada para pelamar kerja.”\n\nKata “lancung” pada kalimat tersebut paling dekat maknanya dengan ....",
+    "image": "",
+    "options": [
+      {
+        "text": "palsu",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "kedaluwarsa",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "curian",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "rusak",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kosong",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: polisi menyita ratusan ijazah “lancung” yang dijual kepada pelamar kerja.\n- Konteks: penggerebekan, artinya ada tindak pidana. Ijazah dijual, bukan diterbitkan oleh sekolah.\n- Pilihan: palsu, kedaluwarsa, curian, rusak, kosong.\n\nDITANYAKAN:\nMakna kata “lancung” dalam kalimat tersebut.\n\nJAWAB:\n1. Cari makna KBBI. Lancung berarti (1) tiruan; palsu (contoh: uang lancung), dan (2) tidak jujur; curang.\n2. Terapkan pada konteks. Ijazah yang diperjualbelikan kepada pelamar kerja dan disita dalam penggerebekan adalah ijazah tiruan yang tidak diterbitkan secara sah. Makna yang tepat adalah ‘palsu’.\n3. Uji substitusi: “menyita ratusan lembar ijazah palsu yang dijual kepada para pelamar kerja” logis dan sesuai dengan tindakan polisi.\n4. Uji pengecoh. Pilihan lain menggambarkan keadaan fisik atau asal-usul barang, bukan keaslian dokumen.\nJadi, jawaban yang tepat adalah (A) palsu. Lancung = tiruan, palsu.\nMengapa opsi lain kurang tepat:\n- (B) “Kedaluwarsa” berarti sudah lewat masa berlakunya. Ijazah tidak memiliki masa berlaku, dan makna ini tidak ada pada lancung.\n- (C) “Curian” menyatakan asal-usul barang (hasil mencuri). Ijazah curian tetap asli, sedangkan lancung menyatakan ketidakaslian.\n- (D) “Rusak” menyatakan keadaan fisik dan tidak berkaitan dengan makna lancung.\n- (E) “Kosong” (blangko) memang bisa disalahgunakan, tetapi kata lancung bermakna tiruan atau palsu, bukan belum diisi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-02",
+    "description": "Pasal 14 ayat (2) UUD NRI Tahun 1945 menyatakan bahwa Presiden memberi amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat.\n\nIstilah “abolisi” bermakna ....",
+    "image": "",
+    "options": [
+      {
+        "text": "pengampunan hukuman yang diberikan kepala negara kepada terpidana perorangan atas permohonannya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pengampunan atau penghapusan hukuman bagi seseorang atau sekelompok orang yang melakukan tindak pidana tertentu",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "peniadaan peristiwa pidana sehingga proses penuntutan terhadap seseorang dihentikan",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "pengurangan masa pidana bagi narapidana yang berkelakuan baik selama menjalani pidana",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pemulihan kedudukan, harkat, dan nama baik seseorang yang dinyatakan tidak bersalah",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pasal 14 ayat (2) UUD 1945 menyebut dua hak Presiden: amnesti dan abolisi (dengan pertimbangan DPR).\n- Pasal 14 ayat (1) menyebut grasi dan rehabilitasi (dengan pertimbangan MA).\n- Kelima pilihan adalah definisi istilah hukum yang berdekatan: grasi, amnesti, abolisi, remisi, rehabilitasi.\n\nDITANYAKAN:\nDefinisi yang tepat untuk istilah “abolisi”.\n\nJAWAB:\n1. Cari makna KBBI. Abolisi berarti ‘peniadaan peristiwa pidana’. Dalam praktik hukum, abolisi menghentikan atau meniadakan proses penuntutan, sehingga perkaranya tidak dilanjutkan.\n2. Bedakan abolisi dari amnesti. Menurut KBBI, amnesti adalah ‘pengampunan atau penghapusan hukuman yang diberikan kepala negara kepada seseorang atau sekelompok orang yang telah melakukan tindak pidana tertentu’. Amnesti menghapus hukuman atau akibat hukumnya, sedangkan abolisi meniadakan proses penuntutannya.\n3. Petakan pilihan lain: (A) grasi, (B) amnesti, (D) remisi, (E) rehabilitasi.\n4. Hanya pilihan (C) yang memuat inti makna abolisi, yaitu peniadaan peristiwa pidana dan penghentian penuntutan.\nJadi, jawaban yang tepat adalah (C) peniadaan peristiwa pidana sehingga proses penuntutan terhadap seseorang dihentikan. Abolisi = peniadaan peristiwa pidana atau penghentian penuntutan.\nMengapa opsi lain kurang tepat:\n- (A) Ini definisi grasi, yaitu pengampunan berupa perubahan, peringanan, atau penghapusan pidana atas permohonan terpidana. Grasi diberikan dengan pertimbangan MA (Pasal 14 ayat 1).\n- (B) Ini definisi amnesti menurut KBBI. Ini pengecoh terkuat karena amnesti disebut bersama abolisi dalam pasal yang sama.\n- (D) Ini definisi remisi, yaitu pengurangan masa pidana. Remisi bukan hak prerogatif Presiden dalam Pasal 14.\n- (E) Ini definisi rehabilitasi, yaitu pemulihan nama baik. Rehabilitasi termasuk Pasal 14 ayat (1), bukan ayat (2).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-02",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Pemerintah memberlakukan moratorium izin pembukaan lahan gambut baru selama dua tahun sambil menyusun peta tata kelola yang lebih ketat.”\n\nKata “moratorium” pada kalimat tersebut paling tepat dimaknai sebagai ....",
+    "image": "",
+    "options": [
+      {
+        "text": "pembatalan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pembatasan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "peninjauan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pelarangan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "penangguhan",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: moratorium izin pembukaan lahan gambut “selama dua tahun” sambil menyusun peta tata kelola.\n- Kata “moratorium” adalah kata serapan dari bahasa Latin (morari = menunda).\n- Pilihan: pembatalan, pembatasan, peninjauan, pelarangan, penangguhan.\n\nDITANYAKAN:\nMakna yang paling tepat untuk kata “moratorium”.\n\nJAWAB:\n1. Cari makna KBBI. Moratorium berarti (1) penangguhan pembayaran utang yang didasarkan pada undang-undang agar dapat mencegah krisis keuangan, dan (2) penundaan.\n2. Tentukan ciri pembeda. Inti makna moratorium adalah penghentian yang SEMENTARA, dengan rencana untuk dilanjutkan atau ditinjau kembali. Konteks kalimat menegaskannya dengan frasa “selama dua tahun”.\n3. Cari pilihan yang memuat unsur ‘sementara’. Penangguhan (dari tangguh = tunda) berarti penundaan sampai waktu tertentu. Inilah padanan yang paling tepat.\n4. Uji substitusi: “memberlakukan penangguhan izin pembukaan lahan gambut baru selama dua tahun” utuh maknanya.\nJadi, jawaban yang tepat adalah (E) penangguhan. Moratorium = penangguhan atau penundaan sementara.\nMengapa opsi lain kurang tepat:\n- (A) “Pembatalan” bersifat final, artinya izin dinyatakan tidak berlaku. Moratorium hanya menunda.\n- (B) “Pembatasan” berarti izin tetap diberikan dengan syarat atau kuota tertentu. Pada moratorium, izin baru tidak diberikan sama sekali selama masa berlaku.\n- (C) “Peninjauan” memang dilakukan selama moratorium (menyusun peta tata kelola), tetapi peninjauan adalah kegiatan yang menyertainya, bukan makna kata moratorium.\n- (D) “Pelarangan” tidak mengandung unsur ‘sementara’ yang menjadi inti makna moratorium, sehingga tidak paling tepat.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-02",
+    "description": "Istilah “ekstradisi” dalam hubungan hukum antarnegara bermakna ....",
+    "image": "",
+    "options": [
+      {
+        "text": "pengusiran warga negara asing dari wilayah suatu negara karena melanggar ketentuan keimigrasian",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "penyerahan orang yang diduga atau dipidana karena kejahatan oleh suatu negara kepada negara lain yang memintanya berdasarkan perjanjian",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "perlindungan yang diberikan suatu negara kepada warga asing yang terancam keselamatannya di negara asalnya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pemulangan warga negara dari luar negeri ke tanah airnya, misalnya pengungsi atau tawanan perang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kerja sama pertukaran informasi antarkepolisian berbagai negara untuk memburu buronan lintas batas",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Istilah yang diuji: ekstradisi (tanpa bantuan konteks kalimat).\n- Kelima pilihan berasal dari ranah hukum dan hubungan internasional yang berdekatan: deportasi, ekstradisi, suaka, repatriasi, kerja sama kepolisian internasional.\n\nDITANYAKAN:\nDefinisi yang tepat untuk ekstradisi.\n\nJAWAB:\n1. Cari makna KBBI. Ekstradisi adalah ‘penyerahan orang yang dianggap melakukan kriminalitas oleh suatu negara kepada negara lain yang diatur dalam perjanjian antara negara-negara itu’.\n2. Ambil tiga unsur kunci: (a) ada PENYERAHAN orang, (b) orang itu terkait KEJAHATAN, (c) dilakukan ANTARNEGARA atas permintaan dan berdasarkan PERJANJIAN.\n3. Uji setiap pilihan terhadap ketiga unsur. Hanya pilihan (B) yang memuat penyerahan, kejahatan, permintaan negara lain, dan perjanjian.\n4. Bedakan dengan deportasi. Deportasi adalah tindakan sepihak suatu negara untuk mengeluarkan orang asing. Ekstradisi adalah penyerahan atas permintaan negara lain untuk keperluan proses pidana.\nJadi, jawaban yang tepat adalah (B) penyerahan orang yang diduga atau dipidana karena kejahatan oleh suatu negara kepada negara lain yang memintanya berdasarkan perjanjian. Ekstradisi = penyerahan pelaku kejahatan antarnegara berdasarkan perjanjian.\nMengapa opsi lain kurang tepat:\n- (A) Ini definisi deportasi, yaitu pengusiran orang asing karena pelanggaran keimigrasian. Dalam deportasi tidak ada permintaan dari negara lain untuk mengadili.\n- (C) Ini definisi suaka (asilum), yaitu perlindungan bagi orang asing. Maknanya justru berlawanan arah dengan penyerahan.\n- (D) Ini definisi repatriasi, yaitu pemulangan warga negara ke tanah airnya, bukan penyerahan pelaku kejahatan.\n- (E) Ini menggambarkan kerja sama kepolisian internasional (misalnya melalui ICPO-Interpol). Kerja sama itu bisa mendahului ekstradisi, tetapi tidak sama dengan ekstradisi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-03",
+    "description": "Perhatikan kelima kata berikut!\n(1) mangkus\n(2) sangkil\n(3) efektif\n(4) efisien\n(5) produktif\n\nDi antara pilihan jawaban berikut, pasangan nomor yang kedua katanya bermakna SAMA adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "(1) dan (4)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(2) dan (3)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(1) dan (3)",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "(3) dan (4)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(2) dan (5)",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Lima kata: mangkus, sangkil, efektif, efisien, produktif.\n- Perintah: pilih pasangan yang kedua katanya bermakna sama, di antara pasangan yang tersedia pada pilihan jawaban.\n\nDITANYAKAN:\nPasangan kata bersinonim yang terdapat pada pilihan jawaban.\n\nJAWAB:\n1. Tentukan makna KBBI tiap kata:\n   - mangkus = berhasil guna (padanan asli untuk efektif)\n   - sangkil = berdaya guna (padanan asli untuk efisien)\n   - efektif = ada efeknya; dapat membawa hasil; berhasil guna\n   - efisien = tepat atau sesuai untuk mengerjakan sesuatu tanpa membuang waktu, tenaga, dan biaya; berdaya guna\n   - produktif = bersifat atau mampu menghasilkan (dalam jumlah besar)\n2. Pasangkan berdasarkan kata kunci ‘berhasil guna’ dan ‘berdaya guna’. Mangkus = efektif (1–3), sedangkan sangkil = efisien (2–4).\n3. Periksa pilihan jawaban. Pasangan (1)–(3) ada pada pilihan C. Pasangan (2)–(4) tidak tersedia.\n4. Waspadai jebakan silang: (1)–(4) dan (2)–(3) memasangkan kata asli dengan padanan yang salah. Jebakan ini muncul karena peserta sering tertukar antara ‘berhasil guna’ (tujuan tercapai) dan ‘berdaya guna’ (sumber daya hemat).\nJadi, jawaban yang tepat adalah (C) (1) dan (3). Mangkus dan efektif sama-sama bermakna ‘berhasil guna’.\nMengapa opsi lain kurang tepat:\n- (A) Mangkus (berhasil guna) dipasangkan dengan efisien (berdaya guna). Ini pasangan tertukar.\n- (B) Sangkil (berdaya guna) dipasangkan dengan efektif (berhasil guna). Ini juga pasangan tertukar.\n- (D) Efektif dan efisien sering disandingkan, tetapi maknanya berbeda: efektif menekankan tercapainya hasil, sedangkan efisien menekankan penghematan sumber daya.\n- (E) Sangkil (berdaya guna) tidak sama dengan produktif (mampu menghasilkan banyak). Orang bisa produktif tetapi boros sumber daya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-03",
+    "description": "Perhatikan kelima kata berikut!\n(1) jemawa\n(2) rikuh\n(3) pongah\n(4) teledor\n(5) lugu\n\nDua kata yang memiliki makna SAMA adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "(2) dan (5)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(1) dan (4)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(3) dan (5)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(1) dan (3)",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "(2) dan (4)",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Lima kata: jemawa, rikuh, pongah, teledor, lugu.\n- Perintah: pilih dua kata yang bermakna sama.\n\nDITANYAKAN:\nPasangan nomor yang kedua katanya bersinonim.\n\nJAWAB:\n1. Tentukan makna KBBI tiap kata:\n   - jemawa = sombong; angkuh\n   - rikuh = canggung; segan; merasa tidak enak (malu)\n   - pongah = sombong; congkak; angkuh\n   - teledor = kurang hati-hati; lalai\n   - lugu = sederhana; apa adanya; polos\n2. Cari dua kata yang memiliki komponen makna inti yang sama. Jemawa dan pongah sama-sama bermakna ‘sombong; angkuh’.\n3. Pastikan tidak ada pasangan sinonim lain. Rikuh (canggung), teledor (lalai), dan lugu (polos) masing-masing berbeda medan makna, sehingga jawabannya tunggal.\n4. Catatan jebakan: jemawa sering disangka bermakna ‘gagah, berwibawa’ karena dipakai untuk tokoh yang tampil percaya diri. Menurut KBBI, jemawa bermakna sombong.\nJadi, jawaban yang tepat adalah (D) (1) dan (3). Jemawa = pongah = sombong, angkuh.\nMengapa opsi lain kurang tepat:\n- (A) Rikuh (canggung, segan) dan lugu (polos) sama-sama menggambarkan sikap yang tidak percaya diri atau sederhana, tetapi maknanya tidak sama.\n- (B) Jemawa (sombong) dan teledor (lalai) sama-sama sifat negatif, tetapi beda makna.\n- (C) Pongah (sombong) dan lugu (polos) hampir berlawanan, karena orang lugu cenderung tidak menonjolkan diri.\n- (E) Rikuh (canggung) dan teledor (lalai) tidak memiliki komponen makna yang sama.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-04",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Penyalahgunaan narkoba di kalangan remaja disebut ancaman laten karena dampaknya tidak segera terlihat, tetapi terus menggerogoti generasi muda.”\n\nLawan kata “laten” yang paling tepat adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "akut",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kronis",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "dorman",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "sporadis",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kentara",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: ancaman “laten” = dampaknya tidak segera terlihat, tetapi terus bekerja.\n- Pilihan: akut, kronis, dorman, sporadis, kentara.\n\nDITANYAKAN:\nAntonim kata “laten”.\n\nJAWAB:\n1. Cari makna KBBI. Laten berarti ‘tersembunyi; terpendam; tidak kelihatan (tetapi mempunyai potensi untuk muncul)’.\n2. Tentukan sumbu makna. Antonim harus berada pada sumbu yang sama, yaitu TERSEMBUNYI lawan TAMPAK. Sumbu lain seperti cepat-lambat atau lama-singkat tidak berlaku.\n3. Cari kata bermakna ‘tampak’. Menurut KBBI, kentara berarti ‘kelihatan; tampak; nyata’. Inilah lawan langsung dari tersembunyi.\n4. Uji pengecoh. Akut, kronis, dan sporadis memang istilah yang sering muncul bersama laten (misalnya dalam kesehatan), tetapi sumbu maknanya berbeda. Dorman justru dekat maknanya dengan laten.\nJadi, jawaban yang tepat adalah (E) kentara. Laten (tersembunyi) berlawanan dengan kentara (tampak nyata).\nMengapa opsi lain kurang tepat:\n- (A) Akut berarti ‘timbul mendadak dan cepat memburuk’. Sumbunya kecepatan dan keparahan, bukan tersembunyi-tampak. Hal yang laten pun bisa menjadi akut.\n- (B) Kronis berarti ‘berlangsung lama’. Kata ini bahkan cocok dengan sifat ancaman laten yang terus menggerogoti, jadi bukan lawannya.\n- (C) Dorman berarti ‘dalam keadaan tidak aktif (tidur)’. Maknanya dekat atau sejalan dengan laten, sehingga merupakan jebakan sinonim.\n- (D) Sporadis berarti ‘terjadi sekali-sekali, tidak tentu; tersebar’. Sumbunya frekuensi dan sebaran, bukan keterlihatan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-04",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Pemeriksaan kendaraan di gerbang tol itu bersifat insidental, hanya digelar ketika ada informasi intelijen tentang penyelundupan.”\n\nLawan kata “insidental” yang paling tepat adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "rutin",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "kebetulan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "mendadak",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "spontan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "darurat",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: pemeriksaan “insidental” hanya digelar ketika ada informasi intelijen.\n- Pilihan: rutin, kebetulan, mendadak, spontan, darurat.\n\nDITANYAKAN:\nAntonim kata “insidental”.\n\nJAWAB:\n1. Cari makna KBBI. Insidental berarti ‘terjadi atau dilakukan hanya pada kesempatan atau waktu tertentu saja; tidak secara tetap atau rutin’.\n2. Ambil komponen makna inti: TIDAK TETAP atau TIDAK RUTIN. Antonimnya harus bermakna ‘dilakukan secara tetap, teratur, berkala’.\n3. Cocokkan dengan pilihan. Rutin berarti prosedur yang teratur dan tidak berubah-ubah, yaitu kegiatan yang dilakukan secara tetap.\n4. Uji dalam kalimat: “Pemeriksaan itu bersifat rutin, digelar setiap hari” adalah kebalikan tepat dari “bersifat insidental, hanya digelar ketika ada informasi”.\nJadi, jawaban yang tepat adalah (A) rutin. Insidental (tidak tetap) berlawanan dengan rutin (tetap dan teratur).\nMengapa opsi lain kurang tepat:\n- (B) Kebetulan berarti terjadi tanpa disengaja. Kata ini justru dekat dengan kesan insidental, jadi bukan lawannya.\n- (C) Mendadak berarti tiba-tiba. Sifat ini sering menyertai kegiatan insidental, jadi bukan lawannya.\n- (D) Spontan berarti serta-merta, tanpa direncanakan. Kata ini juga searah dengan insidental.\n- (E) Darurat berarti keadaan sukar yang tidak disangka-sangka dan perlu ditanggulangi segera. Kata ini bukan lawan insidental, sebab kegiatan darurat juga tidak rutin.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-04",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Pengamat menilai sikap aparat terlalu lunak terhadap jaringan penyelundup benih lobster sehingga praktik itu terus berulang.”\n\nLawan kata “lunak” sesuai konteks kalimat tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "padat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "getas",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kenyal",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "tegas",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "liat",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: “sikap aparat terlalu lunak terhadap jaringan penyelundup”.\n- Kata “lunak” di sini menerangkan SIKAP, bukan benda.\n- Pilihan: padat, getas, kenyal, tegas, liat.\n\nDITANYAKAN:\nAntonim kontekstual kata “lunak”.\n\nJAWAB:\n1. Kenali polisemi. Menurut KBBI, lunak berarti (1) lembut, tidak keras (tentang benda), dan (2) kiasan: tidak keras sikapnya; tidak tegas; lemah lembut.\n2. Tentukan makna yang aktif dalam konteks. “Sikap lunak terhadap penyelundup” berarti aparat tidak menindak dengan keras atau tegas, sehingga praktik itu berulang.\n3. Cari lawannya pada ranah SIKAP. Sikap yang berkebalikan dengan lunak adalah tegas, yaitu menindak dengan pasti dan tidak ragu-ragu.\n4. Periksa pilihan lain. Padat, getas, kenyal, dan liat semuanya menerangkan sifat fisik benda, sehingga tidak dapat menjadi lawan makna kiasan.\nJadi, jawaban yang tepat adalah (D) tegas. Dalam konteks sikap penegakan hukum, lunak berlawanan dengan tegas.\nMengapa opsi lain kurang tepat:\n- (A) Padat adalah sifat fisik benda (lawan cair atau rongga). Kata ini terpancing makna harfiah lunak.\n- (B) Getas berarti mudah patah atau rapuh. Ini sifat fisik benda, bukan sikap.\n- (C) Kenyal berarti lembut, tetapi kembali ke bentuk semula bila ditekan. Ini sifat fisik benda yang bahkan dekat dengan lunak.\n- (E) Liat berarti lekat dan tidak mudah putus (tentang tanah atau daging). Ini sifat fisik benda, bukan sikap.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-05",
+    "description": "AUDITOR : LAPORAN KEUANGAN = ... : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Penulis : Novel",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Penyunting : Naskah",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Pembaca : Koran",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Arsitek : Gedung",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Penerbit : Buku",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pasangan soal: AUDITOR : LAPORAN KEUANGAN.\n- Auditor (KBBI: pemeriksa keuangan) melakukan audit, yaitu pemeriksaan pembukuan keuangan.\n- Pilihan: Penulis : Novel, Penyunting : Naskah, Pembaca : Koran, Arsitek : Gedung, Penerbit : Buku.\n\nDITANYAKAN:\nPasangan yang hubungannya setara dengan auditor dan laporan keuangan.\n\nJAWAB:\n1. Rumuskan hubungan secara rinci. Auditor TIDAK membuat laporan keuangan (yang membuatnya akuntan atau perusahaan). Auditor MEMERIKSA laporan buatan pihak lain untuk menilai kebenaran dan kelayakannya. Rumus: “A memeriksa dan menilai B yang disusun pihak lain sebelum B dianggap layak.”\n2. Uji Penyunting : Naskah. Menurut KBBI, menyunting berarti ‘menyiapkan naskah siap cetak atau siap terbit dengan memperhatikan segi sistematika penyajian, isi, dan bahasa’. Penyunting memeriksa dan membenahi naskah karya penulis. Cocok.\n3. Uji pilihan lain terhadap rumus. Penulis dan arsitek adalah PEMBUAT karya (relasi pembuat : karya). Penerbit adalah pihak yang MENERBITKAN atau memproduksi. Pembaca adalah KONSUMEN yang tidak bertugas menilai kelayakan.\n4. Hubungan berlapisnya: pelaku profesional : objek buatan pihak lain yang diperiksa. Hanya (B) yang memenuhi semua lapis.\nJadi, jawaban yang tepat adalah (B) Penyunting : Naskah. Seperti auditor memeriksa laporan keuangan buatan pihak lain, penyunting memeriksa naskah buatan penulis.\nMengapa opsi lain kurang tepat:\n- (A) Penulis adalah PEMBUAT novel. Relasinya pembuat : karya, padahal auditor bukan pembuat laporan keuangan.\n- (C) Pembaca hanya mengonsumsi koran dan tidak bertugas memeriksa kebenaran atau kelayakannya sebelum terbit.\n- (D) Arsitek merancang gedung, jadi relasinya pembuat atau perancang : karya.\n- (E) Penerbit menerbitkan dan memproduksi buku (relasi pemroduksi : produk). Pemeriksaan isi adalah tugas penyunting.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-05",
+    "description": "ERUPSI : VULKANOLOG = ... : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Bintang : Astrolog",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Penyakit : Apoteker",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Cuaca : Pawang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Banjir : Relawan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Gempa : Seismolog",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pasangan soal: ERUPSI : VULKANOLOG.\n- Erupsi (KBBI) = letusan gunung api. Vulkanolog = ahli vulkanologi (ilmu tentang gunung api).\n- Pilihan: Bintang : Astrolog, Penyakit : Apoteker, Cuaca : Pawang, Banjir : Relawan, Gempa : Seismolog.\n\nDITANYAKAN:\nPasangan dengan hubungan yang setara.\n\nJAWAB:\n1. Rumuskan hubungan: “A adalah GEJALA ALAM yang dikaji secara ILMIAH oleh B, seorang ilmuwan di bidangnya.” Ada dua lapis: (a) A adalah peristiwa alam, (b) B adalah ilmuwan yang mengkajinya, bukan sekadar orang yang berurusan dengan A.\n2. Uji Gempa : Seismolog. Menurut KBBI, seismologi adalah ilmu tentang gempa bumi. Gempa adalah gejala alam, dan seismolog mengkajinya secara ilmiah. Kedua lapis terpenuhi.\n3. Uji Bintang : Astrolog. Bintang adalah benda langit, bukan peristiwa. Astrologi adalah ‘ilmu perbintangan yang dipakai untuk meramal nasib orang’, bukan ilmu yang mengkaji bintang secara ilmiah (itu astronomi). Lapis (b) gagal.\n4. Uji sisanya. Apoteker meracik dan menyerahkan obat, bukan mengkaji penyakit. Pawang dianggap menangkal hujan, dan pekerjaannya bukan ilmiah. Relawan menanggulangi dampak banjir, bukan mengkajinya.\nJadi, jawaban yang tepat adalah (E) Gempa : Seismolog. Gempa dikaji oleh seismolog sebagaimana erupsi dikaji oleh vulkanolog.\nMengapa opsi lain kurang tepat:\n- (A) Pengecoh terkuat. Ahli yang mengkaji bintang secara ilmiah adalah astronom, sedangkan astrolog meramal nasib berdasarkan posisi bintang. Selain itu, bintang adalah benda, bukan peristiwa.\n- (B) Apoteker berurusan dengan obat (meracik atau menyerahkan), bukan ilmuwan yang mengkaji penyakit sebagai gejala.\n- (C) Pawang hujan bukan ilmuwan. Ahli yang mengkaji cuaca adalah meteorolog.\n- (D) Relawan menolong korban banjir. Relasinya penanggulang : bencana, bukan pengkaji : gejala alam.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-05",
+    "description": "PELETON : KOMPI : BATALYON = ... : ... : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Kecamatan : Kabupaten : Provinsi",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Provinsi : Kabupaten : Kecamatan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Lurah : Camat : Bupati",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Menit : Detik : Jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Kalimat : Paragraf : Kata",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rangkaian soal: PELETON : KOMPI : BATALYON.\n- KBBI: peleton = satuan pasukan yang terdiri atas beberapa regu; kompi = satuan tentara yang terdiri atas beberapa peleton; batalyon = satuan tentara yang terdiri atas beberapa kompi.\n\nDITANYAKAN:\nRangkaian tiga kata yang hubungannya setara.\n\nJAWAB:\n1. Rumuskan hubungan berlapis: (a) ketiganya adalah SATUAN (kesatuan atau kumpulan), bukan orang atau jabatan; (b) kata pertama MERUPAKAN BAGIAN dari kata kedua, dan kata kedua bagian dari kata ketiga; (c) arahnya NAIK, dari yang terkecil ke yang terbesar.\n2. Uji Kecamatan : Kabupaten : Provinsi. Ketiganya satuan wilayah administratif. Kecamatan bagian dari kabupaten, dan kabupaten bagian dari provinsi. Arahnya naik. Ketiga lapis terpenuhi.\n3. Uji Lurah : Camat : Bupati. Urutannya memang naik, tetapi ketiganya JABATAN (orang), bukan satuan. Lurah juga bukan ‘bagian dari’ camat. Lapis (a) dan (b) gagal.\n4. Uji Provinsi : Kabupaten : Kecamatan. Jenisnya benar, tetapi arahnya TURUN. Lapis (c) gagal.\n5. Uji Menit : Detik : Jam dan Kalimat : Paragraf : Kata. Urutannya kacau (detik lebih kecil dari menit, kata lebih kecil dari kalimat), sehingga tidak membentuk rantai bagian-keseluruhan yang naik.\nJadi, jawaban yang tepat adalah (A) Kecamatan : Kabupaten : Provinsi. Peleton ⊂ kompi ⊂ batalyon setara dengan kecamatan ⊂ kabupaten ⊂ provinsi.\nMengapa opsi lain kurang tepat:\n- (B) Jenis satuannya benar, tetapi arahnya terbalik (besar ke kecil). Analogi harus mempertahankan arah hubungan.\n- (C) Urutannya hierarki jabatan (orang), bukan satuan. Lurah juga bukan bagian dari camat. Hubungannya atasan-bawahan, bukan bagian-keseluruhan.\n- (D) Urutan rusak. Seharusnya detik : menit : jam.\n- (E) Urutan rusak. Seharusnya kata : kalimat : paragraf.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-06",
+    "description": "... : JAKSA = PLEDOI : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Dakwaan : Hakim",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Vonis : Terdakwa",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tuntutan : Penasihat hukum",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Banding : Panitera",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Kesaksian : Saksi",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Bentuk analogi rumpang ganda: X : JAKSA = PLEDOI : Y.\n- KBBI: pledoi = pidato pembelaan yang dibacakan oleh terdakwa atau pembelanya.\n- Pilihan berisi pasangan (X, Y).\n\nDITANYAKAN:\nPasangan X dan Y yang membuat kedua sisi analogi setara.\n\nJAWAB:\n1. Mulai dari sisi yang lengkap. Pledoi disampaikan oleh pihak terdakwa (terdakwa atau penasihat hukumnya) di persidangan. Rumus sisi kanan: “PLEDOI adalah naskah yang disampaikan oleh Y dalam persidangan pidana.”\n2. Terapkan pada sisi kiri: “X adalah naskah yang disampaikan oleh JAKSA dalam persidangan.” Ditambah lapis kedua, yaitu pledoi adalah tanggapan atas tuntutan jaksa, maka X harus berupa tuntutan pidana (requisitor).\n3. Uji (C): Tuntutan : Jaksa = Pledoi : Penasihat hukum. Jaksa membacakan tuntutan, lalu penasihat hukum membacakan pledoi sebagai jawabannya. Kedua sisi setara: pihak yang berhadapan, masing-masing dengan naskahnya.\n4. Uji pilihan lain. Setiap pilihan harus benar di KEDUA rumpang sekaligus. Pilihan yang benar di satu rumpang tetapi salah di rumpang lain gugur.\nJadi, jawaban yang tepat adalah (C) Tuntutan : Penasihat hukum. Jaksa menyampaikan tuntutan, sedangkan penasihat hukum (pihak terdakwa) menyampaikan pledoi.\nMengapa opsi lain kurang tepat:\n- (A) Dakwaan memang disusun jaksa (rumpang pertama benar), tetapi pledoi tidak dibacakan oleh hakim. Hakim menjatuhkan putusan.\n- (B) Vonis dijatuhkan hakim, bukan jaksa. Pledoi juga bukan disampaikan ‘kepada terdakwa’, melainkan oleh terdakwa atau pembelanya. Hubungannya kacau.\n- (D) Banding diajukan oleh pihak yang berperkara, dan panitera tidak membacakan pledoi.\n- (E) Kesaksian tidak disampaikan oleh jaksa, dan saksi tidak menyampaikan pledoi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-06",
+    "description": "PENJARA : ... = ... : PASIEN",
+    "image": "",
+    "options": [
+      {
+        "text": "Sipir : Dokter",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hukuman : Obat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Narapidana : Apotek",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Narapidana : Dokter",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Narapidana : Rumah sakit",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Bentuk analogi rumpang ganda: PENJARA : X = Y : PASIEN.\n- Perhatikan urutan: sisi kiri dimulai dengan TEMPAT (penjara), sedangkan sisi kanan diakhiri dengan ORANG (pasien).\n\nDITANYAKAN:\nPasangan X dan Y yang membuat hubungan kedua sisi setara.\n\nJAWAB:\n1. Agar setara, kedua sisi harus berpola sama, yaitu TEMPAT : ORANG. Maka X harus orang dan Y harus tempat.\n2. Rumuskan hubungan berlapis: “Di TEMPAT ini, ORANG tersebut ditempatkan untuk menjalani pembinaan atau perawatan dalam jangka waktu tertentu.”\n3. Isi sisi kiri: penjara adalah tempat narapidana ditempatkan untuk menjalani pidana, jadi X = narapidana.\n4. Isi sisi kanan: tempat pasien ditempatkan untuk dirawat adalah rumah sakit, jadi Y = rumah sakit.\n5. Uji: Penjara : Narapidana = Rumah sakit : Pasien. Polanya tempat : orang yang ditempatkan di dalamnya, dan setara.\nJadi, jawaban yang tepat adalah (E) Narapidana : Rumah sakit. Penjara menampung narapidana, sebagaimana rumah sakit merawat pasien.\nMengapa opsi lain kurang tepat:\n- (A) Penjara : Sipir = Dokter : Pasien membandingkan pola tempat : petugas dengan petugas : orang yang dilayani. Kedua sisi tidak setara.\n- (B) Penjara : Hukuman = Obat : Pasien tidak konsisten polanya, karena tempat dan sarana tertukar posisinya.\n- (C) Rumpang pertama benar, tetapi apotek bukan tempat pasien ditempatkan atau dirawat. Apotek hanya tempat menebus obat.\n- (D) Penjara : Narapidana = Dokter : Pasien menyandingkan TEMPAT dengan ORANG (dokter). Polanya pincang.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-07",
+    "description": "Perhatikan kelima kata berikut!\n\nhumas – sidak – tilang – kurir – rudal\n\nBerdasarkan cara pembentukan katanya, kata yang TIDAK sekelompok dengan kata lainnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "humas",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "sidak",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "tilang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kurir",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "rudal",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kata: humas, sidak, tilang, kurir, rudal.\n- Dasar pengelompokan yang diminta: CARA PEMBENTUKAN KATA, bukan bidang atau makna kata.\n\nDITANYAKAN:\nKata yang tidak sekelompok dengan keempat kata lain.\n\nJAWAB:\n1. Tentukan dasar pengelompokan lebih dahulu. Pengelompokan berdasarkan makna (misalnya 'berkaitan dengan tugas kepolisian/militer') menghasilkan beberapa calon yang berbeda, sehingga kriteria itu tidak tepat. Soal secara tegas meminta cara pembentukan kata.\n2. Uji asal pembentukan setiap kata:\n   - humas = akronim dari hubungan masyarakat\n   - sidak = akronim dari inspeksi mendadak\n   - tilang = akronim dari bukti pelanggaran\n   - rudal = akronim dari peluru kendali\n   - kurir = kata utuh serapan dari bahasa Belanda koerier, yang dalam KBBI bermakna 'utusan (yang mengantarkan surat, paket, dan sebagainya)'\n3. Empat kata terbentuk melalui pemendekan (akronim) yang sudah lazim dipakai sebagai kata biasa. Hanya kurir yang bukan akronim.\n4. Kriteria ini menghasilkan satu jawaban yang konsisten, sehingga dapat dipertanggungjawabkan.\nJadi, jawaban yang tepat adalah (D) kurir. Humas, sidak, tilang, dan rudal adalah akronim, sedangkan kurir bukan.\nMengapa opsi lain kurang tepat:\n- (A) Humas adalah akronim dari hubungan masyarakat, jadi sekelompok dengan yang lain.\n- (B) Sidak adalah akronim dari inspeksi mendadak.\n- (C) Tilang adalah akronim dari bukti pelanggaran. Kata ini menjebak karena hanya tilang yang berkaitan dengan lalu lintas, padahal dasar pengelompokannya cara pembentukan kata.\n- (E) Rudal adalah akronim dari peluru kendali.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-07",
+    "description": "Perhatikan kelima kata berikut!\n\nlusin – kuintal – kodi – gros – rim\n\nKata yang TIDAK sekelompok dengan kata lainnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "lusin",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kuintal",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "kodi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "gros",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "rim",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kata: lusin, kuintal, kodi, gros, rim.\n- Semuanya tampak sebagai ‘satuan’, sehingga perlu kriteria yang lebih tajam.\n\nDITANYAKAN:\nKata yang tidak sekelompok beserta dasar pengelompokannya.\n\nJAWAB:\n1. Tentukan makna KBBI tiap kata:\n   - lusin = dua belas buah\n   - kodi = dua puluh helai atau buah\n   - gros = dua belas lusin (144 buah)\n   - rim = satuan kertas, 500 lembar\n   - kuintal = satuan ukuran berat sebesar 100 kg\n2. Rumuskan dasar pengelompokan. Lusin, kodi, gros, dan rim adalah SATUAN JUMLAH (bilangan cacah benda), yaitu menyatakan berapa BUAH atau LEMBAR. Kuintal adalah SATUAN BERAT (massa).\n3. Waspadai jebakan. Kuintal mengandung angka 100 sehingga terkesan sebagai satuan hitungan, padahal yang dihitung adalah kilogram, yaitu ukuran berat.\n4. Kriteria lain yang kasat mata (misalnya ‘rim hanya untuk kertas’ atau ‘kodi untuk kain’) hanya menyangkut kebiasaan pemakaian, bukan jenis besaran, sehingga tidak dapat dijadikan dasar.\nJadi, jawaban yang tepat adalah (B) kuintal. Empat kata lain adalah satuan jumlah benda, sedangkan kuintal satuan berat.\nMengapa opsi lain kurang tepat:\n- (A) Lusin (12 buah) adalah satuan jumlah, jadi sekelompok.\n- (C) Kodi (20 buah) adalah satuan jumlah. Kebiasaan memakainya untuk kain tidak mengubah jenis satuannya.\n- (D) Gros (144 buah) adalah satuan jumlah.\n- (E) Rim (500 lembar) adalah satuan jumlah lembar. Kekhususannya untuk kertas adalah jebakan kasat mata.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-08",
+    "description": "Lengkapilah kalimat berikut dengan kata yang paling tepat!\n\n“Anggota piket yang ... terhadap laporan warga tentang orang hilang dapat dikenai sanksi disiplin karena melanggar kewajiban memberikan pelayanan.”",
+    "image": "",
+    "options": [
+      {
+        "text": "abai",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "acuh",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "tanggap",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "peduli",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "awas",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat rumpang: anggota yang ... terhadap laporan warga dapat dikenai SANKSI DISIPLIN.\n- Logika kalimat: sanksi dijatuhkan karena ada pelanggaran kewajiban pelayanan, sehingga kata yang dicari bermakna negatif (tidak memperhatikan).\n- Pilihan: abai, acuh, tanggap, peduli, awas.\n\nDITANYAKAN:\nKata yang tepat secara makna KBBI dan logika kalimat.\n\nJAWAB:\n1. Tentukan muatan makna rumpang. Karena berujung sanksi, kata yang dicari harus bermakna ‘tidak menghiraukan’ atau ‘lalai’.\n2. Cari makna KBBI. Abai berarti ‘lalai; tidak mengindahkan (menghiraukan)’. Cocok dan gramatikal: “abai terhadap laporan”.\n3. Periksa jebakan “acuh”. Menurut KBBI, acuh berarti ‘peduli; mengindahkan’. Makna ‘tidak peduli’ dimiliki frasa “acuh tak acuh”, bukan “acuh” saja. Jadi, “anggota yang acuh terhadap laporan” justru berarti anggota yang peduli, dan bertentangan dengan sanksi.\n4. Uji kalimat lengkap: “Anggota piket yang abai terhadap laporan warga ... dapat dikenai sanksi disiplin.” Logis dan baku.\nJadi, jawaban yang tepat adalah (A) abai. Abai = lalai, tidak menghiraukan, dan sesuai dengan alasan dijatuhkannya sanksi.\nMengapa opsi lain kurang tepat:\n- (B) Jebakan utama. Menurut KBBI, acuh berarti peduli, sehingga kalimat menjadi tidak logis (anggota yang peduli justru dihukum). Kata ini benar jika berbentuk “acuh tak acuh”.\n- (C) Tanggap (cepat dan tepat menanggapi) bermakna positif dan bertentangan dengan alasan sanksi.\n- (D) Peduli bermakna positif, sehingga kalimat menjadi kontradiktif.\n- (E) Awas (waspada, dapat melihat dengan baik) bermakna positif dan tidak lazim dipakai dengan “terhadap laporan” dalam arti menghiraukan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-08",
+    "description": "Lengkapilah kalimat berikut dengan pasangan kata yang paling tepat!\n\n“Karena keterangan kedua saksi saling ..., penyidik memutuskan untuk mempertemukan keduanya secara langsung dalam sebuah ... guna menguji keterangan siapa yang benar.”",
+    "image": "",
+    "options": [
+      {
+        "text": "berkesesuaian – konfrontasi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "bertentangan – mediasi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "bertentangan – konfrontasi",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "bertolak belakang – rekonstruksi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "berkesinambungan – interogasi",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rumpang 1: sifat hubungan antara keterangan kedua saksi.\n- Rumpang 2: nama tindakan penyidik yang MEMPERTEMUKAN dua saksi secara langsung untuk menguji kebenaran keterangan.\n- Kata penghubung “karena” menunjukkan bahwa rumpang 1 adalah alasan dilakukannya rumpang 2.\n\nDITANYAKAN:\nPasangan kata yang tepat untuk kedua rumpang.\n\nJAWAB:\n1. Rumpang 1: kebenaran perlu diuji hanya jika keterangan kedua saksi TIDAK cocok. Jadi, yang dicari bermakna ‘berlawanan’, yaitu bertentangan atau bertolak belakang. Kata berkesesuaian dan berkesinambungan gugur.\n2. Rumpang 2: cari istilah untuk mempertemukan langsung dua pihak yang keterangannya berbeda. Menurut KBBI, konfrontasi berarti ‘perihal berhadap-hadapan langsung (antara saksi dan saksi, antara terdakwa dan saksi, dan sebagainya)’. Maknanya tepat.\n3. Uji calon tersisa. (B) mediasi berarti pengikutsertaan pihak ketiga untuk MENDAMAIKAN perselisihan, bukan menguji kebenaran keterangan. (D) rekonstruksi berarti penggambaran kembali, yaitu reka ulang peristiwa, bukan mempertemukan dua saksi.\n4. Uji kalimat lengkap: “Karena keterangan kedua saksi saling bertentangan, penyidik ... mempertemukan keduanya secara langsung dalam sebuah konfrontasi ...” Logis dan tepat istilah.\nJadi, jawaban yang tepat adalah (C) bertentangan – konfrontasi. Keterangan yang bertentangan diuji melalui konfrontasi, yaitu mempertemukan saksi secara langsung.\nMengapa opsi lain kurang tepat:\n- (A) Jika keterangan berkesesuaian, tidak ada alasan untuk menguji keterangan siapa yang benar. Rumpang 1 salah.\n- (B) Rumpang 1 benar, tetapi mediasi bertujuan mendamaikan pihak yang berselisih, bukan menguji kebenaran keterangan saksi.\n- (D) Rumpang 1 benar, tetapi rekonstruksi (reka ulang peristiwa) tidak bermakna mempertemukan dua saksi secara berhadapan.\n- (E) Berkesinambungan (bersambung terus) bukan alasan untuk menguji kebenaran. Interogasi juga merupakan pemeriksaan melalui tanya jawab, bukan mempertemukan dua pihak.",
+    "difficulty": "sulit"
+  }
+]

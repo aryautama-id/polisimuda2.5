@@ -1,0 +1,682 @@
+[
+  {
+    "sub_material_code": "VRB-01",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Karena sudah dua kali mangkir dari panggilan penyidik tanpa alasan yang patut, saksi itu akhirnya dijemput paksa.”\n\nKata “mangkir” pada kalimat tersebut paling dekat maknanya dengan ....",
+    "image": "",
+    "options": [
+      {
+        "text": "menolak",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "terlambat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "absen",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "mengelak",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kabur",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: saksi dua kali “mangkir” dari panggilan penyidik tanpa alasan yang patut, lalu dijemput paksa.\n- Pilihan: menolak, terlambat, absen, mengelak, kabur.\n\nDITANYAKAN:\nSinonim kata “mangkir” sesuai konteks.\n\nJAWAB:\n1. Cari makna KBBI. Mangkir berarti ‘tidak datang; tidak hadir (pada pekerjaan dan sebagainya); absen’.\n2. Cocokkan dengan konteks. Panggilan penyidik menuntut kehadiran, dan saksi tidak datang dua kali. Inti maknanya adalah KETIDAKHADIRAN, bukan sikap menolak yang dinyatakan.\n3. Uji substitusi: “sudah dua kali absen dari panggilan penyidik tanpa alasan yang patut” utuh maknanya.\n4. Pengecoh lain menambahkan komponen makna yang tidak ada pada mangkir, misalnya pernyataan penolakan, keterlambatan, atau melarikan diri.\nJadi, jawaban yang tepat adalah (C) absen. Mangkir = tidak hadir, absen.\nMengapa opsi lain kurang tepat:\n- (A) Menolak berarti menyatakan tidak mau. Orang yang mangkir belum tentu menyatakan penolakan; ia sekadar tidak datang.\n- (B) Terlambat berarti tetap datang, hanya tidak tepat waktu. Maknanya berbeda dengan tidak hadir.\n- (D) Mengelak berarti menghindar atau berkelit, misalnya dari pertanyaan atau tuduhan. Kata ini menambahkan unsur siasat yang tidak ada pada mangkir.\n- (E) Kabur berarti melarikan diri. Maknanya terlalu jauh, karena saksi yang mangkir masih dapat dijemput di tempatnya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-05",
+    "description": "HIPOTERMIA : MENGGIGIL = ... : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Anemia : Pucat",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Pucat : Anemia",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Demam : Infeksi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Flu : Vaksin",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Luka : Perban",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pasangan soal: HIPOTERMIA : MENGGIGIL.\n- KBBI: hipotermia adalah keadaan suhu tubuh di bawah normal. Menggigil adalah gemetar karena kedinginan atau demam.\n\nDITANYAKAN:\nPasangan yang hubungannya setara, termasuk arahnya.\n\nJAWAB:\n1. Rumuskan hubungan beserta ARAH-nya: “A adalah KONDISI atau gangguan tubuh, dan B adalah GEJALA atau tanda yang tampak dari kondisi itu.” Urutannya: kondisi di kiri, gejala di kanan.\n2. Uji Anemia : Pucat. Menurut KBBI, anemia adalah kekurangan darah (sel darah merah atau hemoglobin), dan salah satu tanda yang tampak adalah kulit atau wajah pucat. Polanya kondisi : gejala. Cocok.\n3. Uji Pucat : Anemia. Unsurnya sama, tetapi ARAH-nya terbalik (gejala : kondisi). Analogi menuntut urutan yang sama.\n4. Uji Demam : Infeksi. Demam adalah gejala, sedangkan infeksi adalah penyebab atau kondisinya. Arahnya juga terbalik (gejala : kondisi).\n5. Uji Flu : Vaksin dan Luka : Perban. Hubungannya penyakit : pencegah dan cedera : alat penanganan, bukan kondisi : gejala.\nJadi, jawaban yang tepat adalah (A) Anemia : Pucat. Hipotermia ditandai menggigil, sebagaimana anemia ditandai pucat.\nMengapa opsi lain kurang tepat:\n- (B) Unsurnya benar, tetapi arahnya terbalik (gejala : kondisi). Ini jebakan arah yang paling sering mengecoh.\n- (C) Demam adalah gejala dari infeksi, jadi polanya gejala : kondisi dan terbalik dari pasangan soal.\n- (D) Vaksin adalah sarana pencegah flu. Hubungannya penyakit : pencegah, bukan kondisi : gejala.\n- (E) Perban adalah alat untuk menangani luka. Hubungannya cedera : alat penanganan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-03",
+    "description": "Perhatikan kelima kata berikut!\n(1) tambun\n(2) ringkih\n(3) jangkung\n(4) rapuh\n(5) kekar\n\nDua kata yang memiliki makna SAMA adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "(2) dan (5)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(1) dan (3)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(1) dan (5)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(3) dan (4)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(2) dan (4)",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Lima kata: tambun, ringkih, jangkung, rapuh, kekar.\n- Semuanya dapat menerangkan keadaan tubuh, sehingga tampak semedan makna.\n\nDITANYAKAN:\nDua kata yang bersinonim.\n\nJAWAB:\n1. Tentukan makna KBBI tiap kata:\n   - tambun = gemuk (tentang badan)\n   - ringkih = lemah; mudah rusak atau patah; rapuh\n   - jangkung = tinggi (tentang badan)\n   - rapuh = mudah patah, pecah, atau hancur; tidak kuat\n   - kekar = kuat dan tegap\n2. Cari komponen makna yang sama persis. Ringkih dan rapuh sama-sama bermakna ‘lemah, mudah patah atau rusak’.\n3. Waspadai jebakan antonim. Ringkih dan kekar berada pada sumbu yang sama, tetapi BERLAWANAN arah, sehingga bukan sinonim.\n4. Pastikan jawaban tunggal. Tambun (gemuk), jangkung (tinggi), dan kekar (kuat) masing-masing menerangkan aspek tubuh yang berbeda, sehingga tidak ada pasangan sinonim lain.\nJadi, jawaban yang tepat adalah (E) (2) dan (4). Ringkih = rapuh.\nMengapa opsi lain kurang tepat:\n- (A) Ringkih (lemah) dan kekar (kuat) adalah antonim, bukan sinonim.\n- (B) Tambun (gemuk) dan jangkung (tinggi) sama-sama menerangkan bentuk badan, tetapi aspeknya berbeda (lebar lawan tinggi).\n- (C) Tambun (gemuk) tidak sama dengan kekar (kuat dan tegap). Orang gemuk belum tentu kekar.\n- (D) Jangkung (tinggi) dan rapuh (mudah patah) tidak memiliki komponen makna yang sama.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-02",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Pengambilan keputusan dalam rapat paripurna itu terpaksa ditunda karena belum memenuhi kuorum.”\n\nIstilah “kuorum” bermakna ....",
+    "image": "",
+    "options": [
+      {
+        "text": "persetujuan dari suara terbanyak anggota yang hadir dalam rapat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kesepakatan bulat seluruh peserta rapat tanpa pemungutan suara",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pimpinan sidang yang ditetapkan secara sah oleh anggota",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "jumlah minimum anggota yang harus hadir agar rapat dapat mengesahkan suatu putusan",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "susunan acara rapat yang telah disetujui sebelum sidang dimulai",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: keputusan ditunda karena belum memenuhi kuorum.\n- Kelima pilihan adalah istilah rapat yang berdekatan: suara terbanyak, mufakat, pimpinan sidang, kuorum, agenda.\n\nDITANYAKAN:\nMakna istilah “kuorum”.\n\nJAWAB:\n1. Cari makna KBBI. Kuorum adalah ‘jumlah minimum anggota yang harus hadir di rapat, majelis, dan sebagainya (biasanya lebih dari separuh jumlah anggota) agar dapat mengesahkan suatu putusan’.\n2. Ambil kata kunci: JUMLAH MINIMUM KEHADIRAN dan SYARAT SAHNYA PUTUSAN.\n3. Cocokkan dengan konteks. Keputusan ditunda karena syarat kehadiran belum terpenuhi. Itu sesuai dengan ‘belum memenuhi kuorum’.\n4. Bedakan dengan suara terbanyak. Suara terbanyak adalah cara MENGAMBIL keputusan setelah rapat sah. Kuorum adalah syarat AGAR rapat boleh mengambil keputusan.\nJadi, jawaban yang tepat adalah (D) jumlah minimum anggota yang harus hadir agar rapat dapat mengesahkan suatu putusan. Kuorum = batas minimal kehadiran agar rapat sah mengambil keputusan.\nMengapa opsi lain kurang tepat:\n- (A) Ini makna suara terbanyak (mayoritas). Pengecoh terkuat karena sama-sama berbicara tentang jumlah, padahal yang dihitung adalah suara, bukan kehadiran.\n- (B) Ini makna mufakat atau aklamasi, yaitu cara mengambil keputusan, bukan syarat kehadiran.\n- (C) Pimpinan sidang adalah unsur rapat. Ketiadaan pimpinan bukan yang dimaksud dengan belum kuorum.\n- (E) Ini makna agenda, yaitu acara rapat.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-07",
+    "description": "Perhatikan kelima kata berikut!\n\nsaksi – wali – kuasa hukum – juru bicara – duta\n\nKata yang TIDAK sekelompok dengan kata lainnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "saksi",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "wali",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kuasa hukum",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "juru bicara",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "duta",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kata: saksi, wali, kuasa hukum, juru bicara, duta.\n- Kelimanya adalah sebutan untuk orang dengan peran tertentu.\n\nDITANYAKAN:\nKata yang tidak sekelompok beserta dasar pengelompokannya.\n\nJAWAB:\n1. Uji kriteria kasat mata lebih dahulu. Kriteria ‘berkaitan dengan pengadilan’ hanya menjaring saksi, kuasa hukum, dan mungkin wali, sehingga sisanya dua kata (juru bicara dan duta). Hasilnya tidak tunggal, jadi kriteria ini gugur.\n2. Tentukan makna KBBI dan cari unsur bersama:\n   - wali = orang yang menurut hukum diwajibkan mengurus anak yatim serta hartanya, atau mewakili pihak tertentu (misalnya wali nikah)\n   - kuasa hukum = orang yang diberi kuasa untuk mewakili kepentingan hukum pihak lain\n   - juru bicara = orang yang memberikan keterangan resmi atas nama lembaga atau orang lain\n   - duta = utusan resmi yang mewakili negara atau lembaga\n   - saksi = orang yang melihat atau mengetahui sendiri suatu peristiwa\n3. Rumuskan dasar pengelompokan. Wali, kuasa hukum, juru bicara, dan duta sama-sama BERTINDAK ATAS NAMA atau MEWAKILI PIHAK LAIN.\n4. Saksi tidak mewakili siapa pun. Ia memberi keterangan atas namanya sendiri tentang apa yang ia lihat, dengar, atau alami. Kriteria ini menghasilkan satu jawaban yang konsisten.\nJadi, jawaban yang tepat adalah (A) saksi. Empat kata lain adalah peran perwakilan, sedangkan saksi berbicara atas pengetahuannya sendiri.\nMengapa opsi lain kurang tepat:\n- (B) Wali bertindak mewakili atau mengurus kepentingan pihak lain (anak di bawah umur, mempelai), jadi sekelompok.\n- (C) Kuasa hukum mewakili kepentingan hukum kliennya. Kesamaan ranah pengadilan dengan saksi adalah jebakan kasat mata.\n- (D) Juru bicara menyampaikan keterangan atas nama lembaga atau pimpinan, jadi termasuk peran perwakilan.\n- (E) Duta adalah utusan yang mewakili negara atau lembaga. Kesannya paling berbeda (diplomatik), tetapi tetap sekelompok.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-04",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Anggaran pendapatan dan belanja daerah tahun ini mengalami defisit karena belanja pegawai membengkak, sementara pendapatan asli daerah stagnan.”\n\nLawan kata “defisit” yang paling tepat adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "laba",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "inflasi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "likuid",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "surplus",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "subsidi",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: APBD mengalami defisit karena belanja membengkak, sedangkan pendapatan tidak naik.\n- Pilihan: laba, inflasi, likuid, surplus, subsidi.\n\nDITANYAKAN:\nAntonim kata “defisit”.\n\nJAWAB:\n1. Cari makna KBBI. Defisit berarti ‘kekurangan dalam kas keuangan’. Dalam anggaran, defisit terjadi ketika pengeluaran lebih besar daripada pendapatan.\n2. Tentukan sumbu makna. Sumbunya adalah selisih pendapatan dan pengeluaran dalam satu neraca atau anggaran, yaitu KURANG lawan LEBIH.\n3. Cari kutub sebaliknya. Surplus berarti ‘kelebihan (tentang penghasilan, hasil produksi, dan sebagainya)’; dalam anggaran, pendapatan melebihi pengeluaran.\n4. Uji dalam kalimat: “APBD tahun ini mengalami surplus” adalah kebalikan tepat dari defisit.\nJadi, jawaban yang tepat adalah (D) surplus. Defisit (kekurangan anggaran) berlawanan dengan surplus (kelebihan).\nMengapa opsi lain kurang tepat:\n- (A) Laba adalah keuntungan dari usaha. Lawan katanya rugi, bukan defisit. APBD bukan usaha yang mencari laba. Ini jebakan lintas ranah.\n- (B) Inflasi adalah kenaikan harga secara umum. Lawan katanya deflasi, dan kata ini tidak berkaitan langsung dengan selisih anggaran.\n- (C) Likuid berarti mudah dicairkan menjadi uang tunai. Sumbunya kemudahan pencairan, bukan kekurangan atau kelebihan anggaran.\n- (E) Subsidi adalah bantuan uang dari pemerintah. Subsidi justru dapat menjadi salah satu penyebab defisit, bukan lawannya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-06",
+    "description": "... : VONIS = DOKTER : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Terdakwa : Diagnosis",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hakim : Diagnosis",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Hakim : Pasien",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jaksa : Resep",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hakim : Obat",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Bentuk analogi rumpang ganda: X : VONIS = DOKTER : Y.\n- KBBI: vonis = putusan hakim pada sidang pengadilan. Diagnosis = penentuan jenis penyakit dengan cara meneliti (memeriksa) gejala-gejalanya.\n\nDITANYAKAN:\nPasangan X dan Y yang membuat kedua sisi setara.\n\nJAWAB:\n1. Pola kiri X : VONIS harus sama dengan pola kanan DOKTER : Y. Karena dokter adalah PELAKU profesional, X juga harus pelaku, dan Y harus sesuatu yang DIKELUARKAN pelaku itu.\n2. Rumuskan hubungan berlapis: “Pelaku profesional menetapkan sebuah KEPUTUSAN setelah MEMERIKSA perkara atau gejala.” Vonis adalah ketetapan hakim setelah memeriksa perkara. Pada dokter, ketetapan setelah memeriksa gejala adalah diagnosis.\n3. Isi: X = Hakim, Y = Diagnosis. Hakim : Vonis = Dokter : Diagnosis. Kedua sisi berpola pemeriksa : ketetapan hasil pemeriksaan.\n4. Periksa bahwa setiap pengecoh gagal di salah satu rumpang.\nJadi, jawaban yang tepat adalah (B) Hakim : Diagnosis. Hakim menjatuhkan vonis setelah memeriksa perkara, sebagaimana dokter menetapkan diagnosis setelah memeriksa gejala.\nMengapa opsi lain kurang tepat:\n- (A) Terdakwa adalah pihak yang MENERIMA vonis, bukan yang menjatuhkannya. Rumpang pertama salah arah.\n- (C) Rumpang pertama benar, tetapi pasien adalah orang yang diperiksa dokter, bukan ketetapan yang dikeluarkannya. Polanya menjadi pelaku : ketetapan = pelaku : objek.\n- (D) Jaksa tidak menjatuhkan vonis; jaksa menuntut. Rumpang pertama salah.\n- (E) Rumpang pertama benar, tetapi obat adalah sarana pengobatan, bukan ketetapan hasil pemeriksaan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-03",
+    "description": "Perhatikan kelima kata berikut!\n(1) lazim\n(2) mustahil\n(3) musykil\n(4) sulit\n(5) janggal\n\nDua kata yang memiliki makna SAMA adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "(2) dan (3)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(1) dan (5)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(3) dan (4)",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "(2) dan (4)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(2) dan (5)",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Lima kata: lazim, mustahil, musykil, sulit, janggal.\n- Mustahil dan musykil mirip bunyinya, dan keduanya kata serapan dari bahasa Arab.\n\nDITANYAKAN:\nDua kata yang bersinonim.\n\nJAWAB:\n1. Tentukan makna KBBI tiap kata:\n   - lazim = biasa; sudah menjadi kebiasaan\n   - mustahil = tidak mungkin terjadi\n   - musykil = sukar; sulit; pelik; sukar dipahami atau dipecahkan\n   - sulit = sukar sekali; susah (diselesaikan, dikerjakan)\n   - janggal = kurang sesuai; tidak sebagaimana mestinya; aneh\n2. Musykil dan sulit sama-sama bermakna ‘sukar’. Inilah pasangan sinonim.\n3. Bedakan musykil dari mustahil. Hal yang musykil MASIH MUNGKIN dikerjakan meskipun sukar, sedangkan hal yang mustahil TIDAK MUNGKIN terjadi. Kemiripan bunyi adalah jebakan.\n4. Lazim dan janggal berlawanan (biasa lawan aneh), sehingga tidak bersinonim.\nJadi, jawaban yang tepat adalah (C) (3) dan (4). Musykil = sulit.\nMengapa opsi lain kurang tepat:\n- (A) Mustahil (tidak mungkin) dan musykil (sukar) hanya mirip bunyi. Maknanya berbeda tingkat: yang sukar masih mungkin.\n- (B) Lazim (biasa) dan janggal (aneh) justru berlawanan makna.\n- (D) Mustahil (tidak mungkin) tidak sama dengan sulit (sukar, tetapi masih mungkin).\n- (E) Mustahil (tidak mungkin terjadi) tidak sama dengan janggal (aneh, tidak semestinya). Hal yang janggal sudah atau bisa terjadi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-08",
+    "description": "Lengkapilah kalimat berikut dengan kata yang paling tepat!\n\n“Meskipun didesak berkali-kali oleh para wartawan, kuasa hukum tersangka tetap ... dan tidak memberikan komentar apa pun tentang hasil autopsi.”",
+    "image": "",
+    "options": [
+      {
+        "text": "tidak bergeming",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "bereaksi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "bersuara",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "berkilah",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "bergeming",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat rumpang: “tetap ... dan tidak memberikan komentar apa pun”.\n- Kata “meskipun didesak” dan “tetap” menunjukkan bahwa yang dicari adalah sikap DIAM atau tidak terpengaruh.\n- Pilihan: tidak bergeming, bereaksi, bersuara, berkilah, bergeming.\n\nDITANYAKAN:\nKata yang tepat secara makna KBBI dan logika kalimat.\n\nJAWAB:\n1. Tentukan makna yang dibutuhkan. Klausa kedua (“tidak memberikan komentar apa pun”) harus sejalan dengan rumpang, sehingga rumpang bermakna ‘diam saja; tidak bereaksi’.\n2. Cari makna KBBI. Bergeming berarti ‘tidak bergerak sedikit juga; diam saja’. Jadi, kata ini SUDAH bermakna diam.\n3. Periksa jebakan “tidak bergeming”. Karena bergeming = diam, “tidak bergeming” justru bermakna ‘tidak diam’ atau ‘bergerak’. Kalimat menjadi kontradiktif: tidak diam, tetapi tidak memberi komentar. Ini salah kaprah yang sangat sering dijumpai.\n4. Uji kalimat lengkap: “... kuasa hukum tersangka tetap bergeming dan tidak memberikan komentar apa pun.” Logis dan sesuai KBBI.\nJadi, jawaban yang tepat adalah (E) bergeming. Bergeming = diam saja, tidak bergerak.\nMengapa opsi lain kurang tepat:\n- (A) Salah kaprah populer. Karena bergeming sudah berarti diam, “tidak bergeming” berarti bergerak atau bereaksi, sehingga bertentangan dengan klausa “tidak memberikan komentar”.\n- (B) Bereaksi berarti menanggapi, sehingga bertentangan dengan “tetap ... dan tidak memberikan komentar”.\n- (C) Bersuara berarti mengeluarkan suara atau pendapat, sehingga kontradiktif dengan tidak berkomentar.\n- (D) Berkilah berarti mengelak dengan memberi dalih. Orang yang berkilah tetap mengucapkan sesuatu, jadi tidak sejalan dengan tidak berkomentar apa pun.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-01",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Sebelum ditangkap, pelaku penipuan daring itu sempat bersesumbar di media sosial bahwa polisi tidak akan pernah mampu melacak dirinya.”\n\nKata “bersesumbar” pada kalimat tersebut bermakna sama dengan ....",
+    "image": "",
+    "options": [
+      {
+        "text": "besar mulut",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "bersumpah",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "bercanda",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "mengeluh",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "mengaku",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: pelaku bersesumbar bahwa polisi tidak akan pernah mampu melacaknya.\n- Isi ucapan: meremehkan pihak lain dan membanggakan kemampuan diri.\n- Pilihan: besar mulut, bersumpah, bercanda, mengeluh, mengaku.\n\nDITANYAKAN:\nMakna kata “bersesumbar”.\n\nJAWAB:\n1. Cari makna KBBI. Sesumbar adalah perkataan yang menyombongkan diri atau menantang (cakap besar). Bersesumbar berarti mengucapkan sesumbar, yaitu bercakap besar.\n2. Analisis isi ucapan dalam kalimat. “Polisi tidak akan pernah mampu melacak dirinya” adalah ucapan sombong sekaligus menantang.\n3. Cari padanan. Ungkapan “besar mulut” dalam KBBI bermakna ‘suka membual; sombong (dalam perkataan)’. Komponen maknanya sama dengan sesumbar.\n4. Uji substitusi: “pelaku sempat besar mulut di media sosial bahwa polisi tidak akan mampu melacaknya” bermakna utuh.\nJadi, jawaban yang tepat adalah (A) besar mulut. Bersesumbar = bercakap besar, besar mulut.\nMengapa opsi lain kurang tepat:\n- (B) Bersumpah berarti menyatakan sesuatu dengan menyebut nama Tuhan atau hal yang dimuliakan agar dipercaya. Bersumpah tidak mengandung unsur kesombongan.\n- (C) Bercanda berarti bersenda gurau. Kesalahpahaman ini muncul karena sesumbar sering dianggap omong kosong, padahal maknanya ucapan sombong yang menantang.\n- (D) Mengeluh berarti menyatakan susah atau kecewa, sehingga berlawanan suasananya dengan sesumbar.\n- (E) Mengaku berarti menyatakan diri melakukan atau memiliki sesuatu, dan tidak mengandung unsur menyombongkan diri atau menantang.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-06",
+    "description": "... : GEMPA = SKALA BEAUFORT : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Seismograf : Angin",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Skala Mohs : Angin",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Skala Richter : Suhu",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Skala Richter : Angin",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tsunami : Gelombang",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Bentuk analogi rumpang ganda: X : GEMPA = SKALA BEAUFORT : Y.\n- Skala Beaufort adalah skala bertingkat (0–12) untuk menyatakan kekuatan atau kecepatan angin.\n\nDITANYAKAN:\nPasangan X dan Y yang membuat kedua sisi setara.\n\nJAWAB:\n1. Pahami sisi kanan. Skala Beaufort adalah SKALA (bukan alat) untuk menyatakan besarnya fenomena ANGIN. Pola: skala : fenomena yang diukur besarnya.\n2. Terapkan pada sisi kiri. X harus berupa SKALA untuk menyatakan besarnya GEMPA. Skala Richter adalah skala untuk menyatakan besarnya (magnitudo) gempa. Jadi, X = Skala Richter.\n3. Lengkapi sisi kanan: Y = Angin.\n4. Uji: Skala Richter : Gempa = Skala Beaufort : Angin. Keduanya berpola skala : fenomena alam yang diukur kekuatannya.\n5. Lapis pembeda: SKALA berbeda dengan ALAT UKUR. Seismograf adalah alat pencatat getaran gempa, bukan skala.\nJadi, jawaban yang tepat adalah (D) Skala Richter : Angin. Skala Richter untuk gempa, Skala Beaufort untuk angin.\nMengapa opsi lain kurang tepat:\n- (A) Seismograf adalah ALAT pencatat getaran, bukan skala. Polanya menjadi alat : fenomena = skala : fenomena, sehingga tidak setara.\n- (B) Skala Mohs adalah skala kekerasan mineral, bukan skala untuk gempa.\n- (C) Rumpang pertama benar, tetapi Skala Beaufort bukan skala suhu.\n- (E) Tsunami adalah fenomena (sering akibat gempa), bukan skala. Polanya sebab-akibat dan tidak setara dengan sisi kanan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-02",
+    "description": "Dalam hukum pidana, istilah “restitusi” bermakna ....",
+    "image": "",
+    "options": [
+      {
+        "text": "ganti kerugian kepada korban yang diberikan oleh negara karena pelaku tidak mampu menanggungnya sepenuhnya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "ganti kerugian kepada korban atau keluarganya yang dibebankan kepada pelaku atau pihak ketiga",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "pungutan daerah sebagai pembayaran atas jasa atau pemberian izin tertentu",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pemulihan kedudukan dan nama baik seseorang yang dinyatakan tidak bersalah",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pengembalian bangunan atau benda bersejarah ke keadaan semula",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Istilah yang diuji: restitusi (tanpa konteks kalimat).\n- Pilihan berisi definisi istilah yang mirip bentuk atau maknanya: kompensasi, restitusi, retribusi, rehabilitasi, restorasi.\n\nDITANYAKAN:\nDefinisi yang tepat untuk restitusi dalam hukum pidana.\n\nJAWAB:\n1. Cari makna KBBI. Restitusi berarti ‘ganti kerugian; pembayaran kembali’. Dalam bidang hukum, restitusi adalah ganti rugi yang diberikan kepada korban.\n2. Pertajam dengan pengertian dalam perundang-undangan perlindungan saksi dan korban (UU No. 31 Tahun 2014). Restitusi adalah ganti kerugian yang diberikan kepada korban atau keluarganya oleh PELAKU atau PIHAK KETIGA.\n3. Bedakan dengan kompensasi. Dalam undang-undang yang sama, kompensasi adalah ganti kerugian yang diberikan oleh NEGARA karena pelaku tidak mampu memberikan ganti kerugian sepenuhnya. Pembedanya adalah SIAPA YANG MEMBAYAR.\n4. Pilihan (B) memuat ganti kerugian kepada korban yang dibebankan kepada pelaku atau pihak ketiga. Definisi ini tepat.\nJadi, jawaban yang tepat adalah (B) ganti kerugian kepada korban atau keluarganya yang dibebankan kepada pelaku atau pihak ketiga. Restitusi dibayar oleh pelaku atau pihak ketiga, sedangkan kompensasi dibayar oleh negara.\nMengapa opsi lain kurang tepat:\n- (A) Ini definisi kompensasi, karena pembayarnya negara. Pengecoh terkuat sebab sama-sama ganti rugi untuk korban.\n- (C) Ini definisi retribusi. Bentuk katanya mirip (re-tribusi), tetapi istilah ini berasal dari bidang keuangan daerah.\n- (D) Ini definisi rehabilitasi, yaitu pemulihan nama baik, bukan ganti rugi berupa uang.\n- (E) Ini definisi restorasi, yaitu pengembalian ke keadaan semula untuk bangunan atau benda.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-07",
+    "description": "Perhatikan kelima kata berikut!\n\ntermometer – higrometer – anemometer – odometer – barometer\n\nKata yang TIDAK sekelompok dengan kata lainnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "termometer",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "higrometer",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "anemometer",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "odometer",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "barometer",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kata: termometer, higrometer, anemometer, odometer, barometer.\n- Semuanya alat ukur berakhiran -meter, sehingga kriteria ‘alat ukur’ tidak dapat membedakan.\n\nDITANYAKAN:\nKata yang tidak sekelompok beserta dasar pengelompokannya.\n\nJAWAB:\n1. Tentukan besaran yang diukur oleh tiap alat:\n   - termometer = alat pengukur suhu (panas-dingin), termasuk suhu udara\n   - higrometer = alat pengukur kelembapan udara\n   - anemometer = alat pengukur kecepatan angin\n   - odometer = alat pengukur jarak yang ditempuh kendaraan\n   - barometer = alat pengukur tekanan udara\n2. Cari dasar pengelompokan yang lebih tajam. Suhu, kelembapan, angin, dan tekanan udara adalah UNSUR CUACA (keadaan atmosfer). Keempat alat itu adalah instrumen meteorologi yang lazim ada di stasiun cuaca.\n3. Odometer mengukur JARAK TEMPUH kendaraan, bukan unsur keadaan udara.\n4. Kriteria ini menghasilkan satu jawaban: odometer.\nJadi, jawaban yang tepat adalah (D) odometer. Empat alat lain mengukur unsur cuaca, sedangkan odometer mengukur jarak tempuh kendaraan.\nMengapa opsi lain kurang tepat:\n- (A) Termometer mengukur suhu, salah satu unsur cuaca. Pemakaiannya untuk suhu tubuh tidak menghapus fungsinya di stasiun cuaca.\n- (B) Higrometer mengukur kelembapan udara, salah satu unsur cuaca.\n- (C) Anemometer mengukur kecepatan angin, salah satu unsur cuaca.\n- (E) Barometer mengukur tekanan udara, salah satu unsur cuaca.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-05",
+    "description": "KLEPTOMANIA : MENCURI = ... : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Hidrofobia : Air",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Insomnia : Tidur",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Amnesia : Mengingat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Nostalgia : Kenangan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Piromania : Membakar",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pasangan soal: KLEPTOMANIA : MENCURI.\n- KBBI: kleptomania adalah penyakit jiwa yang membuat penderitanya tidak dapat menahan diri untuk mencuri.\n\nDITANYAKAN:\nPasangan yang hubungannya setara.\n\nJAWAB:\n1. Rumuskan hubungan berlapis: “A adalah gangguan kejiwaan berupa DORONGAN yang tidak terkendali untuk MELAKUKAN perbuatan B.” Ada tiga lapis: (a) A gangguan jiwa, (b) jenisnya dorongan berlebih (-mania), bukan ketakutan atau kehilangan kemampuan, (c) B adalah perbuatan (kata kerja).\n2. Uji Piromania : Membakar. Piromania adalah gangguan jiwa berupa dorongan tak terkendali untuk membakar (sufiks -mania, sama dengan kleptomania). Ketiga lapis terpenuhi.\n3. Uji Insomnia : Tidur dan Amnesia : Mengingat. Keduanya gangguan berupa KETIDAKMAMPUAN melakukan B. Arahnya berlawanan dengan dorongan untuk melakukan. Lapis (b) gagal.\n4. Uji Hidrofobia : Air. Fobia adalah KETAKUTAN berlebih, dan air adalah benda, bukan perbuatan. Lapis (b) dan (c) gagal.\n5. Uji Nostalgia : Kenangan. Nostalgia adalah kerinduan, bukan gangguan jiwa, dan kenangan adalah benda abstrak. Ketiga lapis gagal.\nJadi, jawaban yang tepat adalah (E) Piromania : Membakar. Seperti kleptomania mendorong orang mencuri, piromania mendorong orang membakar.\nMengapa opsi lain kurang tepat:\n- (A) Hidrofobia adalah ketakutan berlebih terhadap air (jenis fobia, bukan mania). Air juga benda, bukan perbuatan.\n- (B) Insomnia adalah ketidakmampuan untuk tidur, bukan dorongan tak terkendali untuk tidur. Arah hubungannya terbalik.\n- (C) Amnesia adalah hilangnya kemampuan mengingat, jadi hubungannya ‘kehilangan’, bukan ‘dorongan’.\n- (D) Nostalgia adalah kerinduan pada masa lampau, bukan gangguan jiwa. Kenangan juga bukan perbuatan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-03",
+    "description": "Perhatikan kelima kata berikut!\n(1) lamur\n(2) juling\n(3) pekak\n(4) rabun\n(5) bisu\n\nDua kata yang memiliki makna SAMA adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "(1) dan (4)",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "(1) dan (2)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(3) dan (5)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(2) dan (4)",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "(3) dan (4)",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Lima kata: lamur, juling, pekak, rabun, bisu.\n- Kelimanya berada dalam medan makna gangguan pancaindra atau wicara.\n\nDITANYAKAN:\nDua kata yang bersinonim.\n\nJAWAB:\n1. Tentukan makna KBBI tiap kata:\n   - lamur = kurang terang (tentang penglihatan); rabun\n   - juling = (tentang mata) bersilang pandangannya karena kelainan otot; letak bola mata tidak sejajar\n   - pekak = tuli; tidak dapat mendengar\n   - rabun = kurang terang penglihatannya; kabur\n   - bisu = tidak dapat berkata-kata\n2. Cari makna yang identik. Lamur dan rabun sama-sama berarti penglihatan kurang terang. KBBI bahkan menjelaskan lamur dengan kata rabun.\n3. Waspadai jebakan semedan. Juling juga gangguan MATA, tetapi jenisnya berbeda: posisi bola mata, bukan ketajaman penglihatan. Satu medan makna belum tentu satu makna.\n4. Pekak dan bisu sering muncul bersama (tunarungu dan tunawicara), tetapi maknanya berbeda.\nJadi, jawaban yang tepat adalah (A) (1) dan (4). Lamur = rabun.\nMengapa opsi lain kurang tepat:\n- (B) Lamur (penglihatan kabur) dan juling (bola mata tidak sejajar) sama-sama gangguan mata, tetapi jenisnya berbeda.\n- (C) Pekak (tuli) dan bisu (tidak dapat berbicara) sering berhubungan, tetapi tidak semakna.\n- (D) Juling dan rabun sama-sama gangguan mata, tetapi juling menyangkut posisi bola mata, sedangkan rabun menyangkut ketajaman penglihatan.\n- (E) Pekak (gangguan pendengaran) dan rabun (gangguan penglihatan) berbeda indra.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-08",
+    "description": "Lengkapilah kalimat berikut dengan kata yang paling tepat!\n\n“Uang hasil penipuan itu diduga telah ... ke sejumlah rekening atas nama kerabat pelaku untuk menyamarkan asal-usulnya.”",
+    "image": "",
+    "options": [
+      {
+        "text": "mengalihkan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "teralihkan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "dialihkan",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "pengalihan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "beralih",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Subjek kalimat: “uang hasil penipuan itu” (benda, bukan pelaku).\n- Ada keterangan tujuan “untuk menyamarkan asal-usulnya”, yang mengisyaratkan perbuatan SENGAJA oleh pelaku yang tersirat.\n- Semua pilihan berasal dari kata dasar yang sama (alih). Yang diuji adalah bentuk kata, dan maknanya benar semua.\n\nDITANYAKAN:\nBentuk kata yang tepat secara tata bahasa dan makna.\n\nJAWAB:\n1. Tentukan peran subjek. Uang tidak dapat melakukan perbuatan; uang adalah SASARAN perbuatan. Predikat harus berbentuk PASIF.\n2. Tentukan jenis pasif. Keterangan tujuan “untuk menyamarkan asal-usulnya” menunjukkan perbuatan itu DISENGAJA oleh seseorang. Pasif di- menyatakan tindakan sengaja oleh pelaku, sedangkan pasif ter- cenderung menyatakan ketidaksengajaan atau keadaan.\n3. Pilih bentuk di-: “dialihkan”. KBBI: mengalihkan berarti memindahkan, sehingga dialihkan berarti dipindahkan (oleh seseorang).\n4. Uji kalimat lengkap: “Uang hasil penipuan itu diduga telah dialihkan ke sejumlah rekening ... untuk menyamarkan asal-usulnya.” Gramatikal dan logis.\nJadi, jawaban yang tepat adalah (C) dialihkan. Subjek berupa sasaran dan tindakannya disengaja, sehingga bentuk yang tepat adalah pasif di-.\nMengapa opsi lain kurang tepat:\n- (A) Mengalihkan adalah verba aktif, sehingga uang seolah-olah menjadi pelaku yang memindahkan sesuatu. Maknanya benar, tetapi bentuknya salah.\n- (B) Teralihkan bermakna terpindahkan tanpa sengaja atau dapat dialihkan. Makna ini bertentangan dengan unsur kesengajaan dalam frasa “untuk menyamarkan asal-usulnya”.\n- (D) Pengalihan adalah nomina, sehingga tidak dapat menduduki predikat setelah “telah”.\n- (E) Beralih adalah verba intransitif yang bermakna berpindah dengan sendirinya. Bentuk ini tidak menyiratkan pelaku, padahal keterangan tujuan menuntut adanya pelaku yang sengaja.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-05",
+    "description": "SENJATA : PISTOL = ... : ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Pohon : Daun",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Melati : Bunga",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Kendaraan : Sepeda",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Peluru : Pistol",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Atap : Rumah",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pasangan soal: SENJATA : PISTOL.\n- Pistol adalah salah satu JENIS senjata (senjata api genggam).\n\nDITANYAKAN:\nPasangan yang hubungannya setara, termasuk arahnya.\n\nJAWAB:\n1. Tentukan jenis hubungan. Pistol ADALAH senjata, dan kalimat ujinya berlaku: “Pistol adalah sejenis senjata.” Jadi, hubungannya HIPERNIM (kelas umum) : HIPONIM (anggota kelas), dengan arah umum ke khusus.\n2. Bedakan dari hubungan bagian-keseluruhan. Pada hubungan bagian, kalimat ujinya adalah “B adalah bagian dari A”, bukan “B adalah sejenis A”.\n3. Uji Kendaraan : Sepeda. “Sepeda adalah sejenis kendaraan” benar, dan arahnya umum ke khusus. Cocok.\n4. Uji Pohon : Daun dan Atap : Rumah. “Daun adalah sejenis pohon” salah; daun adalah BAGIAN pohon. Atap adalah bagian rumah, dan arahnya pun bagian : keseluruhan.\n5. Uji Melati : Bunga. Melati adalah sejenis bunga, tetapi urutannya KHUSUS : UMUM, terbalik dari soal. Peluru : Pistol berpola amunisi : senjata, bukan jenis.\nJadi, jawaban yang tepat adalah (C) Kendaraan : Sepeda. Hubungannya kelas umum : anggota kelas (hipernim : hiponim) dengan arah yang sama.\nMengapa opsi lain kurang tepat:\n- (A) Daun adalah bagian dari pohon, bukan jenis pohon. Hubungannya keseluruhan : bagian.\n- (B) Melati memang jenis bunga, tetapi urutannya hiponim : hipernim, terbalik dari SENJATA : PISTOL.\n- (D) Peluru adalah amunisi yang ditembakkan pistol. Hubungannya amunisi : alat, bukan kelas : anggota.\n- (E) Atap adalah bagian dari rumah. Hubungannya bagian : keseluruhan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-04",
+    "description": "Bacalah kalimat berikut dengan saksama!\n\n“Majelis hakim mengesampingkan keterangan ahli itu karena dinilai terlalu spekulatif dan tidak bertumpu pada hasil pemeriksaan laboratorium.”\n\nLawan kata “spekulatif” yang paling tepat adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "hipotetis",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "faktual",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "subjektif",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "analitis",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "retoris",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kalimat: keterangan ahli dinilai “spekulatif”, yaitu tidak bertumpu pada hasil pemeriksaan.\n- Pilihan: hipotetis, faktual, subjektif, analitis, retoris.\n\nDITANYAKAN:\nAntonim kata “spekulatif”.\n\nJAWAB:\n1. Cari makna KBBI. Spekulatif berarti ‘bersifat spekulasi’, sedangkan spekulasi adalah ‘pendapat atau dugaan yang tidak berdasarkan kenyataan’.\n2. Tentukan sumbu makna: BERDASARKAN DUGAAN lawan BERDASARKAN KENYATAAN.\n3. Cari kata pada kutub berlawanan. Faktual berarti ‘berdasarkan kenyataan; mengandung kebenaran’. Kata ini tepat berlawanan dengan dugaan yang tidak berdasarkan kenyataan.\n4. Uji dalam konteks: keterangan yang faktual adalah keterangan yang bertumpu pada fakta hasil laboratorium. Ini kebalikan tepat dari yang dikesampingkan hakim.\nJadi, jawaban yang tepat adalah (B) faktual. Spekulatif (berdasarkan dugaan) berlawanan dengan faktual (berdasarkan kenyataan).\nMengapa opsi lain kurang tepat:\n- (A) Hipotetis berarti ‘masih berupa dugaan sementara’. Maknanya searah dengan spekulatif, jadi ini jebakan sinonim.\n- (C) Subjektif berlawanan dengan objektif. Sumbunya pribadi lawan tidak memihak, bukan dugaan lawan kenyataan. Pendapat subjektif pun bisa berdasarkan fakta.\n- (D) Analitis berarti bersifat menguraikan atau menganalisis. Analisis bisa saja dibangun di atas spekulasi, jadi bukan lawannya.\n- (E) Retoris berarti bersifat retorika, yaitu menekankan keefektifan bahasa atau pertanyaan yang tidak perlu dijawab. Sumbunya tidak terkait.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-07",
+    "description": "Perhatikan kelima kata berikut!\n\narmada – prajurit – kawanan – regu – rombongan\n\nKata yang TIDAK sekelompok dengan kata lainnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "armada",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "prajurit",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "kawanan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "regu",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "rombongan",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kata: armada, prajurit, kawanan, regu, rombongan.\n- Tiga kata bernuansa militer (armada, prajurit, regu) dan dua tidak (kawanan, rombongan).\n\nDITANYAKAN:\nKata yang tidak sekelompok beserta dasar pengelompokannya.\n\nJAWAB:\n1. Uji kriteria kasat mata. Kriteria ‘militer’ menyisakan DUA kata (kawanan dan rombongan), sehingga tidak menghasilkan jawaban tunggal dan harus ditinggalkan.\n2. Tentukan makna KBBI:\n   - armada = kesatuan kapal (perang atau niaga), atau kumpulan kendaraan\n   - kawanan = kelompok (binatang, orang)\n   - regu = kelompok (pasukan, pekerja, pemain) yang berjumlah tertentu\n   - rombongan = kumpulan orang yang berjalan atau bepergian bersama\n   - prajurit = anggota tentara; serdadu\n3. Rumuskan dasar pengelompokan. Armada, kawanan, regu, dan rombongan menyatakan KUMPULAN (nomina kolektif) yang beranggotakan banyak satuan.\n4. Prajurit menyatakan SATU orang (individu, anggota). Inilah yang tidak sekelompok.\nJadi, jawaban yang tepat adalah (B) prajurit. Empat kata lain adalah nomina kolektif (kumpulan), sedangkan prajurit adalah individu.\nMengapa opsi lain kurang tepat:\n- (A) Armada adalah kumpulan kapal atau kendaraan, jadi termasuk nomina kolektif.\n- (C) Kawanan adalah kelompok binatang atau orang. Ketiadaan nuansa militer hanya jebakan.\n- (D) Regu adalah kelompok beranggotakan beberapa orang, jadi kolektif.\n- (E) Rombongan adalah kumpulan orang yang bepergian bersama, jadi kolektif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-06",
+    "description": "PENULIS : ... = ... : PENONTON",
+    "image": "",
+    "options": [
+      {
+        "text": "Penerbit : Aktor",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Buku : Film",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Pembaca : Arsitek",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Editor : Kritikus",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Pembaca : Sutradara",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Bentuk analogi rumpang ganda: PENULIS : X = Y : PENONTON.\n- Kedua ujung yang diketahui adalah ORANG: penulis (pembuat karya) dan penonton (penikmat karya).\n\nDITANYAKAN:\nPasangan X dan Y yang membuat kedua sisi setara.\n\nJAWAB:\n1. Agar setara, kedua sisi harus berpola sama. Karena penonton adalah PENIKMAT karya, sisi kanan berpola pembuat (Y) : penikmat. Maka sisi kiri juga pembuat : penikmat, sehingga X adalah penikmat karya penulis.\n2. Isi X: karya penulis (buku atau tulisan) dinikmati oleh PEMBACA. Jadi, X = Pembaca.\n3. Isi Y: pembuat karya yang dinikmati PENONTON, yaitu film atau pertunjukan, adalah SUTRADARA. Jadi, Y = Sutradara.\n4. Uji: Penulis : Pembaca = Sutradara : Penonton. Kedua sisi berpola pembuat karya : penikmat karya.\n5. Periksa pengecoh. Pilihan (C) benar di rumpang pertama, tetapi karya arsitek (bangunan) dinikmati penghuni atau pengguna, bukan penonton. Pilihan (B) membentuk pola pembuat : karya = karya : penikmat yang tidak setara.\nJadi, jawaban yang tepat adalah (E) Pembaca : Sutradara. Penulis dinikmati karyanya oleh pembaca, dan sutradara oleh penonton.\nMengapa opsi lain kurang tepat:\n- (A) Penerbit bukan penikmat tulisan, dan aktor tampil di hadapan penonton, bukan pembuat karya yang ditonton. Kedua sisi tidak berpola pembuat : penikmat.\n- (B) Penulis : Buku = Film : Penonton mencampur pola pembuat : karya dengan karya : penikmat, sehingga tidak setara.\n- (C) Rumpang pertama benar, tetapi pengguna karya arsitek adalah penghuni atau pemakai bangunan, bukan penonton.\n- (D) Editor menyunting tulisan (pemeriksa, bukan penikmat), dan kritikus menilai karya, bukan pembuat karya yang ditonton.",
+    "difficulty": "sulit"
+  }
+]

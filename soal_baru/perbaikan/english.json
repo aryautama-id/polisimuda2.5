@@ -1,0 +1,2093 @@
+[
+ {
+  "id": "019afc96-8266-7a42-af8b-bc10b0d5013b",
+  "action": "revise",
+  "description": "Arrange the words into a correct sentence:\nan / important / making / is / decision / she",
+  "options": [
+   {
+    "id": "019afc96-826a-78f3-bd6c-dd45755a0d98",
+    "description": "She is an important making decision",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-826e-74d9-95e9-3664fc1fbe4e",
+    "description": "Making is she an important decision",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8272-79d5-90fd-f84222ffaeca",
+    "description": "She is making an important decision",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8276-7e3b-8bc8-0e377a7788da",
+    "description": "An important decision is making she",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-827c-73de-9774-aa4cc7fdd1c6",
+    "description": "She making is an important decision",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kata acak: an / important / making / is / decision / she.\n- she = kata ganti subjek (orang ketiga tunggal); is = to be; making = V-ing dari make; an = artikel; important = kata sifat; decision = kata benda.\n\nDITANYAKAN:\nSusunan kata yang membentuk kalimat bahasa Inggris yang benar.\n\nJAWAB:\n1. Tentukan subjek: She (kata ganti subjek di awal kalimat).\n2. Tentukan predikat: is + making = is making. Pola Present Continuous adalah S + am/is/are + V-ing; subjek she memakai is.\n3. Tentukan objek: making memerlukan objek. Urutan frasa benda adalah artikel + kata sifat + kata benda, sehingga menjadi an important decision. Artikel an dipakai karena important diawali bunyi vokal.\n4. Gabungkan dengan pola S + to be + V-ing + O: She is making an important decision. Artinya: \"Dia sedang mengambil keputusan penting.\"\n5. Cek: keenam kata terpakai tepat satu kali dan kalimatnya bermakna wajar.\nJadi, jawaban yang tepat adalah (C) She is making an important decision.\n\nMengapa opsi lain kurang tepat:\n- (A) She is an important making decision: making terselip di antara kata sifat dan kata benda sehingga frasa benda rusak dan kalimat tidak bermakna.\n- (B) Making is she an important decision: susunan subjek dan to be terbalik padahal bukan kalimat tanya, dan making tidak berfungsi sebagai predikat.\n- (D) An important decision is making she: she adalah kata ganti subjek dan tidak boleh menjadi objek (seharusnya her); maknanya pun terbalik.\n- (E) She making is an important decision: V-ing diletakkan sebelum to be, padahal pola Present Continuous mengharuskan is mendahului making.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: subjek 'this' diganti 'she' agar kalimat kunci bermakna wajar (She is making an important decision); pengecoh disesuaikan dan semuanya jelas tidak gramatikal; pembahasan ditulis ulang."
+ },
+ {
+  "id": "019afc96-8250-715a-ab9f-bad509507373",
+  "action": "revise",
+  "description": "Arrange the words correctly:\nthe / solving / students / problem / were / the",
+  "options": [
+   {
+    "id": "019afc96-8253-7b84-acd5-a3c19f7d9048",
+    "description": "The students were solving the problem",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8257-765a-aba2-78c03ada59e8",
+    "description": "The students solving were the problem",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-825a-7a02-8418-a2e8cca0c490",
+    "description": "Were the students the problem solving",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-825e-7bec-ab23-284b7916949d",
+    "description": "Solving the problem were the students",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8263-70c2-bfa4-70e252805f1a",
+    "description": "The problem were solving the students",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Soal meminta kita menyusun kata acak menjadi kalimat yang benar.\n- Kata yang tersedia: the, solving, students, problem, were, the (kata the muncul dua kali).\n- Peran kata: students = kata benda jamak (para siswa) sebagai subjek; were = kata kerja bantu (to be) bentuk lampau untuk subjek jamak; solving = kata kerja bentuk V-ing (memecahkan); problem = kata benda (masalah) sebagai objek; the = artikel penentu.\n\nDITANYAKAN:\nSusunan kata yang membentuk kalimat bahasa Inggris yang benar.\n\nJAWAB:\n1. Perhatikan kata were dan solving. Gabungan were + V-ing adalah rumus Past Continuous (kejadian yang sedang berlangsung di masa lampau): Subject + was/were + V-ing + Object.\n2. Subjek harus berupa frasa benda yang lengkap: The students (para siswa itu). Artikel the diletakkan di depan students.\n3. Subjek jamak (students) memakai were, bukan was.\n4. Setelah were datang kata kerja utama solving, lalu objeknya: the problem (masalah itu). Artikel the kedua ditempatkan di depan problem.\n5. Gabungkan: The students were solving the problem. Artinya: \"Para siswa itu sedang memecahkan masalah tersebut.\"\n6. Cek ulang: subjek (The students) - to be (were) - V-ing (solving) - objek (the problem). Urutan S + to be + V-ing + O terpenuhi, kedua \"the\" terpakai.\nJadi, jawaban yang tepat adalah (A) The students were solving the problem.\n\nMengapa opsi lain kurang tepat:\n- B. \"The students solving were the problem\" - solving diletakkan sebelum were; kata kerja bantu harus mendahului V-ing.\n- C. \"Were the students the problem solving\" - kata kerja bantu di awal membentuk pola kalimat tanya, tetapi sisanya (the problem solving) tidak membentuk kalimat tanya yang benar dan tidak bermakna.\n- D. \"Solving the problem were the students\" - susunan terbalik; subjek jamak ditaruh di akhir sehingga bukan kalimat baku bahasa Inggris dalam konteks ini.\n- E. \"The problem were solving the students\" - subjek problem (tunggal) tidak cocok dengan were, dan maknanya terbalik (\"masalah memecahkan para siswa\").",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci A diverifikasi (Past Continuous, S + were + V-ing + O); pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019afc96-823b-777e-b1ab-7fab1384d15f",
+  "action": "revise",
+  "description": "Arrange the words into a correct sentence:\nhas / already / assignment / finished / she / her",
+  "options": [
+   {
+    "id": "019afc96-823e-7b62-b73e-8702a0403274",
+    "description": "She has already finished her assignment",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8242-71f9-8900-59209d6a4c70",
+    "description": "She has already her assignment finished",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8244-7d14-9f38-7b795b0ae9f8",
+    "description": "She has finished already her assignment",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8247-7caa-b275-5cf0bb089f6e",
+    "description": "She already finished has her assignment",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-824b-7f39-8326-5922789fac41",
+    "description": "She finished has already her assignment",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kata acak: has / already / assignment / finished / she / her.\n- she = subjek; has = kata kerja bantu Present Perfect; finished = V3 dari finish; already = adverb (sudah); her = possessive adjective; assignment = kata benda (tugas).\n\nDITANYAKAN:\nSusunan kata yang membentuk kalimat bahasa Inggris yang benar dan baku.\n\nJAWAB:\n1. Ada has + finished, jadi kalimat berpola Present Perfect: S + has/have + V3 + O. Subjek she memakai has.\n2. Objeknya her assignment. Possessive adjective her harus berada tepat di depan kata benda yang diterangkannya.\n3. Adverb already pada Present Perfect diletakkan di posisi tengah, yaitu sesudah kata kerja bantu dan sebelum kata kerja utama: has already finished.\n4. Susunan lengkap: She has already finished her assignment. Artinya: \"Dia sudah menyelesaikan tugasnya.\"\nJadi, jawaban yang tepat adalah (A) She has already finished her assignment.\n\nMengapa opsi lain kurang tepat:\n- (B) She has already her assignment finished: objek her assignment menyelip di antara has already dan V3 finished sehingga pola Present Perfect terputus.\n- (C) She has finished already her assignment: already menyelip di antara kata kerja utama dan objeknya; dalam bahasa Inggris baku adverb tidak memisahkan kata kerja dari objek langsungnya.\n- (D) She already finished has her assignment: kata kerja bantu has diletakkan sesudah V3, padahal has harus mendahului finished.\n- (E) She finished has already her assignment: urutan finished dan has terbalik dan already memisahkan kata kerja dari objek.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: opsi B lama ('She already has finished...') masih dapat diterima dalam ragam informal sehingga diganti pengecoh yang jelas salah; opsi D diganti agar tidak berupa penempatan adverb yang diperdebatkan; pembahasan diperbarui."
+ },
+ {
+  "id": "019afc96-8296-700c-b447-bacd356085d1",
+  "action": "revise",
+  "description": "Choose the grammatically correct sentence!",
+  "options": [
+   {
+    "id": "019afc96-8299-70b7-8d4d-0b6a14788766",
+    "description": "She don’t like the way he talks",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-829c-78f3-8f71-71294bf85a10",
+    "description": "She doesn’t like the way he talks",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82a0-7624-968b-64d66dd93619",
+    "description": "She didn’t likes the way he talks",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82a6-75ee-952b-df5e1d2d60f7",
+    "description": "She not like the way he talks",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82ab-7480-bb6b-24e25825024a",
+    "description": "She hasn’t like the way he talks",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Soal meminta kalimat negatif yang benar secara tata bahasa.\n- Subjek semua opsi: She (orang ketiga tunggal). Kata kerja: like.\n- Tidak ada keterangan waktu lampau, sehingga kalimat berbentuk Simple Present.\n\nDITANYAKAN:\nKalimat negatif Simple Present yang benar dengan subjek She.\n\nJAWAB:\n1. Rumus negatif Simple Present untuk kata kerja biasa: S + do/does + not + V1.\n2. I/you/we/they memakai do not (don't); he/she/it memakai does not (doesn't).\n3. Setelah doesn't, kata kerja kembali ke bentuk dasar tanpa -s: like.\n4. Kalimat yang benar: She doesn't like the way he talks. Artinya: \"Dia (perempuan) tidak suka cara dia (laki-laki) berbicara.\"\nJadi, jawaban yang tepat adalah (B) She doesn’t like the way he talks.\n\nMengapa opsi lain kurang tepat:\n- (A) She don’t like ...: don't hanya untuk I/you/we/they; subjek she harus memakai doesn't.\n- (C) She didn’t likes ...: setelah didn't kata kerja harus V1 (like), bukan likes.\n- (D) She not like ...: kalimat negatif dengan kata kerja biasa wajib memakai kata bantu does; not tidak bisa langsung diletakkan sebelum like.\n- (E) She hasn’t like ...: hasn't (Present Perfect) harus diikuti V3 (liked), bukan V1.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: opsi D lama ('She isn't like the way he talks') diganti 'She not like the way he talks' agar jelas salah tanpa perdebatan makna; pembahasan diperbarui."
+ },
+ {
+  "id": "019afc96-82d1-7920-bbd0-080605f0730b",
+  "action": "revise",
+  "description": "Choose the correct sentence!",
+  "options": [
+   {
+    "id": "019afc96-82d6-7b7f-8dea-02af0470b22c",
+    "description": "The information were very useful",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82da-7e60-8e77-496e77a90c66",
+    "description": "The information are very useful",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82e0-77e2-835b-7c45c9bce5e7",
+    "description": "The information is very useful",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82e6-7d67-a75e-cbc31c16498b",
+    "description": "The informations are very useful",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82ef-7218-b9e0-6b11c6b95f6b",
+    "description": "The information be very useful",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Soal meminta memilih kalimat yang benar secara tata bahasa.\n- Opsi A: The information were very useful.\n- Opsi B: The information are very useful.\n- Opsi C: The information is very useful.\n- Opsi D: The informations are very useful.\n- Opsi E: The information be very useful.\n- Kata kunci: information (informasi).\n\nDITANYAKAN:\nKalimat yang sesuai kaidah, terutama kesesuaian subjek dan kata kerja.\n\nJAWAB:\n1. Information adalah uncountable noun (kata benda tak terhitung). Ia tidak memiliki bentuk jamak (tidak ada informations) dan dianggap tunggal.\n2. Subjek tunggal dalam simple present memakai is; are dan were (jamak) tidak cocok.\n3. Karena kalimat menyatakan keadaan umum (sangat berguna) dan tanpa petunjuk lampau, kalimat yang benar adalah: The information is very useful. Artinya: \"Informasi itu sangat berguna.\"\n4. Uji opsi satu per satu: A memakai were (jamak lampau) sehingga salah; B memakai are (jamak) sehingga salah; D memakai informations yang tidak baku; E memakai be tanpa bentuk yang sesuai subjek.\nJadi, jawaban yang tepat adalah (C) The information is very useful.\n\nMengapa opsi lain kurang tepat:\n- A. were - kata kerja jamak lampau untuk subjek tunggal tak terhitung.\n- B. are - kata kerja jamak; information tidak dapat dijamakkan.\n- D. informations - information tidak punya bentuk jamak.\n- E. be - bukan bentuk yang cocok untuk subjek orang ketiga tunggal; seharusnya is.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi (information = uncountable, kata kerja tunggal); pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019afc96-8356-7a1d-9ef2-c627bc09a231",
+  "action": "revise",
+  "description": "Choose the grammatically correct sentence!",
+  "options": [
+   {
+    "id": "019afc96-835a-72e0-a61f-0a3d790baee5",
+    "description": "He is one of the player who was selected",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-835d-751b-a369-705acbce89c6",
+    "description": "He is one of the players who were selected",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8360-7913-999c-42407e79c5af",
+    "description": "He is one of the players who was selected",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8365-7128-9c83-30f2d71e9f6f",
+    "description": "He are one of the players who were selected",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-836a-7352-9125-3c56ee10d3a4",
+    "description": "He is one of the player who were selected",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Soal meminta memilih kalimat yang benar.\n- Opsi A: He is one of the player who was selected.\n- Opsi B: He is one of the players who were selected.\n- Opsi C: He is one of the players who was selected.\n- Opsi D: He are one of the players who were selected.\n- Opsi E: He is one of the player who were selected.\n- Pola yang diuji: one of the + kata benda jamak + who + kata kerja.\n\nDITANYAKAN:\nKalimat yang benar dalam kesesuaian subjek-kata kerja pada klausa relatif who.\n\nJAWAB:\n1. Setelah one of the, kata benda harus jamak: players (bukan player). Jadi opsi A dan E salah.\n2. Subjek kalimat utama adalah He (tunggal), sehingga to be-nya is, bukan are. Jadi opsi D salah.\n3. Klausa relatif who ... mengikuti kata benda yang diterangkannya (anteseden), yaitu the players (jamak), BUKAN one. Karena anteseden jamak, kata kerja dalam klausa relatif jamak: were selected.\n4. Kalimat: He is one of the players who were selected. Artinya: \"Dia salah satu dari para pemain yang terpilih.\"\n5. Pembanding: bila memakai the only one of the players who ..., barulah kata kerja tunggal (was) karena yang diterangkan adalah only one. Pada soal ini tidak ada only.\nJadi, jawaban yang tepat adalah (B) He is one of the players who were selected.\n\nMengapa opsi lain kurang tepat:\n- A. one of the player - setelah one of the kata benda harus jamak; selain itu who was tidak cocok.\n- C. who was selected - kata kerja tunggal padahal anteseden who adalah players (jamak).\n- D. He are - subjek He tunggal harus memakai is.\n- E. one of the player - kata benda harus jamak (players).",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: kunci B diverifikasi menurut tata bahasa baku (one of the + plural + who + kata kerja jamak); pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019afc96-830c-79f7-9b67-adaffa468e67",
+  "action": "revise",
+  "description": "Choose the grammatically correct sentence!",
+  "options": [
+   {
+    "id": "019afc96-830f-7ba0-89ac-5471acab32c7",
+    "description": "Neither of the answer is correct",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8313-73c4-96df-799625bf6b7f",
+    "description": "Neither of the answers is correct",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8316-7a6d-8417-415a8ae58d0a",
+    "description": "Neither the answers are correct",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-831c-7ede-855d-b5a3c4201251",
+    "description": "Neither answers is correct",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8321-7649-b60c-0d1299d3f767",
+    "description": "Neither answers are correct",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Soal meminta kalimat yang benar secara tata bahasa baku.\n- Pola yang diuji: neither of + the + kata benda jamak + kata kerja.\n\nDITANYAKAN:\nKalimat dengan susunan neither dan kesesuaian subjek-kata kerja yang baku.\n\nJAWAB:\n1. Neither memiliki dua pola baku: (a) neither + kata benda tunggal (neither answer), atau (b) neither of + the/these/my + kata benda jamak (neither of the answers).\n2. Pada pola neither of the + jamak, subjek sebenarnya adalah neither (tidak satu pun), yang bermakna tunggal. Dalam tata bahasa baku kata kerjanya tunggal: is.\n3. Kalimat baku: Neither of the answers is correct. Artinya: \"Tidak satu pun dari jawaban-jawaban itu benar.\"\nJadi, jawaban yang tepat adalah (B) Neither of the answers is correct.\n\nMengapa opsi lain kurang tepat:\n- (A) Neither of the answer is correct: setelah neither of the, kata benda harus jamak (answers), bukan answer.\n- (C) Neither the answers are correct: neither tidak langsung diikuti the + kata benda jamak tanpa of.\n- (D) Neither answers is correct: tanpa of, neither harus diikuti kata benda tunggal (neither answer is correct).\n- (E) Neither answers are correct: sama seperti D, kata benda jamak tidak boleh langsung mengikuti neither, dan kata kerja jamak tidak baku untuk neither.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: opsi A lama ('Neither of the answers are correct') diterima dalam ragam informal sehingga diganti 'Neither of the answer is correct' (kata benda tunggal setelah 'of the') agar kunci tunggal; pembahasan diperbarui."
+ },
+ {
+  "id": "0198a937-03e0-70fb-8697-2fa9e976715d",
+  "action": "revise",
+  "description": "Neither the officer nor the suspects ____ in the room now.",
+  "options": [
+   {
+    "id": "0198a937-03e3-77a7-80b9-19059c12d283",
+    "description": "is",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0198a937-03e6-7eee-8f0e-3a66e81aad6d",
+    "description": "are",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0198a937-03ec-7347-b497-b2b6fe1b93a9",
+    "description": "were",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0198a937-03ef-750f-8477-4494d2018a15",
+    "description": "be",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0198a937-03f2-75ba-bc19-a3c996978a36",
+    "description": "been",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat: \"Neither the officer nor the suspects ____ in the room now.\" (Baik petugas maupun para tersangka tidak ... di dalam ruangan sekarang.)\n- Pola: neither ... nor ...\n- Subjek pertama: the officer (tunggal). Subjek kedua, yang terdekat dengan kata kerja: the suspects (jamak).\n- Keterangan waktu: now (sekarang) = present.\n- Opsi: is, are, were, be, been.\n\nDITANYAKAN:\nBentuk to be yang tepat pada pola neither ... nor ... dengan waktu sekarang.\n\nJAWAB:\n1. Aturan kedekatan (proximity rule): dalam neither ... nor ..., kata kerja disesuaikan dengan subjek yang paling dekat dengannya.\n2. Subjek paling dekat dengan kata kerja adalah the suspects (jamak, karena ada s).\n3. Karena ada kata now, kalimat berwaktu present, sehingga to be jamak present: are.\n4. Kalimat: Neither the officer nor the suspects are in the room now. Artinya: \"Baik petugas maupun para tersangka tidak ada di dalam ruangan sekarang.\"\n5. Cek ulang: jika urutannya dibalik (Neither the suspects nor the officer is ...), baru memakai is. Karena urutan soal berakhir dengan the suspects, maka are.\nJadi, jawaban yang tepat adalah (B) are.\n\nMengapa opsi lain kurang tepat:\n- A. is - tunggal, mengikuti the officer yang bukan subjek terdekat.\n- C. were - jamak tetapi lampau, bertentangan dengan now.\n- D. be - bentuk dasar; tidak dapat dipakai sebagai predikat tanpa modal.\n- E. been - V3; memerlukan have/has/had.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci B diverifikasi (neither...nor mengikuti subjek terdekat 'the suspects', penanda 'now'); pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019afc96-833e-7134-8b4e-7b0c15c047e0",
+  "action": "revise",
+  "description": "Choose the correct passive sentence!",
+  "options": [
+   {
+    "id": "019afc96-8341-7e99-af46-4be44ca83c93",
+    "description": "The project completed by the team",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8346-7c96-a8c9-54a91afa20b0",
+    "description": "The project was completed by the team",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-834b-73a4-9668-60754e8c3359",
+    "description": "The project has complete by the team",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-834e-7922-9915-0d7147e02171",
+    "description": "The project is complete by the team",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8351-79c4-a54e-13fed919d94c",
+    "description": "The project was complete the team",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Soal: \"Choose the correct passive sentence!\" (Pilih kalimat pasif yang benar.)\n- Opsi: A \"The project completed by the team\" B \"The project was completed by the team\" C \"The project has complete by the team\" D \"The project is complete by the team\" E \"The project was complete the team\"\n- Semua opsi memakai pelaku the team dan benda the project.\n\nDITANYAKAN:\nKalimat pasif yang lengkap dan gramatikal.\n\nJAWAB:\n1. Rumus kalimat pasif: S (penerima tindakan) + be (sesuai tense) + V3 + (by + pelaku). Kata be harus ada dan diikuti past participle (V3).\n2. V3 dari complete adalah completed.\n3. Periksa tiap opsi:\n   - A \"The project completed by the team\": tidak ada be. Salah.\n   - B \"The project was completed by the team\": was (be lampau) + completed (V3) + by the team. Benar. Artinya: Proyek itu diselesaikan oleh tim.\n   - C \"The project has complete by the team\": has tidak diikuti been dan complete bukan V3. Present perfect pasif yang benar adalah \"has been completed\". Salah.\n   - D \"The project is complete by the team\": is complete menjadikan complete sebagai kata sifat (selesai), dan by the team tidak cocok dengan adjektiva. Salah sebagai kalimat pasif.\n   - E \"The project was complete the team\": tidak ada by dan complete bukan V3. Salah.\n4. Hanya B yang memenuhi semua unsur.\nJadi, jawaban yang tepat adalah (B) The project was completed by the team.\n\nMengapa opsi lain kurang tepat:\n- (A) tidak punya auxiliary be.\n- (C) \"has complete\" salah; seharusnya \"has been completed\".\n- (D) is complete adalah bentuk be + adjective (bukan pasif).\n- (E) tidak lengkap: tanpa by, dan complete bukan bentuk V3.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci B diverifikasi (pasif = be + V3); pembahasan sudah lengkap."
+ },
+ {
+  "id": "019afc96-82b1-79a9-9021-db35696aaf2e",
+  "action": "revise",
+  "description": "Choose the correct conditional sentence!",
+  "options": [
+   {
+    "id": "019afc96-82b5-7b1c-aa8a-f6f4d5a9d041",
+    "description": "If they will arrive early, we start the meeting",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82ba-7440-9aee-78993a726122",
+    "description": "If they arrived early, we start the meeting",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82be-726f-80e1-30ed223fe1b3",
+    "description": "If they arrive early, we will start the meeting",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82c2-7646-8f43-ca9d6432af35",
+    "description": "If they arrives early, we start the meeting",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82cc-7355-a769-22af038766d1",
+    "description": "If they will arriving early, we start the meeting",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Soal: \"Choose the correct conditional sentence!\" (Pilih kalimat pengandaian yang benar.)\n- Opsi: A \"If they will arrive early, we start the meeting\" B \"If they arrived early, we start the meeting\" C \"If they arrive early, we will start the meeting\" D \"If they arrives early, we start the meeting\" E \"If they will arriving early, we start the meeting\"\n\nDITANYAKAN:\nKalimat pengandaian dengan pola gramatikal yang benar.\n\nJAWAB:\n1. Ingat pola conditional: Type 1: If + simple present, will + V1 (kemungkinan nyata). Type 0: If + simple present, simple present (fakta umum). Type 2: If + simple past, would + V1. Type 3: If + past perfect, would have + V3.\n2. Kaidah penting: kata will tidak dipakai di if-clause pada Type 1.\n3. Periksa opsi:\n   - A \"If they will arrive early, we start\": will di dalam if-clause (salah), dan main clause present tidak lazim bersama will-pairing.\n   - B \"If they arrived early, we start\": simple past berpasangan dengan would + V1, bukan simple present. Pasangannya tidak serasi.\n   - C \"If they arrive early, we will start the meeting\": if-clause simple present (arrive) dan main clause will + V1 (start). Pola Type 1 sempurna.\n   - D \"If they arrives early\": subjek they jamak, kata kerja tidak boleh diberi -s.\n   - E \"If they will arriving early\": will diikuti -ing salah.\n4. Hanya C yang benar. Artinya: Jika mereka tiba lebih awal, kami akan memulai rapat.\nJadi, jawaban yang tepat adalah (C) If they arrive early, we will start the meeting.\n\nMengapa opsi lain kurang tepat:\n- (A) will tidak boleh berada di if-clause.\n- (B) tense pada if-clause dan main clause tidak serasi (simple past dengan simple present).\n- (D) kesalahan subject-verb agreement (they arrives).\n- (E) will + V-ing tidak gramatikal.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi (conditional type 1: If + simple present, will + V1); pembahasan sudah lengkap."
+ },
+ {
+  "id": "019afc96-82f4-73f2-af3a-0d7ca4f3b2db",
+  "action": "revise",
+  "description": "Choose the correct sentence!",
+  "options": [
+   {
+    "id": "019afc96-82f9-7144-b0f0-800fe46c2ed8",
+    "description": "He suggested to take a break",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-82fc-7c7a-afec-ab67f39f88d3",
+    "description": "He suggested taking a break",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8300-78a7-a6d2-38764c23f351",
+    "description": "He suggested us to take a break",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8304-7f05-a5df-463cdaccafd9",
+    "description": "He suggested to taking a break",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8308-7315-9761-9963caf9a221",
+    "description": "He suggested take a break",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Soal meminta kalimat yang benar dengan kata kerja suggest (menyarankan).\n- Semua opsi berbentuk lampau (suggested) dan berbeda hanya pada bentuk kata kerja sesudahnya.\n\nDITANYAKAN:\nBentuk kata kerja yang tepat setelah suggest.\n\nJAWAB:\n1. Suggest termasuk kata kerja yang diikuti gerund (V-ing), seperti enjoy, avoid, finish, dan mind: suggest + V-ing.\n2. Suggest tidak diikuti to-infinitive dan tidak memakai pola suggest + objek + to-infinitive (berbeda dengan advise someone to ...).\n3. Maka bentuk yang benar: He suggested taking a break. Artinya: \"Dia menyarankan untuk beristirahat sejenak.\"\nJadi, jawaban yang tepat adalah (B) He suggested taking a break.\n\nMengapa opsi lain kurang tepat:\n- (A) He suggested to take a break: suggest tidak diikuti to-infinitive.\n- (C) He suggested us to take a break: suggest tidak memakai pola objek + to-infinitive; bentuk yang benar misalnya He suggested that we take a break.\n- (D) He suggested to taking a break: to + V-ing tidak tepat di sini karena to setelah suggest bukan preposisi.\n- (E) He suggested take a break: suggest tidak boleh diikuti kata kerja bentuk dasar secara langsung.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: soal dipusatkan pada materi gerund (suggest + V-ing). Opsi that-clause dihapus karena 'He suggested that we took a break' diterima dalam sebagian ragam Inggris Britania; kunci kini 'He suggested taking a break' dan semua pengecoh jelas salah."
+ },
+ {
+  "id": "019afc96-83c2-74f9-939d-d475010ab451",
+  "action": "revise",
+  "description": "Are you looking for a way to reduce plastic waste while keeping your drink fresh all day? Try the EcoSmart Bottle, designed with double-wall insulation to keep your beverage hot for 12 hours or cold for 24 hours. Made from durable stainless steel, it’s reusable, stylish, and environmentally friendly.\nEvery purchase contributes to a global reforestation project — for each bottle sold, one tree is planted. Available in five colors and three sizes, EcoSmart Bottle combines functionality and sustainability in one sleek design.\nGet yours now at www.ecosmart.co.id and join the movement for a cleaner, greener planet!\nWhat is the antonym of the word durable in the first paragraph?",
+  "options": [
+   {
+    "id": "019afc96-83c6-70f8-8685-b9d11ee37585",
+    "description": "Fragile",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-83ca-7189-ba07-84a277fb0458",
+    "description": "Strong",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-83cf-766c-b9d7-59a5111f59bc",
+    "description": "Sturdy",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-83d3-780f-b33d-d7a79feb8a34",
+    "description": "Resistant",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-83d7-7b32-b007-6a544d0d09e5",
+    "description": "Permanent",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Iklan botol minum EcoSmart Bottle.\n- Kalimat di paragraf pertama: \"Made from durable stainless steel, it's reusable, stylish, and environmentally friendly.\" (Terbuat dari baja tahan karat yang awet/kuat, botol ini dapat dipakai ulang, bergaya, dan ramah lingkungan.)\n- Kata yang ditanyakan: \"durable\" (di teks, kata ini muncul di paragraf pertama).\n- Pilihan: Fragile, Strong, Sturdy, Resistant, Permanent.\n\nDITANYAKAN:\nAntonim (lawan kata) dari \"durable\".\n\nJAWAB:\n1. Arti \"durable\": awet, tahan lama, tidak mudah rusak (KBBI: tahan lama; kuat).\n2. Lawan dari \"tidak mudah rusak\" adalah \"mudah rusak / mudah pecah\".\n3. Uji setiap opsi:\n   - Fragile = rapuh, mudah pecah atau rusak. Maknanya berlawanan dengan durable.\n   - Strong = kuat. Searah dengan durable (bukan lawan).\n   - Sturdy = kokoh. Searah dengan durable.\n   - Resistant = tahan (terhadap sesuatu). Searah dengan durable.\n   - Permanent = tetap, kekal. Lebih dekat ke \"tahan lama\" daripada \"rapuh\".\n4. Hanya \"fragile\" yang menyatakan kondisi mudah rusak, sehingga itulah antonimnya.\nJadi, jawaban yang tepat adalah (A) Fragile.\n\nMengapa opsi lain kurang tepat:\n- (B) Strong: \"kuat\", sinonim durable, bukan antonim.\n- (C) Sturdy: \"kokoh\", sinonim durable.\n- (D) Resistant: \"tahan\", searah dengan durable.\n- (E) Permanent: \"kekal/tetap\", lebih dekat ke tahan lama, bukan lawan durable.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci A (Fragile) diverifikasi sebagai satu-satunya antonim 'durable'; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad651-5258-7030-9a2e-dda6e0659ec4",
+  "action": "revise",
+  "description": "Elon Musk, born in Pretoria, South Africa, in 1971, is widely known as one of the most influential innovators of the 21st century. From an early age, Musk showed exceptional curiosity in technology and entrepreneurship. At 12, he created and sold a simple video game, marking the beginning of his lifelong fascination with innovation.\n\nAfter moving to the United States, Musk co-founded several companies, including PayPal, which revolutionized online payments, and SpaceX, the first private company to send rockets into orbit. Through Tesla, he redefined the electric vehicle industry, promoting sustainable energy solutions and inspiring a global movement toward cleaner technology.\n\nDespite numerous failures and public criticism, Musk remains determined and visionary. His story exemplifies that perseverance and creativity can transform ambitious dreams into real progress for humanity.\n\nThe antonym of the word visionary in the last paragraph is …",
+  "options": [
+   {
+    "id": "019ad651-525b-79bb-aec2-62735beb1313",
+    "description": "Imaginative",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad651-525f-75ae-9175-d2fece7ac66a",
+    "description": "Innovative",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad651-5262-7a71-b505-731daf7da76b",
+    "description": "Shortsighted",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad651-5265-7ca9-a7aa-15d23764ff2b",
+    "description": "Ambitious",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad651-5268-7e4b-8317-92ba2bb05eef",
+    "description": "Creative",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Teks tentang Elon Musk: “Despite numerous failures and public criticism, Musk remains determined and visionary.” (Meski banyak kegagalan dan kritik publik, Musk tetap teguh dan visioner.)\n- Kata yang ditanyakan: “visionary” di paragraf terakhir; yang diminta adalah antonimnya.\n- Pilihan: Imaginative, Innovative, Shortsighted, Ambitious, Creative.\n\nDITANYAKAN:\nLawan kata dari “visionary”.\n\nJAWAB:\n1. Kutipan: “Musk remains determined and visionary.” Di sini “visionary” menunjukkan orang yang punya pandangan jauh ke depan dan gagasan besar tentang masa depan.\n2. “Visionary” = berpandangan jauh ke depan, penuh gagasan masa depan. Sinonim: forward-thinking, imaginative, innovative.\n3. Karena yang diminta antonim, cari kata yang berarti tidak berpandangan jauh / hanya melihat jangka pendek.\n4. Uji opsi: Imaginative = penuh imajinasi (searah); Innovative = inovatif (searah); Shortsighted = berpandangan sempit/jangka pendek (berlawanan); Ambitious = ambisius (searah, punya cita-cita besar); Creative = kreatif (searah).\n5. Empat opsi bernada positif dan searah dengan visionary. Hanya “shortsighted” yang berlawanan (kebalikan dari far-sighted/visionary).\nJadi, jawaban yang tepat adalah (C) Shortsighted.\n\nMengapa opsi lain kurang tepat:\n- (A) Imaginative: berimajinasi. Sinonim visionary.\n- (B) Innovative: inovatif. Sinonim/searah; orang visioner justru biasanya inovatif.\n- (D) Ambitious: ambisius. Searah; orang visioner biasanya punya cita-cita besar.\n- (E) Creative: kreatif. Searah.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi: kunci C (Shortsighted) diverifikasi sebagai satu-satunya antonim 'visionary'; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019afc96-8148-7618-b1dd-e3a5d1e34f2f",
+  "action": "revise",
+  "description": "The giant panda is one of the most recognizable animals in the world, known for its distinctive black-and-white fur and round, gentle appearance. Native to the cool, misty mountain forests of central China, pandas spend most of their time quietly feeding on bamboo. Although bamboo provides little nutrition, an adult panda can consume up to forty kilograms every day just to produce enough energy for its slow and relaxed lifestyle.\n\nDespite being seen as a global symbol of peace and environmental protection, pandas were once on the brink of extinction. Rapid deforestation and expanding human settlements destroyed large areas of their natural habitat. As forests disappeared, pandas found it harder to find enough food and safe places to live. Their numbers slowly decreased, causing concern among scientists and environmental organizations around the world.\n\nIn response, governments and conservation groups launched major protection programs. They created panda reserves, protected bamboo forests, and developed breeding programs in specialized research centers. These efforts required patience and long-term commitment, but over time, they showed positive results. Panda populations began to slowly increase again, proving that human action could help reverse environmental damage.\n\nPandas are mostly solitary creatures and prefer to spend their days alone, marking their territory using scent and soft vocal sounds. They are generally calm and non-aggressive, which adds to their image as gentle and peaceful animals. Their behavior, combined with their unique appearance, has made them powerful ambassadors for wildlife protection and conservation awareness across the world.\n\nToday, the giant panda stands as a symbol of hope. It reminds people that endangered species can still be saved if humans choose to act responsibly and protect the environment. The panda’s story teaches an important lesson: once harm is done, it may be difficult to fix, but with dedication, change is still possible.\n\nThe word \"solitary\" in the text is closest in meaning to …",
+  "options": [
+   {
+    "id": "019afc96-814c-700e-a3d4-a09948fff3db",
+    "description": "Social",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8150-71a0-bfa9-66841bc02c1b",
+    "description": "Independent",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8154-795d-a0e3-318b1119fbcc",
+    "description": "Playful",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8158-7de2-b1a6-005e3eafd3bb",
+    "description": "Alone",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-815c-7464-874e-284cf3cb6b91",
+    "description": "Aggressive",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat yang memuat kata soal: \"Pandas are mostly solitary creatures and prefer to spend their days alone, marking their territory using scent and soft vocal sounds.\" (Panda sebagian besar adalah makhluk penyendiri dan lebih suka menghabiskan hari sendirian.)\n- Kalimat berikutnya: \"They are generally calm and non-aggressive.\"\n- Pilihan: Social, Independent, Playful, Alone, Aggressive.\n\nDITANYAKAN:\nKata yang paling dekat maknanya dengan \"solitary\".\n\nJAWAB:\n1. Solitary (kata sifat) berarti hidup atau berada sendirian, menyendiri.\n2. Konteks teks langsung menjelaskannya: \"prefer to spend their days alone\" (lebih suka menghabiskan hari sendirian).\n3. Kata yang bermakna sama adalah alone (sendirian).\nJadi, jawaban yang tepat adalah (D) Alone.\n\nMengapa opsi lain kurang tepat:\n- (A) Social: suka hidup berkelompok, justru lawan kata solitary.\n- (B) Independent: mandiri atau tidak bergantung pada pihak lain; maknanya bukan \"sendirian\".\n- (C) Playful: suka bermain; tidak berhubungan dengan makna solitary dan tidak disebut teks.\n- (E) Aggressive: suka menyerang; bertentangan dengan teks yang menyebut panda \"non-aggressive\".",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: opsi 'Lonely but peaceful' (bermakna sedih kesepian, tidak sesuai teks) diganti 'Alone'; 'Crowd' (kata benda) dan 'Dangerous' diganti 'Playful' dan 'Aggressive' agar semua opsi sejenis (kata sifat) dan hanya satu yang bersinonim dengan 'solitary'."
+ },
+ {
+  "id": "019a91dd-a766-7b17-beb8-d8ced97aa71b",
+  "action": "revise",
+  "description": "Whales are the largest mammals in the ocean. They belong to a group of animals known as cetaceans, which also includes dolphins and porpoises. Whales are warm-blooded, breathe air through their blowholes, and give birth to live young.\n\nThere are two main types of whales: baleen whales and toothed whales. Baleen whales, such as the blue whale, use baleen plates to filter small fish and plankton from seawater. Toothed whales, like the sperm whale, have teeth and hunt larger prey such as squid.\n\nDespite their size and strength, many species of whales are endangered due to hunting, pollution, and climate change. International organizations have made efforts to protect them through conservation programs and strict regulations on whaling.\n\nWhat makes many whale species endangered?",
+  "options": [
+   {
+    "id": "019a91dd-a76a-75de-ad81-4c4b0892aa4e",
+    "description": "Limited food supply",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a91dd-a76d-7ae6-96d8-59610f632e43",
+    "description": "Hunting, pollution, and climate change",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019a91dd-a771-7971-a7d3-e12dcbd5d1c9",
+    "description": "The cold water",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a91dd-a775-7695-8aec-fcbc2a977dba",
+    "description": "Natural predators",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a91dd-a779-7193-9d79-811e781edcee",
+    "description": "Lack of oxygen",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Teks tentang paus: mamalia terbesar di laut, berdarah panas, bernapas lewat lubang semprot, melahirkan anak; ada baleen whales dan toothed whales.\n- Paragraf 3: \"many species of whales are endangered due to hunting, pollution, and climate change.\" (banyak spesies paus terancam punah karena perburuan, polusi, dan perubahan iklim).\n\nDITANYAKAN:\nPenyebab banyak spesies paus terancam punah.\n\nJAWAB:\n1. Kata kunci soal: endangered. Kata ini muncul di paragraf 3.\n2. Kata due to (karena) diikuti tiga penyebab: hunting, pollution, dan climate change.\n3. Opsi yang memuat ketiga penyebab itu adalah \"Hunting, pollution, and climate change\".\nJadi, jawaban yang tepat adalah (B) Hunting, pollution, and climate change.\n\nMengapa opsi lain kurang tepat:\n- (A) Limited food supply: kekurangan makanan tidak disebut sebagai penyebab.\n- (C) The cold water: air dingin tidak disebut; paus justru hewan berdarah panas yang hidup di laut.\n- (D) Natural predators: predator alami tidak disebut.\n- (E) Lack of oxygen: paus bernapas di permukaan melalui lubang semprot; kekurangan oksigen tidak disebut sebagai ancaman.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: opsi kunci diganti dari 'Overfishing, pollution, and hunting' (overfishing tidak disebut teks) menjadi 'Hunting, pollution, and climate change' sesuai paragraf 3; pembahasan diperbarui."
+ },
+ {
+  "id": "019ad61e-9ec4-7b8e-9494-1dc98f92eafb",
+  "action": "revise",
+  "description": "The Crystal Reef Marine Sanctuary is one of the most protected marine areas in Southeast Asia, located just a few kilometers off the coast of Sulawesi. Covering nearly sixty square kilometers of clear turquoise water, the sanctuary is known for its exceptional underwater visibility. Visitors can often see fish swimming beneath boats even before diving. The calm waves, warm sunlight, and gentle ocean breeze make Crystal Reef a peaceful escape for nature lovers.\n\nIn the shallow areas, vibrant coral gardens spread like living carpets. Dozens of coral species grow in clusters, creating shelters for small fish, sea stars, and colorful sea slugs. Marine biologists often describe the sanctuary as a natural classroom, where each coral formation reveals the delicate balance of underwater ecosystems. Snorkelers can spend hours following the movement of fish weaving in and out of the reefs.\n\nFarther from the shore, the sanctuary becomes deeper and darker, inhabited by larger marine species. Sea turtles glide gracefully through the open water, while manta rays move slowly with their wide wings, creating a mesmerizing underwater dance. During certain months, visitors may even spot dolphins traveling in groups near the surface. These larger species are protected under strict conservation rules to ensure their populations remain stable.\n\nThe Crystal Reef Marine Sanctuary is not only a place for visitors but also a major research site. Scientists from different countries regularly visit to study coral bleaching, fish migration, and the long-term effects of climate change. The sanctuary is equipped with underwater cameras and monitoring stations that record marine activities throughout the year. These efforts help researchers understand how to protect coral reefs more effectively.\n\nDespite its beauty, the sanctuary faces challenges. Rising sea temperatures, plastic waste, and illegal fishing still threaten parts of the ecosystem. To address these issues, the local community works with environmental organizations to conduct regular coastal clean-ups, educational programs, and strict patrol operations. Their collective commitment keeps Crystal Reef one of the most successful marine conservation areas in the region.\n\nWhat can be inferred about the community’s role in protecting the sanctuary?",
+  "options": [
+   {
+    "id": "019ad61e-9ec7-761b-8e18-65a583bbe69d",
+    "description": "They rely entirely on scientists to preserve the reefs",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ec9-7b1e-99ba-777e0be90d27",
+    "description": "They refuse to participate in conservation programs",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ecb-7bd9-9d87-bf279516079d",
+    "description": "They actively work together with organizations to protect the ecosystem",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ecd-7b77-83ab-09dd4ef892fd",
+    "description": "They believe conservation is unnecessary",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ecf-79fa-b931-935a9cf9e931",
+    "description": "Their involvement has caused more environmental issues",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 5: \"the local community works with environmental organizations to conduct regular coastal clean-ups, educational programs, and strict patrol operations.\" (Masyarakat lokal bekerja sama dengan organisasi lingkungan menyelenggarakan pembersihan pantai rutin, program edukasi, dan patroli ketat.)\n- \"Their collective commitment keeps Crystal Reef one of the most successful marine conservation areas in the region.\" (Komitmen bersama mereka menjadikan Crystal Reef salah satu kawasan konservasi laut paling berhasil di kawasan itu.)\n\nDITANYAKAN:\nSimpulan tentang peran masyarakat dalam melindungi suaka.\n\nJAWAB:\n1. Cari kata \"community\" di teks: paragraf terakhir.\n2. Masyarakat \"works with environmental organizations\" dan melakukan pembersihan pantai, edukasi, dan patroli. Itu berarti mereka aktif dan bekerja sama.\n3. Kalimat penutup menyebut \"collective commitment\" (komitmen bersama), yang menegaskan peran aktif mereka.\n4. Opsi C, \"They actively work together with organizations to protect the ecosystem\", tepat.\n5. Opsi B berkebalikan dengan teks: \"refuse to participate\" (menolak berpartisipasi).\nJadi, jawaban yang tepat adalah (C) They actively work together with organizations to protect the ecosystem.\n\nMengapa opsi lain kurang tepat:\n- A. They rely entirely on scientists to preserve the reefs: ilmuwan memang meneliti, tetapi masyarakat sendiri aktif, tidak bergantung sepenuhnya pada ilmuwan.\n- B. They refuse to participate in conservation programs: bertentangan dengan teks; masyarakat berpartisipasi aktif.\n- D. They believe conservation is unnecessary: masyarakat justru menjalankan program konservasi, jadi mereka menganggapnya perlu.\n- E. Their involvement has caused more environmental issues: tidak ada bukti keterlibatan masyarakat memperburuk masalah; mereka mengurangi masalah.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi dengan paragraf 5; teks bacaan dirapikan (baris tersambung); pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad58c-8b5f-7b24-92e7-5dfbe543e465",
+  "action": "revise",
+  "description": "The Borobudur Temple, located in Magelang, Central Java, is one of Indonesia’s most magnificent architectural achievements. Constructed during the 9th century under the Syailendra Dynasty, the temple symbolizes the spiritual journey toward enlightenment in Mahayana Buddhism. Its massive structure, made of volcanic stone, consists of nine stacked platforms, six square and three circular, crowned by a grand central dome.\n\nIts walls and balustrades are decorated with relief carvings covering about 2,500 square meters, consisting of more than 2,600 relief panels, while 504 Buddha statues are placed along its platforms. The carvings illustrate moral stories from Buddhist teachings and scenes of ancient life in Java, making the temple both a masterpiece of art and a historical record.\n\nFrom the top of the temple, visitors can enjoy a panoramic view of Mount Merapi and the lush Kedu Plain, creating a serene yet majestic atmosphere. Today, Borobudur serves not only as a major tourist attraction but also as a sacred site for pilgrims and a symbol of Indonesia’s cultural and religious harmony.\n\nWhat is the main purpose of the text?",
+  "options": [
+   {
+    "id": "019ad58c-8b63-7386-95c0-ebf9e55636bb",
+    "description": "To narrate the history of Borobudur",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8b65-7a04-b1ed-4321864d985c",
+    "description": "To criticize the condition of the temple",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8b68-7504-97dc-2efaa24c059b",
+    "description": "To describe the structure and importance of Borobudur",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8b6a-78c0-8950-d17dc4f21651",
+    "description": "To persuade people to visit Central Java",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8b6c-7a89-8113-23f3176fdb0d",
+    "description": "To explain the process of temple restoration",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 1: lokasi Borobudur, masa pembangunan (abad ke-9, Dinasti Syailendra), makna simbolis, dan strukturnya (sembilan teras: enam persegi, tiga lingkaran, stupa induk).\n- Paragraf 2: relief seluas sekitar 2.500 m2 (lebih dari 2.600 panel) dan 504 arca Buddha; relief menjadi karya seni sekaligus catatan sejarah.\n- Paragraf 3: pemandangan dari puncak dan peran Borobudur masa kini (objek wisata, tempat suci, simbol harmoni).\n\nDITANYAKAN:\nTujuan utama (main purpose) teks.\n\nJAWAB:\n1. Tujuan teks dikenali dari isinya: teks yang memaparkan ciri dan keadaan suatu tempat bertujuan to describe; teks berisi ajakan bertujuan to persuade; teks berisi urutan peristiwa bertujuan to narrate.\n2. Ketiga paragraf memaparkan struktur fisik candi (teras, stupa, relief, arca) dan nilai pentingnya (karya seni, catatan sejarah, tempat suci, simbol harmoni).\n3. Sejarah hanya disebut singkat dalam satu kalimat, tidak ada ajakan berkunjung, dan tidak ada uraian pemugaran.\nJadi, jawaban yang tepat adalah (C) To describe the structure and importance of Borobudur.\n\nMengapa opsi lain kurang tepat:\n- (A) To narrate the history of Borobudur: sejarah pembangunan hanya disinggung dalam satu kalimat; teks tidak menceritakan rangkaian peristiwa.\n- (B) To criticize the condition of the temple: tidak ada kritik; nada teks justru memuji.\n- (D) To persuade people to visit Central Java: tidak ada kalimat ajakan; pemandangan disebut sebagai gambaran, bukan bujukan.\n- (E) To explain the process of temple restoration: pemugaran tidak dibahas sama sekali.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: data faktual diperbaiki (2.500 m2 adalah luas permukaan relief, bukan luas candi); paragraf 2 dirapikan; opsi tetap dan pembahasan ditulis ulang tanpa catatan kunci lama."
+ },
+ {
+  "id": "019ad58c-8c34-7043-83f6-b76cd4d68d84",
+  "action": "revise",
+  "description": "How to Make an Iced Matcha Latte\n\nAn iced matcha latte is a refreshing drink that combines the earthy flavor of matcha with the creaminess of milk. To prepare it properly, one must pay attention to the quality of the matcha powder and the ratio of water to milk.\n\nFirst, sift one teaspoon of high-quality matcha powder into a bowl to prevent clumping. Add two tablespoons of warm water, not boiling water, because water that is too hot will burn the delicate tea powder and make it taste bitter. Whisk the mixture using a bamboo whisk until it becomes frothy and smooth. Next, fill a glass with ice cubes and pour in 150 milliliters of cold milk. Finally, slowly pour the whisked matcha over the milk to create a beautiful green layer. Stir well before drinking for a perfectly balanced taste.\n\nMaking an iced matcha latte at home is not only economical but also allows you to adjust sweetness and texture according to personal preference.\n\nWhy should warm water be used instead of boiling water?",
+  "options": [
+   {
+    "id": "019ad58c-8c37-78b0-8d6f-fb2d42c082bf",
+    "description": "To keep the drink cold",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8c3a-7245-b99e-bb5bc2640861",
+    "description": "To prevent the matcha from tasting bitter",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8c3c-7bb9-9ae9-11f6c203d74c",
+    "description": "To speed up the preparation",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8c40-7196-b606-940d68a50b48",
+    "description": "To reduce the amount of milk",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8c42-7e76-a7e7-ec78bf6af8b7",
+    "description": "To make the drink sweeter",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Teks prosedur membuat iced matcha latte.\n- Langkah kedua: \"Add two tablespoons of warm water, not boiling water, because water that is too hot will burn the delicate tea powder and make it taste bitter.\" (Tambahkan dua sendok makan air hangat, bukan air mendidih, karena air yang terlalu panas akan \"membakar\" bubuk teh yang halus dan membuatnya terasa pahit.)\n\nDITANYAKAN:\nAlasan memakai air hangat, bukan air mendidih.\n\nJAWAB:\n1. Kata kunci soal: warm water dan boiling water. Keduanya muncul pada langkah kedua.\n2. Kata because pada kalimat itu memperkenalkan alasannya: air yang terlalu panas membuat matcha terasa pahit.\n3. Jadi tujuan memakai air hangat adalah mencegah matcha terasa pahit.\nJadi, jawaban yang tepat adalah (B) To prevent the matcha from tasting bitter.\n\nMengapa opsi lain kurang tepat:\n- (A) To keep the drink cold: minuman menjadi dingin karena es dan susu dingin, bukan karena air hangat.\n- (C) To speed up the preparation: teks tidak menyebut soal kecepatan.\n- (D) To reduce the amount of milk: jumlah susu ditetapkan 150 ml dan tidak berkaitan dengan suhu air.\n- (E) To make the drink sweeter: rasa manis diatur sesuai selera (paragraf terakhir), bukan oleh suhu air.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: alasan memakai air hangat kini dinyatakan eksplisit dalam teks (air terlalu panas membuat matcha pahit) sehingga jawaban tidak bergantung pada pengetahuan luar; opsi E 'prevent color change' yang ambigu diganti 'To make the drink sweeter'; opsi kunci diselaraskan dengan teks."
+ },
+ {
+  "id": "019ad61e-9e2d-7bdd-901e-31f9bf8c578b",
+  "action": "revise",
+  "description": "Last December, I had my first experience traveling alone when I decided to visit Yogyakarta for three days. It was both exciting and nerve-wracking because I had never taken a long trip without my family before. I boarded an early morning train from Bandung and spent the first few hours enjoying the changing scenery outside the window.\n\nWhen I arrived in Yogyakarta, I checked into a small guest house near Malioboro Street. After resting for a while, I went out to explore the city. I visited several popular spots such as the Taman Sari Water Castle and the Yogyakarta Palace. Although I got lost a few times, the locals were very friendly and always willing to help me find my way.\n\nOn the second day, I joined a group tour to Mount Merapi. The jeep ride across the rocky terrain was thrilling, and listening to stories about the volcano’s past eruptions made the experience unforgettable. Despite being tired, I felt proud of myself for managing everything on my own.\n\nBy the time I returned home, I realized how much I had grown. Traveling alone taught me independence, confidence, and the importance of staying calm in unexpected situations. It was a journey that helped me understand myself better, and I hope to travel solo again someday.\n\nWhat activity did the writer do on the second day?",
+  "options": [
+   {
+    "id": "019ad61e-9e30-7f3d-9820-3fb0f6be70da",
+    "description": "Shopping at Malioboro",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e34-7328-b3bc-f1dace5316a3",
+    "description": "Visiting the Water Castle again",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e37-7f30-8f5f-8209467177e4",
+    "description": "Joining a tour to Mount Merapi",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e3a-7eb8-8a67-a1f464a5736c",
+    "description": "Exploring the guest house",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e3d-7dfa-b6c0-092f4887306f",
+    "description": "Watching a traditional performance",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Hari pertama: tiba di Yogyakarta, check-in guest house dekat Malioboro, menjelajah kota, mengunjungi \"the Taman Sari Water Castle and the Yogyakarta Palace\".\n- Hari kedua: \"On the second day, I joined a group tour to Mount Merapi.\" (Pada hari kedua, aku ikut tur kelompok ke Gunung Merapi.)\n- Perjalanan berlangsung tiga hari.\n\nDITANYAKAN:\nKegiatan yang dilakukan penulis pada hari kedua.\n\nJAWAB:\n1. Kata kunci soal: \"second day\" (hari kedua). Cari frasa ini di teks.\n2. Ditemukan: \"On the second day, I joined a group tour to Mount Merapi.\" Artinya hari kedua penulis ikut tur kelompok ke Gunung Merapi.\n3. Opsi C, \"Joining a tour to Mount Merapi\", sama dengan kalimat itu.\n4. Periksa opsi B: Water Castle disebut di paragraf kedua sebagai tempat yang dikunjungi saat menjelajah setelah tiba (hari pertama). Teks tidak pernah menyebut penulis kembali ke sana. Jadi B tidak sesuai.\nJadi, jawaban yang tepat adalah (C) Joining a tour to Mount Merapi.\n\nMengapa opsi lain kurang tepat:\n- A. Shopping at Malioboro: Malioboro hanya disebut sebagai lokasi guest house; tidak ada cerita belanja.\n- B. Visiting the Water Castle again: Water Castle dikunjungi di hari pertama, dan teks tidak menyebut kunjungan ulang.\n- D. Exploring the guest house: guest house hanya tempat menginap, bukan kegiatan hari kedua.\n- E. Watching a traditional performance: pertunjukan tradisional tidak disebut di teks.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi (paragraf 3: tur ke Gunung Merapi); teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad61e-9e68-7461-bdf5-a7a28f91ab33",
+  "action": "revise",
+  "description": "The Crystal Reef Marine Sanctuary is one of the most protected marine areas in Southeast Asia, located just a few kilometers off the coast of Sulawesi. Covering nearly sixty square kilometers of clear turquoise water, the sanctuary is known for its exceptional underwater visibility. Visitors can often see fish swimming beneath boats even before diving. The calm waves, warm sunlight, and gentle ocean breeze make Crystal Reef a peaceful escape for nature lovers.\n\nIn the shallow areas, vibrant coral gardens spread like living carpets. Dozens of coral species grow in clusters, creating shelters for small fish, sea stars, and colorful sea slugs. Marine biologists often describe the sanctuary as a natural classroom, where each coral formation reveals the delicate balance of underwater ecosystems. Snorkelers can spend hours following the movement of fish weaving in and out of the reefs.\n\nFarther from the shore, the sanctuary becomes deeper and darker, inhabited by larger marine species. Sea turtles glide gracefully through the open water, while manta rays move slowly with their wide wings, creating a mesmerizing underwater dance. During certain months, visitors may even spot dolphins traveling in groups near the surface. These larger species are protected under strict conservation rules to ensure their populations remain stable.\n\nThe Crystal Reef Marine Sanctuary is not only a place for visitors but also a major research site. Scientists from different countries regularly visit to study coral bleaching, fish migration, and the long-term effects of climate change. The sanctuary is equipped with underwater cameras and monitoring stations that record marine activities throughout the year. These efforts help researchers understand how to protect coral reefs more effectively.\n\nDespite its beauty, the sanctuary faces challenges. Rising sea temperatures, plastic waste, and illegal fishing still threaten parts of the ecosystem. To address these issues, the local community works with environmental organizations to conduct regular coastal clean-ups, educational programs, and strict patrol operations. Their collective commitment keeps Crystal Reef one of the most successful marine conservation areas in the region.\n\nWhat makes the underwater visibility in Crystal Reef Marine Sanctuary exceptional?",
+  "options": [
+   {
+    "id": "019ad61e-9e6c-72b6-9c95-0ddfa77cb12f",
+    "description": "The water is artificially filtered",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e6f-711d-81f6-33c77442bf67",
+    "description": "The coral reefs reflect sunlight strongly",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e72-77f2-b2c0-5977ba9dd467",
+    "description": "The water is naturally clear and calm",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e75-7951-a96c-1e364c010b78",
+    "description": "The sanctuary is located far from sunlight",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e78-79c6-8eb6-3828e108dc0b",
+    "description": "The area has no marine life",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 1: \"Covering nearly sixty square kilometers of clear turquoise water, the sanctuary is known for its exceptional underwater visibility.\" (Meliputi hampir enam puluh kilometer persegi air biru kehijauan yang jernih, suaka ini terkenal karena jarak pandang bawah airnya yang luar biasa.)\n- \"Visitors can often see fish swimming beneath boats even before diving.\" (Pengunjung sering melihat ikan berenang di bawah perahu bahkan sebelum menyelam.)\n- \"The calm waves, warm sunlight, and gentle ocean breeze...\" (ombak tenang, sinar matahari hangat, angin laut lembut).\n- Terumbu karang disebut di paragraf kedua hanya sebagai habitat ikan, tanpa kaitan dengan pantulan cahaya.\n\nDITANYAKAN:\nHal yang membuat jarak pandang bawah air di Crystal Reef Marine Sanctuary luar biasa.\n\nJAWAB:\n1. Cari kata \"visibility\" di teks. Ada di paragraf pertama.\n2. Kalimat itu menyebut air suaka itu \"clear turquoise water\" (jernih) dan terkenal karena \"exceptional underwater visibility\". Hubungannya: air yang jernih membuat pandangan ke bawah air jauh.\n3. Kalimat sesudahnya menambahkan bukti: ikan terlihat dari atas perahu sebelum menyelam, artinya air sangat jernih. Kata \"calm waves\" (ombak tenang) juga tidak mengaduk air.\n4. Opsi C, \"The water is naturally clear and calm\", sesuai dengan kedua petunjuk ini.\n5. Periksa opsi B: teks tidak menyebut karang memantulkan sinar matahari. Pernyataan itu tidak ada dasarnya, jadi tidak boleh dipilih hanya karena terdengar ilmiah.\nJadi, jawaban yang tepat adalah (C) The water is naturally clear and calm.\n\nMengapa opsi lain kurang tepat:\n- A. The water is artificially filtered: air tidak disaring buatan; teks menyebut air alami yang jernih.\n- B. The coral reefs reflect sunlight strongly: tidak ada kalimat tentang karang memantulkan cahaya; ini tebakan di luar teks.\n- D. The sanctuary is located far from sunlight: suaka ini terkena \"warm sunlight\"; bagian dalamnya memang gelap tetapi itu bukan penyebab visibility yang baik.\n- E. The area has no marine life: suaka dipenuhi kehidupan laut (ikan, penyu, pari manta, lumba-lumba).",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi dengan paragraf 1 (clear turquoise water, calm waves); teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad61e-9e8b-73d8-b321-bd6df230f859",
+  "action": "revise",
+  "description": "The Crystal Reef Marine Sanctuary is one of the most protected marine areas in Southeast Asia, located just a few kilometers off the coast of Sulawesi. Covering nearly sixty square kilometers of clear turquoise water, the sanctuary is known for its exceptional underwater visibility. Visitors can often see fish swimming beneath boats even before diving. The calm waves, warm sunlight, and gentle ocean breeze make Crystal Reef a peaceful escape for nature lovers.\n\nIn the shallow areas, vibrant coral gardens spread like living carpets. Dozens of coral species grow in clusters, creating shelters for small fish, sea stars, and colorful sea slugs. Marine biologists often describe the sanctuary as a natural classroom, where each coral formation reveals the delicate balance of underwater ecosystems. Snorkelers can spend hours following the movement of fish weaving in and out of the reefs.\n\nFarther from the shore, the sanctuary becomes deeper and darker, inhabited by larger marine species. Sea turtles glide gracefully through the open water, while manta rays move slowly with their wide wings, creating a mesmerizing underwater dance. During certain months, visitors may even spot dolphins traveling in groups near the surface. These larger species are protected under strict conservation rules to ensure their populations remain stable.\n\nThe Crystal Reef Marine Sanctuary is not only a place for visitors but also a major research site. Scientists from different countries regularly visit to study coral bleaching, fish migration, and the long-term effects of climate change. The sanctuary is equipped with underwater cameras and monitoring stations that record marine activities throughout the year. These efforts help researchers understand how to protect coral reefs more effectively.\n\nDespite its beauty, the sanctuary faces challenges. Rising sea temperatures, plastic waste, and illegal fishing still threaten parts of the ecosystem. To address these issues, the local community works with environmental organizations to conduct regular coastal clean-ups, educational programs, and strict patrol operations. Their collective commitment keeps Crystal Reef one of the most successful marine conservation areas in the region.\n\nWhat can visitors see in the deeper parts of the sanctuary?",
+  "options": [
+   {
+    "id": "019ad61e-9e8e-7b74-a62a-757878628efc",
+    "description": "Farmed fish species",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e91-7731-a599-601cf34cde7a",
+    "description": "Artificial statues",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e94-713e-a215-17fb886824bf",
+    "description": "Large marine species like turtles and manta rays",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e96-779b-ac31-66c3d9848a69",
+    "description": "Coral bleaching experiments",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9e99-798b-9276-71a96af98637",
+    "description": "Seaweed plantations",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 3: \"Farther from the shore, the sanctuary becomes deeper and darker, inhabited by larger marine species.\" (Lebih jauh dari pantai, suaka menjadi lebih dalam dan gelap, dihuni spesies laut yang lebih besar.)\n- \"Sea turtles glide gracefully through the open water, while manta rays move slowly with their wide wings...\" (Penyu meluncur anggun di perairan terbuka, sementara pari manta bergerak pelan dengan sayap lebarnya.)\n- Lumba-lumba juga dapat terlihat di bulan tertentu.\n\nDITANYAKAN:\nHal yang dapat dilihat pengunjung di bagian perairan yang lebih dalam.\n\nJAWAB:\n1. Kata kunci: \"deeper parts\". Di teks padanannya \"Farther from the shore, ... deeper and darker\" (paragraf ketiga).\n2. Kalimat itu langsung menyebut penghuninya: \"larger marine species\" (spesies laut besar), diikuti contoh sea turtles dan manta rays.\n3. Opsi C, \"Large marine species like turtles and manta rays\", sama dengan teks.\n4. Opsi B \"Artificial statues\" tidak ada di teks sama sekali.\nJadi, jawaban yang tepat adalah (C) Large marine species like turtles and manta rays.\n\nMengapa opsi lain kurang tepat:\n- A. Farmed fish species: tidak ada ikan budi daya (farmed); suaka ini kawasan lindung alami.\n- B. Artificial statues: patung buatan tidak disebut di teks.\n- D. Coral bleaching experiments: penelitian karang pemutihan dilakukan ilmuwan, bukan sesuatu yang dilihat pengunjung di perairan dalam.\n- E. Seaweed plantations: tidak ada perkebunan rumput laut di teks.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi dengan paragraf 3; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad61e-9ee1-759f-b71c-23121cbd0c57",
+  "action": "revise",
+  "description": "Long ago, in a quiet coastal village named Lorian, there lived a girl named Mira who was known for her curiosity and kindness. Every evening, she loved sitting by the harbor, listening to the waves and watching the fishermen prepare their boats. One night, while walking near the old lighthouse, she found a strange lantern glowing faintly even though no flame burned inside it. The lantern felt warm to the touch, as if it were alive.\n\nWhen Mira brought the lantern home, she noticed that the glow brightened whenever she spoke kindly or helped someone. The village elders told her an old legend: the Whispering Lantern was created centuries ago by a forgotten guardian of the sea. It was said that the lantern chose its holder and responded to the purity of their heart. Mira did not fully believe the story at first, but the lantern’s behavior left her wondering.\n\nOne stormy night, the sea roared louder than ever before. Dark clouds covered the sky, and the waves rose dangerously high. The lighthouse had lost its light due to the storm, leaving the fishermen who were still at sea in great danger. Without the lighthouse beam, they could not find their way back to shore. The villagers panicked, unsure of what to do.\n\nHolding the lantern tightly, Mira ran toward the cliff near the lighthouse. As she lifted the lantern high above her head, it began to glow brighter than the lighthouse itself. The warm light cut through the storm, guiding the fishermen home one boat at a time. The lantern hummed softly, as if whispering encouragement to those struggling against the waves. Even the harsh wind seemed to calm as the boats approached land safely.\n\nWhen the storm finally ended, the lantern dimmed once more, returning to its gentle glow. The villagers praised Mira for her bravery, and many believed that the lantern had chosen her as its new guardian. From that day on, the Whispering Lantern remained in the lighthouse, shining brightly whenever acts of kindness were done in the village. Mira grew up understanding that courage and a sincere heart could light even the darkest nights.\n\nWhat made the lantern unique when Mira first found it?",
+  "options": [
+   {
+    "id": "019ad61e-9ee4-71e9-8e55-0ca1c69bd167",
+    "description": "It was made of gold",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ee6-73d3-bd50-02b9d8367510",
+    "description": "It glowed without a flame",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ee8-75b6-8333-4262de225477",
+    "description": "It made loud noises",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9eea-764b-a564-98fadcbb6016",
+    "description": "It floated above the ground",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9eed-7d3f-9648-bf2e4160077a",
+    "description": "It was covered in seaweed",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 1: \"she found a strange lantern glowing faintly even though no flame burned inside it.\" (Ia menemukan lentera aneh yang menyala redup meski tidak ada api yang terbakar di dalamnya.)\n- \"The lantern felt warm to the touch, as if it were alive.\" (Lentera terasa hangat disentuh, seolah hidup.)\n- Lentera ditemukan dekat mercusuar tua.\n\nDITANYAKAN:\nHal yang membuat lentera unik ketika pertama kali ditemukan Mira.\n\nJAWAB:\n1. Kata kunci: \"first found\" dan \"strange\". Lihat bagian saat Mira menemukannya, paragraf pertama.\n2. Teks: lentera menyala redup \"even though no flame burned inside it\" (walau tidak ada api). Inilah keunikannya.\n3. Opsi B, \"It glowed without a flame\", sama dengan itu.\n4. Opsi C keliru: lentera tidak membuat suara keras; di paragraf keempat ia hanya \"hummed softly\" (berdengung lembut) dan itu terjadi saat badai, bukan saat ditemukan.\nJadi, jawaban yang tepat adalah (B) It glowed without a flame.\n\nMengapa opsi lain kurang tepat:\n- A. It was made of gold: tidak ada kata emas.\n- C. It made loud noises: tidak ada suara keras; hanya berdengung lembut nanti saat badai.\n- D. It floated above the ground: lentera tidak melayang; Mira memegangnya.\n- E. It was covered in seaweed: tidak ada rumput laut yang menutupinya.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci B diverifikasi dengan paragraf 1 (glowing ... no flame); teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad61e-9f3f-7a6f-90d9-5788253f5e0b",
+  "action": "revise",
+  "description": "Long ago, in a quiet coastal village named Lorian, there lived a girl named Mira who was known for her curiosity and kindness. Every evening, she loved sitting by the harbor, listening to the waves and watching the fishermen prepare their boats. One night, while walking near the old lighthouse, she found a strange lantern glowing faintly even though no flame burned inside it. The lantern felt warm to the touch, as if it were alive.\n\nWhen Mira brought the lantern home, she noticed that the glow brightened whenever she spoke kindly or helped someone. The village elders told her an old legend: the Whispering Lantern was created centuries ago by a forgotten guardian of the sea. It was said that the lantern chose its holder and responded to the purity of their heart. Mira did not fully believe the story at first, but the lantern’s behavior left her wondering.\n\nOne stormy night, the sea roared louder than ever before. Dark clouds covered the sky, and the waves rose dangerously high. The lighthouse had lost its light due to the storm, leaving the fishermen who were still at sea in great danger. Without the lighthouse beam, they could not find their way back to shore. The villagers panicked, unsure of what to do.\n\nHolding the lantern tightly, Mira ran toward the cliff near the lighthouse. As she lifted the lantern high above her head, it began to glow brighter than the lighthouse itself. The warm light cut through the storm, guiding the fishermen home one boat at a time. The lantern hummed softly, as if whispering encouragement to those struggling against the waves. Even the harsh wind seemed to calm as the boats approached land safely.\n\nWhen the storm finally ended, the lantern dimmed once more, returning to its gentle glow. The villagers praised Mira for her bravery, and many believed that the lantern had chosen her as its new guardian. From that day on, the Whispering Lantern remained in the lighthouse, shining brightly whenever acts of kindness were done in the village. Mira grew up understanding that courage and a sincere heart could light even the darkest nights.\n\nWhat does the Whispering Lantern symbolize in the story?",
+  "options": [
+   {
+    "id": "019ad61e-9f42-7f41-9c6f-6344d00efd83",
+    "description": "Wealth and prosperity",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9f46-72d2-9bfb-317b5d7b2df1",
+    "description": "Power and authority",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9f49-70da-91d6-60cfdb67ab95",
+    "description": "Kindness and courage",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9f4c-75e9-90dd-ef201563c740",
+    "description": "Anger and fear",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9f50-78e3-8972-717f097aaa96",
+    "description": "Wisdom and silence",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Lentera bersinar makin terang setiap kali Mira berbicara dengan baik atau menolong orang (\"whenever she spoke kindly or helped someone\").\n- Lentera bersinar paling terang ketika Mira dengan berani menyelamatkan para nelayan di tengah badai.\n- Penutup cerita: lentera \"shining brightly whenever acts of kindness were done in the village\" dan Mira memahami bahwa \"courage and a sincere heart could light even the darkest nights\".\n\nDITANYAKAN:\nHal yang dilambangkan oleh Whispering Lantern.\n\nJAWAB:\n1. Simbol dalam cerita dikenali dari kapan benda itu bereaksi. Lentera menyala terang saat ada perbuatan baik (kindness).\n2. Lentera juga bersinar paling terang ketika Mira bertindak berani (courage) menolong nelayan.\n3. Kalimat penutup menegaskan kedua nilai itu: keberanian dan hati yang tulus.\nJadi, jawaban yang tepat adalah (C) Kindness and courage.\n\nMengapa opsi lain kurang tepat:\n- (A) Wealth and prosperity: tidak ada unsur kekayaan dalam cerita.\n- (B) Power and authority: Mira tidak memperoleh kekuasaan; lentera bereaksi pada kebaikan, bukan wewenang.\n- (D) Anger and fear: lentera justru meredakan ketakutan dan tidak berkaitan dengan amarah.\n- (E) Wisdom and silence: lentera tidak dikaitkan dengan kebijaksanaan atau diam; ia bahkan \"berdengung\" memberi semangat.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: opsi B 'Strength and leadership' (dekat makna dengan courage) diganti 'Power and authority' agar pengecoh tidak tumpang tindih dengan kunci; pembahasan diperbarui."
+ },
+ {
+  "id": "019ad61e-9f62-7b96-8ff8-1cf03c1639c8",
+  "action": "revise",
+  "description": "Long ago, in a quiet coastal village named Lorian, there lived a girl named Mira who was known for her curiosity and kindness. Every evening, she loved sitting by the harbor, listening to the waves and watching the fishermen prepare their boats. One night, while walking near the old lighthouse, she found a strange lantern glowing faintly even though no flame burned inside it. The lantern felt warm to the touch, as if it were alive.\n\nWhen Mira brought the lantern home, she noticed that the glow brightened whenever she spoke kindly or helped someone. The village elders told her an old legend: the Whispering Lantern was created centuries ago by a forgotten guardian of the sea. It was said that the lantern chose its holder and responded to the purity of their heart. Mira did not fully believe the story at first, but the lantern’s behavior left her wondering.\n\nOne stormy night, the sea roared louder than ever before. Dark clouds covered the sky, and the waves rose dangerously high. The lighthouse had lost its light due to the storm, leaving the fishermen who were still at sea in great danger. Without the lighthouse beam, they could not find their way back to shore. The villagers panicked, unsure of what to do.\n\nHolding the lantern tightly, Mira ran toward the cliff near the lighthouse. As she lifted the lantern high above her head, it began to glow brighter than the lighthouse itself. The warm light cut through the storm, guiding the fishermen home one boat at a time. The lantern hummed softly, as if whispering encouragement to those struggling against the waves. Even the harsh wind seemed to calm as the boats approached land safely.\n\nWhen the storm finally ended, the lantern dimmed once more, returning to its gentle glow. The villagers praised Mira for her bravery, and many believed that the lantern had chosen her as its new guardian. From that day on, the Whispering Lantern remained in the lighthouse, shining brightly whenever acts of kindness were done in the village. Mira grew up understanding that courage and a sincere heart could light even the darkest nights.\n\nWhat lesson did Mira learn from her experience with the lantern?",
+  "options": [
+   {
+    "id": "019ad61e-9f65-7540-8ccf-a9330f6305af",
+    "description": "Knowledge is more important than kindness",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9f67-749e-a654-1ac4891340ad",
+    "description": "Adventures are always dangerous",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9f69-78ca-86d5-ddc680c84e99",
+    "description": "Courage and sincerity can bring light to difficult times",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9f6c-7363-b16a-a0a2359a3c1f",
+    "description": "Storms should always be avoided",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9f6e-7c34-8a43-62daaa47c54d",
+    "description": "Legends are never true",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat penutup: \"Mira grew up understanding that courage and a sincere heart could light even the darkest nights.\" (Mira tumbuh memahami bahwa keberanian dan hati yang tulus dapat menerangi malam tergelap.)\n- Dalam cerita, keberanian dan ketulusan Mira menyelamatkan nelayan di malam badai.\n\nDITANYAKAN:\nPelajaran yang diperoleh Mira dari pengalamannya dengan lentera.\n\nJAWAB:\n1. Pelajaran (lesson) biasanya ada di akhir cerita. Lihat kalimat terakhir.\n2. Kalimat itu menyebut \"courage and a sincere heart could light even the darkest nights\". \"Darkest nights\" berarti masa tersulit.\n3. Opsi C, \"Courage and sincerity can bring light to difficult times\", adalah parafrase tepat (sincere = tulus, light = terang, difficult times = masa sulit).\n4. Opsi B tidak sesuai karena cerita tidak mengajarkan bahwa petualangan selalu berbahaya; kata \"always\" juga terlalu mutlak.\nJadi, jawaban yang tepat adalah (C) Courage and sincerity can bring light to difficult times.\n\nMengapa opsi lain kurang tepat:\n- A. Knowledge is more important than kindness: cerita menekankan kebaikan, bukan menempatkan pengetahuan di atasnya.\n- B. Adventures are always dangerous: tidak ada pelajaran semacam itu; Mira justru berhasil lewat keberanian.\n- D. Storms should always be avoided: Mira malah menghadapi badai untuk menolong.\n- E. Legends are never true: legenda dalam cerita ternyata terbukti benar.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi dengan kalimat penutup cerita; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad61e-9fbd-7d20-bdba-31c253a3b5e1",
+  "action": "revise",
+  "description": "Volcanoes are natural openings in the Earth’s surface where molten rock, gases, and ash escape from beneath the crust. Their formation is closely related to the movement of tectonic plates, which constantly push, pull, or slide past one another. These interactions create cracks and weak zones in the Earth’s crust, allowing magma from the mantle to rise slowly over time.\n\nDeep beneath the Earth, extremely high temperatures melt solid rocks into magma. This molten material contains dissolved gases that expand as the magma rises toward the surface. The rising pressure inside a volcano is similar to shaking a carbonated bottle; the more pressure that builds up, the more forceful the release becomes. When the pressure becomes too great, the magma forces its way upward through vents and erupts on the surface.\n\nDuring an eruption, the material released can vary depending on the type of volcano and the composition of magma. Some volcanoes erupt explosively, producing tall columns of ash, rock fragments, and gas that shoot high into the atmosphere. Others erupt more gently, with slow streams of lava that flow down the slopes, creating new layers of rock. The style of eruption plays a major role in shaping the surrounding landscape.\n\nAsh clouds released during explosive eruptions can affect areas far from the volcano itself. The fine particles can travel across continents, influencing weather patterns and sometimes reducing global temperatures. Thick layers of ash can also damage buildings, cover farmland, and disrupt daily life for communities living nearby. In severe cases, ash may even contaminate water sources and cause respiratory problems in humans and animals.\n\nLava flows, although typically slower than explosive eruptions, also pose significant risks. They can destroy forests, farmlands, and housing as they advance downhill. However, lava eventually cools and solidifies, forming fertile soil that supports plant growth. Many volcanic regions around the world benefit from this natural process, as it contributes to agricultural productivity in the long term.\n\nDespite the dangers, volcanoes play an important role in shaping the Earth’s surface. They create new islands, build mountains, and release gases that influence the atmosphere. Scientists continue to study volcanic activity to improve early-warning systems, helping communities prepare for eruptions and reduce the potential impact on human life.\n\nWhy do some volcanic regions become highly fertile over time?",
+  "options": [
+   {
+    "id": "019ad61e-9fc0-7149-8715-354c92488287",
+    "description": "Because ash clouds convert into freshwater",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9fc2-7183-ad2d-0be2d5368e53",
+    "description": "Because cooled lava turns into nutrient-rich soil",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9fc3-7ef7-90ed-22c5aecadd83",
+    "description": "Because volcanic rocks dissolve quickly",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9fc5-7a62-9feb-f881e3057a8a",
+    "description": "Because magma becomes fertilizer",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9fc7-79e3-896b-db80d6119f0f",
+    "description": "Because forests grow without water",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 5: \"However, lava eventually cools and solidifies, forming fertile soil that supports plant growth.\" (Namun, lava akhirnya mendingin dan memadat, membentuk tanah subur yang mendukung pertumbuhan tanaman.)\n- \"Many volcanic regions ... benefit from this natural process, as it contributes to agricultural productivity in the long term.\" (Banyak wilayah vulkanik diuntungkan proses alami ini karena meningkatkan produktivitas pertanian jangka panjang.)\n\nDITANYAKAN:\nAlasan sebagian wilayah vulkanik menjadi sangat subur dari waktu ke waktu.\n\nJAWAB:\n1. Cari kata \"fertile\" (subur) di paragraf kelima.\n2. Teks menjelaskan: lava mendingin dan memadat, lalu membentuk tanah subur yang mendukung pertumbuhan tanaman.\n3. Opsi B, \"Because cooled lava turns into nutrient-rich soil\", adalah parafrase (cooled lava = lava yang mendingin; nutrient-rich soil = tanah kaya hara/subur).\n4. Opsi C menyebut \"volcanic rocks dissolve quickly\"; teks tidak menyebut batuan larut cepat, hanya lava mendingin dan memadat menjadi tanah subur dalam jangka panjang.\nJadi, jawaban yang tepat adalah (B) Because cooled lava turns into nutrient-rich soil.\n\nMengapa opsi lain kurang tepat:\n- A. Because ash clouds convert into freshwater: awan abu tidak berubah menjadi air tawar; teks bahkan menyebut abu dapat mencemari sumber air.\n- C. Because volcanic rocks dissolve quickly: tidak ada di teks; proses kesuburan terjadi karena lava memadat, bukan batu larut cepat.\n- D. Because magma becomes fertilizer: magma tidak disebut sebagai pupuk.\n- E. Because forests grow without water: hutan di daerah vulkanik tidak tumbuh tanpa air; teks tidak menyebut itu.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci B diverifikasi dengan paragraf 5 (lava cools ... fertile soil); teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad61e-a048-7965-832c-be1eee8558dc",
+  "action": "revise",
+  "description": "Grand Opening of Lorian Public Library\n\nThe Lorian Public Library is pleased to announce its grand opening ceremony, which marks the completion of a five-year development project aimed at improving literacy and public education. The new building is located in the heart of the city, making it easily accessible for students, researchers, and community members of all ages. The library is designed to serve as a modern learning hub that combines digital innovation with traditional reading spaces.\n\nThe facility features a digital research center equipped with more than seventy computers, interactive boards, and online academic databases. There is also a children’s reading hall with storytelling corners, creative workshops, and weekly literacy programs. For adults, the library offers seminar rooms, language-learning areas, and a silent study zone intended for exam preparation or work-related research.\n\nTo celebrate the opening, the library will hold a special ceremony on Saturday, 12 April 2025, starting at 09.00 a.m. The event will include a ribbon-cutting session, a guided tour of the building, and a book donation corner where visitors can contribute books for public use. Several well-known authors from across Indonesia will also attend to give motivational talks and sign copies of their latest works.\n\nCommunity members are encouraged to join the event and take part in the introductory workshops offered on the same day. Topics include digital literacy, academic writing, and environmental awareness. Registration for these workshops is free but limited to the first one hundred participants. Refreshments will be served throughout the event.\n\nThe library management hopes that this new facility will become a center for inclusive learning, creativity, and collaboration. With accessible spaces and diverse programs, the Lorian Public Library aims to inspire people to read more, think critically, and contribute positively to society. Everyone is welcome to participate and experience the new learning environment.\n\nFor more information, visitors may contact the library office through the official website or customer hotline available from Monday to Friday, 08.00 a.m. to 04.00 p.m.\n\nWhat does the library management hope to achieve through the new facility?",
+  "options": [
+   {
+    "id": "019ad61e-a04b-77d5-b733-507f8a053681",
+    "description": "Turn the library into a tourist attraction",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-a04e-7132-824c-8990189f67f7",
+    "description": "Encourage people to read, think critically, and contribute to society",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-a051-74f9-bce7-0b3512a076aa",
+    "description": "Host international book fairs every month",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-a053-7c44-9b5c-df5126f798c7",
+    "description": "Replace schools as the main learning center",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-a055-7f08-851a-61edb772c605",
+    "description": "Limit access to only researchers and university students",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 5: \"The library management hopes that this new facility will become a center for inclusive learning, creativity, and collaboration.\" (Manajemen berharap fasilitas baru ini menjadi pusat pembelajaran inklusif, kreativitas, dan kolaborasi.)\n- \"the Lorian Public Library aims to inspire people to read more, think critically, and contribute positively to society.\" (perpustakaan bertujuan menginspirasi orang agar lebih banyak membaca, berpikir kritis, dan berkontribusi positif bagi masyarakat.)\n\nDITANYAKAN:\nHal yang diharapkan manajemen perpustakaan melalui fasilitas baru.\n\nJAWAB:\n1. Kata kunci: \"management hopes\" dan \"aims to\". Cari di paragraf kelima.\n2. Teks menyebut tujuannya: menginspirasi orang \"to read more, think critically, and contribute positively to society\".\n3. Opsi B, \"Encourage people to read, think critically, and contribute to society\", adalah parafrase tepat.\n4. Opsi C tidak ada di teks: pameran buku internasional bulanan tidak pernah disebut.\nJadi, jawaban yang tepat adalah (B) Encourage people to read, think critically, and contribute to society.\n\nMengapa opsi lain kurang tepat:\n- A. Turn the library into a tourist attraction: tidak ada tujuan menjadi objek wisata.\n- C. Host international book fairs every month: tidak disebut sama sekali di teks.\n- D. Replace schools as the main learning center: perpustakaan tidak bertujuan menggantikan sekolah.\n- E. Limit access to only researchers and university students: bertentangan dengan inclusive learning dan \"Everyone is welcome\".",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci B diverifikasi dengan paragraf 5; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad749-7690-71fa-b10e-48fce5e2235b",
+  "action": "revise",
+  "description": "The Silvermist Conservatory is one of the largest botanical research centers in Southeast Asia, located at the edge of the Silver Valley National Park. The conservatory was built to preserve rare mountain plants that cannot survive in lowland environments. With its transparent glass domes and automated climate-control systems, the facility allows scientists to replicate natural conditions found only in high-altitude regions.\n\nInside the conservatory, visitors walk along elevated wooden paths surrounded by lush vegetation. Towering moss-covered trees stretch upward, creating a canopy that filters soft beams of sunlight. Below them, carpets of wildflowers bloom in shades of violet, pink, and gold. The air feels cool and slightly misty, as if the entire place is wrapped in gentle clouds.\n\nOne of the most fascinating sections is the Alpine Chamber, a dome designed to mimic the climate of snowy mountain slopes. Despite the cold temperature, the chamber is filled with unique plant species that grow only in harsh environments. Small blue flowers with crystal-like petals open during early morning hours, while rare shrubs with silver leaves shimmer under artificial lights.\n\nResearchers stationed at the conservatory focus on studying plant adaptation and survival. Many of the species preserved here are at risk of extinction due to climate change and human activities. The conservatory serves as a living laboratory where scientists monitor growth patterns, conduct seed preservation, and test methods for reintroducing rare plants to their natural habitats.\n\nTo support public awareness, the Silvermist Conservatory also offers guided tours, student workshops, and seasonal exhibitions. These programs help visitors understand the importance of conservation and the role plants play in stabilizing ecosystems. With its scientific contributions and natural beauty, the conservatory has become a symbol of environmental commitment in the region.\n\nWhat can visitors see while walking along the elevated wooden paths?",
+  "options": [
+   {
+    "id": "019ad749-7692-7939-81dd-9a3212fb0c2d",
+    "description": "Desert plants and cactus gardens",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7694-7a1f-939c-8ae575b26f1e",
+    "description": "Moss-covered trees and blooming wildflowers",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7696-7dab-9227-7a3a2febd0cf",
+    "description": "Frozen lakes and glaciers",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7699-7879-a81d-bd137306fcf6",
+    "description": "Waterfalls and hot springs",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-769c-75dd-916e-7b958190689a",
+    "description": "Coastal mangroves",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Teks Silvermist Conservatory yang sama.\n- Paragraf 2: pengunjung berjalan di jalur kayu yang ditinggikan (elevated wooden paths) dikelilingi vegetasi lebat.\n- \"Towering moss-covered trees stretch upward, creating a canopy that filters soft beams of sunlight. Below them, carpets of wildflowers bloom in shades of violet, pink, and gold.\"\n- Udara terasa sejuk dan berkabut tipis.\n- Opsi: A tanaman gurun dan kaktus, B pohon berlumut dan bunga liar mekar, C danau beku dan gletser, D air terjun dan mata air panas, E hutan bakau pesisir.\n\nDITANYAKAN:\nHal yang dapat dilihat pengunjung ketika berjalan di jalur kayu yang ditinggikan.\n\nJAWAB:\n1. Pertanyaan detail: cari kata \"elevated wooden paths\" di teks, lalu baca kalimat sesudahnya.\n2. Paragraf 2: \"visitors walk along elevated wooden paths surrounded by lush vegetation\" (pengunjung berjalan di jalur kayu yang ditinggikan, dikelilingi tumbuhan lebat).\n3. Lalu: \"Towering moss-covered trees stretch upward\" (pohon-pohon tinggi berlumut menjulang) dan \"carpets of wildflowers bloom\" (hamparan bunga liar bermekaran).\n4. Maka yang terlihat adalah pohon berlumut dan bunga liar yang mekar, yaitu opsi B.\n5. Uji opsi D: kata waterfall dan hot spring tidak ada di seluruh teks, sehingga D tidak bisa benar.\nJadi, jawaban yang tepat adalah (B) Moss-covered trees and blooming wildflowers.\n\nMengapa opsi lain kurang tepat:\n- (A) Desert plants and cactus gardens (Tanaman gurun dan kebun kaktus) - tidak disebut; lingkungan di sini sejuk dan berkabut.\n- (C) Frozen lakes and glaciers (Danau beku dan gletser) - salju hanya disebut pada Alpine Chamber sebagai iklim tiruan, tidak ada danau atau gletser.\n- (D) Waterfalls and hot springs (Air terjun dan mata air panas) - tidak disebut sama sekali.\n- (E) Coastal mangroves (Hutan bakau pesisir) - tidak disebut; konservatorium berada di tepi taman nasional pegunungan.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci B diverifikasi dengan paragraf 2; teks dirapikan (baris tersambung); pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad749-769e-7e10-9f83-3202005c1a74",
+  "action": "revise",
+  "description": "The Silvermist Conservatory is one of the largest botanical research centers in Southeast Asia, located at the edge of the Silver Valley National Park. The conservatory was built to preserve rare mountain plants that cannot survive in lowland environments. With its transparent glass domes and automated climate-control systems, the facility allows scientists to replicate natural conditions found only in high-altitude regions.\n\nInside the conservatory, visitors walk along elevated wooden paths surrounded by lush vegetation. Towering moss-covered trees stretch upward, creating a canopy that filters soft beams of sunlight. Below them, carpets of wildflowers bloom in shades of violet, pink, and gold. The air feels cool and slightly misty, as if the entire place is wrapped in gentle clouds.\n\nOne of the most fascinating sections is the Alpine Chamber, a dome designed to mimic the climate of snowy mountain slopes. Despite the cold temperature, the chamber is filled with unique plant species that grow only in harsh environments. Small blue flowers with crystal-like petals open during early morning hours, while rare shrubs with silver leaves shimmer under artificial lights.\n\nResearchers stationed at the conservatory focus on studying plant adaptation and survival. Many of the species preserved here are at risk of extinction due to climate change and human activities. The conservatory serves as a living laboratory where scientists monitor growth patterns, conduct seed preservation, and test methods for reintroducing rare plants to their natural habitats.\n\nTo support public awareness, the Silvermist Conservatory also offers guided tours, student workshops, and seasonal exhibitions. These programs help visitors understand the importance of conservation and the role plants play in stabilizing ecosystems. With its scientific contributions and natural beauty, the conservatory has become a symbol of environmental commitment in the region.\n\nWhy is the Alpine Chamber considered fascinating?",
+  "options": [
+   {
+    "id": "019ad749-76a5-7132-8dfc-639209d7d321",
+    "description": "It grows fruit trees all year long",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76a7-781f-9632-2b912a0ade3b",
+    "description": "It keeps the temperature warm despite snow",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76aa-7118-84c0-d4b312b9dc4e",
+    "description": "It contains plants that survive only in harsh, cold environments",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76ac-7356-8b3d-e354849351e7",
+    "description": "It changes its climate every hour",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76ae-7633-b779-18ab9aefc886",
+    "description": "It displays animals that live in mountain regions",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Teks Silvermist Conservatory yang sama.\n- Paragraf 3: \"One of the most fascinating sections is the Alpine Chamber, a dome designed to mimic the climate of snowy mountain slopes.\"\n- \"Despite the cold temperature, the chamber is filled with unique plant species that grow only in harsh environments.\"\n- Bunga biru kecil berkelopak seperti kristal mekar pagi hari; semak langka berdaun perak berkilau di bawah lampu buatan.\n- Opsi: A menumbuhkan pohon buah sepanjang tahun, B menjaga suhu tetap hangat meski bersalju, C berisi tanaman yang hanya hidup di lingkungan keras dan dingin, D iklim berubah tiap jam, E menampilkan hewan pegunungan.\n\nDITANYAKAN:\nAlasan Alpine Chamber dianggap menarik atau mempesona (fascinating).\n\nJAWAB:\n1. Cari kata \"fascinating\" di teks. Kalimat pertama paragraf 3 memperkenalkan Alpine Chamber sebagai salah satu bagian paling menarik.\n2. Alasan yang diberikan: kubah ini meniru iklim lereng gunung bersalju, dan \"the chamber is filled with unique plant species that grow only in harsh environments\" (kubah itu penuh spesies tanaman unik yang hanya tumbuh di lingkungan keras).\n3. Opsi C \"It contains plants that survive only in harsh, cold environments\" (Berisi tanaman yang hanya bertahan di lingkungan keras dan dingin) cocok. Kata cold sesuai \"snowy mountain slopes\" dan \"cold temperature\".\n4. Uji opsi A: teks tidak menyebut pohon buah atau pertumbuhan sepanjang tahun. Tanaman yang disebut hanyalah bunga biru kecil dan semak berdaun perak.\nJadi, jawaban yang tepat adalah (C) It contains plants that survive only in harsh, cold environments.\n\nMengapa opsi lain kurang tepat:\n- (A) It grows fruit trees all year long (Menumbuhkan pohon buah sepanjang tahun) - tidak disebut.\n- (B) It keeps the temperature warm despite snow (Menjaga suhu tetap hangat meski bersalju) - justru ruang itu dingin (\"Despite the cold temperature\").\n- (D) It changes its climate every hour (Iklimnya berubah tiap jam) - tidak disebut; iklimnya meniru lereng gunung bersalju secara konstan.\n- (E) It displays animals that live in mountain regions (Menampilkan hewan pegunungan) - hanya tumbuhan yang dibahas.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi dengan paragraf 3; teks dirapikan ('crystal-like' diperbaiki); pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad749-76b0-7f24-8977-58dc727aee37",
+  "action": "revise",
+  "description": "The Silvermist Conservatory is one of the largest botanical research centers in Southeast Asia, located at the edge of the Silver Valley National Park. The conservatory was built to preserve rare mountain plants that cannot survive in lowland environments. With its transparent glass domes and automated climate-control systems, the facility allows scientists to replicate natural conditions found only in high-altitude regions.\n\nInside the conservatory, visitors walk along elevated wooden paths surrounded by lush vegetation. Towering moss-covered trees stretch upward, creating a canopy that filters soft beams of sunlight. Below them, carpets of wildflowers bloom in shades of violet, pink, and gold. The air feels cool and slightly misty, as if the entire place is wrapped in gentle clouds.\n\nOne of the most fascinating sections is the Alpine Chamber, a dome designed to mimic the climate of snowy mountain slopes. Despite the cold temperature, the chamber is filled with unique plant species that grow only in harsh environments. Small blue flowers with crystal-like petals open during early morning hours, while rare shrubs with silver leaves shimmer under artificial lights.\n\nResearchers stationed at the conservatory focus on studying plant adaptation and survival. Many of the species preserved here are at risk of extinction due to climate change and human activities. The conservatory serves as a living laboratory where scientists monitor growth patterns, conduct seed preservation, and test methods for reintroducing rare plants to their natural habitats.\n\nTo support public awareness, the Silvermist Conservatory also offers guided tours, student workshops, and seasonal exhibitions. These programs help visitors understand the importance of conservation and the role plants play in stabilizing ecosystems. With its scientific contributions and natural beauty, the conservatory has become a symbol of environmental commitment in the region.\n\nWhat threat do many plant species in the conservatory face?",
+  "options": [
+   {
+    "id": "019ad749-76b5-762d-be56-8ae7b31701fa",
+    "description": "Soil erosion",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76b9-7e0c-968c-3f5395071578",
+    "description": "Climate change and human activities",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76bd-72f5-bc0f-736c845a91dd",
+    "description": "Lack of rainfall",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76c0-7742-ba20-a49f16f7badd",
+    "description": "Overproduction of seeds",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76c2-7cc6-a569-285928521cbd",
+    "description": "Animal attacks",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Teks Silvermist Conservatory yang sama.\n- Paragraf 4: \"Many of the species preserved here are at risk of extinction due to climate change and human activities.\"\n- Peneliti memantau pertumbuhan, melestarikan benih, dan menguji cara memperkenalkan kembali tanaman langka ke habitat alaminya.\n- Opsi: A erosi tanah, B perubahan iklim dan aktivitas manusia, C kurang hujan, D produksi biji berlebihan, E serangan hewan.\n\nDITANYAKAN:\nAncaman yang dihadapi banyak spesies tanaman di konservatorium.\n\nJAWAB:\n1. Kata kunci: threat (ancaman) sama dengan \"at risk of extinction\" (berisiko punah). Cari penyebabnya di teks.\n2. Kalimat: \"at risk of extinction due to climate change and human activities\" (berisiko punah akibat perubahan iklim dan aktivitas manusia).\n3. Opsi B \"Climate change and human activities\" sama persis dengan penyebab itu.\n4. Uji opsi C: \"lack of rainfall\" tidak tertulis di teks. Memang kekeringan bisa berkaitan dengan perubahan iklim, tetapi soal bacaan harus dijawab dari yang tertulis, dan di sini ada opsi yang persis cocok.\nJadi, jawaban yang tepat adalah (B) Climate change and human activities.\n\nMengapa opsi lain kurang tepat:\n- (A) Soil erosion (Erosi tanah) - tidak disebut.\n- (C) Lack of rainfall (Kurangnya curah hujan) - tidak tertulis di teks; hanya dugaan, dan lebih sempit daripada penyebab yang disebut teks.\n- (D) Overproduction of seeds (Produksi biji berlebihan) - tidak disebut; teks malah membahas pelestarian biji.\n- (E) Animal attacks (Serangan hewan) - tidak disebut.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci B diverifikasi dengan paragraf 4; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad749-76d4-7cd2-9706-14142f9afb0a",
+  "action": "revise",
+  "description": "The Silvermist Conservatory is one of the largest botanical research centers in Southeast Asia, located at the edge of the Silver Valley National Park. The conservatory was built to preserve rare mountain plants that cannot survive in lowland environments. With its transparent glass domes and automated climate-control systems, the facility allows scientists to replicate natural conditions found only in high-altitude regions.\n\nInside the conservatory, visitors walk along elevated wooden paths surrounded by lush vegetation. Towering moss-covered trees stretch upward, creating a canopy that filters soft beams of sunlight. Below them, carpets of wildflowers bloom in shades of violet, pink, and gold. The air feels cool and slightly misty, as if the entire place is wrapped in gentle clouds.\n\nOne of the most fascinating sections is the Alpine Chamber, a dome designed to mimic the climate of snowy mountain slopes. Despite the cold temperature, the chamber is filled with unique plant species that grow only in harsh environments. Small blue flowers with crystal-like petals open during early morning hours, while rare shrubs with silver leaves shimmer under artificial lights.\n\nResearchers stationed at the conservatory focus on studying plant adaptation and survival. Many of the species preserved here are at risk of extinction due to climate change and human activities. The conservatory serves as a living laboratory where scientists monitor growth patterns, conduct seed preservation, and test methods for reintroducing rare plants to their natural habitats.\n\nTo support public awareness, the Silvermist Conservatory also offers guided tours, student workshops, and seasonal exhibitions. These programs help visitors understand the importance of conservation and the role plants play in stabilizing ecosystems. With its scientific contributions and natural beauty, the conservatory has become a symbol of environmental commitment in the region.\n\nHow does the conservatory support public awareness?",
+  "options": [
+   {
+    "id": "019ad749-76d7-79dc-8697-d6cb5e3379d9",
+    "description": "By allowing visitors to freely pick flowers",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76da-7527-8c71-c62340507532",
+    "description": "By organizing guided tours and educational programs",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76de-798e-ad28-bd448551a89c",
+    "description": "By limiting access only to scientists",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76e1-7357-a288-621fbe1466af",
+    "description": "By replacing research with entertainment",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-76e3-77ab-bcae-238cf95e213d",
+    "description": "By building shopping centers nearby",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Teks Silvermist Conservatory yang sama.\n- Kalimat paragraf 5: \"To support public awareness, the Silvermist Conservatory also offers guided tours, student workshops, and seasonal exhibitions.\"\n- Program tersebut membantu pengunjung memahami pentingnya konservasi dan peran tanaman dalam menstabilkan ekosistem.\n- Opsi: A pengunjung bebas memetik bunga, B tur berpemandu dan program edukasi, C akses hanya untuk ilmuwan, D mengganti penelitian dengan hiburan, E membangun pusat perbelanjaan di sekitar.\n\nDITANYAKAN:\nCara konservatorium mendukung kesadaran publik (public awareness).\n\nJAWAB:\n1. Frasa \"To support public awareness\" muncul langsung di awal paragraf terakhir, sehingga jawabannya ada di kalimat yang sama.\n2. Teks: \"also offers guided tours, student workshops, and seasonal exhibitions\" (juga menawarkan tur berpemandu, lokakarya pelajar, dan pameran musiman).\n3. Opsi B \"By organizing guided tours and educational programs\" (Dengan menyelenggarakan tur berpemandu dan program edukasi) adalah parafrasenya; workshop dan exhibition termasuk program edukasi.\n4. Uji opsi E: pusat perbelanjaan tidak pernah disebut dan tidak berhubungan dengan kesadaran konservasi.\nJadi, jawaban yang tepat adalah (B) By organizing guided tours and educational programs.\n\nMengapa opsi lain kurang tepat:\n- (A) By allowing visitors to freely pick flowers (Dengan membolehkan pengunjung memetik bunga sesukanya) - bertentangan dengan tujuan pelestarian; tidak disebut.\n- (C) By limiting access only to scientists (Dengan membatasi akses hanya untuk ilmuwan) - justru dibuka untuk pengunjung dan pelajar.\n- (D) By replacing research with entertainment (Dengan mengganti penelitian dengan hiburan) - penelitian tetap menjadi fungsi utama.\n- (E) By building shopping centers nearby (Dengan membangun pusat perbelanjaan di dekatnya) - tidak disebut.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci B diverifikasi dengan paragraf 5; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad749-7708-73b5-846a-197f9e9ee3a4",
+  "action": "revise",
+  "description": "In the quiet hilltop village of Elara, people believed that the stars protected their land. Every year, the villagers gathered during the Night of Constellations to watch the sky glow with vibrant patterns of light. Among them was a young boy named Arvel, who dreamed of becoming an astronomer. He spent most of his evenings lying on grassy fields, observing the sky through a small telescope his grandfather had given him.\n\nOne night, while Arvel was mapping a new pattern of stars, a sudden streak of blazing silver light shot across the horizon. The ground trembled softly. Birds scattered from treetops, and the wind grew unusually still. A loud echo followed, rolling across the valley like distant thunder. Curious and worried, Arvel climbed the nearest hill to have a better view.\n\nFrom the hilltop, he saw something astonishing: a massive crystal-like fragment embedded in the forest below, glowing with the same silver color he had seen in the sky. The villagers soon gathered, whispering in confusion. Some believed it was a blessing, while others feared it was a sign of disaster. The village elders decided that no one should approach it until they understood what it was.\n\nBut Arvel felt a strange pull toward the glowing fragment, as if it were calling to him. Late that night, unable to resist his curiosity, he sneaked into the forest. As he approached the crystal, its light brightened, revealing swirling patterns inside it—patterns that matched the constellations he had been studying. When he placed his hand on its surface, the ground stopped trembling, and the silver glow softened.\n\nAt that moment, Arvel understood what the villagers could not: the fragment was not a threat but a fallen star seeking to return to the sky. Guided by instinct, he whispered the constellation names he had memorized. The crystal responded, slowly lifting into the air with a quiet hum. It rose higher and higher until it rejoined the stars above, restoring the peaceful glow of the night sky.\n\nWhen Arvel returned to the village, the elders were waiting for him, surprised yet relieved that the forest had calmed. They listened to his explanation and soon realized that the boy’s knowledge and courage had saved the village from panic. From that day on, Arvel was no longer just a dreamer; he was recognized as the village’s future guardian of the stars.\n\nHow did the villagers react when they saw the glowing crystal-like fragment?",
+  "options": [
+   {
+    "id": "019ad749-770b-7497-890c-b74ec92fbe13",
+    "description": "They immediately tried to destroy it",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-770f-7294-854c-0403874b3542",
+    "description": "They ignored it and returned home",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7713-7d53-8ce9-871f7f29390c",
+    "description": "They argued and blamed Arvel",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7717-74a7-a162-6ec58b8d5237",
+    "description": "They were confused and unsure whether it was a blessing or danger",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad749-771a-79e0-b56d-921262ea469c",
+    "description": "They held a celebration around it",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Cerita fiksi tentang desa Elara di puncak bukit dan seorang anak laki-laki bernama Arvel yang bercita-cita menjadi astronom.\n- Paragraf 3: \"The villagers soon gathered, whispering in confusion. Some believed it was a blessing, while others feared it was a sign of disaster.\"\n- \"The village elders decided that no one should approach it until they understood what it was.\"\n- Opsi: A segera mencoba menghancurkannya, B mengabaikan dan pulang, C bertengkar dan menyalahkan Arvel, D bingung dan tidak yakin berkah atau bahaya, E mengadakan perayaan.\n\nDITANYAKAN:\nReaksi penduduk desa ketika melihat pecahan kristal yang bersinar.\n\nJAWAB:\n1. Cari kata \"villagers\" dan peristiwa saat kristal ditemukan: paragraf 3.\n2. Teks: \"The villagers soon gathered, whispering in confusion\" (Warga segera berkumpul sambil berbisik bingung).\n3. Pendapat mereka terbelah: \"Some believed it was a blessing, while others feared it was a sign of disaster\" (Sebagian mengira itu berkah, sebagian takut itu pertanda bencana).\n4. Tetua memutuskan tak seorang pun boleh mendekat sebelum paham apa itu. Ini bukan tindakan menghancurkan, melainkan kehati-hatian.\n5. Opsi D \"They were confused and unsure whether it was a blessing or danger\" (Mereka bingung dan tidak yakin apakah itu berkah atau bahaya) sesuai.\n6. Uji opsi A: tidak ada satu pun kalimat yang menyebut warga mencoba menghancurkan kristal.\nJadi, jawaban yang tepat adalah (D) They were confused and unsure whether it was a blessing or danger.\n\nMengapa opsi lain kurang tepat:\n- (A) They immediately tried to destroy it (Mereka segera mencoba menghancurkannya) - tidak ada dalam teks; tetua malah melarang mendekat.\n- (B) They ignored it and returned home (Mereka mengabaikannya dan pulang) - mereka berkumpul dan membicarakannya.\n- (C) They argued and blamed Arvel (Mereka bertengkar dan menyalahkan Arvel) - tidak ada penyalahan; Arvel bahkan dihargai di akhir cerita.\n- (E) They held a celebration around it (Mereka mengadakan perayaan di sekitarnya) - mereka bingung dan khawatir, bukan merayakan.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci D diverifikasi dengan paragraf 3; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad749-771c-7b61-a7eb-429bd49900b0",
+  "action": "revise",
+  "description": "In the quiet hilltop village of Elara, people believed that the stars protected their land. Every year, the villagers gathered during the Night of Constellations to watch the sky glow with vibrant patterns of light. Among them was a young boy named Arvel, who dreamed of becoming an astronomer. He spent most of his evenings lying on grassy fields, observing the sky through a small telescope his grandfather had given him.\n\nOne night, while Arvel was mapping a new pattern of stars, a sudden streak of blazing silver light shot across the horizon. The ground trembled softly. Birds scattered from treetops, and the wind grew unusually still. A loud echo followed, rolling across the valley like distant thunder. Curious and worried, Arvel climbed the nearest hill to have a better view.\n\nFrom the hilltop, he saw something astonishing: a massive crystal-like fragment embedded in the forest below, glowing with the same silver color he had seen in the sky. The villagers soon gathered, whispering in confusion. Some believed it was a blessing, while others feared it was a sign of disaster. The village elders decided that no one should approach it until they understood what it was.\n\nBut Arvel felt a strange pull toward the glowing fragment, as if it were calling to him. Late that night, unable to resist his curiosity, he sneaked into the forest. As he approached the crystal, its light brightened, revealing swirling patterns inside it—patterns that matched the constellations he had been studying. When he placed his hand on its surface, the ground stopped trembling, and the silver glow softened.\n\nAt that moment, Arvel understood what the villagers could not: the fragment was not a threat but a fallen star seeking to return to the sky. Guided by instinct, he whispered the constellation names he had memorized. The crystal responded, slowly lifting into the air with a quiet hum. It rose higher and higher until it rejoined the stars above, restoring the peaceful glow of the night sky.\n\nWhen Arvel returned to the village, the elders were waiting for him, surprised yet relieved that the forest had calmed. They listened to his explanation and soon realized that the boy’s knowledge and courage had saved the village from panic. From that day on, Arvel was no longer just a dreamer; he was recognized as the village’s future guardian of the stars.\n\nWhy did Arvel decide to approach the fragment at night?",
+  "options": [
+   {
+    "id": "019ad749-771f-7533-9d4a-9b56c325f23b",
+    "description": "He wanted to impress the village elders",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7721-7823-89a0-49f9e4f06537",
+    "description": "He believed it contained hidden treasure",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7723-78db-8a02-27269512cf1e",
+    "description": "He felt a mysterious pull, as if it was calling him",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7725-792d-91e9-c0a27860eff8",
+    "description": "He needed to collect samples for research",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7728-7254-8284-882932526d83",
+    "description": "He wanted to prove the villagers wrong",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Cerita fiksi tentang desa Elara di puncak bukit dan seorang anak laki-laki bernama Arvel yang bercita-cita menjadi astronom.\n- Paragraf 4: \"But Arvel felt a strange pull toward the glowing fragment, as if it were calling to him. Late that night, unable to resist his curiosity, he sneaked into the forest.\"\n- Para tetua telah melarang siapa pun mendekat.\n- Opsi: A ingin mengesankan tetua, B mengira ada harta karun, C merasakan tarikan misterius seolah dipanggil, D perlu mengumpulkan sampel untuk penelitian, E ingin membuktikan warga salah.\n\nDITANYAKAN:\nAlasan Arvel memutuskan mendekati pecahan itu pada malam hari.\n\nJAWAB:\n1. Kata kunci: approach the fragment at night (mendekati pecahan pada malam hari) sama dengan \"Late that night ... he sneaked into the forest\" (larut malam itu ia menyelinap ke hutan).\n2. Alasan yang tertulis: \"Arvel felt a strange pull toward the glowing fragment, as if it were calling to him\" (Arvel merasakan tarikan aneh ke pecahan itu, seolah memanggilnya) dan \"unable to resist his curiosity\" (tidak mampu menahan rasa ingin tahunya).\n3. Opsi C \"He felt a mysterious pull, as if it was calling him\" adalah parafrase langsung.\n4. Uji opsi D: kata sample, collect, atau research tidak muncul di teks; ia bahkan menyelinap karena dilarang.\nJadi, jawaban yang tepat adalah (C) He felt a mysterious pull, as if it was calling him.\n\nMengapa opsi lain kurang tepat:\n- (A) He wanted to impress the village elders (Ia ingin mengesankan tetua) - ia menyelinap diam-diam melanggar larangan tetua.\n- (B) He believed it contained hidden treasure (Ia mengira ada harta karun) - tidak disebut.\n- (D) He needed to collect samples for research (Ia perlu mengumpulkan sampel untuk penelitian) - tidak disebut.\n- (E) He wanted to prove the villagers wrong (Ia ingin membuktikan warga keliru) - ia baru memahami hal itu setelah di sana, dan itu bukan alasan berangkat.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi dengan paragraf 4; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad749-773b-7eab-a4d0-22c36f65eba9",
+  "action": "revise",
+  "description": "In the quiet hilltop village of Elara, people believed that the stars protected their land. Every year, the villagers gathered during the Night of Constellations to watch the sky glow with vibrant patterns of light. Among them was a young boy named Arvel, who dreamed of becoming an astronomer. He spent most of his evenings lying on grassy fields, observing the sky through a small telescope his grandfather had given him.\n\nOne night, while Arvel was mapping a new pattern of stars, a sudden streak of blazing silver light shot across the horizon. The ground trembled softly. Birds scattered from treetops, and the wind grew unusually still. A loud echo followed, rolling across the valley like distant thunder. Curious and worried, Arvel climbed the nearest hill to have a better view.\n\nFrom the hilltop, he saw something astonishing: a massive crystal-like fragment embedded in the forest below, glowing with the same silver color he had seen in the sky. The villagers soon gathered, whispering in confusion. Some believed it was a blessing, while others feared it was a sign of disaster. The village elders decided that no one should approach it until they understood what it was.\n\nBut Arvel felt a strange pull toward the glowing fragment, as if it were calling to him. Late that night, unable to resist his curiosity, he sneaked into the forest. As he approached the crystal, its light brightened, revealing swirling patterns inside it—patterns that matched the constellations he had been studying. When he placed his hand on its surface, the ground stopped trembling, and the silver glow softened.\n\nAt that moment, Arvel understood what the villagers could not: the fragment was not a threat but a fallen star seeking to return to the sky. Guided by instinct, he whispered the constellation names he had memorized. The crystal responded, slowly lifting into the air with a quiet hum. It rose higher and higher until it rejoined the stars above, restoring the peaceful glow of the night sky.\n\nWhen Arvel returned to the village, the elders were waiting for him, surprised yet relieved that the forest had calmed. They listened to his explanation and soon realized that the boy’s knowledge and courage had saved the village from panic. From that day on, Arvel was no longer just a dreamer; he was recognized as the village’s future guardian of the stars.\n\nWhat did Arvel discover about the fragment?",
+  "options": [
+   {
+    "id": "019ad749-773e-74db-a0fc-9a2615378859",
+    "description": "It was a magical stone created by ancient villagers",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7741-7c0c-861f-6204a61765b7",
+    "description": "It was a dangerous meteor full of toxic gas",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7744-78be-adb9-590622c06802",
+    "description": "It was a fallen star trying to return to the sky",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7746-7eaf-aa55-1f3524f346eb",
+    "description": "It was part of a forbidden ritual",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-774a-7111-9905-fd5876092e54",
+    "description": "It was a rare jewel worth great fortune",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Cerita fiksi tentang desa Elara di puncak bukit dan seorang anak laki-laki bernama Arvel yang bercita-cita menjadi astronom.\n- Paragraf 5: \"Arvel understood what the villagers could not: the fragment was not a threat but a fallen star seeking to return to the sky.\"\n- Kristal merespons ketika Arvel membisikkan nama rasi bintang dan akhirnya naik bergabung dengan bintang-bintang.\n- Opsi: A batu ajaib buatan penduduk kuno, B meteor berbahaya penuh gas beracun, C bintang jatuh yang ingin kembali ke langit, D bagian dari ritual terlarang, E permata langka bernilai besar.\n\nDITANYAKAN:\nHal yang ditemukan Arvel tentang pecahan itu.\n\nJAWAB:\n1. Kata kunci: discover (menemukan/menyadari) sama dengan \"Arvel understood\" (Arvel memahami).\n2. Kalimat: \"the fragment was not a threat but a fallen star seeking to return to the sky\" (pecahan itu bukan ancaman, melainkan bintang jatuh yang ingin kembali ke langit).\n3. Opsi C \"It was a fallen star trying to return to the sky\" adalah parafrase langsung.\n4. Uji opsi E: teks tidak menyebut permata atau nilai harta. Kata crystal-like hanya menggambarkan bentuknya.\nJadi, jawaban yang tepat adalah (C) It was a fallen star trying to return to the sky.\n\nMengapa opsi lain kurang tepat:\n- (A) It was a magical stone created by ancient villagers (Batu ajaib buatan penduduk kuno) - tidak disebut.\n- (B) It was a dangerous meteor full of toxic gas (Meteor berbahaya penuh gas beracun) - teks menegaskan itu bukan ancaman.\n- (D) It was part of a forbidden ritual (Bagian dari ritual terlarang) - tidak ada ritual.\n- (E) It was a rare jewel worth great fortune (Permata langka bernilai besar) - tidak disebut.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi dengan paragraf 5; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "019ad749-774c-79fa-95ce-7d054c04cd45",
+  "action": "revise",
+  "description": "In the quiet hilltop village of Elara, people believed that the stars protected their land. Every year, the villagers gathered during the Night of Constellations to watch the sky glow with vibrant patterns of light. Among them was a young boy named Arvel, who dreamed of becoming an astronomer. He spent most of his evenings lying on grassy fields, observing the sky through a small telescope his grandfather had given him.\n\nOne night, while Arvel was mapping a new pattern of stars, a sudden streak of blazing silver light shot across the horizon. The ground trembled softly. Birds scattered from treetops, and the wind grew unusually still. A loud echo followed, rolling across the valley like distant thunder. Curious and worried, Arvel climbed the nearest hill to have a better view.\n\nFrom the hilltop, he saw something astonishing: a massive crystal-like fragment embedded in the forest below, glowing with the same silver color he had seen in the sky. The villagers soon gathered, whispering in confusion. Some believed it was a blessing, while others feared it was a sign of disaster. The village elders decided that no one should approach it until they understood what it was.\n\nBut Arvel felt a strange pull toward the glowing fragment, as if it were calling to him. Late that night, unable to resist his curiosity, he sneaked into the forest. As he approached the crystal, its light brightened, revealing swirling patterns inside it—patterns that matched the constellations he had been studying. When he placed his hand on its surface, the ground stopped trembling, and the silver glow softened.\n\nAt that moment, Arvel understood what the villagers could not: the fragment was not a threat but a fallen star seeking to return to the sky. Guided by instinct, he whispered the constellation names he had memorized. The crystal responded, slowly lifting into the air with a quiet hum. It rose higher and higher until it rejoined the stars above, restoring the peaceful glow of the night sky.\n\nWhen Arvel returned to the village, the elders were waiting for him, surprised yet relieved that the forest had calmed. They listened to his explanation and soon realized that the boy’s knowledge and courage had saved the village from panic. From that day on, Arvel was no longer just a dreamer; he was recognized as the village’s future guardian of the stars.\n\nHow did the crystal return to the sky?",
+  "options": [
+   {
+    "id": "019ad749-774f-7506-9925-aa024df2f87c",
+    "description": "Arvel pushed it upward with his hands",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7752-72e1-94b6-9b22eea52e0f",
+    "description": "The villagers chanted together to lift it",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7755-7b8f-9fbf-e9b6c5a6141a",
+    "description": "It floated upward when Arvel whispered constellation names",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad749-7758-762b-9307-de77fd7d99b4",
+    "description": "A lightning strike carried it away",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad749-775b-73c6-b043-093698adc435",
+    "description": "It was lifted by the wind during a storm",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Cerita fiksi tentang desa Elara di puncak bukit dan seorang anak laki-laki bernama Arvel yang bercita-cita menjadi astronom.\n- Paragraf 5: \"Guided by instinct, he whispered the constellation names he had memorized. The crystal responded, slowly lifting into the air with a quiet hum. It rose higher and higher until it rejoined the stars above.\"\n- Warga baru bertemu Arvel setelah ia kembali ke desa.\n- Opsi: A Arvel mendorongnya ke atas, B warga melantunkan mantra bersama, C kristal melayang ketika Arvel membisikkan nama rasi bintang, D tersambar petir, E terangkat angin badai.\n\nDITANYAKAN:\nCara kristal kembali ke langit.\n\nJAWAB:\n1. Cari bagian saat kristal naik: paragraf 5.\n2. Teks: \"he whispered the constellation names he had memorized. The crystal responded, slowly lifting into the air\" (ia membisikkan nama-nama rasi bintang yang telah dihafalnya; kristal merespons dan perlahan terangkat ke udara).\n3. Jadi sebabnya adalah bisikan nama rasi bintang oleh Arvel (opsi C).\n4. Uji opsi B: tidak ada adegan warga melantunkan sesuatu. Warga menunggu di desa dan baru mendengar penjelasan Arvel setelahnya.\nJadi, jawaban yang tepat adalah (C) It floated upward when Arvel whispered constellation names.\n\nMengapa opsi lain kurang tepat:\n- (A) Arvel pushed it upward with his hands (Arvel mendorongnya ke atas) - Arvel hanya menaruh tangan di permukaannya, lalu kristal naik sendiri.\n- (B) The villagers chanted together to lift it (Warga melantunkan mantra bersama) - warga tidak hadir.\n- (D) A lightning strike carried it away (Sambaran petir membawanya) - tidak ada petir; \"thunder\" hanya perumpamaan gema.\n- (E) It was lifted by the wind during a storm (Terangkat angin saat badai) - angin justru \"unusually still\" (tenang tak biasa), tanpa badai.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Revisi: kunci C diverifikasi dengan paragraf 5; teks dirapikan; pembahasan dibersihkan dari catatan kunci lama."
+ },
+ {
+  "id": "8b7a27ee-92ff-4dab-ab1d-1fe0d83a9a33",
+  "action": "fix",
+  "description": "Arrange the words into a correct sentence:\nan / making / is / important / announcement / the / chief",
+  "options": [
+   {
+    "id": "24f524a1-0ef5-4688-b152-d0dd3bd38e89",
+    "description": "The chief is an important making announcement",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "821678d0-4ad5-47ec-802d-94745cd6bc5a",
+    "description": "The chief is making an important announcement",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "9301a924-1b6c-41de-b0bd-5fff34ba9897",
+    "description": "The chief an important announcement is making",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "9dfa6a71-75c9-4fd8-b5a1-e9a389d972c3",
+    "description": "The chief making is an important announcement",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "2102ba8d-8432-49b9-b71b-7bf641adfa9b",
+    "description": "The chief is making important an announcement",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kata acak: an / making / is / important / announcement / the / chief.\n- the chief = frasa benda (sang kepala/pimpinan) sebagai subjek; is making = to be + V-ing; an important announcement = artikel + kata sifat + kata benda.\n\nDITANYAKAN:\nSusunan kata yang membentuk kalimat bahasa Inggris yang benar.\n\nJAWAB:\n1. Subjek: The chief (artikel the di depan kata benda chief).\n2. Predikat: is making (Present Continuous: S + is + V-ing), karena subjek tunggal.\n3. Objek: an important announcement. Urutan frasa benda adalah artikel + kata sifat + kata benda; artikel an dipakai karena important diawali bunyi vokal.\n4. Gabungkan S + to be + V-ing + O: The chief is making an important announcement. Artinya: \"Pimpinan sedang menyampaikan pengumuman penting.\"\n5. Cek: ketujuh kata terpakai tepat satu kali.\nJadi, jawaban yang tepat adalah (B) The chief is making an important announcement.\n\nMengapa opsi lain kurang tepat:\n- (A) The chief is an important making announcement: making menyelip di dalam frasa benda sehingga frasa rusak dan kalimat tidak bermakna.\n- (C) The chief an important announcement is making: objek diletakkan sebelum predikat; bahasa Inggris berpola S + V + O.\n- (D) The chief making is an important announcement: V-ing mendahului to be, padahal is harus berada sebelum making.\n- (E) The chief is making important an announcement: kata sifat important mendahului artikel an; artikel harus berada paling depan dalam frasa benda.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: daftar kata lama ('a / important / making / is / decision') tidak cocok dengan opsi dan kunci memakai kata di luar daftar. Daftar kata kini lengkap (termasuk 'an', 'the', 'chief') dan kunci 'The chief is making an important announcement' memakai semua kata tepat satu kali; dibedakan dari soal 019afc96-8266."
+ },
+ {
+  "id": "01986461-e953-705a-a2c6-c20f109bf30f",
+  "action": "fix",
+  "description": "Complete the dialogue.\n\nRina: “What were you doing when I called you at nine last night?”\nDina: “I ________ for my final exam in the library.”",
+  "options": [
+   {
+    "id": "01986461-e958-7576-a46a-ba9b0390ff3c",
+    "description": "studied",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e95b-7e28-9565-d67829f0f7d1",
+    "description": "study",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e95e-7e02-861d-db31abcb0659",
+    "description": "have studied",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e962-71cb-ae90-c6f167d26138",
+    "description": "am studying",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e964-7d13-b0f1-b9daf8b9ceff",
+    "description": "was studying",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Rina bertanya: \"What were you doing when I called you at nine last night?\" (Apa yang sedang kamu lakukan ketika aku meneleponmu pukul sembilan tadi malam?)\n- Dina menjawab: \"I ________ for my final exam in the library.\"\n- Penanda waktu: at nine last night dan when I called you (satu titik waktu di masa lampau).\n\nDITANYAKAN:\nBentuk kata kerja yang tepat untuk jawaban Dina.\n\nJAWAB:\n1. Pertanyaan Rina memakai Past Continuous (were you doing) untuk menanyakan kegiatan yang sedang berlangsung pada saat tertentu di masa lampau.\n2. Kegiatan yang sedang berlangsung ketika kejadian lain terjadi (telepon masuk) dinyatakan dengan Past Continuous: S + was/were + V-ing.\n3. Subjek I memakai was, sehingga jawabannya: I was studying for my final exam in the library. Artinya: \"Aku sedang belajar untuk ujian akhir di perpustakaan.\"\nJadi, jawaban yang tepat adalah (E) was studying.\n\nMengapa opsi lain kurang tepat:\n- (A) studied: Simple Past menyatakan kegiatan yang selesai, bukan kegiatan yang sedang berlangsung saat telepon masuk, sehingga tidak menjawab \"What were you doing ...?\".\n- (B) study: Simple Present tidak cocok dengan keterangan last night.\n- (C) have studied: Present Perfect tidak boleh dipakai dengan keterangan waktu lampau yang pasti (at nine last night).\n- (D) am studying: Present Continuous menyatakan kegiatan saat ini, bukan tadi malam.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: konteks lama ('I ... all night') membuat 'studied' dan 'was studying' sama-sama benar. Pertanyaan Rina kini menanyakan kegiatan yang sedang berlangsung pada saat tertentu di masa lampau ('What were you doing when I called you at nine last night?') sehingga hanya Past Continuous yang tepat."
+ },
+ {
+  "id": "01986b30-4f85-7e8d-941a-6c8cc26d199d",
+  "action": "fix",
+  "description": "I wonder if the file ___ sent to the client yet.",
+  "options": [
+   {
+    "id": "01986b30-4f87-7cd5-b5dd-9d19ba782446",
+    "description": "has been",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4f8a-71da-9061-73412603d28b",
+    "description": "is being",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4f8c-773c-b59b-c7db2076060d",
+    "description": "will",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4f8f-7b9b-8ae7-6864ebe7249d",
+    "description": "has",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4f92-7ade-851e-800d7b1f6f68",
+    "description": "have",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat: \"I wonder if the file ___ sent to the client yet.\" (Saya bertanya-tanya apakah berkas itu sudah dikirim kepada klien.)\n- Subjek klausa: the file (tunggal, benda yang dikenai tindakan).\n- Kata kerja: sent (V3 dari send). Penanda: yet (sudah ... belum) di klausa tanya tidak langsung.\n\nDITANYAKAN:\nKata kerja bantu yang tepat untuk melengkapi klausa.\n\nJAWAB:\n1. Berkas tidak bisa mengirim; berkas dikirim. Jadi klausanya pasif: be + V3.\n2. Yet dalam kalimat tanya menanyakan apakah suatu tindakan sudah terjadi sampai sekarang; penanda ini lazim dipakai dengan Present Perfect.\n3. Pasif Present Perfect: S + has/have + been + V3. Subjek tunggal (the file) memakai has, sehingga menjadi has been sent.\n4. Kalimat lengkap: I wonder if the file has been sent to the client yet. Artinya: \"Saya bertanya-tanya apakah berkas itu sudah dikirim ke klien.\"\nJadi, jawaban yang tepat adalah (A) has been.\n\nMengapa opsi lain kurang tepat:\n- (B) is being: Present Continuous pasif (sedang dikirim) tidak cocok dengan yet yang menanyakan apakah tindakan sudah terjadi.\n- (C) will: will + sent tidak gramatikal; seharusnya will be sent, dan maknanya masa depan.\n- (D) has: has sent adalah bentuk aktif, artinya berkas yang mengirim sesuatu; tidak masuk akal.\n- (E) have: subjek tunggal tidak memakai have, dan have sent juga bentuk aktif.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: opsi D 'was' juga gramatikal (ragam Amerika) sehingga diganti 'has' (bentuk aktif yang tidak bermakna). Penanda 'already' diganti 'yet' di akhir kalimat agar susunan kunci baku ('has been sent ... yet'); kini hanya 'has been' yang membentuk pasif Present Perfect."
+ },
+ {
+  "id": "01986b30-4fff-7c0b-92c9-66d4f0beddc0",
+  "action": "fix",
+  "description": "The supervisor wants the files ___ by noon.",
+  "options": [
+   {
+    "id": "01986b30-5001-7e6d-85ca-3057c43f49fc",
+    "description": "complete",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-5003-7bba-b873-bf524f0b0ac4",
+    "description": "completes",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-5005-7f04-8d2a-c9803f578c8b",
+    "description": "to complete",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-5007-7c7f-9f78-7c38fc463308",
+    "description": "to be completed",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986b30-500a-70f4-8601-0e62fe988a9c",
+    "description": "completing",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat: \"The supervisor wants the files ___ by noon.\" (Atasan menginginkan berkas-berkas itu ___ paling lambat tengah hari.)\n- Pola: want + objek (the files) + kata kerja.\n- Berkas tidak menyelesaikan sesuatu; berkas diselesaikan (makna pasif).\n\nDITANYAKAN:\nBentuk kata kerja yang tepat setelah want + objek.\n\nJAWAB:\n1. Kata kerja want memakai pola want + objek + to-infinitive (I want you to come).\n2. Karena objeknya (the files) menerima tindakan, to-infinitive harus berbentuk pasif: to be + V3.\n3. Maka: The supervisor wants the files to be completed by noon. Artinya: \"Atasan ingin berkas-berkas itu sudah diselesaikan paling lambat tengah hari.\"\nJadi, jawaban yang tepat adalah (D) to be completed.\n\nMengapa opsi lain kurang tepat:\n- (A) complete: bentuk dasar tidak dapat langsung mengikuti want + objek.\n- (B) completes: kata kerja berakhiran -s tidak bisa menjadi pelengkap objek dan tidak cocok dengan the files (jamak).\n- (C) to complete: bentuk aktif, berarti berkas yang menyelesaikan sesuatu; tidak masuk akal.\n- (E) completing: want tidak diikuti objek + V-ing.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: opsi B 'completed' juga benar (want + objek + V3) sehingga diganti 'completes' agar kunci 'to be completed' tunggal."
+ },
+ {
+  "id": "01986b30-4faf-7520-9182-642df6573898",
+  "action": "fix",
+  "description": "The cadets ___ for the final physical test by their instructors last Friday.",
+  "options": [
+   {
+    "id": "01986b30-4fb3-77c9-8ba2-256915515b95",
+    "description": "prepared",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4fb6-7b8b-8416-f84d2cf370b4",
+    "description": "prepare",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4fba-74b1-8288-92eec4519e41",
+    "description": "are preparing",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4fbd-788e-815f-1285e1bcd16a",
+    "description": "have prepared",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4fc0-7768-8b64-d11a239782ad",
+    "description": "were prepared",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat: \"The cadets ___ for the final physical test by their instructors last Friday.\" (Para kadet ___ untuk tes fisik akhir oleh para instruktur mereka Jumat lalu.)\n- Subjek: the cadets (jamak). Ada pelaku tindakan: by their instructors. Keterangan waktu: last Friday (lampau).\n\nDITANYAKAN:\nBentuk kata kerja yang tepat.\n\nJAWAB:\n1. Frasa by their instructors menunjukkan bahwa para kadet dikenai tindakan (dipersiapkan oleh instruktur), sehingga kalimat harus pasif: be + V3.\n2. Last Friday menunjukkan Simple Past, jadi to be lampau: was/were.\n3. Subjek jamak (the cadets) memakai were: were prepared.\n4. Kalimat: The cadets were prepared for the final physical test by their instructors last Friday. Artinya: \"Para kadet dipersiapkan untuk tes fisik akhir oleh instruktur mereka Jumat lalu.\"\nJadi, jawaban yang tepat adalah (E) were prepared.\n\nMengapa opsi lain kurang tepat:\n- (A) prepared: bentuk aktif; berarti para kadet yang mempersiapkan, padahal ada pelaku by their instructors.\n- (B) prepare: Simple Present aktif, tidak cocok dengan last Friday dan dengan pelaku by ....\n- (C) are preparing: Present Continuous aktif, bertentangan dengan last Friday.\n- (D) have prepared: Present Perfect tidak dipakai dengan keterangan waktu lampau yang pasti, dan bentuknya aktif.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: kalimat lama juga benar dengan bentuk aktif 'prepared'. Ditambahkan pelaku 'by their instructors' sehingga kalimat harus pasif dan hanya 'were prepared' yang tepat."
+ },
+ {
+  "id": "019afc96-8280-7d22-a2e7-8c383dd866f0",
+  "action": "fix",
+  "description": "Arrange the words into a correct sentence that begins with “Never”:\nnever / have / I / experienced / such / fear / before",
+  "options": [
+   {
+    "id": "019afc96-8284-72d0-8097-8f9a8b252b5f",
+    "description": "Never have I experienced such fear before",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8287-7bb1-bc06-f27c1ac18823",
+    "description": "Never I have experienced such fear before",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-828b-7560-abf3-e83948d4f005",
+    "description": "Never have experienced I such fear before",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-828f-7986-b61e-45d4a23a8bbb",
+    "description": "Never experienced have I such fear before",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8292-7e98-9e3d-3920c7ad577c",
+    "description": "Never have I such fear experienced before",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kata acak: never / have / I / experienced / such / fear / before.\n- Syarat: kalimat diawali kata Never.\n- Kalimat biasa (tanpa inversi): I have never experienced such fear before.\n\nDITANYAKAN:\nSusunan kalimat inversi yang benar dengan kata Never di awal.\n\nJAWAB:\n1. Jika kata keterangan negatif (never, rarely, seldom, hardly, not only) diletakkan di awal kalimat untuk penekanan, kalimat wajib memakai inversi: kata kerja bantu diletakkan sebelum subjek, seperti pola kalimat tanya.\n2. Pola: Never + auxiliary + subject + main verb + ... Auxiliary-nya have, subjeknya I, kata kerja utamanya experienced.\n3. Hasil: Never have I experienced such fear before. Artinya: \"Belum pernah aku merasakan ketakutan seperti itu sebelumnya.\"\nJadi, jawaban yang tepat adalah (A) Never have I experienced such fear before.\n\nMengapa opsi lain kurang tepat:\n- (B) Never I have experienced ...: Never di awal kalimat tetapi tanpa inversi; subjek I seharusnya berada sesudah have.\n- (C) Never have experienced I ...: subjek I diletakkan sesudah kata kerja utama; inversi hanya memindahkan auxiliary, bukan kata kerja utama.\n- (D) Never experienced have I ...: kata kerja utama mendahului auxiliary; susunannya tidak baku.\n- (E) Never have I such fear experienced before: objek such fear menyelip di antara subjek dan kata kerja utama; seharusnya experienced langsung sesudah I.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: daftar kata lama tidak memuat 'have' dan kunci tidak menguji inversi (sub materi ENG-16). Kata 'have' ditambahkan, soal mensyaratkan kalimat diawali 'Never', dan kunci menjadi bentuk inversi baku 'Never have I experienced such fear before'."
+ },
+ {
+  "id": "01986461-e78f-77fc-bfa8-fe71563b3ef1",
+  "action": "fix",
+  "description": "Read the following text to answer the question.\n\nTo: Sergeant Hadi\n\nGood morning,\n\nPlease be informed that the first aid refresher training will be conducted on Friday, 10 May 2025 at 07.30 a.m. sharp at the Emergency Response Center. The training is intended for officers who completed the basic first aid course last year. All participating officers must wear full uniform and bring their medical kit and notepad. Refreshments will be available after the session.\n\nKindly confirm the list of participants by Wednesday.\n\nRegards,\nOfficer Melinda\nMedical Division Coordinator\n\nThe word “refresher” in the text means ...",
+  "options": [
+   {
+    "id": "01986461-e794-71d5-8033-66f9f6073977",
+    "description": "Brand new training for beginners",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e796-7815-b863-53ba83f5a128",
+    "description": "Emergency rescue operation",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e799-7d6b-8ab7-01e960115615",
+    "description": "Advanced surgical technique",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e79d-72ad-9a8c-a7cbe2bc36c2",
+    "description": "Training to review and update existing skills",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986461-e79f-7abd-91ab-f33a868bec47",
+    "description": "Food and drinks served after the session",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Memo kepada Sergeant Hadi tentang \"first aid refresher training\" pada Jumat, 10 Mei 2025.\n- Petunjuk konteks: \"The training is intended for officers who completed the basic first aid course last year.\" (Pelatihan ditujukan bagi petugas yang telah menyelesaikan kursus dasar P3K tahun lalu.)\n- Teks juga memuat kata \"Refreshments\" (hidangan ringan) yang tersedia setelah sesi.\n\nDITANYAKAN:\nMakna kata \"refresher\" dalam teks.\n\nJAWAB:\n1. Refresher (refresher training/course) adalah pelatihan penyegaran, yaitu pelatihan untuk mengulang dan memperbarui keterampilan yang pernah dipelajari.\n2. Konteks mendukung makna ini: pesertanya adalah petugas yang sudah mengikuti kursus dasar tahun lalu, sehingga pelatihan ini bertujuan menyegarkan dan memperbarui keterampilan mereka.\n3. Jangan tertukar dengan refreshments, yaitu makanan dan minuman ringan.\nJadi, jawaban yang tepat adalah (D) Training to review and update existing skills.\n\nMengapa opsi lain kurang tepat:\n- (A) Brand new training for beginners: peserta bukan pemula; mereka sudah mengikuti kursus dasar.\n- (B) Emergency rescue operation: refresher adalah pelatihan, bukan operasi penyelamatan.\n- (C) Advanced surgical technique: tidak ada materi bedah lanjutan; topiknya P3K.\n- (E) Food and drinks served after the session: itu makna refreshments, bukan refresher.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: teks memo dirapikan dan diberi petunjuk konteks (pelatihan untuk petugas yang sudah ikut kursus dasar tahun lalu); instruksi diubah ke bahasa Inggris; opsi 'Repeating the same thing' yang dekat makna diganti, dan ditambah pengecoh 'Food and drinks...' yang menguji beda refresher vs refreshments."
+ },
+ {
+  "id": "01986461-e7f4-7d2b-b3a1-46abb428bcd2",
+  "action": "fix",
+  "description": "Last Saturday, Officer Lina received a call from a local resident who reported a suspicious person near the parking lot. She immediately drove to the scene and (11) _______ the situation. The man appeared nervous and kept looking around. Officer Lina approached him and politely asked for identification. At first, the man (12) _______ to answer questions. However, after a few minutes, he (13) _______ and explained that he was waiting for his friend. After checking his ID and confirming there was no record of criminal activity, Officer Lina (14) _______ him to leave the area. She thanked the caller for being alert and reminded the public to (15) _______ any suspicious activity.\n\nWhich word best fits blank (11)?",
+  "options": [
+   {
+    "id": "01986461-e7f6-7dca-9077-d3b1ca64ba49",
+    "description": "ignore",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e7f9-73f2-a456-7cb18924a43e",
+    "description": "assesses",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e7fb-7803-a2a5-f064aee468fb",
+    "description": "assessed",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986461-e7fd-77b9-ae34-ff77cb4531f4",
+    "description": "assessing",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e7ff-79e0-a874-6b243908b887",
+    "description": "ignored",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat rumpang (11): \"She immediately drove to the scene and (11) _______ the situation.\" (Ia segera berkendara ke lokasi dan ... situasinya.)\n- Kalimat-kalimat berikutnya menunjukkan Officer Lina mengamati pria itu, mendekatinya, dan memeriksa identitasnya.\n\nDITANYAKAN:\nKata yang paling tepat untuk rumpang (11).\n\nJAWAB:\n1. Bentuk: kata hubung and menyejajarkan dua predikat. Predikat pertama drove (Simple Past), jadi predikat kedua juga harus Simple Past.\n2. Makna: Officer Lina datang segera karena laporan, lalu mengamati dan menilai keadaan sebelum bertindak. Kata yang bermakna \"menilai/mengkaji\" adalah assess.\n3. Bentuk lampaunya assessed: She immediately drove to the scene and assessed the situation. Artinya: \"Ia segera menuju lokasi dan menilai situasinya.\"\nJadi, jawaban yang tepat adalah (C) assessed.\n\nMengapa opsi lain kurang tepat:\n- (A) ignore: bentuk dasar tidak sejajar dengan drove, dan maknanya (mengabaikan) bertentangan dengan tindakan Officer Lina.\n- (B) assesses: bentuk Simple Present, tidak sejajar dengan drove dan cerita masa lampau (Last Saturday).\n- (D) assessing: bentuk V-ing tidak dapat menjadi predikat yang disejajarkan dengan drove.\n- (E) ignored: bentuknya lampau, tetapi maknanya bertentangan dengan konteks; Officer Lina justru segera datang dan memeriksa pria itu.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: opsi lama (examined, checked, evaluated, assessed) semuanya cocok untuk rumpang (11). Opsi diganti sehingga hanya satu yang tepat secara bentuk (lampau, sejajar dengan 'drove') dan makna; ditambahkan kalimat tanya yang menyebut nomor rumpang."
+ },
+ {
+  "id": "01986b30-51a4-7f09-b54d-eca405007e67",
+  "action": "fix",
+  "description": "The suspect, who had been hiding from the police for weeks, was finally found in a ___ location known only to his closest friend.",
+  "options": [
+   {
+    "id": "01986b30-51a7-74fe-a28f-8a0f521fe88d",
+    "description": "secret",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986b30-51a9-7957-abe2-8f85f2992d33",
+    "description": "public",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-51ab-7b7c-a914-3d2b9e987488",
+    "description": "famous",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-51ad-791e-9acf-6ea3bd08f14b",
+    "description": "crowded",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-51af-7ae4-93d3-e8e2eb864ac8",
+    "description": "honest",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat: \"The suspect, who had been hiding from the police for weeks, was finally found in a ___ location known only to his closest friend.\"\n- Petunjuk konteks: had been hiding from the police (bersembunyi dari polisi) dan known only to his closest friend (hanya diketahui sahabat terdekatnya).\n\nDITANYAKAN:\nKata sifat yang tepat untuk menerangkan location.\n\nJAWAB:\n1. Rumpang berada pada pola a + kata sifat + kata benda (location), sehingga diperlukan kata sifat.\n2. Lokasi tempat orang bersembunyi dan yang hanya diketahui satu orang adalah lokasi yang dirahasiakan.\n3. Kata sifat yang bermakna \"rahasia\" adalah secret. Artinya: \"Tersangka yang berminggu-minggu bersembunyi dari polisi akhirnya ditemukan di lokasi rahasia yang hanya diketahui sahabat terdekatnya.\"\nJadi, jawaban yang tepat adalah (A) secret.\n\nMengapa opsi lain kurang tepat:\n- (B) public: lokasi umum diketahui banyak orang, bertentangan dengan known only to his closest friend.\n- (C) famous: lokasi terkenal juga diketahui banyak orang.\n- (D) crowded: lokasi ramai tidak cocok untuk bersembunyi dan bertentangan dengan konteks.\n- (E) honest: kata sifat untuk sifat manusia (jujur), tidak dapat menerangkan lokasi.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: kalimat lama tanpa konteks sehingga 'secret', 'public', 'crowded', 'usual' sama-sama mungkin. Ditambahkan konteks (bersembunyi berminggu-minggu, lokasi hanya diketahui sahabatnya) sehingga hanya 'secret' yang tepat; opsi 'usual' diganti 'famous'."
+ },
+ {
+  "id": "01986461-e828-782c-8ed7-f7621757a13f",
+  "action": "fix",
+  "description": "Last Saturday, Officer Lina received a call from a local resident who reported a suspicious person near the parking lot. She immediately drove to the scene and (11) _______ the situation. The man appeared nervous and kept looking around. Officer Lina approached him and politely asked for identification. At first, the man (12) _______ to answer questions. However, after a few minutes, he (13) _______ and explained that he was waiting for his friend. After checking his ID and confirming there was no record of criminal activity, Officer Lina (14) _______ him to leave the area. She thanked the caller for being alert and reminded the public to (15) _______ any suspicious activity.\n\nWhich word best fits blank (14)?",
+  "options": [
+   {
+    "id": "01986461-e82a-7dee-be74-1b71180699d2",
+    "description": "arrest",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e82c-7e85-82e5-ea1877f9af91",
+    "description": "invites",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e82f-725a-9913-9f9ea4a699c2",
+    "description": "allow",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e831-7730-b913-bd7541454dfd",
+    "description": "arresting",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986461-e833-7cbd-8145-89ad0986bf3c",
+    "description": "allowed",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Kalimat rumpang (14): \"After checking his ID and confirming there was no record of criminal activity, Officer Lina (14) _______ him to leave the area.\"\n- Konteks: identitas pria itu sudah diperiksa dan ia tidak memiliki catatan kriminal; ia hanya menunggu temannya.\n- Cerita berlatar waktu lampau (Last Saturday).\n\nDITANYAKAN:\nKata yang paling tepat untuk rumpang (14).\n\nJAWAB:\n1. Bentuk: rumpang adalah predikat utama kalimat lampau, jadi diperlukan kata kerja Simple Past. Pola sesudahnya adalah verb + objek (him) + to-infinitive (to leave).\n2. Makna: karena pria itu terbukti tidak bersalah, Officer Lina mengizinkannya pergi. Kata kerja yang bermakna mengizinkan dan memakai pola allow + objek + to-infinitive adalah allow.\n3. Bentuk lampaunya allowed: Officer Lina allowed him to leave the area. Artinya: \"Officer Lina mengizinkannya meninggalkan area itu.\"\nJadi, jawaban yang tepat adalah (E) allowed.\n\nMengapa opsi lain kurang tepat:\n- (A) arrest: bentuk dasar tidak cocok untuk cerita lampau; arrest juga tidak memakai pola objek + to-infinitive, dan menangkap bertentangan dengan fakta tidak ada catatan kriminal.\n- (B) invites: bentuk Simple Present tidak sesuai cerita lampau, dan \"mengundang untuk pergi\" tidak wajar.\n- (C) allow: maknanya tepat, tetapi bentuk dasarnya tidak sesuai dengan cerita berlatar lampau.\n- (D) arresting: bentuk V-ing tidak dapat menjadi predikat tanpa to be, dan maknanya bertentangan dengan konteks.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: 'told' dan 'advised' sama-sama benar untuk rumpang (14), sedangkan kata paling wajar 'allowed' tidak tersedia. Opsi diganti sehingga hanya 'allowed' yang tepat bentuk (lampau, pola verb + object + to-infinitive) dan maknanya; ditambahkan kalimat tanya yang menyebut nomor rumpang."
+ },
+ {
+  "id": "019ad61e-9fec-713f-8d07-ed7ac6bdfb61",
+  "action": "fix",
+  "description": "Volcanoes are natural openings in the Earth’s surface where molten rock, gases, and ash escape from beneath the crust. Their formation is closely related to the movement of tectonic plates, which constantly push, pull, or slide past one another. These interactions create cracks and weak zones in the Earth’s crust, allowing magma from the mantle to rise slowly over time.\n\nDeep beneath the Earth, extremely high temperatures melt solid rocks into magma. This molten material contains dissolved gases that expand as the magma rises toward the surface. The rising pressure inside a volcano is similar to shaking a carbonated bottle; the more pressure that builds up, the more forceful the release becomes. When the pressure becomes too great, the magma forces its way upward through vents and erupts on the surface.\n\nDuring an eruption, the material released can vary depending on the type of volcano and the composition of magma. Some volcanoes erupt explosively, producing tall columns of ash, rock fragments, and gas that shoot high into the atmosphere. Others erupt more gently, with slow streams of lava that flow down the slopes, creating new layers of rock. The style of eruption plays a major role in shaping the surrounding landscape.\n\nAsh clouds released during explosive eruptions can affect areas far from the volcano itself. The fine particles can travel across continents, influencing weather patterns and sometimes reducing global temperatures. Thick layers of ash can also damage buildings, cover farmland, and disrupt daily life for communities living nearby. In severe cases, ash may even contaminate water sources and cause respiratory problems in humans and animals.\n\nLava flows, although typically slower than explosive eruptions, also pose significant risks. They can destroy forests, farmlands, and housing as they advance downhill. However, lava eventually cools and solidifies, forming fertile soil that supports plant growth. Many volcanic regions around the world benefit from this natural process, as it contributes to agricultural productivity in the long term.\n\nDespite the dangers, volcanoes play an important role in shaping the Earth’s surface. They create new islands, build mountains, and release gases that influence the atmosphere. Scientists continue to study volcanic activity to improve early-warning systems, helping communities prepare for eruptions and reduce the potential impact on human life.\n\nWhich of the following is NOT mentioned in the text as an effect of volcanic ash?",
+  "options": [
+   {
+    "id": "019ad61e-9ff0-7108-9709-d6add294ffba",
+    "description": "Contaminating water sources",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ff5-71b1-934e-50df85ab8621",
+    "description": "Damaging buildings",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ff8-7388-83a7-377a4217a913",
+    "description": "Triggering earthquakes",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ffa-7ab1-a2cd-7bb2cee92672",
+    "description": "Covering farmland",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad61e-9ffc-7c08-85e7-8fd327ae7c3b",
+    "description": "Causing breathing problems",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 4 membahas dampak abu letusan: \"The fine particles can travel across continents, influencing weather patterns and sometimes reducing global temperatures. Thick layers of ash can also damage buildings, cover farmland, and disrupt daily life ... ash may even contaminate water sources and cause respiratory problems in humans and animals.\"\n- Soal memakai kata NOT: cari dampak yang tidak disebut.\n\nDITANYAKAN:\nDampak abu vulkanik yang TIDAK disebut dalam teks.\n\nJAWAB:\n1. Daftar dampak abu menurut paragraf 4: memengaruhi pola cuaca, menurunkan suhu global, merusak bangunan (damage buildings), menutupi lahan pertanian (cover farmland), mengganggu kehidupan sehari-hari, mencemari sumber air (contaminate water sources), dan menyebabkan gangguan pernapasan (respiratory problems).\n2. Cocokkan dengan opsi: A, B, D, dan E semuanya ada dalam daftar (respiratory problems = breathing problems).\n3. Gempa bumi (earthquakes) tidak disebut di bagian mana pun dari teks sebagai dampak abu.\nJadi, jawaban yang tepat adalah (C) Triggering earthquakes.\n\nMengapa opsi lain kurang tepat:\n- (A) Contaminating water sources: disebut, \"ash may even contaminate water sources\".\n- (B) Damaging buildings: disebut, \"Thick layers of ash can also damage buildings\".\n- (D) Covering farmland: disebut, \"... cover farmland\".\n- (E) Causing breathing problems: disebut sebagai \"respiratory problems in humans and animals\".",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: pertanyaan dan opsi lama terbawa dari teks Crystal Reef sehingga empat opsi sama-sama tidak disebut. Pertanyaan diganti menjadi dampak abu vulkanik yang TIDAK disebut; empat opsi kini tertulis di paragraf 4 dan hanya 'Triggering earthquakes' yang tidak disebut. Teks dirapikan (baris tersambung)."
+ },
+ {
+  "id": "0198a937-04b2-7e40-a661-37d0be65534d",
+  "action": "fix",
+  "description": "Read the following announcement to answer the question.\n\nAttention all motorists: From March 1, the city will introduce new traffic regulations to reduce congestion in the downtown area. Vehicles without an official “Downtown Access Permit” will not be allowed to enter the central business district between 7.00 a.m. and 7.00 p.m. on weekdays.\n\nPermit applications can be submitted online through the city’s transport department website or in person at district offices. Priority will be given to residents, delivery services, and emergency vehicles.\n\nThe police will monitor entry points with CCTV cameras and conduct random checks. Offenders will face fines of up to 1 million rupiah.\n\nWhat is the maximum fine for offenders?",
+  "options": [
+   {
+    "id": "0198a937-04b7-73e8-825b-c854ebc7dd1b",
+    "description": "Rp500,000",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0198a937-04ba-7705-85b4-e611f37eb3d9",
+    "description": "Rp750,000",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0198a937-04bd-7e9c-b7a4-5a94ff004485",
+    "description": "Rp1,000,000",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0198a937-04c1-7045-a097-996b1e6ab042",
+    "description": "Rp1,500,000",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "0198a937-04c4-7245-8a2d-98d3d00e4f8a",
+    "description": "Rp2,000,000",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Pengumuman peraturan lalu lintas baru di pusat kota mulai 1 Maret.\n- Kendaraan tanpa \"Downtown Access Permit\" dilarang masuk kawasan bisnis pusat pukul 07.00-19.00 pada hari kerja.\n- Kalimat terakhir: \"Offenders will face fines of up to 1 million rupiah.\" (Pelanggar akan dikenai denda hingga 1 juta rupiah.)\n\nDITANYAKAN:\nDenda maksimum bagi pelanggar.\n\nJAWAB:\n1. Kata maximum (paling tinggi) dalam soal sepadan dengan frasa up to (hingga/paling banyak) dalam teks.\n2. Kalimat \"fines of up to 1 million rupiah\" berarti denda paling banyak satu juta rupiah.\n3. 1 million rupiah ditulis Rp1,000,000.\nJadi, jawaban yang tepat adalah (C) Rp1,000,000.\n\nMengapa opsi lain kurang tepat:\n- (A) Rp500,000: tidak disebut dalam teks.\n- (B) Rp750,000: tidak disebut dalam teks.\n- (D) Rp1,500,000: melebihi batas \"up to 1 million rupiah\".\n- (E) Rp2,000,000: melebihi batas denda yang disebut teks.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: teks pengumuman kini lengkap dan dirapikan per paragraf; instruksi diubah ke bahasa Inggris; pembahasan lama (yang menyatakan teks tidak ada) ditulis ulang berdasarkan teks."
+ },
+ {
+  "id": "019ad58c-8e70-724a-90a2-05e1c4f0deef",
+  "action": "fix",
+  "description": "The Life of Malala Yousafzai\n\nMalala Yousafzai, born in Mingora, Pakistan, in 1997, is a global advocate for girls’ education and the youngest recipient of the Nobel Peace Prize. From an early age, she was inspired by her father, an educator who believed that every child deserved the right to learn.\n\nIn 2012, at the age of fifteen, Malala survived an assassination attempt by the Taliban for speaking out about girls’ education. Her recovery became a turning point in her life, leading her to continue her activism with even greater determination. Through the Malala Fund, she supports projects that provide access to education for young women across the world.\n\nHer courage, intelligence, and compassion have made her a symbol of resilience and hope. Today, Malala continues her mission to ensure that education becomes a universal right, proving that even one voice can change the world.\n\nWhat is Malala Yousafzai best known for?",
+  "options": [
+   {
+    "id": "019ad58c-8e73-7a5b-9319-ea5d13d25211",
+    "description": "Being a political leader",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8e76-7cee-9b0c-d0ef6fcaafc5",
+    "description": "Advocating for girls’ education",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8e79-7630-bf8e-938f9514dbf3",
+    "description": "Writing children’s books",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8e7c-7853-a7f9-a74dcf39ab1f",
+    "description": "Teaching at a university",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019ad58c-8e80-7331-a940-e3f50948dda3",
+    "description": "Managing a charity for hospitals",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Teks biografi \"The Life of Malala Yousafzai\".\n- Kalimat pembuka: Malala lahir di Mingora, Pakistan, tahun 1997, adalah \"a global advocate for girls’ education and the youngest recipient of the Nobel Peace Prize\" (pembela global pendidikan anak perempuan dan penerima Nobel Perdamaian termuda).\n- Ia selamat dari percobaan pembunuhan oleh Taliban tahun 2012 karena menyuarakan pendidikan anak perempuan, lalu melalui Malala Fund mendukung akses pendidikan.\n\nDITANYAKAN:\nUntuk apa Malala Yousafzai paling dikenal (best known for)?\n\nJAWAB:\n1. Kata kunci: \"best known for\". Jawabannya ada pada kalimat perkenalan tokoh di awal teks: \"a global advocate for girls’ education\".\n2. Paragraf kedua dan ketiga menguatkan hal ini: ia berbicara tentang pendidikan anak perempuan, mendirikan Malala Fund untuk akses pendidikan, dan berjuang agar pendidikan menjadi hak universal.\n3. Jadi Malala paling dikenal sebagai pembela pendidikan anak perempuan, yaitu \"Advocating for girls’ education\".\n4. Opsi lain tidak disebut atau bertentangan dengan teks.\nJadi, jawaban yang tepat adalah (B) Advocating for girls’ education.\n\nMengapa opsi lain kurang tepat:\n- (A) \"Being a political leader\": teks tidak menyebut jabatan politik; aktivisme bukan kepemimpinan politik.\n- (C) \"Writing children’s books\": tidak disebut dalam teks.\n- (D) \"Teaching at a university\": tidak disebut; yang seorang pendidik adalah ayahnya.\n- (E) \"Managing a charity for hospitals\": keliru, Malala Fund bergerak di bidang pendidikan, bukan rumah sakit.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: opsi kunci kini 'Advocating for girls’ education' (sesuai kalimat pembuka teks) dengan 5 opsi lengkap; teks biografi dirapikan; pembahasan diverifikasi."
+ },
+ {
+  "id": "9b4be7dc-4e2b-458d-87d4-c786996d10eb",
+  "action": "fix",
+  "description": "Read the following text to answer the question.\n\nProtect Our Forests Before It Is Too Late\n\nForests are often called the lungs of the Earth. They produce the oxygen we breathe, store large amounts of carbon, and provide homes for thousands of plant and animal species. Forests also protect the soil from erosion and help prevent floods by absorbing rainwater.\n\nUnfortunately, forests are disappearing at an alarming rate. Every year, large areas are cleared for plantations, mining, and new settlements. Illegal logging and forest fires make the situation even worse. When forests are lost, animals lose their habitats, landslides become more frequent, and the air becomes more polluted.\n\nWe cannot wait for the government alone to solve this problem. Each of us must take action now. We can start by planting trees around our homes, using paper wisely, and choosing products from companies that do not destroy forests. We should also report illegal logging to the authorities. If we work together, our children will still be able to enjoy green and healthy forests in the future.\n\nWhat is the main purpose of the text?",
+  "options": [
+   {
+    "id": "2b0e2a7f-b45a-42db-a883-3f3160155d4a",
+    "description": "To entertain readers with a story about forest animals",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "b1d1e362-a1c2-4337-a5e8-9f5aab9e4431",
+    "description": "To persuade readers to protect forests",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "d411489f-2bd3-4b3c-b63a-aed764c3fa84",
+    "description": "To describe a holiday in a forest",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "939ff499-c89a-43e2-b36b-48df38713999",
+    "description": "To explain how forests produce oxygen",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "e6f5d04a-3fd9-4b90-930d-f443652a202c",
+    "description": "To report the results of a tree-planting competition",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Judul: \"Protect Our Forests Before It Is Too Late\" (Lindungi Hutan Kita Sebelum Terlambat).\n- Paragraf 1: manfaat hutan (oksigen, penyimpan karbon, habitat, mencegah erosi dan banjir).\n- Paragraf 2: hutan cepat hilang karena pembukaan lahan, pembalakan liar, dan kebakaran, beserta akibatnya.\n- Paragraf 3: ajakan bertindak, misalnya \"Each of us must take action now\", \"We can start by planting trees ...\", \"We should also report illegal logging ...\".\n\nDITANYAKAN:\nTujuan utama teks.\n\nJAWAB:\n1. Teks yang berisi pendapat penulis, alasan pendukung, lalu ajakan kepada pembaca (must, should, we can start by ...) adalah teks persuasif (hortatory exposition) yang bertujuan membujuk pembaca.\n2. Judulnya sudah berupa ajakan: Protect Our Forests.\n3. Paragraf 1 dan 2 berfungsi sebagai alasan (manfaat hutan dan ancamannya), sedangkan paragraf 3 berisi ajakan nyata untuk melindungi hutan.\nJadi, jawaban yang tepat adalah (B) To persuade readers to protect forests.\n\nMengapa opsi lain kurang tepat:\n- (A) To entertain readers with a story about forest animals: teks bukan cerita dan tidak berisi tokoh atau alur.\n- (C) To describe a holiday in a forest: tidak ada kisah liburan.\n- (D) To explain how forests produce oxygen: oksigen hanya disebut sebagai salah satu manfaat; teks tidak menjelaskan prosesnya dan inti teks adalah ajakan.\n- (E) To report the results of a tree-planting competition: tidak ada lomba atau laporan hasil.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: soal lama tidak memiliki teks bacaan. Ditambahkan teks persuasif orisinal tentang pelestarian hutan sehingga tujuan teks dapat dibuktikan; opsi diperjelas dan ditambah pengecoh yang masuk akal ('To explain how forests produce oxygen')."
+ },
+ {
+  "id": "019a91dd-a79e-7442-b3b4-cafb9ad3b451",
+  "action": "fix",
+  "description": "Online learning has become an essential part of modern education. It allows students to access materials anytime and anywhere, making learning more flexible and efficient. Especially during the pandemic, online education proved that technology could replace traditional classrooms temporarily.\n\nOne major advantage is accessibility. Students in remote areas can attend virtual classes without needing to travel. Moreover, it encourages self-discipline, as learners must manage their own study schedules. However, online learning also presents challenges, such as limited interaction and distractions from gadgets.\n\nIn conclusion, online learning should continue to be developed alongside traditional education. With proper balance and support, it can make learning more inclusive and adaptable to the needs of the future.\n\nWhat is one problem mentioned about online learning?",
+  "options": [
+   {
+    "id": "019a91dd-a7a1-72a4-af33-c5c5a96e8e38",
+    "description": "Limited interaction and distractions from gadgets",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019a91dd-a7a4-71b1-8fde-489099bf4827",
+    "description": "Students in remote areas cannot join classes",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a91dd-a7a9-7aba-b0e3-a20ddb104053",
+    "description": "Overuse of printed textbooks",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a91dd-a7ac-74e2-b97e-0c8e4bba7269",
+    "description": "Lack of self-discipline among students",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019a91dd-a7af-746e-a2f8-693bd322dbc8",
+    "description": "Lack of qualified teachers",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Paragraf 2: \"Students in remote areas can attend virtual classes without needing to travel. Moreover, it encourages self-discipline ... However, online learning also presents challenges, such as limited interaction and distractions from gadgets.\"\n- Kata However menandai peralihan dari kelebihan ke masalah.\n\nDITANYAKAN:\nSalah satu masalah pembelajaran daring yang disebut teks.\n\nJAWAB:\n1. Kata kunci soal: problem, sepadan dengan challenges dalam teks.\n2. Sesudah However, teks menyebut dua tantangan: limited interaction (interaksi terbatas) dan distractions from gadgets (gangguan dari gawai).\n3. Opsi yang memuat keduanya adalah \"Limited interaction and distractions from gadgets\".\nJadi, jawaban yang tepat adalah (A) Limited interaction and distractions from gadgets.\n\nMengapa opsi lain kurang tepat:\n- (B) Students in remote areas cannot join classes: bertentangan dengan teks; siswa di daerah terpencil justru dapat mengikuti kelas virtual.\n- (C) Overuse of printed textbooks: tidak disebut dalam teks.\n- (D) Lack of self-discipline among students: bertentangan dengan teks; pembelajaran daring disebut \"encourages self-discipline\" sebagai kelebihan.\n- (E) Lack of qualified teachers: tidak disebut dalam teks.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: kunci lama ('Lack of self-discipline') bertentangan dengan teks (online learning justru 'encourages self-discipline') dan tidak ada opsi yang benar. Opsi A kini memuat masalah yang disebut teks; 'Lack of self-discipline' dipertahankan sebagai pengecoh di D, ditambah pengecoh yang bertentangan dengan teks (B)."
+ },
+ {
+  "id": "01986b30-4e96-7975-9342-07204ec8e670",
+  "action": "fix",
+  "description": "Read the following announcement to answer the question.\n\nANNOUNCEMENT\n\nTo all new officers: Tomorrow’s first aid class will be held at the Medical Hall, not in Room A-4 as previously scheduled, because Room A-4 is being renovated. The class will start at 08.00 a.m. Please bring your notebook and arrive ten minutes early. Lunch will be served in the canteen after the class.\n\nWhere will tomorrow’s first aid class be held?",
+  "options": [
+   {
+    "id": "01986b30-4e99-7002-a443-d3aefc8a4a91",
+    "description": "Admin Hall",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4e9b-7618-a046-a774370b09c3",
+    "description": "Briefing Room",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4e9e-73ab-b38f-04eb4d630d9e",
+    "description": "Room A-4",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4ea1-7eb5-8478-691640029cf9",
+    "description": "Medical Hall",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "01986b30-4ea5-70a0-a1da-b47fb8c8eb98",
+    "description": "Canteen",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Pengumuman untuk petugas baru tentang kelas P3K besok.\n- \"Tomorrow’s first aid class will be held at the Medical Hall, not in Room A-4 as previously scheduled, because Room A-4 is being renovated.\"\n- Makan siang disajikan di kantin setelah kelas.\n\nDITANYAKAN:\nTempat kelas P3K besok diadakan.\n\nJAWAB:\n1. Kata kunci soal: will be held (akan diadakan). Frasa ini ada pada kalimat pertama pengumuman.\n2. Kalimat itu menyebut kelas diadakan at the Medical Hall, not in Room A-4. Room A-4 adalah lokasi lama yang dibatalkan karena direnovasi.\n3. Kantin hanya tempat makan siang setelah kelas.\nJadi, jawaban yang tepat adalah (D) Medical Hall.\n\nMengapa opsi lain kurang tepat:\n- (A) Admin Hall: tidak disebut dalam pengumuman.\n- (B) Briefing Room: tidak disebut dalam pengumuman.\n- (C) Room A-4: lokasi lama yang dibatalkan (\"not in Room A-4\") karena sedang direnovasi.\n- (E) Canteen: kantin adalah tempat makan siang setelah kelas, bukan tempat kelas.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: teks pengumuman dilengkapi dan pertanyaan diperjelas ('Where will tomorrow's first aid class be held?'); Room A-4 dan canteen kini disebut dalam teks sebagai pengecoh yang dapat diuji."
+ },
+ {
+  "id": "019afc96-8325-723a-86fb-301133b0e76c",
+  "action": "fix",
+  "description": "Arrange the following sentences into a coherent paragraph.\n\n(1) Curious, she opened the envelope and began to read the letter slowly.\n(2) She folded the letter carefully and decided to ask her mother about it.\n(3) She found an old letter inside her grandmother’s drawer.\n(4) When she reached the final line, her hands began to shake.\n(5) The handwriting on the envelope looked familiar to her.\n(6) It revealed a family secret that no one had ever told her.",
+  "options": [
+   {
+    "id": "019afc96-8328-7e23-b207-ef7b56d80ef6",
+    "description": "3 – 5 – 1 – 6 – 4 – 2",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019afc96-832c-770d-8a5f-6e4ce1261029",
+    "description": "5 – 3 – 1 – 6 – 4 – 2",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-832f-787e-99bf-446cbe88842a",
+    "description": "3 – 5 – 6 – 1 – 4 – 2",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8332-7a74-b514-b42c481b323b",
+    "description": "3 – 5 – 1 – 4 – 2 – 6",
+    "isCorrect": false,
+    "point": 1
+   },
+   {
+    "id": "019afc96-8336-7ec6-b612-16bd9b617f37",
+    "description": "1 – 3 – 5 – 6 – 4 – 2",
+    "isCorrect": false,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Enam kalimat acak tentang seorang perempuan yang menemukan surat lama.\n- Penanda kohesi: an old letter (pertama kali disebut), the envelope / the letter (merujuk benda yang sudah disebut), Curious (akibat dari rasa penasaran), It (merujuk the letter), the final line (akhir membaca), folded the letter (setelah selesai membaca).\n\nDITANYAKAN:\nUrutan kalimat yang membentuk paragraf padu.\n\nJAWAB:\n1. Kalimat pembuka harus memperkenalkan benda baru dengan artikel an: (3) She found an old letter inside her grandmother’s drawer.\n2. (5) The handwriting on the envelope looked familiar memicu rasa penasaran, sehingga diikuti (1) Curious, she opened the envelope and began to read the letter slowly.\n3. Isi surat dibaca: (6) It revealed a family secret ...; It merujuk the letter.\n4. Saat sampai di baris terakhir: (4) When she reached the final line, her hands began to shake.\n5. Penutup setelah selesai membaca: (2) She folded the letter carefully and decided to ask her mother about it.\n6. Urutan: 3 – 5 – 1 – 6 – 4 – 2.\nJadi, jawaban yang tepat adalah (A) 3 – 5 – 1 – 6 – 4 – 2.\n\nMengapa opsi lain kurang tepat:\n- (B) 5 – 3 – 1 – 6 – 4 – 2: kalimat 5 menyebut the envelope sebelum surat diperkenalkan pada kalimat 3.\n- (C) 3 – 5 – 6 – 1 – 4 – 2: isi rahasia (6) terungkap sebelum ia membuka dan membaca surat (1).\n- (D) 3 – 5 – 1 – 4 – 2 – 6: kalimat 6 muncul setelah surat dilipat, sehingga It tidak lagi jelas rujukannya dan rahasia baru terungkap setelah ia selesai membaca.\n- (E) 1 – 3 – 5 – 6 – 4 – 2: kalimat 1 (Curious, she opened the envelope) tidak dapat menjadi pembuka karena envelope dan letter belum diperkenalkan.",
+  "status": "aktif",
+  "quality_score": 5,
+  "quality_notes": "Diperbaiki: kalimat lama ditampilkan sudah berurutan 1-6 dan urutan benar tidak tersedia di opsi. Kalimat ditulis ulang dengan penanda kohesi yang jelas, nomor diacak, dan hanya satu urutan logis (3-5-1-6-4-2) yang tersedia."
+ }
+]

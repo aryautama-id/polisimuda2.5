@@ -1,0 +1,512 @@
+[
+  {
+    "sub_material_code": "VRB-09",
+    "description": "Perhatikan premis-premis berikut.\n(1) Semua anggota Tim Siber adalah lulusan pelatihan forensik digital.\n(2) Sebagian lulusan pelatihan forensik digital adalah anggota Reserse.\n(3) Tidak ada anggota Reserse yang bertugas di bagian Logistik.\n(4) Sebagian anggota Tim Siber bertugas di bagian Logistik.\n\nSimpulan yang PASTI benar berdasarkan seluruh premis tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Sebagian anggota Tim Siber adalah anggota Reserse.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada anggota Tim Siber yang menjadi anggota Reserse.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian lulusan pelatihan forensik digital bukan anggota Reserse.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Sebagian anggota Reserse bukan lulusan pelatihan forensik digital.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua lulusan pelatihan forensik digital yang bertugas di bagian Logistik adalah anggota Tim Siber.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Misalkan T = anggota Tim Siber, F = lulusan pelatihan forensik digital, R = anggota Reserse, L = bertugas di bagian Logistik.\n- (1) Semua T adalah F → lingkaran T berada di dalam lingkaran F.\n- (2) Sebagian F adalah R → irisan F∩R tidak kosong.\n- (3) Tidak ada R yang L → lingkaran R dan L terpisah (R∩L kosong).\n- (4) Sebagian T adalah L → irisan T∩L tidak kosong.\n\nDITANYAKAN:\nSimpulan yang pasti benar (berlaku pada setiap diagram yang memenuhi keempat premis).\n\nJAWAB:\n1. Ambil anggota yang dijamin ada oleh premis (4), sebut x: x ∈ T dan x ∈ L.\n2. Karena x ∈ T dan premis (1) menyatakan T ⊆ F, maka x ∈ F.\n3. Karena x ∈ L dan premis (3) menyatakan R∩L kosong, maka x ∉ R.\n4. Jadi ada x yang termasuk F tetapi bukan R, sehingga \"Sebagian F bukan R\" pasti benar. Pola ini adalah silogisme kategoris dengan satu premis negatif: simpulannya ikut negatif dan partikular.\n5. Uji diagram: gambar T di dalam F, L memotong T, dan R memotong F tetapi dijauhkan dari L. Daerah T∩L selalu berada di dalam F dan di luar R pada setiap gambar yang sah, sehingga simpulan pada langkah 4 tidak dapat dibantah.\nJadi, jawaban yang tepat adalah (C) Sebagian lulusan pelatihan forensik digital bukan anggota Reserse.\nMengapa opsi lain kurang tepat:\n- (A) Irisan F∩R pada premis (2) bisa saja seluruhnya berada di luar T. Tidak ada premis yang memaksa T beririsan dengan R (sesat pikir term tengah tidak terdistribusi).\n- (B) Sebaliknya juga tidak pasti: anggota T yang tidak bertugas di Logistik masih mungkin menjadi anggota R. Ini generalisasi berlebihan dari \"sebagian\" menjadi \"tidak ada\".\n- (D) Premis (2) hanya menyatakan sebagian F adalah R; bisa saja semua R adalah F. Mengubah \"sebagian F adalah R\" menjadi \"sebagian R bukan F\" adalah konversi yang tidak sah.\n- (E) Premis (1) \"semua T adalah F\" tidak dapat dibalik menjadi \"F (yang di Logistik) adalah T\". Ini konvers ilegal; lulusan forensik di Logistik bisa saja bukan anggota Tim Siber.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-09",
+    "description": "Diketahui premis-premis berikut.\n(1) Semua penyidik adalah pemegang sertifikat penyidikan.\n(2) Sebagian pemegang sertifikat penyidikan adalah anggota Polwan.\n(3) Tidak ada anggota Polwan yang berdinas di Satuan Brimob.\n\nManakah simpulan yang pasti benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Sebagian penyidik adalah anggota Polwan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian penyidik tidak berdinas di Satuan Brimob.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada penyidik yang berdinas di Satuan Brimob.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian anggota Satuan Brimob bukan pemegang sertifikat penyidikan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada simpulan pada pilihan lain yang pasti benar.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Misalkan P = penyidik, S = pemegang sertifikat penyidikan, W = anggota Polwan, B = berdinas di Satuan Brimob.\n- (1) Semua P adalah S → P ⊆ S.\n- (2) Sebagian S adalah W → S∩W tidak kosong.\n- (3) Tidak ada W yang B → W∩B kosong.\n\nDITANYAKAN:\nSimpulan yang pasti benar di antara pilihan yang tersedia.\n\nJAWAB:\n1. Rangkai premis (2) dan (3): ada anggota S∩W, dan anggota itu pasti bukan B. Simpulan sah yang dapat ditarik hanyalah \"Sebagian pemegang sertifikat penyidikan tidak berdinas di Brimob\" (Sebagian S bukan B). Simpulan ini tidak tercantum pada pilihan.\n2. Perhatikan bahwa premis (1) hanya menempatkan P di dalam S, tetapi tidak menentukan letak P terhadap W maupun B.\n3. Buat diagram tandingan: lingkaran P diletakkan di dalam S, di luar W, dan seluruhnya di dalam B. Diagram ini memenuhi ketiga premis (P ⊆ S; S∩W tetap ada di bagian lain S; W∩B tetap kosong).\n4. Pada diagram tersebut, tidak ada penyidik yang Polwan, semua penyidik berdinas di Brimob, dan semua anggota Brimob dapat dibuat memegang sertifikat. Akibatnya pilihan tentang penyidik dan anggota Brimob tidak ada yang pasti benar.\n5. Karena setiap pilihan simpulan lain dapat dibantah oleh diagram yang sah, yang benar adalah pernyataan bahwa tidak ada simpulan pada pilihan lain yang pasti benar.\nJadi, jawaban yang tepat adalah (E) Tidak ada simpulan pada pilihan lain yang pasti benar.\nMengapa opsi lain kurang tepat:\n- (A) Irisan S∩W bisa saja seluruhnya berada di luar P. Menyimpulkan P∩W dari \"P ⊆ S\" dan \"sebagian S adalah W\" adalah sesat pikir term tengah tidak terdistribusi.\n- (B) Pengecoh terkuat. Yang pasti tidak berdinas di Brimob hanyalah S yang juga W; penyidik bisa saja seluruhnya berada di dalam B (lihat langkah 3).\n- (C) Lebih kuat lagi daripada (B) dan sama tidak terjaminnya; premis tidak menghubungkan P dengan B sama sekali.\n- (D) Premis tidak menyebut keberadaan anggota Brimob di luar S; bisa saja semua anggota Brimob memegang sertifikat atau B bahkan tidak beririsan dengan pihak mana pun yang disebut.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-09",
+    "description": "Dalam seleksi calon anggota berlaku ketentuan berikut.\n(1) Tidak ada peserta bertato yang lolos tahap pemeriksaan kesehatan.\n(2) Semua peserta yang lolos tahap akhir adalah peserta yang lolos tahap pemeriksaan kesehatan.\n(3) Sebagian peserta yang lolos tahap pemeriksaan kesehatan berasal dari Polda Jawa Timur.\n(4) Bayu adalah peserta yang lolos tahap akhir.\n\nPernyataan yang PASTI SALAH adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Ada peserta bertato yang lolos tahap akhir.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Bayu tidak berasal dari Polda Jawa Timur.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian peserta dari Polda Jawa Timur tidak bertato.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Ada peserta yang lolos tahap pemeriksaan kesehatan tetapi tidak lolos tahap akhir.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua peserta dari Polda Jawa Timur lolos tahap pemeriksaan kesehatan.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Misalkan T = bertato, K = lolos tahap kesehatan, A = lolos tahap akhir, J = berasal dari Polda Jawa Timur.\n- (1) Tidak ada T yang K → T∩K kosong.\n- (2) Semua A adalah K → A ⊆ K.\n- (3) Sebagian K adalah J → K∩J tidak kosong.\n- (4) Bayu ∈ A.\n\nDITANYAKAN:\nPernyataan yang pasti salah, yaitu bernilai salah pada setiap keadaan yang memenuhi premis (bukan sekadar tidak terbukti).\n\nJAWAB:\n1. Dari (2), seluruh lingkaran A berada di dalam K.\n2. Dari (1), T terpisah dari K. Karena A ⊆ K, maka T juga terpisah dari A: tidak ada peserta bertato yang lolos tahap akhir (A → K → ~T).\n3. Akibatnya pernyataan \"Ada peserta bertato yang lolos tahap akhir\" bertentangan langsung dengan premis, sehingga pasti salah.\n4. Periksa pilihan lain dengan membedakan tiga status: pasti benar, mungkin (tidak dapat dipastikan), dan pasti salah. Hanya status \"pasti salah\" yang dicari.\n5. Pilihan tentang asal Bayu, peserta K yang bukan A, dan apakah semua J termasuk K tidak diatur oleh premis, sehingga berstatus \"mungkin\". Adapun \"sebagian J tidak bertato\" justru pasti benar.\nJadi, jawaban yang tepat adalah (A) Ada peserta bertato yang lolos tahap akhir.\nMengapa opsi lain kurang tepat:\n- (B) Premis tidak menyebut asal Bayu. Bayu bisa berasal dari Polda Jawa Timur atau tidak, sehingga pernyataan ini mungkin benar, bukan pasti salah.\n- (C) Jebakan pembalikan pertanyaan: dari (3) ada peserta K∩J, dan menurut (1) peserta itu tidak bertato. Jadi pernyataan ini PASTI BENAR, bukan pasti salah.\n- (D) Premis (2) hanya menyatakan A ⊆ K, tidak menyatakan K ⊆ A. Bisa ada peserta lolos kesehatan yang gagal di tahap akhir; pernyataan ini mungkin benar.\n- (E) Premis (3) hanya menyebut sebagian K adalah J. Kemungkinan semua J termasuk K tidak dilarang premis, sehingga pernyataan ini tidak pasti salah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-10",
+    "description": "Hasil rapat analisis dan evaluasi sebuah Polsek menetapkan hal-hal berikut.\n(1) Jika patroli malam diperkuat dan CCTV di persimpangan berfungsi, maka angka pencurian kendaraan bermotor turun.\n(2) Patroli malam diperkuat atau personel Samapta ditarik ke pengamanan unjuk rasa.\n(3) Bulan ini angka pencurian kendaraan bermotor tidak turun.\n(4) CCTV di persimpangan berfungsi sepanjang bulan ini.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Patroli malam diperkuat.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Personel Samapta tidak ditarik ke pengamanan unjuk rasa.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Patroli malam tidak diperkuat dan CCTV di persimpangan tidak berfungsi.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Patroli malam tidak diperkuat dan personel Samapta ditarik ke pengamanan unjuk rasa.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tidak dapat dipastikan apakah patroli malam diperkuat.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- p = patroli malam diperkuat; c = CCTV berfungsi; r = angka pencurian turun; s = personel Samapta ditarik.\n- (1) (p ∧ c) → r\n- (2) p ∨ s\n- (3) ~r\n- (4) c\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Modus tollens pada (1) dan (3): (p ∧ c) → r, ~r ⊢ ~(p ∧ c).\n2. Hukum De Morgan: ~(p ∧ c) ≡ ~p ∨ ~c.\n3. Silogisme disjungtif dengan (4): ~p ∨ ~c, c ⊢ ~p. Jadi patroli malam tidak diperkuat.\n4. Silogisme disjungtif pada (2): p ∨ s, ~p ⊢ s. Jadi personel Samapta ditarik ke pengamanan unjuk rasa.\n5. Uji tabel kebenaran: satu-satunya baris yang memenuhi keempat premis adalah p = S, c = B, r = S, s = B. Pada baris itu ~p ∧ s bernilai benar.\nJadi, jawaban yang tepat adalah (D) Patroli malam tidak diperkuat dan personel Samapta ditarik ke pengamanan unjuk rasa.\nMengapa opsi lain kurang tepat:\n- (A) Bertentangan dengan langkah 3. Jika p benar bersama c, menurut (1) angka pencurian harus turun, padahal (3) menyatakan tidak turun.\n- (B) Bertentangan dengan langkah 4. Karena p salah, disjungsi (2) hanya dapat benar jika s benar.\n- (C) Bagian \"CCTV tidak berfungsi\" bertentangan dengan premis (4). Kesalahan ini muncul bila ~(p ∧ c) dikira sama dengan ~p ∧ ~c (De Morgan yang keliru).\n- (E) Nilai p justru dapat dipastikan (salah) melalui modus tollens yang dilanjutkan silogisme disjungtif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-10",
+    "description": "Dalam penanganan sebuah perkara berlaku ketentuan berikut.\n(1) Surat perintah penggeledahan diterbitkan hanya jika tersedia bukti permulaan yang cukup.\n(2) Jika tersedia bukti permulaan yang cukup, maka tersangka dipanggil untuk diperiksa atau rumahnya diawasi.\n(3) Tersangka tidak dipanggil untuk diperiksa.\n(4) Rumah tersangka tidak diawasi.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Surat perintah penggeledahan diterbitkan, tetapi bukti permulaan tidak cukup.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bukti permulaan tidak cukup dan surat perintah penggeledahan tidak diterbitkan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Bukti permulaan cukup, tetapi surat perintah penggeledahan tidak diterbitkan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bukti permulaan tidak cukup, tetapi surat perintah penggeledahan tetap diterbitkan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak dapat dipastikan apakah surat perintah penggeledahan diterbitkan karena premis (1) memakai kata \"hanya jika\".",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- w = surat perintah penggeledahan diterbitkan; b = tersedia bukti permulaan yang cukup; c = tersangka dipanggil; h = rumah tersangka diawasi.\n- (1) \"w hanya jika b\" dibaca w → b (b adalah syarat perlu bagi w).\n- (2) b → (c ∨ h)\n- (3) ~c\n- (4) ~h\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Gabungkan (3) dan (4): ~c ∧ ~h ≡ ~(c ∨ h) (De Morgan).\n2. Modus tollens pada (2): b → (c ∨ h), ~(c ∨ h) ⊢ ~b. Bukti permulaan tidak cukup.\n3. Modus tollens pada (1): w → b, ~b ⊢ ~w. Surat perintah penggeledahan tidak diterbitkan.\n4. Jadi ~b ∧ ~w pasti benar.\n5. Catatan jebakan: bila \"w hanya jika b\" keliru dibaca b → w (konvers), maka dari ~b orang tergoda menyimpulkan \"tidak dapat dipastikan\" (penolakan anteseden). Bentuk \"p hanya jika q\" selalu setara dengan p → q.\nJadi, jawaban yang tepat adalah (B) Bukti permulaan tidak cukup dan surat perintah penggeledahan tidak diterbitkan.\nMengapa opsi lain kurang tepat:\n- (A) Bertentangan dengan (1): w → b tidak mengizinkan w benar sementara b salah.\n- (C) Bertentangan dengan langkah 2; b sudah dipastikan salah melalui modus tollens.\n- (D) Sama dengan (A) dalam urutan berbeda (w ∧ ~b), sehingga juga melanggar premis (1).\n- (E) Muncul dari salah membaca \"hanya jika\" sebagai konvers. Dengan bacaan yang benar (w → b), nilai w dapat dipastikan salah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-10",
+    "description": "Seorang perwira piket mencatat informasi berikut.\n(1) Malam itu Iptu Raka memimpin apel di Polsek Utara atau menghadiri rapat koordinasi di Polres.\n(2) Jika Iptu Raka menghadiri rapat koordinasi di Polres, maka ia menandatangani daftar hadir rapat.\n(3) Iptu Raka memimpin apel di Polsek Utara.\n\nKata \"atau\" pada premis (1) bermakna inklusif (salah satu atau keduanya dapat terjadi).\n\nPernyataan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Jika Iptu Raka tidak menandatangani daftar hadir rapat, maka ia tidak menghadiri rapat koordinasi di Polres.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Iptu Raka tidak menghadiri rapat koordinasi di Polres.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Iptu Raka tidak menandatangani daftar hadir rapat.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika Iptu Raka menandatangani daftar hadir rapat, maka ia menghadiri rapat koordinasi di Polres.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada pernyataan pada pilihan lain yang pasti benar.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- u = Iptu Raka memimpin apel di Polsek Utara; r = menghadiri rapat koordinasi; d = menandatangani daftar hadir.\n- (1) u ∨ r (inklusif)\n- (2) r → d\n- (3) u\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nPernyataan yang pasti benar.\n\nJAWAB:\n1. Pada disjungsi inklusif, membenarkan satu ruas (u) TIDAK menyalahkan ruas lain. Penalaran \"u benar, maka ~r\" adalah sesat pikir afirmasi disjungsi. Jadi r tetap tidak diketahui.\n2. Karena r tidak diketahui, d juga tidak diketahui. Model tandingan: u = B, r = B, d = B memenuhi semua premis; u = B, r = S, d = S juga memenuhi semua premis.\n3. Namun premis (2) r → d tetap berlaku, dan setiap implikasi setara dengan kontraposisinya: r → d ≡ ~d → ~r.\n4. Pilihan \"Jika tidak menandatangani daftar hadir, maka tidak menghadiri rapat\" adalah ~d → ~r, sehingga benar pada setiap model yang memenuhi premis.\n5. Karena ada satu pilihan yang pasti benar, pilihan \"tidak ada yang pasti benar\" otomatis gugur.\nJadi, jawaban yang tepat adalah (A) Jika Iptu Raka tidak menandatangani daftar hadir rapat, maka ia tidak menghadiri rapat koordinasi di Polres.\nMengapa opsi lain kurang tepat:\n- (B) Sesat pikir afirmasi disjungsi: \"atau\" bermakna inklusif, sehingga Iptu Raka bisa memimpin apel sekaligus menghadiri rapat.\n- (C) Diturunkan dari (B) yang tidak sah, lalu ditambah penolakan anteseden (~r ⊢ ~d). Keduanya tidak sah.\n- (D) Ini konvers dari premis (2), yaitu d → r. Konvers tidak senilai; Iptu Raka bisa menandatangani daftar hadir walaupun tidak hadir di rapat (misalnya model u = B, r = S, d = B tetap memenuhi premis).\n- (E) Gugur karena kontraposisi premis (2) pasti benar.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-11",
+    "description": "Perhatikan pernyataan berikut.\n\"Jika semua anggota regu hadir dalam apel, maka patroli dimulai tepat waktu dan tidak ada laporan yang tertunda.\"\n\nIngkaran (negasi) yang tepat dari pernyataan tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Jika tidak semua anggota regu hadir dalam apel, maka patroli tidak dimulai tepat waktu atau ada laporan yang tertunda.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua anggota regu hadir dalam apel, tetapi patroli tidak dimulai tepat waktu dan ada laporan yang tertunda.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak semua anggota regu hadir dalam apel, tetapi patroli tidak dimulai tepat waktu atau ada laporan yang tertunda.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Patroli dimulai tepat waktu dan tidak ada laporan yang tertunda, tetapi tidak semua anggota regu hadir dalam apel.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua anggota regu hadir dalam apel, tetapi patroli tidak dimulai tepat waktu atau ada laporan yang tertunda.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- p = semua anggota regu hadir dalam apel; q = patroli dimulai tepat waktu; t = ada laporan yang tertunda (sehingga \"tidak ada laporan yang tertunda\" = ~t).\n- Pernyataan asal: p → (q ∧ ~t).\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nIngkaran dari p → (q ∧ ~t).\n\nJAWAB:\n1. Ingkaran implikasi: ~(a → b) ≡ a ∧ ~b. Anteseden tetap, konsekuen diingkar, dan bentuknya berubah menjadi konjungsi (bukan implikasi lagi).\n2. Maka ~(p → (q ∧ ~t)) ≡ p ∧ ~(q ∧ ~t).\n3. De Morgan: ~(q ∧ ~t) ≡ ~q ∨ t. Ingkaran \"tidak ada laporan tertunda\" adalah \"ada laporan tertunda\".\n4. Hasil: p ∧ (~q ∨ t) = \"Semua anggota regu hadir dalam apel, tetapi patroli tidak dimulai tepat waktu atau ada laporan yang tertunda.\"\n5. Uji tabel kebenaran (8 baris): pernyataan asal hanya salah pada baris p = B dengan (q ∧ ~t) = S, dan tepat pada baris-baris itulah bentuk pada langkah 4 bernilai benar.\nJadi, jawaban yang tepat adalah (E) Semua anggota regu hadir dalam apel, tetapi patroli tidak dimulai tepat waktu atau ada laporan yang tertunda.\nMengapa opsi lain kurang tepat:\n- (A) Ini invers (~p → ~(q ∧ ~t)), bukan ingkaran; ingkaran implikasi tidak berbentuk implikasi.\n- (B) Konsekuen diingkar dengan De Morgan yang keliru (~q ∧ t). Bentuk ini terlalu sempit; misalnya p = B, q = S, t = S membuat pernyataan asal salah, tetapi pilihan ini juga salah.\n- (C) Anteseden ikut diingkar (~p). Padahal ingkaran implikasi mempertahankan anteseden.\n- (D) Ini q ∧ ~t ∧ ~p, keadaan yang justru membuat pernyataan asal bernilai benar (anteseden salah).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-11",
+    "description": "Perhatikan ketentuan berikut.\n\"Jika seorang anggota terbukti menerima gratifikasi atau menyalahgunakan wewenang, maka ia diperiksa Propam dan tidak diusulkan naik pangkat.\"\n\nPernyataan yang senilai (ekuivalen) dengan ketentuan tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Jika seorang anggota diperiksa Propam dan tidak diusulkan naik pangkat, maka ia terbukti menerima gratifikasi atau menyalahgunakan wewenang.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang anggota tidak diperiksa Propam dan diusulkan naik pangkat, maka ia tidak terbukti menerima gratifikasi dan tidak terbukti menyalahgunakan wewenang.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang anggota tidak diperiksa Propam atau diusulkan naik pangkat, maka ia tidak terbukti menerima gratifikasi dan tidak terbukti menyalahgunakan wewenang.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang anggota tidak terbukti menerima gratifikasi dan tidak terbukti menyalahgunakan wewenang, maka ia tidak diperiksa Propam atau diusulkan naik pangkat.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang anggota tidak diperiksa Propam atau diusulkan naik pangkat, maka ia tidak terbukti menerima gratifikasi atau tidak terbukti menyalahgunakan wewenang.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- g = terbukti menerima gratifikasi; s = terbukti menyalahgunakan wewenang; p = diperiksa Propam; n = diusulkan naik pangkat.\n- Pernyataan asal: (g ∨ s) → (p ∧ ~n).\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nPernyataan yang senilai dengan (g ∨ s) → (p ∧ ~n).\n\nJAWAB:\n1. Bentuk yang senilai dengan implikasi adalah kontraposisinya: a → b ≡ ~b → ~a.\n2. Ingkar konsekuen: ~(p ∧ ~n) ≡ ~p ∨ n (De Morgan; \"dan\" berubah menjadi \"atau\").\n3. Ingkar anteseden: ~(g ∨ s) ≡ ~g ∧ ~s (De Morgan; \"atau\" berubah menjadi \"dan\").\n4. Kontraposisi: (~p ∨ n) → (~g ∧ ~s) = \"Jika tidak diperiksa Propam atau diusulkan naik pangkat, maka tidak terbukti menerima gratifikasi dan tidak terbukti menyalahgunakan wewenang.\"\n5. Verifikasi tabel kebenaran 16 baris: bentuk pada langkah 4 bernilai sama dengan pernyataan asal di setiap baris, sedangkan keempat pilihan lain berbeda nilai pada sedikitnya satu baris.\nJadi, jawaban yang tepat adalah (C) Jika seorang anggota tidak diperiksa Propam atau diusulkan naik pangkat, maka ia tidak terbukti menerima gratifikasi dan tidak terbukti menyalahgunakan wewenang.\nMengapa opsi lain kurang tepat:\n- (A) Ini konvers ((p ∧ ~n) → (g ∨ s)). Berbeda pada baris g = S, s = S, p = B, n = S: pernyataan asal benar, konvers salah.\n- (B) Anteseden ~p ∧ n terlalu sempit. Pada baris g = B, p = S, n = S, pernyataan asal salah, tetapi pilihan ini benar karena anteseden-nya salah.\n- (D) Ini invers ((~g ∧ ~s) → (~p ∨ n)), yang senilai dengan konvers, bukan dengan pernyataan asal.\n- (E) De Morgan pada konsekuen keliru (~g ∨ ~s). Pada baris g = B, s = S, p = S, pernyataan asal salah, tetapi pilihan ini benar.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-11",
+    "description": "Diketahui pernyataan berikut.\n\"Tidak benar bahwa seorang personel diberangkatkan ke lokasi bencana tanpa menjalani pemeriksaan kesehatan dan tanpa membawa perlengkapan pribadi.\"\n\nPernyataan yang senilai dengan pernyataan tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Jika seorang personel diberangkatkan ke lokasi bencana, maka ia menjalani pemeriksaan kesehatan dan membawa perlengkapan pribadi.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang personel tidak menjalani pemeriksaan kesehatan dan tidak membawa perlengkapan pribadi, maka ia tidak diberangkatkan ke lokasi bencana.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang personel menjalani pemeriksaan kesehatan atau membawa perlengkapan pribadi, maka ia diberangkatkan ke lokasi bencana.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Seorang personel tidak diberangkatkan ke lokasi bencana, atau ia menjalani pemeriksaan kesehatan dan membawa perlengkapan pribadi.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jika seorang personel tidak menjalani pemeriksaan kesehatan atau tidak membawa perlengkapan pribadi, maka ia tidak diberangkatkan ke lokasi bencana.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- b = diberangkatkan ke lokasi bencana; k = menjalani pemeriksaan kesehatan; l = membawa perlengkapan pribadi.\n- \"Tanpa k\" = ~k, \"tanpa l\" = ~l.\n- Pernyataan asal: ~(b ∧ ~k ∧ ~l).\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nPernyataan yang senilai dengan ~(b ∧ ~k ∧ ~l).\n\nJAWAB:\n1. Kelompokkan: ~(b ∧ ~(k ∨ l)), karena ~k ∧ ~l ≡ ~(k ∨ l).\n2. Gunakan ~(a ∧ ~c) ≡ a → c, sehingga pernyataan asal ≡ b → (k ∨ l): jika diberangkatkan, maka ia menjalani pemeriksaan kesehatan ATAU membawa perlengkapan pribadi (cukup salah satu).\n3. Kontraposisinya: ~(k ∨ l) → ~b ≡ (~k ∧ ~l) → ~b.\n4. Bentuk langkah 3 = \"Jika tidak menjalani pemeriksaan kesehatan dan tidak membawa perlengkapan pribadi, maka ia tidak diberangkatkan.\"\n5. Uji: pernyataan asal hanya salah pada satu baris (b = B, k = S, l = S). Bentuk langkah 4 juga hanya salah pada baris itu, sehingga keduanya senilai.\nJadi, jawaban yang tepat adalah (B) Jika seorang personel tidak menjalani pemeriksaan kesehatan dan tidak membawa perlengkapan pribadi, maka ia tidak diberangkatkan ke lokasi bencana.\nMengapa opsi lain kurang tepat:\n- (A) Konsekuennya k ∧ l (wajib keduanya) lebih ketat daripada k ∨ l. Baris b = B, k = B, l = S membuat pernyataan asal benar, tetapi pilihan ini salah.\n- (C) Ini konvers dari b → (k ∨ l); konvers tidak senilai.\n- (D) ~b ∨ (k ∧ l) ≡ b → (k ∧ l), sama terlalu ketatnya dengan (A).\n- (E) (~k ∨ ~l) → ~b adalah kontraposisi dari b → (k ∧ l), bukan dari b → (k ∨ l). Salah memakai De Morgan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-12",
+    "description": "Diketahui premis-premis berikut (urutannya sengaja diacak).\n(1) Jika laporan masyarakat diverifikasi, maka tim Buser diturunkan.\n(2) Jika gudang tidak digeledah, maka barang bukti tidak diamankan.\n(3) Jika tim Buser diturunkan, maka barang bukti diamankan.\n(4) Jika gudang digeledah, maka pemilik gudang dimintai keterangan.\n(5) Jika laporan masyarakat diverifikasi, maka Kapolsek menerbitkan surat perintah tugas.\n(6) Pemilik gudang tidak dimintai keterangan.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Laporan masyarakat diverifikasi, tetapi tim Buser tidak diturunkan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Gudang tidak digeledah, tetapi barang bukti tetap diamankan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Kapolsek tidak menerbitkan surat perintah tugas.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Laporan masyarakat tidak diverifikasi dan tim Buser tidak diturunkan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tidak dapat dipastikan apakah laporan masyarakat diverifikasi, karena premis (2) berbentuk negatif.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- v = laporan diverifikasi; b = tim Buser diturunkan; a = barang bukti diamankan; g = gudang digeledah; k = pemilik gudang dimintai keterangan; s = Kapolsek menerbitkan surat perintah tugas.\n- (1) v → b; (2) ~g → ~a; (3) b → a; (4) g → k; (5) v → s; (6) ~k.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Ubah premis (2) ke kontraposisinya agar searah: ~g → ~a ≡ a → g.\n2. Susun rantai (silogisme hipotetik berulang): v → b (1), b → a (3), a → g (2'), g → k (4). Jadi v → b → a → g → k.\n3. Fakta (6) ~k. Modus tollens berantai dari belakang: ~k ⊢ ~g ⊢ ~a ⊢ ~b ⊢ ~v.\n4. Jadi ~v ∧ ~b pasti benar: laporan tidak diverifikasi dan tim Buser tidak diturunkan.\n5. Premis (5) v → s tidak memberi informasi apa pun tentang s ketika v salah; s tetap tidak dapat dipastikan.\nJadi, jawaban yang tepat adalah (D) Laporan masyarakat tidak diverifikasi dan tim Buser tidak diturunkan.\nMengapa opsi lain kurang tepat:\n- (A) Bertentangan dengan (1) dan juga dengan langkah 3 yang memastikan v salah.\n- (B) Bertentangan dengan premis (2): jika gudang tidak digeledah, barang bukti tidak diamankan.\n- (C) Sesat pikir penolakan anteseden: dari v → s dan ~v tidak dapat disimpulkan ~s. Kapolsek bisa saja menerbitkan surat perintah tugas karena alasan lain.\n- (E) Premis berbentuk negatif tetap dapat dirangkai setelah diubah ke kontraposisi (langkah 1), sehingga v dapat dipastikan salah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-12",
+    "description": "Diketahui premis-premis berikut.\n(1) Semua anggota Densus adalah lulusan pelatihan antiteror.\n(2) Semua lulusan pelatihan antiteror memiliki izin penggunaan senjata laras panjang.\n(3) Tidak ada pemilik izin penggunaan senjata laras panjang yang bertugas sebagai staf administrasi.\n(4) Sebagian staf administrasi adalah anggota Polwan.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Sebagian anggota Polwan bukan anggota Densus.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada anggota Polwan yang menjadi anggota Densus.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian lulusan pelatihan antiteror adalah anggota Polwan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua pemilik izin penggunaan senjata laras panjang adalah anggota Densus.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian staf administrasi adalah lulusan pelatihan antiteror.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- D = anggota Densus; A = lulusan pelatihan antiteror; L = pemilik izin senjata laras panjang; S = staf administrasi; W = anggota Polwan.\n- (1) D ⊆ A; (2) A ⊆ L; (3) L∩S kosong; (4) S∩W tidak kosong.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Rantai universal (1)–(2): D ⊆ A ⊆ L, jadi semua D adalah L. Diagram: tiga lingkaran bersarang D di dalam A di dalam L.\n2. Premis (3): S berada seluruhnya di luar L, sehingga S juga di luar A dan di luar D.\n3. Premis (4): ada anggota y dengan y ∈ S dan y ∈ W.\n4. Karena y ∈ S, maka y ∉ L, y ∉ A, dan y ∉ D. Jadi ada anggota Polwan yang bukan anggota Densus: \"Sebagian W bukan D\".\n5. Simpulan hanya boleh partikular (\"sebagian\") karena satu-satunya premis yang menjamin keberadaan Polwan adalah premis partikular (4).\nJadi, jawaban yang tepat adalah (A) Sebagian anggota Polwan bukan anggota Densus.\nMengapa opsi lain kurang tepat:\n- (B) Generalisasi berlebihan: premis hanya menjamin Polwan yang berstatus staf administrasi berada di luar D. Polwan lain masih mungkin anggota Densus.\n- (C) Tidak ada premis yang menghubungkan A dengan W. Polwan yang diketahui (staf administrasi) justru berada di luar A.\n- (D) Konvers ilegal dari rantai D ⊆ A ⊆ L. Dari \"semua D adalah L\" tidak dapat disimpulkan \"semua L adalah D\".\n- (E) Pasti salah: S berada di luar L, sedangkan A ⊆ L, sehingga S tidak mungkin beririsan dengan A.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-12",
+    "description": "Dalam operasi pengejaran buronan diketahui hal-hal berikut.\n(1) Jika sinyal ponsel buronan terlacak, maka lokasi persembunyiannya diketahui.\n(2) Lokasi persembunyian buronan diketahui hanya jika informan memberi kabar atau rekaman CCTV dianalisis.\n(3) Jika rekaman CCTV dianalisis, maka tim forensik bekerja lembur.\n(4) Tim forensik tidak bekerja lembur.\n(5) Sinyal ponsel buronan terlacak.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Rekaman CCTV dianalisis.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Lokasi persembunyian buronan tidak diketahui.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Informan tidak memberi kabar dan rekaman CCTV tidak dianalisis.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak dapat dipastikan apakah informan memberi kabar.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Informan memberi kabar, sedangkan rekaman CCTV tidak dianalisis.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- s = sinyal terlacak; l = lokasi diketahui; i = informan memberi kabar; c = CCTV dianalisis; f = tim forensik lembur.\n- (1) s → l; (2) \"l hanya jika (i ∨ c)\" = l → (i ∨ c); (3) c → f; (4) ~f; (5) s.\n- Notasi nilai kebenaran: B = benar, S = salah.\n\nDITANYAKAN:\nSimpulan yang pasti benar.\n\nJAWAB:\n1. Modus ponens (5) dan (1): s, s → l ⊢ l.\n2. Modus ponens (2): l, l → (i ∨ c) ⊢ i ∨ c.\n3. Modus tollens (3) dan (4): c → f, ~f ⊢ ~c.\n4. Silogisme disjungtif: i ∨ c, ~c ⊢ i.\n5. Jadi i ∧ ~c pasti benar: informan memberi kabar, sedangkan CCTV tidak dianalisis. Tabel kebenaran 32 baris hanya menyisakan satu baris yang memenuhi semua premis: s = B, l = B, i = B, c = S, f = S.\nJadi, jawaban yang tepat adalah (E) Informan memberi kabar, sedangkan rekaman CCTV tidak dianalisis.\nMengapa opsi lain kurang tepat:\n- (A) Bertentangan dengan langkah 3 (modus tollens pada premis (3)).\n- (B) Bertentangan dengan langkah 1; sinyal terlacak sehingga lokasi pasti diketahui.\n- (C) Bertentangan dengan langkah 2: jika keduanya salah, disjungsi i ∨ c salah, padahal disjungsi itu harus benar.\n- (D) Nilai i justru dapat dipastikan melalui rantai MP, MT, dan silogisme disjungtif. Pengecoh ini menjebak peserta yang berhenti di langkah 2.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-13",
+    "description": "Hasil uji kemampuan menembak triwulan ini dirangkum sebagai berikut.\n(1) Semua peserta yang berlatih rutin setiap pekan lulus uji menembak.\n(2) Sebagian peserta dari Satuan Samapta berlatih rutin setiap pekan.\n(3) Tidak ada peserta dari Satuan Lalu Lintas yang lulus uji menembak.\n\nSimpulan yang TIDAK melebihi isi premis (didukung sepenuhnya oleh premis) adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Semua peserta dari Satuan Samapta lulus uji menembak.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tidak ada peserta dari Satuan Lalu Lintas yang berlatih rutin setiap pekan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Peserta yang lulus uji menembak pasti berlatih rutin setiap pekan.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Peserta yang tidak berlatih rutin setiap pekan tidak lulus uji menembak.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian peserta dari Satuan Samapta tidak lulus uji menembak.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- R = berlatih rutin setiap pekan; L = lulus uji menembak; S = peserta Satuan Samapta; T = peserta Satuan Lalu Lintas.\n- (1) R ⊆ L; (2) S∩R tidak kosong; (3) T∩L kosong.\n\nDITANYAKAN:\nSimpulan yang seluruhnya didukung premis, tanpa tambahan klaim.\n\nJAWAB:\n1. Dari (1), lingkaran R berada di dalam L.\n2. Dari (3), T berada di luar L. Karena R ⊆ L, maka T juga berada di luar R.\n3. Jadi \"Tidak ada peserta Satuan Lalu Lintas yang berlatih rutin setiap pekan\" pasti benar (kontraposisi: R → L ≡ ~L → ~R, dan T → ~L, sehingga T → ~R).\n4. Uji pilihan lain dengan diagram tandingan: Samapta boleh seluruhnya di dalam L atau sebagian di luar L; L boleh lebih luas daripada R. Semua pilihan lain dapat dibantah oleh salah satu diagram sah.\n5. Simpulan yang sah tetapi tidak tercantum adalah \"Sebagian peserta Samapta lulus uji menembak\"; bandingkan dengan pilihan yang menaikkan kuantornya menjadi \"semua\".\nJadi, jawaban yang tepat adalah (B) Tidak ada peserta dari Satuan Lalu Lintas yang berlatih rutin setiap pekan.\nMengapa opsi lain kurang tepat:\n- (A) Overgeneralisasi: premis (2) hanya \"sebagian\" Samapta yang berlatih rutin. Peserta Samapta yang tidak berlatih rutin bisa saja tidak lulus.\n- (C) Konvers ilegal dari (1): R ⊆ L tidak berarti L ⊆ R. Bisa ada peserta lulus tanpa berlatih rutin.\n- (D) Invers dari (1) (penolakan anteseden): ~R → ~L tidak senilai dengan R → L.\n- (E) \"Sebagian ... berlatih rutin\" tidak berarti \"sebagian lainnya tidak lulus\". Bisa saja seluruh peserta Samapta lulus.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-13",
+    "description": "Diketahui data pengelolaan laporan di sebuah Polres:\n(1) Semua laporan yang masuk melalui layanan 110 dicatat dalam sistem.\n(2) Sebagian laporan yang dicatat dalam sistem ditindaklanjuti dalam waktu satu jam.\n(3) Tidak ada laporan palsu yang ditindaklanjuti dalam waktu satu jam.\n(4) Sebagian laporan yang masuk melalui layanan 110 adalah laporan palsu.\n\nSimpulan yang MELEBIHI isi premis (tidak dapat dipastikan kebenarannya) adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Sebagian laporan yang dicatat dalam sistem adalah laporan palsu.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian laporan yang ditindaklanjuti dalam waktu satu jam bukan laporan palsu.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian laporan yang masuk melalui layanan 110 tidak ditindaklanjuti dalam waktu satu jam.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian laporan yang masuk melalui layanan 110 ditindaklanjuti dalam waktu satu jam.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Sebagian laporan yang dicatat dalam sistem tidak ditindaklanjuti dalam waktu satu jam.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- K = laporan via layanan 110; C = dicatat dalam sistem; J = ditindaklanjuti dalam satu jam; P = laporan palsu.\n- (1) K ⊆ C; (2) C∩J tidak kosong; (3) P∩J kosong; (4) K∩P tidak kosong.\n\nDITANYAKAN:\nSatu-satunya simpulan yang TIDAK dijamin premis.\n\nJAWAB:\n1. Ambil x dari (4): x ∈ K dan x ∈ P. Dari (1), x ∈ C. Dari (3), x ∉ J.\n2. Dari x diperoleh: C∩P ada (pilihan tentang laporan tercatat yang palsu), K tanpa J ada, dan C tanpa J ada. Ketiganya pasti benar.\n3. Ambil y dari (2): y ∈ C dan y ∈ J. Dari (3), y ∉ P. Jadi ada J yang bukan P (pasti benar).\n4. Untuk \"Sebagian K adalah J\" diperlukan anggota K yang juga J. Premis (2) hanya menjamin C∩J; anggota itu boleh berasal dari luar K (misalnya laporan datang langsung ke SPKT).\n5. Diagram tandingan: letakkan seluruh C∩J di luar K, dan seluruh K di dalam P. Semua premis terpenuhi, tetapi tidak ada laporan 110 yang ditindaklanjuti dalam satu jam. Jadi pilihan ini melebihi premis.\nJadi, jawaban yang tepat adalah (D) Sebagian laporan yang masuk melalui layanan 110 ditindaklanjuti dalam waktu satu jam.\nMengapa opsi lain kurang tepat:\n- (A) Pasti benar: laporan x (110 dan palsu) tercatat di sistem menurut (1).\n- (B) Pasti benar: laporan y dari premis (2) ditindaklanjuti dalam satu jam, sehingga menurut (3) bukan laporan palsu.\n- (C) Pasti benar: laporan x berasal dari 110 dan palsu, sehingga tidak ditindaklanjuti dalam satu jam.\n- (E) Pasti benar: laporan x tercatat (melalui (1)) dan tidak ditindaklanjuti dalam satu jam (melalui (3)).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-13",
+    "description": "Tim negosiator sebuah Polda beranggotakan sejumlah personel. Diketahui:\n(1) Lebih dari separuh anggota tim adalah lulusan psikologi.\n(2) Lebih dari separuh anggota tim pernah bertugas di Satuan Reserse Kriminal.\n\nSimpulan yang pasti benar adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Lebih dari separuh lulusan psikologi di tim pernah bertugas di Satuan Reserse Kriminal.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sebagian anggota tim bukan lulusan psikologi dan tidak pernah bertugas di Satuan Reserse Kriminal.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Sedikitnya satu anggota tim adalah lulusan psikologi yang pernah bertugas di Satuan Reserse Kriminal.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mayoritas anggota tim yang pernah bertugas di Satuan Reserse Kriminal adalah lulusan psikologi.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Semua lulusan psikologi di tim pernah bertugas di Satuan Reserse Kriminal.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- n = banyak anggota tim; |P| = lulusan psikologi; |R| = pernah bertugas di Reskrim.\n- (1) |P| > n/2; (2) |R| > n/2.\n\nDITANYAKAN:\nSimpulan yang pasti benar untuk setiap kemungkinan susunan tim.\n\nJAWAB:\n1. Rumus gabungan dua himpunan: |P∩R| = |P| + |R| − |P∪R|.\n2. Karena P∪R bagian dari tim, |P∪R| ≤ n. Maka |P∩R| ≥ |P| + |R| − n.\n3. Dari (1) dan (2): |P| + |R| > n/2 + n/2 = n, sehingga |P∩R| > 0, artinya sedikitnya satu orang berada di kedua kelompok (prinsip sarang merpati).\n4. Uji contoh: n = 10, |P| = 6, |R| = 6. Irisan minimum = 6 + 6 − 10 = 2 orang. Ini membantah klaim yang lebih kuat: dari 6 lulusan psikologi hanya 2 (kurang dari separuh) yang pernah di Reskrim.\n5. Contoh lain n = 10, |P| = 6, |R| = 10 menunjukkan semua anggota pernah di Reskrim, sehingga tidak ada anggota yang berada di luar kedua kelompok. Verifikasi enumerasi semua susunan dengan n = 1–20 menunjukkan hanya simpulan \"sedikitnya satu\" yang selalu benar.\nJadi, jawaban yang tepat adalah (C) Sedikitnya satu anggota tim adalah lulusan psikologi yang pernah bertugas di Satuan Reserse Kriminal.\nMengapa opsi lain kurang tepat:\n- (A) Tidak dijamin: pada contoh n = 10, |P| = |R| = 6, irisannya bisa hanya 2 dari 6 lulusan psikologi.\n- (B) Tidak dijamin: P∪R bisa mencakup seluruh tim (contoh |R| = n), sehingga tidak ada anggota di luar keduanya.\n- (D) Tidak dijamin: dengan irisan 2 dan |R| = 6, hanya 2 dari 6 anggota eks-Reskrim yang lulusan psikologi.\n- (E) Generalisasi berlebihan: premis hanya menjamin sebagian (minimal satu) yang beririsan, bukan seluruhnya.",
+    "difficulty": "sulit"
+  }
+]

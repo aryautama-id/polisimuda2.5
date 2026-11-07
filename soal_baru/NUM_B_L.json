@@ -1,0 +1,682 @@
+[
+  {
+    "sub_material_code": "NUM-15",
+    "description": "Persediaan ransum di sebuah posko pengamanan bencana cukup untuk 60 personel selama 30 hari. Setelah persediaan dipakai 6 hari, datang 20 personel tambahan. Empat hari kemudian, 10 personel ditarik kembali ke markas. Jika setiap personel menghabiskan jatah yang sama setiap hari, sisa persediaan sejak penarikan itu cukup untuk ... hari lagi.",
+    "image": "",
+    "options": [
+      {
+        "text": "14",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "16",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "18",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "20",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "24",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Persediaan awal cukup untuk 60 personel × 30 hari.\n- Hari ke-1 sampai ke-6: 60 personel.\n- 4 hari berikutnya: 60 + 20 = 80 personel.\n- Setelah itu 10 personel ditarik: 80 − 10 = 70 personel.\n\nDITANYAKAN:\nLama sisa persediaan untuk 70 personel.\n\nJAWAB:\n1. Nyatakan persediaan dalam satuan jatah (personel-hari): 60 × 30 = 1.800 jatah.\n2. Pemakaian 6 hari pertama: 60 × 6 = 360 jatah. Sisa = 1.800 − 360 = 1.440 jatah.\n3. Pemakaian 4 hari berikutnya oleh 80 personel: 80 × 4 = 320 jatah. Sisa = 1.440 − 320 = 1.120 jatah.\n4. Sisa untuk 70 personel: 1.120 ÷ 70 = 16 hari.\n5. Uji: 360 + 320 + (70 × 16) = 360 + 320 + 1.120 = 1.800 jatah, sama dengan persediaan awal.\nJadi, jawaban yang tepat adalah (B) 16.\nMengapa opsi lain kurang tepat:\n- (A) 14: 1.120 ÷ 80 = 14 hari. Hasil ini lupa bahwa 10 personel sudah ditarik, sehingga yang makan tinggal 70 orang.\n- (C) 18: Ini sisa hari tepat ketika 20 personel datang (1.440 ÷ 80 = 18). Hitungan berhenti sebelum memperhitungkan 4 hari pemakaian dan penarikan personel.\n- (D) 20: 30 − 6 − 4 = 20 hari. Hasil ini mengurangi hari saja dan mengabaikan perubahan jumlah personel, padahal banyak personel dan lama persediaan berbalik nilai.\n- (E) 24: 1.440 ÷ 60 = 24 hari, yaitu sisa persediaan jika tidak ada perubahan personel setelah hari ke-6.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-15",
+    "description": "Sebuah mobil patroli menghabiskan 12 liter BBM untuk menempuh 150 km di jalan kota. Di jalan tol, kebutuhan BBM per kilometer 25% lebih sedikit daripada di jalan kota. Rute patroli hari ini terdiri atas 90 km jalan kota dan 200 km jalan tol. BBM yang dibutuhkan untuk seluruh rute adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "16 liter",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "17,4 liter",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "19,2 liter",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "20 liter",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "23,2 liter",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Jalan kota: 12 liter untuk 150 km.\n- Jalan tol: kebutuhan BBM per km 25% lebih sedikit daripada jalan kota.\n- Rute: 90 km jalan kota + 200 km jalan tol.\n\nDITANYAKAN:\nTotal BBM untuk seluruh rute.\n\nJAWAB:\n1. Konsumsi jalan kota per km: 12 ÷ 150 = 0,08 liter/km.\n2. Konsumsi jalan tol per km: 0,08 × (100% − 25%) = 0,08 × 0,75 = 0,06 liter/km.\n3. BBM jalan kota: 90 × 0,08 = 7,2 liter.\n4. BBM jalan tol: 200 × 0,06 = 12 liter.\n5. Total: 7,2 + 12 = 19,2 liter.\nJadi, jawaban yang tepat adalah (C) 19,2 liter.\nMengapa opsi lain kurang tepat:\n- (A) 16 liter: 200 × 0,08 = 16 liter. Hasil ini hanya menghitung jalan tol dengan konsumsi jalan kota dan melupakan 90 km jalan kota.\n- (B) 17,4 liter: 290 × 0,06 = 17,4 liter. Konsumsi hemat jalan tol diterapkan juga pada 90 km jalan kota.\n- (D) 20 liter: Hasil ini menafsirkan '25% lebih sedikit per km' sebagai 'jarak per liter 25% lebih jauh' (12,5 × 1,25 = 15,625 km/liter, lalu 200 ÷ 15,625 = 12,8 liter; 7,2 + 12,8 = 20). Soal menyebut kebutuhan BBM per km, bukan jarak per liter.\n- (E) 23,2 liter: 290 × 0,08 = 23,2 liter. Penghematan 25% di jalan tol tidak diperhitungkan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-17",
+    "description": "Harga katalog sepasang sepatu lapangan (PDL) Rp800.000.\nToko 1 memberi diskon 20%, lalu diskon tambahan 15% yang dihitung dari harga setelah diskon pertama, tanpa ongkos kirim.\nToko 2 memberi diskon tunggal 35%, tetapi mengenakan ongkos kirim Rp24.000.\n\nP = total yang dibayar untuk sepasang sepatu di Toko 1\nQ = total yang dibayar untuk sepasang sepatu di Toko 2\n\nHubungan yang tepat antara P dan Q adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "P > Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "P < Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Q − P = Rp24.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "P = Q",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Hubungan P dan Q tidak dapat ditentukan",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Harga katalog Rp800.000.\n- Toko 1: diskon 20% lalu diskon 15% dari harga setelah diskon pertama.\n- Toko 2: diskon tunggal 35% ditambah ongkos kirim Rp24.000.\n\nDITANYAKAN:\nHubungan P dan Q.\n\nJAWAB:\n1. Ubah diskon menjadi faktor pengali. Diskon 20% → × 0,80; diskon 15% → × 0,85.\n2. P = 800.000 × 0,80 × 0,85 = 640.000 × 0,85 = Rp544.000.\n3. Diskon gabungan Toko 1 = 1 − (0,80 × 0,85) = 1 − 0,68 = 32%, bukan 35%.\n4. Q = 800.000 × 0,65 + 24.000 = 520.000 + 24.000 = Rp544.000.\n5. P = Q = Rp544.000.\nJadi, jawaban yang tepat adalah (D) P = Q.\nMengapa opsi lain kurang tepat:\n- (A) P > Q: P tidak lebih besar; keduanya bernilai Rp544.000.\n- (B) P < Q: Pilihan ini muncul jika diskon 20% dan 15% dijumlahkan menjadi 35% sehingga P dianggap Rp520.000. Diskon bertingkat tidak boleh dijumlahkan.\n- (C) Q − P = Rp24.000: Sama dengan kekeliruan pada opsi P < Q: P dianggap Rp520.000 sehingga selisihnya seolah-olah sama dengan ongkos kirim.\n- (E) Hubungan P dan Q tidak dapat ditentukan: Semua data harga, persen, dan ongkos kirim diketahui, sehingga P dan Q dapat dihitung tepat.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-17",
+    "description": "Pada latihan menembak, rata-rata nilai Regu A adalah 76 dan rata-rata nilai Regu B adalah 88. Jumlah anggota Regu A lebih banyak daripada jumlah anggota Regu B, tetapi jumlah pastinya tidak diketahui.\n\nP = rata-rata nilai gabungan seluruh anggota kedua regu\nQ = 82\n\nHubungan yang tepat antara P dan Q adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "P < Q",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "P > Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "P = Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "P = 76",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hubungan P dan Q tidak dapat ditentukan karena banyak anggota tidak diketahui",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rata-rata Regu A = 76, rata-rata Regu B = 88.\n- Banyak anggota: a > b (a = Regu A, b = Regu B), nilai pastinya tidak diketahui.\n- Q = 82.\n\nDITANYAKAN:\nHubungan P (rata-rata gabungan) dan Q.\n\nJAWAB:\n1. Rata-rata gabungan: P = (76a + 88b) ÷ (a + b).\n2. Hitung selisih P − 82 = (76a + 88b − 82a − 82b) ÷ (a + b) = (6b − 6a) ÷ (a + b) = −6(a − b) ÷ (a + b).\n3. Karena a > b, nilai (a − b) positif, sehingga P − 82 bernilai negatif. Jadi P < 82 untuk semua nilai a dan b yang memenuhi syarat.\n4. Uji contoh: a = 3, b = 1 → P = (228 + 88) ÷ 4 = 79 < 82. Contoh a = 10, b = 9 → P = (760 + 792) ÷ 19 = 1.552 ÷ 19 ≈ 81,68 < 82.\n5. Jadi P < Q.\nJadi, jawaban yang tepat adalah (A) P < Q.\nMengapa opsi lain kurang tepat:\n- (B) P > Q: Rata-rata gabungan condong ke kelompok yang anggotanya lebih banyak. Kelompok yang lebih banyak adalah Regu A (rata-rata 76), jadi P berada di bawah 82, bukan di atas.\n- (C) P = Q: 82 adalah rata-rata dari dua rata-rata (76 + 88) ÷ 2. Angka ini hanya menjadi rata-rata gabungan bila kedua regu sama banyak, padahal Regu A lebih banyak.\n- (D) P = 76: P hanya bisa 76 jika Regu B tidak punya anggota. Karena Regu B punya anggota bernilai rata-rata 88, P pasti lebih besar daripada 76.\n- (E) Hubungan P dan Q tidak dapat ditentukan karena banyak anggota tidak diketahui: Jumlah pastinya memang tidak diketahui, tetapi syarat 'Regu A lebih banyak' sudah cukup untuk memastikan arah hubungan untuk semua kemungkinan jumlah.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-19",
+    "description": "Bagian logistik Polres membeli 40 unit senter. Harga katalog Rp150.000 per unit. Penjual memberi diskon 10% untuk pembelian minimal 30 unit, lalu diskon tambahan 5% dari harga setelah diskon pertama untuk pembayaran tunai. Atas harga setelah semua diskon dikenakan PPN 11%. Jika pembelian dibayar tunai, total yang dibayarkan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Rp5.661.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp5.994.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp5.130.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp5.790.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp5.694.300",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- 40 unit × Rp150.000.\n- Diskon 10% (pembelian ≥ 30 unit), lalu diskon 5% dari harga setelah diskon pertama (tunai).\n- PPN 11% dari harga setelah semua diskon.\n\nDITANYAKAN:\nTotal yang dibayar tunai.\n\nJAWAB:\n1. Harga katalog total: 40 × 150.000 = Rp6.000.000.\n2. Setelah diskon 10%: 6.000.000 × 0,90 = Rp5.400.000.\n3. Setelah diskon tunai 5%: 5.400.000 × 0,95 = Rp5.130.000.\n4. PPN 11%: 5.130.000 × 0,11 = Rp564.300.\n5. Total: 5.130.000 + 564.300 = Rp5.694.300 (sama dengan 6.000.000 × 0,90 × 0,95 × 1,11).\nJadi, jawaban yang tepat adalah (E) Rp5.694.300.\nMengapa opsi lain kurang tepat:\n- (A) Rp5.661.000: Kedua diskon dijumlahkan menjadi 15%: 6.000.000 × 0,85 = 5.100.000, lalu × 1,11 = 5.661.000. Diskon bertingkat harus dikalikan, bukan dijumlahkan.\n- (B) Rp5.994.000: Diskon tunai 5% terlewat: 5.400.000 × 1,11 = 5.994.000.\n- (C) Rp5.130.000: Ini harga setelah kedua diskon, tetapi PPN 11% belum ditambahkan.\n- (D) Rp5.790.000: PPN dihitung dari harga katalog (11% × 6.000.000 = 660.000) lalu ditambahkan ke 5.130.000. PPN harus dihitung dari harga setelah diskon.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-19",
+    "description": "Posko bantuan menerima 25 karung beras dengan bruto seluruhnya 1.275 kg. Tara (berat karung) adalah 4% dari bruto. Seluruh beras netto dikemas ulang menjadi paket 5 kg untuk warga. Banyak paket utuh yang dapat dibuat dan sisa beras yang tidak cukup untuk satu paket adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "255 paket, sisa 0 kg",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "254 paket, sisa 1 kg",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "244 paket, sisa 0,8 kg",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "244 paket, sisa 4 kg",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "235 paket, sisa 0 kg",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Bruto = 1.275 kg (25 karung).\n- Tara = 4% dari bruto.\n- Paket = 5 kg.\n\nDITANYAKAN:\nBanyak paket utuh dan sisa beras.\n\nJAWAB:\n1. Tara = 4% × 1.275 = 51 kg.\n2. Netto = bruto − tara = 1.275 − 51 = 1.224 kg (atau 96% × 1.275 = 1.224 kg).\n3. Banyak paket: 1.224 ÷ 5 = 244 sisa 4, karena 244 × 5 = 1.220 kg.\n4. Sisa beras = 1.224 − 1.220 = 4 kg (kurang dari 5 kg, tidak cukup untuk satu paket).\n5. Jadi diperoleh 244 paket utuh dengan sisa 4 kg.\nJadi, jawaban yang tepat adalah (D) 244 paket, sisa 4 kg.\nMengapa opsi lain kurang tepat:\n- (A) 255 paket, sisa 0 kg: Bruto langsung dibagi 5 (1.275 ÷ 5) tanpa mengurangi tara. Berat karung tidak bisa dibagikan sebagai beras.\n- (B) 254 paket, sisa 1 kg: Tara 4% dianggap 4 kg saja untuk seluruh karung: 1.275 − 4 = 1.271 kg → 254 paket, sisa 1 kg.\n- (C) 244 paket, sisa 0,8 kg: 1.224 ÷ 5 = 244,8; angka 0,8 itu bagian paket, bukan kilogram. 0,8 paket = 0,8 × 5 = 4 kg.\n- (E) 235 paket, sisa 0 kg: Tara dianggap 4 kg per karung: 25 × 4 = 100 kg, netto 1.175 kg → 235 paket. Soal menyebut tara 4% dari bruto, bukan 4 kg per karung.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-20",
+    "description": "Sebuah unit patroli berangkat dari Polsek menuju pos perbatasan yang berjarak 60 km dengan kecepatan rata-rata 40 km/jam. Di pos perbatasan unit itu berhenti selama 30 menit, kemudian kembali ke Polsek melalui jalan yang sama dengan kecepatan rata-rata 60 km/jam. Kecepatan rata-rata unit patroli untuk seluruh perjalanan pergi-pulang, termasuk waktu berhenti, adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "50 km/jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "40 km/jam",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "48 km/jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "20 km/jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "24 km/jam",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Jarak satu arah 60 km; pergi 40 km/jam, pulang 60 km/jam.\n- Berhenti 30 menit = 0,5 jam di pos perbatasan.\n- Waktu berhenti ikut dihitung.\n\nDITANYAKAN:\nKecepatan rata-rata seluruh perjalanan.\n\nJAWAB:\n1. Waktu pergi = 60 ÷ 40 = 1,5 jam.\n2. Waktu pulang = 60 ÷ 60 = 1 jam.\n3. Total waktu = 1,5 + 0,5 + 1 = 3 jam.\n4. Total jarak = 60 + 60 = 120 km.\n5. Kecepatan rata-rata = total jarak ÷ total waktu = 120 ÷ 3 = 40 km/jam.\nJadi, jawaban yang tepat adalah (B) 40 km/jam.\nMengapa opsi lain kurang tepat:\n- (A) 50 km/jam: (40 + 60) ÷ 2 = 50. Kecepatan rata-rata tidak boleh dihitung dengan merata-ratakan dua kecepatan, karena waktu tempuh kedua arah berbeda.\n- (C) 48 km/jam: 120 ÷ 2,5 = 48 km/jam. Hasil ini benar untuk waktu bergerak saja, tetapi soal meminta waktu berhenti 30 menit ikut dihitung.\n- (D) 20 km/jam: 60 ÷ 3 = 20. Jarak yang dipakai hanya satu arah, padahal perjalanan pergi-pulang berjarak 120 km.\n- (E) 24 km/jam: 60 ÷ 2,5 = 24. Jarak yang dipakai hanya satu arah dan waktu berhenti juga tidak dihitung.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-20",
+    "description": "Pukul 21.40 sebuah mobil yang dicurigai membawa barang curian melintas di depan pos penjagaan dengan kecepatan tetap 72 km/jam. Mobil patroli baru berangkat dari pos yang sama pukul 21.50 dan mengejar melalui jalan yang sama dengan kecepatan tetap 90 km/jam. Mobil patroli akan menyusul mobil tersebut pada pukul ....",
+    "image": "",
+    "options": [
+      {
+        "text": "21.58",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "22.00",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "22.20",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "22.30",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "22.40",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Mobil dikejar: lewat pos pukul 21.40, 72 km/jam.\n- Patroli: berangkat pukul 21.50 dari pos yang sama, 90 km/jam, searah.\n\nDITANYAKAN:\nWaktu patroli menyusul.\n\nJAWAB:\n1. Selisih waktu berangkat = 10 menit = 1/6 jam.\n2. Jarak awal (keunggulan) mobil dikejar = 72 × 1/6 = 12 km.\n3. Selisih kecepatan (kecepatan relatif searah) = 90 − 72 = 18 km/jam.\n4. Waktu menyusul = 12 ÷ 18 = 2/3 jam = 40 menit sejak patroli berangkat.\n5. Pukul menyusul = 21.50 + 40 menit = 22.30.\n6. Uji: patroli menempuh 90 × 2/3 = 60 km; mobil dikejar menempuh 72 × (50/60) = 60 km. Posisi sama.\nJadi, jawaban yang tepat adalah (D) 22.30.\nMengapa opsi lain kurang tepat:\n- (A) 21.58: 12 ÷ 90 jam = 8 menit. Jarak awal dibagi kecepatan patroli, bukan selisih kecepatan. Dalam 8 menit mobil yang dikejar juga terus bergerak.\n- (B) 22.00: 12 ÷ 72 jam = 10 menit. Jarak awal dibagi kecepatan mobil yang dikejar; pembaginya seharusnya selisih kecepatan.\n- (C) 22.20: 40 menit ditambahkan ke 21.40. Pengejaran baru dimulai pukul 21.50.\n- (E) 22.40: Jarak awal dihitung dengan kecepatan patroli (90 × 1/6 = 15 km), lalu 15 ÷ 18 = 50 menit. Jarak awal harus memakai kecepatan mobil yang lebih dulu berangkat, yaitu 72 km/jam.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-21",
+    "description": "Pemasangan pagar kawat di area posko dapat diselesaikan Regu A sendirian dalam 12 jam, sedangkan Regu B sendirian dalam 18 jam. Kedua regu mulai bekerja bersama, tetapi setelah 3 jam Regu A ditarik untuk tugas lain sehingga Regu B menyelesaikan sisanya sendirian. Total waktu pemasangan pagar sejak awal adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "10,5 jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "16,5 jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "7,2 jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "15 jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "13,5 jam",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Regu A: 12 jam → laju 1/12 pekerjaan per jam.\n- Regu B: 18 jam → laju 1/18 pekerjaan per jam.\n- Bekerja bersama 3 jam, lalu Regu B sendirian.\n\nDITANYAKAN:\nTotal waktu sampai pagar selesai.\n\nJAWAB:\n1. Laju bersama = 1/12 + 1/18 = 3/36 + 2/36 = 5/36 per jam.\n2. Hasil 3 jam bersama = 3 × 5/36 = 15/36 = 5/12 pekerjaan.\n3. Sisa pekerjaan = 1 − 5/12 = 7/12.\n4. Waktu Regu B menyelesaikan sisa = (7/12) ÷ (1/18) = 7/12 × 18 = 10,5 jam.\n5. Total waktu = 3 + 10,5 = 13,5 jam.\nJadi, jawaban yang tepat adalah (E) 13,5 jam.\nMengapa opsi lain kurang tepat:\n- (A) 10,5 jam: Ini hanya waktu kerja Regu B setelah ditinggal. 3 jam kerja bersama di awal belum ditambahkan.\n- (B) 16,5 jam: Sisa pekerjaan dihitung 1 − 3/12 = 3/4 (hanya hasil kerja Regu A yang dihitung), lalu 3/4 × 18 = 13,5; 3 + 13,5 = 16,5. Hasil kerja Regu B selama 3 jam pertama terlewat.\n- (C) 7,2 jam: 36/5 = 7,2 jam adalah waktu jika kedua regu bekerja bersama sampai selesai. Regu A berhenti setelah 3 jam.\n- (D) 15 jam: 18 − 3 = 15. Hasil ini menganggap Regu B cukup melanjutkan jadwal kerjanya sendiri dan mengabaikan bantuan Regu A.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-21",
+    "description": "Tandon air di posko pengungsian berkapasitas 3.600 liter dan saat ini terisi 1/4 bagian. Pompa P sendirian dapat mengisi tandon kosong sampai penuh dalam 2 jam, sedangkan pompa Q sendirian dalam 3 jam. Pada saat yang sama, keran distribusi mengalirkan air keluar 600 liter per jam. Jika kedua pompa dan keran dibuka bersamaan, tandon akan penuh dalam waktu ....",
+    "image": "",
+    "options": [
+      {
+        "text": "54 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "90 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "45 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "67,5 menit",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "72,5 menit",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kapasitas 3.600 L, terisi 1/4.\n- Pompa P: penuh dalam 2 jam; pompa Q: penuh dalam 3 jam.\n- Keran keluar 600 L/jam.\n\nDITANYAKAN:\nWaktu sampai tandon penuh.\n\nJAWAB:\n1. Debit P = 3.600 ÷ 2 = 1.800 L/jam; debit Q = 3.600 ÷ 3 = 1.200 L/jam.\n2. Debit bersih = 1.800 + 1.200 − 600 = 2.400 L/jam.\n3. Air yang masih diperlukan = 3/4 × 3.600 = 2.700 L.\n4. Waktu = 2.700 ÷ 2.400 = 1,125 jam.\n5. Ubah ke menit: 1,125 × 60 = 67,5 menit (1 jam 7,5 menit).\nJadi, jawaban yang tepat adalah (D) 67,5 menit.\nMengapa opsi lain kurang tepat:\n- (A) 54 menit: 2.700 ÷ 3.000 = 0,9 jam = 54 menit. Air yang keluar melalui keran tidak dikurangkan.\n- (B) 90 menit: 3.600 ÷ 2.400 = 1,5 jam = 90 menit. Isi awal 1/4 tandon tidak diperhitungkan.\n- (C) 45 menit: 2.700 ÷ 3.600 = 0,75 jam. Debit keran justru ditambahkan (1.800 + 1.200 + 600), padahal keran mengeluarkan air.\n- (E) 72,5 menit: 1,125 jam dibaca sebagai 1 jam 12,5 menit. Padahal 0,125 jam = 0,125 × 60 = 7,5 menit.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-24",
+    "description": "Hasil tes kesamaptaan tiga peleton siswa sebagai berikut: Peleton I 30 orang dengan rata-rata 72, Peleton II 20 orang dengan rata-rata 81, dan Peleton III 30 orang dengan rata-rata 66. Belakangan diketahui satu nilai anggota Peleton II salah catat: tertulis 48, seharusnya 88. Setelah nilai itu dibetulkan, rata-rata gabungan ketiga peleton adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "72",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "73",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "72,5",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "74",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "73,67",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Peleton I: 30 orang, rata-rata 72.\n- Peleton II: 20 orang, rata-rata 81.\n- Peleton III: 30 orang, rata-rata 66.\n- Satu nilai di Peleton II dikoreksi dari 48 menjadi 88.\n\nDITANYAKAN:\nRata-rata gabungan setelah koreksi.\n\nJAWAB:\n1. Jumlah nilai tiap peleton: 30 × 72 = 2.160; 20 × 81 = 1.620; 30 × 66 = 1.980.\n2. Jumlah seluruh nilai sebelum koreksi = 2.160 + 1.620 + 1.980 = 5.760; banyak siswa = 30 + 20 + 30 = 80.\n3. Koreksi menambah jumlah nilai sebesar 88 − 48 = 40, sehingga jumlah baru = 5.760 + 40 = 5.800.\n4. Rata-rata gabungan baru = 5.800 ÷ 80 = 72,5.\n5. Cek cepat: rata-rata lama 5.760 ÷ 80 = 72, naik 40 ÷ 80 = 0,5 → 72,5.\nJadi, jawaban yang tepat adalah (C) 72,5.\nMengapa opsi lain kurang tepat:\n- (A) 72: Ini rata-rata gabungan sebelum koreksi (5.760 ÷ 80). Kenaikan 40 poin belum dimasukkan.\n- (B) 73: (72 + 81 + 66) ÷ 3 = 73. Tiga rata-rata dirata-ratakan tanpa bobot, padahal banyak anggota tiap peleton berbeda, dan koreksi juga belum dimasukkan.\n- (D) 74: Kenaikan 40 dibagi 20 (anggota Peleton II) = 2, lalu ditambahkan ke rata-rata gabungan. Untuk rata-rata gabungan, kenaikan 40 harus dibagi seluruh 80 orang.\n- (E) 73,67: Rata-rata Peleton II dikoreksi menjadi 83, lalu (72 + 83 + 66) ÷ 3 ≈ 73,67. Rata-rata tetap dihitung tanpa bobot banyak anggota.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-24",
+    "description": "Waktu tanggap (dalam menit) unit reaksi cepat terhadap 10 laporan warga tercatat sebagai berikut:\n14, 9, 21, 7, 12, 16, 9, 10, 18, 9\nSetelah diperiksa ulang, data 21 menit ternyata salah input dan seharusnya 11 menit. Setelah data diperbaiki, rata-rata dan median waktu tanggap berturut-turut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "11,5 menit dan 10,5 menit",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "12,5 menit dan 11 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "11,5 menit dan 11 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "11,5 menit dan 14 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "12,5 menit dan 10,5 menit",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- 10 data waktu tanggap: 14, 9, 21, 7, 12, 16, 9, 10, 18, 9.\n- Data 21 diganti menjadi 11.\n\nDITANYAKAN:\nRata-rata dan median setelah perbaikan.\n\nJAWAB:\n1. Jumlah data awal = 14 + 9 + 21 + 7 + 12 + 16 + 9 + 10 + 18 + 9 = 125.\n2. Jumlah setelah perbaikan = 125 − 21 + 11 = 115. Rata-rata = 115 ÷ 10 = 11,5 menit.\n3. Urutkan data baru: 7, 9, 9, 9, 10, 11, 12, 14, 16, 18.\n4. Banyak data genap (10), sehingga median = rata-rata data ke-5 dan ke-6 = (10 + 11) ÷ 2 = 10,5 menit.\n5. Jadi rata-rata 11,5 menit dan median 10,5 menit.\nJadi, jawaban yang tepat adalah (A) 11,5 menit dan 10,5 menit.\nMengapa opsi lain kurang tepat:\n- (B) 12,5 menit dan 11 menit: Ini rata-rata dan median data sebelum diperbaiki.\n- (C) 11,5 menit dan 11 menit: Rata-rata sudah benar, tetapi median masih memakai data lama (10 dan 12 sebagai data ke-5 dan ke-6).\n- (D) 11,5 menit dan 14 menit: Median diambil dari data ke-5 dan ke-6 menurut urutan pencatatan (12 dan 16) tanpa mengurutkan data terlebih dahulu.\n- (E) 12,5 menit dan 10,5 menit: Median sudah benar, tetapi rata-rata belum diperbarui setelah 21 diganti 11.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-26",
+    "description": "Didefinisikan dua operasi berikut.\na ⊕ b = a² − 2b\na ⊗ b = (a + b) ⊕ (a − b)\nNilai dari (2 ⊗ 3) ⊕ (1 ⊗ 2) adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "515",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "707",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "67",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "1.412",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "715",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- a ⊕ b = a² − 2b.\n- a ⊗ b = (a + b) ⊕ (a − b).\n\nDITANYAKAN:\nNilai (2 ⊗ 3) ⊕ (1 ⊗ 2).\n\nJAWAB:\n1. Hitung 2 ⊗ 3 = (2 + 3) ⊕ (2 − 3) = 5 ⊕ (−1) = 5² − 2 × (−1) = 25 + 2 = 27.\n2. Hitung 1 ⊗ 2 = (1 + 2) ⊕ (1 − 2) = 3 ⊕ (−1) = 3² − 2 × (−1) = 9 + 2 = 11.\n3. Hitung 27 ⊕ 11 = 27² − 2 × 11 = 729 − 22 = 707.\n4. Perhatikan: urutan operan penting karena a ⊕ b ≠ b ⊕ a.\nJadi, jawaban yang tepat adalah (B) 707.\nMengapa opsi lain kurang tepat:\n- (A) 515: Hasil ini muncul jika a − b dihitung sebagai b − a (atau −2 × (−1) dianggap −2), sehingga 2 ⊗ 3 = 23 dan 1 ⊗ 2 = 7, lalu 23 ⊕ 7 = 529 − 14 = 515.\n- (C) 67: Operan langkah terakhir tertukar: 11 ⊕ 27 = 121 − 54 = 67. Operasi ⊕ tidak komutatif, jadi urutan harus dijaga.\n- (D) 1.412: Langkah terakhir memakai ⊗ alih-alih ⊕: 27 ⊗ 11 = 38 ⊕ 16 = 1.444 − 32 = 1.412.\n- (E) 715: Kesalahan tanda hanya pada 1 ⊗ 2 (3 ⊕ (−1) dihitung 9 − 2 = 7), lalu 27 ⊕ 7 = 729 − 14 = 715.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-26",
+    "description": "Pada sebuah sandi angka berlaku aturan a # b = pa + qb, dengan p dan q bilangan bulat tetap. Diketahui 3 # 4 = 18 dan 5 # 2 = 16. Nilai dari (7 # (−1)) # 2 adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "22",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "40",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "11",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "61",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "28",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- a # b = pa + qb.\n- 3 # 4 = 18 → 3p + 4q = 18.\n- 5 # 2 = 16 → 5p + 2q = 16.\n\nDITANYAKAN:\nNilai (7 # (−1)) # 2.\n\nJAWAB:\n1. Kalikan persamaan kedua dengan 2: 10p + 4q = 32.\n2. Kurangkan persamaan pertama: (10p + 4q) − (3p + 4q) = 32 − 18 → 7p = 14 → p = 2.\n3. Substitusi: 3(2) + 4q = 18 → 4q = 12 → q = 3. Uji: 5(2) + 2(3) = 16, sesuai.\n4. 7 # (−1) = 2(7) + 3(−1) = 14 − 3 = 11.\n5. 11 # 2 = 2(11) + 3(2) = 22 + 6 = 28.\nJadi, jawaban yang tepat adalah (E) 28.\nMengapa opsi lain kurang tepat:\n- (A) 22: Pada langkah kedua hanya pa yang dihitung (2 × 11 = 22), sedangkan qb = 3 × 2 terlewat.\n- (B) 40: Salah tanda pada b = −1: 7 # (−1) dihitung 14 + 3 = 17, lalu 17 # 2 = 34 + 6 = 40.\n- (C) 11: Ini baru nilai 7 # (−1). Hasil itu masih harus dioperasikan dengan 2.\n- (D) 61: p dan q tertukar (p = 3, q = 2): 7 # (−1) = 21 − 2 = 19, lalu 19 # 2 = 57 + 4 = 61. Padahal p = 3, q = 2 memberi 3 # 4 = 17, tidak sesuai dengan data.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-22",
+    "description": "Selisih umur Aiptu Darmawan dan anaknya adalah 28 tahun. Empat tahun yang lalu, umur Aiptu Darmawan lima kali umur anaknya. Perbandingan umur Aiptu Darmawan dan anaknya akan menjadi 2 : 1 pada ... tahun lagi dari sekarang.",
+    "image": "",
+    "options": [
+      {
+        "text": "13",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "21",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "17",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "28",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "25",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Selisih umur ayah dan anak = 28 tahun (tetap sepanjang waktu).\n- 4 tahun lalu: umur ayah = 5 × umur anak.\n\nDITANYAKAN:\nBerapa tahun lagi dari sekarang perbandingan umur menjadi 2 : 1.\n\nJAWAB:\n1. Misalkan umur anak 4 tahun lalu = x, maka umur ayah = 5x. Selisih: 5x − x = 28 → 4x = 28 → x = 7.\n2. 4 tahun lalu: anak 7 tahun, ayah 35 tahun. Sekarang: anak 11 tahun, ayah 39 tahun.\n3. Misalkan t tahun lagi: 39 + t = 2(11 + t) → 39 + t = 22 + 2t → t = 17.\n4. Cara cepat: saat perbandingan 2 : 1, umur anak = selisih umur = 28 tahun, sehingga t = 28 − 11 = 17.\n5. Uji: 17 tahun lagi ayah 56 tahun dan anak 28 tahun; 56 : 28 = 2 : 1.\nJadi, jawaban yang tepat adalah (C) 17.\nMengapa opsi lain kurang tepat:\n- (A) 13: 17 − 4 = 13. Koreksi 4 tahun dikurangkan lagi pada hasil yang sudah dihitung dari umur sekarang.\n- (B) 21: 21 tahun dihitung dari 4 tahun yang lalu (saat anak berumur 7 tahun). Pertanyaan meminta dihitung dari sekarang, jadi 21 − 4 = 17.\n- (D) 28: 28 adalah umur anak ketika perbandingan menjadi 2 : 1, bukan lamanya waktu dari sekarang.\n- (E) 25: Hasil 21 (dihitung dari 4 tahun lalu) dikonversi ke arah yang salah: 21 + 4 = 25. Seharusnya dikurangi 4 karena titik acuan maju 4 tahun.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-23",
+    "description": "Dari 120 peserta seleksi, 9 orang tidak lulus tes lari maupun tes renang. Banyak peserta yang lulus tes lari 13 orang lebih banyak daripada yang lulus tes renang, dan 32 orang lulus kedua tes. Banyak peserta yang hanya lulus tes renang adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "33",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "24",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "46",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "65",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "79",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Total 120 peserta; 9 tidak lulus kedua tes.\n- n(Lari) = n(Renang) + 13.\n- n(Lari ∩ Renang) = 32.\n\nDITANYAKAN:\nBanyak peserta yang hanya lulus tes renang.\n\nJAWAB:\n1. Peserta yang lulus minimal satu tes = 120 − 9 = 111.\n2. n(L ∪ R) = n(L) + n(R) − n(L ∩ R) → 111 = n(L) + n(R) − 32 → n(L) + n(R) = 143.\n3. Dengan n(L) − n(R) = 13: 2n(R) = 143 − 13 = 130 → n(R) = 65, n(L) = 78.\n4. Hanya renang = 65 − 32 = 33.\n5. Uji: hanya lari 46 + hanya renang 33 + keduanya 32 + tidak keduanya 9 = 120.\nJadi, jawaban yang tepat adalah (A) 33.\nMengapa opsi lain kurang tepat:\n- (B) 24: 65 − 32 − 9 = 24. Peserta yang tidak lulus keduanya ikut dikurangkan dari himpunan renang, padahal mereka berada di luar himpunan itu.\n- (C) 46: 46 adalah banyak peserta yang hanya lulus tes lari (78 − 32).\n- (D) 65: 65 adalah seluruh peserta yang lulus renang, termasuk 32 orang yang juga lulus lari.\n- (E) 79: 79 adalah banyak peserta yang lulus tepat satu tes (46 + 33), bukan hanya tes renang.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-25",
+    "description": "Sebuah kotak berisi 5 kunci borgol tipe A dan 3 kunci borgol tipe B yang bentuk luarnya serupa. Seorang petugas mengambil 2 kunci sekaligus secara acak. Peluang kedua kunci yang terambil berbeda tipe adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "15/56",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "13/28",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "15/32",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "15/64",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "15/28",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- 5 kunci tipe A, 3 kunci tipe B, total 8.\n- Diambil 2 kunci sekaligus (tanpa pengembalian).\n\nDITANYAKAN:\nPeluang kedua kunci berbeda tipe.\n\nJAWAB:\n1. Banyak cara mengambil 2 dari 8: C(8,2) = (8 × 7) ÷ 2 = 28.\n2. Banyak cara mengambil 1 tipe A dan 1 tipe B: C(5,1) × C(3,1) = 5 × 3 = 15.\n3. Peluang = 15/28.\n4. Uji dengan komplemen: peluang sama tipe = (10 + 3)/28 = 13/28; 15/28 + 13/28 = 1.\nJadi, jawaban yang tepat adalah (E) 15/28.\nMengapa opsi lain kurang tepat:\n- (A) 15/56: 5/8 × 3/7 = 15/56 hanya menghitung satu urutan (A lalu B). Pengambilan sekaligus mencakup pasangan A–B tanpa memandang urutan, setara dengan 2 × 15/56.\n- (B) 13/28: 13/28 adalah peluang kedua kunci sama tipe: (C(5,2) + C(3,2)) ÷ 28 = (10 + 3) ÷ 28. Ini kebalikan (komplemen) dari yang ditanyakan.\n- (C) 15/32: 2 × 5/8 × 3/8 = 15/32 menganggap kunci pertama dikembalikan. Pengambilan sekaligus berarti tanpa pengembalian.\n- (D) 15/64: 5/8 × 3/8 = 15/64: menganggap ada pengembalian dan hanya satu urutan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-16",
+    "description": "Peta wilayah patroli berskala 1 : 40.000 difotokopi dengan perbesaran sehingga semua ukuran pada hasil fotokopi menjadi 1,5 kali ukuran pada peta asli. Pada hasil fotokopi, jarak Polsek ke Pos B adalah 12 cm. Jika mobil patroli menempuh jarak sebenarnya itu dengan kecepatan rata-rata 24 km/jam, waktu tempuhnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "8 menit",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "12 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "18 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "80 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "48 detik",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Skala peta asli 1 : 40.000.\n- Fotokopi = 1,5 kali ukuran peta asli.\n- Jarak pada fotokopi 12 cm; kecepatan 24 km/jam.\n\nDITANYAKAN:\nWaktu tempuh jarak sebenarnya.\n\nJAWAB:\n1. Jarak pada peta asli = 12 ÷ 1,5 = 8 cm (setara skala fotokopi 1 : 40.000 ÷ 1,5).\n2. Jarak sebenarnya = 8 × 40.000 = 320.000 cm.\n3. Ubah ke km: 320.000 ÷ 100.000 = 3,2 km.\n4. Waktu = 3,2 ÷ 24 jam = 2/15 jam = 2/15 × 60 menit = 8 menit.\nJadi, jawaban yang tepat adalah (A) 8 menit.\nMengapa opsi lain kurang tepat:\n- (B) 12 menit: Skala asli langsung dipakai pada ukuran fotokopi: 12 × 40.000 = 4,8 km → 4,8 ÷ 24 jam = 12 menit. Ukuran fotokopi harus dibagi 1,5 terlebih dahulu.\n- (C) 18 menit: Ukuran fotokopi dikali 1,5 (bukan dibagi): 18 × 40.000 cm = 7,2 km → 18 menit. Perbesaran membuat ukuran di kertas lebih panjang, jadi harus dibagi untuk kembali ke peta asli.\n- (D) 80 menit: Konversi cm ke km keliru: 320.000 cm dianggap 32 km → 32 ÷ 24 jam = 80 menit. Seharusnya 1 km = 100.000 cm.\n- (E) 48 detik: Konversi cm ke km keliru: 320.000 cm dianggap 0,32 km → 0,8 menit = 48 detik.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-07",
+    "description": "Tiga unit patroli berangkat bersama dari Mapolres pukul 06.00. Unit A kembali ke Mapolres setiap 40 menit, unit B setiap 60 menit, dan unit C setiap 90 menit, lalu masing-masing langsung berangkat lagi. Dari pukul 06.00 sampai dengan pukul 22.00, berapa kali ketiga unit berada bersamaan di Mapolres, termasuk saat keberangkatan pukul 06.00?",
+    "image": "",
+    "options": [
+      {
+        "text": "2 kali",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "3 kali",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "5 kali",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "6 kali",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "9 kali",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Interval kembali: A 40 menit, B 60 menit, C 90 menit.\n- Mulai bersama pukul 06.00; rentang sampai pukul 22.00 (16 jam = 960 menit).\n\nDITANYAKAN:\nBanyak kali ketiganya bersamaan di Mapolres, termasuk pukul 06.00.\n\nJAWAB:\n1. Faktorisasi: 40 = 2³ × 5; 60 = 2² × 3 × 5; 90 = 2 × 3² × 5.\n2. KPK = 2³ × 3² × 5 = 360 menit = 6 jam.\n3. Waktu bersamaan: 06.00, 12.00, 18.00, (berikutnya 24.00, di luar rentang).\n4. Cek: 360 ÷ 40 = 9, 360 ÷ 60 = 6, 360 ÷ 90 = 4, semuanya bulat.\n5. Jadi ada 3 kali (termasuk pukul 06.00).\nJadi, jawaban yang tepat adalah (B) 3 kali.\nMengapa opsi lain kurang tepat:\n- (A) 2 kali: Hanya pukul 12.00 dan 18.00 yang dihitung; keberangkatan pukul 06.00 diminta ikut dihitung.\n- (C) 5 kali: KPK keliru 180 menit (faktor 2 diambil 2², bukan 2³) dan pukul 06.00 tidak dihitung: 09.00, 12.00, 15.00, 18.00, 21.00. Pukul 09.00 bukan kelipatan 40 menit sejak 06.00 (180 ÷ 40 = 4,5).\n- (D) 6 kali: KPK keliru 180 menit seperti opsi 5 kali, ditambah pukul 06.00.\n- (E) 9 kali: Hanya KPK 40 dan 60 (120 menit) yang dipakai, sehingga terhitung setiap 2 jam dari 06.00 sampai 22.00. Unit C terlupakan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-06",
+    "description": "Sebuah tandon air bersih bervolume 1,8 m³ dalam keadaan kosong diisi menggunakan selang berdebit 30 liter per menit. Ternyata pada dasar tandon terdapat kebocoran yang mengalirkan air keluar 100 mL per detik. Waktu yang diperlukan sampai tandon penuh adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "1 jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "1 jam 30 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "1 jam 15 menit",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "1 jam 45 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "12 jam 30 menit",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Volume tandon 1,8 m³, mula-mula kosong.\n- Debit masuk 30 L/menit.\n- Debit bocor 100 mL/detik.\n\nDITANYAKAN:\nWaktu sampai tandon penuh.\n\nJAWAB:\n1. Volume: 1,8 m³ = 1,8 × 1.000 = 1.800 liter.\n2. Kebocoran: 100 mL/detik = 0,1 L/detik = 0,1 × 60 = 6 L/menit.\n3. Debit bersih = 30 − 6 = 24 L/menit.\n4. Waktu = 1.800 ÷ 24 = 75 menit = 1 jam 15 menit.\nJadi, jawaban yang tepat adalah (C) 1 jam 15 menit.\nMengapa opsi lain kurang tepat:\n- (A) 1 jam: 1.800 ÷ 30 = 60 menit. Kebocoran tidak diperhitungkan.\n- (B) 1 jam 30 menit: Kebocoran dihitung 10 L/menit karena 1 menit keliru dianggap 100 detik (100 × 100 mL). Debit bersih jadi 20 L/menit → 90 menit.\n- (D) 1 jam 45 menit: 75 menit ditulis 1,75 jam lalu dibaca 1 jam 45 menit. Padahal 75 menit = 1 jam 15 menit.\n- (E) 12 jam 30 menit: 1,8 m³ dianggap 18.000 liter. Yang benar 1 m³ = 1.000 liter, jadi 1,8 m³ = 1.800 liter.",
+    "difficulty": "sulit"
+  }
+]

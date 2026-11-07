@@ -1,0 +1,2339 @@
+[
+ {
+  "id": "0199d8df-023e-703a-84bc-6ae1c98c1857",
+  "action": "revise",
+  "description": "Anda adalah manajer di sebuah perusahaan layanan. Perusahaan meluncurkan kebijakan diskon besar khusus bagi pelanggan baru, sedangkan pelanggan lama yang setia tidak mendapatkannya. Kebijakan ini diperkirakan menarik banyak pelanggan baru, tetapi pelanggan lama dapat merasa tidak dihargai dan beralih ke pesaing. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8df-023e-736b-8512-87d89da6af8d",
+    "description": "Menyampaikan keberatan kepada atasan dan meminta agar kebijakan tersebut ditinjau ulang.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8df-023e-7798-9e90-1ecc2db11163",
+    "description": "Menjalankan kebijakan sambil menjelaskan kepada pelanggan lama yang bertanya bahwa program ini bersifat sementara.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-023e-7b08-8028-404a043c5294",
+    "description": "Menjalankan kebijakan sesuai instruksi karena tujuan perusahaan saat ini adalah menambah pelanggan baru.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-023e-7dbe-bd54-1b8bc107d72e",
+    "description": "Menyusun usulan berbasis data kepada atasan agar pelanggan lama juga memperoleh program penghargaan yang sepadan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8df-023f-722a-b5e5-381aca076b83",
+    "description": "Memberikan potongan harga atas inisiatif sendiri kepada pelanggan lama yang mengeluh agar mereka tidak pindah.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah manajer di sebuah perusahaan layanan.\n- Perusahaan meluncurkan kebijakan diskon besar khusus bagi pelanggan baru, sedangkan pelanggan lama yang setia tidak mendapatkannya.\n- Kebijakan ini diperkirakan menarik banyak pelanggan baru, tetapi pelanggan lama dapat merasa tidak dihargai dan beralih ke pesaing.\n\nDITANYAKAN:\nSikap manajer yang paling tepat agar tujuan perusahaan tercapai tanpa mengabaikan pelanggan lama.\n\nJAWAB:\n1. Dimensi yang diukur: Pelayanan publik, yaitu mendahulukan kepentingan penerima layanan secara ramah, adil, dan transparan tanpa melanggar aturan (sejalan dengan Tribrata: melindungi, mengayomi, dan melayani masyarakat).\n2. Prinsip penilaian: Pelayan publik yang baik memperhatikan semua penerima layanan secara adil, tetapi perubahan kebijakan harus ditempuh lewat jalur wewenang yang sah, bukan keputusan sepihak.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (A) 4 → (B) 3 → (C) 2 → (E) 1.\n4. (D) — poin 5: Paling tuntas: masalah keadilan bagi pelanggan lama diangkat melalui jalur resmi dan didukung data sehingga peluang kebijakan diperbaiki besar.\nJadi, jawaban yang tepat adalah (D) Menyusun usulan berbasis data kepada atasan agar pelanggan lama juga memperoleh program penghargaan yang sepadan.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Sudah menempuh jalur yang benar, tetapi hanya berupa keberatan tanpa usulan solusi yang konkret.\n- (B) — poin 3: Patuh dan tetap berkomunikasi dengan pelanggan, tetapi tidak berusaha memperbaiki akar masalah ketidakadilan.\n- (C) — poin 2: Patuh, tetapi pasif dan membiarkan pelanggan lama merasa tidak dihargai.\n- (E) — poin 1: Niatnya melayani, tetapi bertindak di luar wewenang dan tidak transparan sehingga melanggar aturan perusahaan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi diskon diam-diam diturunkan ke poin 1 (di luar wewenang); semua opsi ditulis ulang agar wajar; pembahasan 5→1."
+ },
+ {
+  "id": "0199d8df-1b83-7ee5-aea2-7acab1ea93e9",
+  "action": "revise",
+  "description": "Anda adalah pegawai pemerintah yang ditugaskan mengawasi pembangunan jembatan. Sekelompok warga memprotes pembangunan tersebut karena khawatir jembatan akan merusak lingkungan sekitar. Menghentikan pembangunan berarti mengorbankan kepentingan publik, sedangkan melanjutkannya membuat Anda dianggap mengabaikan keluhan warga. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8df-1b84-73da-b248-fe7a9974afe7",
+    "description": "Menghentikan pembangunan untuk sementara sampai protes warga mereda.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-1b85-7289-ad00-22739a01e2bd",
+    "description": "Menyerahkan penanganan protes kepada kontraktor pelaksana karena hal itu di luar tugas pengawasan.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8df-1b85-7aa5-b0d4-d308e1db70f9",
+    "description": "Melaporkan protes itu kepada atasan disertai usulan agar kajian dampak lingkungan proyek diperiksa ulang oleh pihak yang berwenang.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8df-1b86-727f-af22-623813b1173b",
+    "description": "Melanjutkan pembangunan sesuai jadwal sambil membuka posko pengaduan bagi warga.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-1b86-78d4-a902-cc56d90c427b",
+    "description": "Berdialog dengan perwakilan warga, memaparkan kajian dampak lingkungan proyek, dan menindaklanjuti masukan yang valid.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah pegawai pemerintah yang ditugaskan mengawasi pembangunan jembatan.\n- Sekelompok warga memprotes pembangunan tersebut karena khawatir jembatan akan merusak lingkungan sekitar.\n- Menghentikan pembangunan berarti mengorbankan kepentingan publik, sedangkan melanjutkannya membuat Anda dianggap mengabaikan keluhan warga.\n\nDITANYAKAN:\nSikap pengawas proyek yang paling tepat dalam menanggapi kekhawatiran lingkungan dari warga.\n\nJAWAB:\n1. Dimensi yang diukur: Pelayanan publik, yaitu mendahulukan kepentingan penerima layanan secara ramah, adil, dan transparan tanpa melanggar aturan (sejalan dengan Tribrata: melindungi, mengayomi, dan melayani masyarakat).\n2. Prinsip penilaian: Keluhan warga harus dijawab pada pokok masalahnya (dampak lingkungan) secara terbuka, sementara kepentingan publik tetap dijaga sesuai prosedur.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (C) 4 → (D) 3 → (A) 2 → (B) 1.\n4. (E) — poin 5: Paling tuntas: menjawab langsung kekhawatiran lingkungan dengan data, membuka ruang dialog, dan tetap menjaga kelanjutan proyek.\nJadi, jawaban yang tepat adalah (E) Berdialog dengan perwakilan warga, memaparkan kajian dampak lingkungan proyek, dan menindaklanjuti masukan yang valid.\nMengapa opsi lain kurang tepat:\n- (C) — poin 4: Tepat sasaran dan sesuai prosedur, tetapi belum berkomunikasi langsung dengan warga yang mengeluh.\n- (D) — poin 3: Kepentingan publik terjaga dan keluhan ditampung, tetapi kekhawatiran lingkungan belum dijawab.\n- (A) — poin 2: Meredam konflik sesaat, tetapi menunda kepentingan publik tanpa menyelesaikan pokok masalah.\n- (B) — poin 1: Melempar tanggung jawab; padahal sebagai pengawas Anda wajib ikut menanggapi dampak proyek.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi tidak relevan (kerja malam) dan salin-tempel diganti opsi yang menjawab isu lingkungan; urutan poin disusun ulang."
+ },
+ {
+  "id": "019b5ef7-08fa-7378-b9e0-d4f31c24e157",
+  "action": "revise",
+  "description": "Anda adalah petugas loket pelayanan. Ada peraturan baru bahwa setiap warga wajib menyerahkan fotokopi KK terbaru. Seorang ibu lanjut usia datang dari desa yang jauh dengan membawa KK asli, tetapi lupa memfotokopinya. Di sekitar kantor tidak ada tempat fotokopi, sedangkan kantor memiliki mesin fotokopi untuk keperluan dinas. Ibu tersebut memohon agar tetap dilayani hari itu. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b5ef7-08fa-786b-93cb-21f22f94d53b",
+    "description": "Meminta izin atasan untuk menggandakan KK ibu itu dengan mesin kantor, lalu memproses berkasnya.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b5ef7-08fa-7d2d-96b7-869bbce4d599",
+    "description": "Menerima KK asli untuk diproses lebih dahulu dan meminta fotokopinya disusulkan esok hari.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b5ef7-08fb-71c1-9748-e37bb0db2daf",
+    "description": "Meminta ibu tersebut datang kembali pada hari lain dengan berkas yang sudah lengkap.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b5ef7-08fb-762a-87a1-917bf277eba5",
+    "description": "Menjelaskan aturan dengan sopan, menunjukkan lokasi fotokopi terdekat, dan menjanjikan antrean prioritas saat ia kembali.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b5ef7-08fb-7947-9c5e-8bef49c2d58d",
+    "description": "Meminta tolong rekan yang hendak keluar kantor untuk sekalian memfotokopikan KK ibu tersebut, sementara antreannya tetap dipertahankan.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah petugas loket pelayanan.\n- Ada peraturan baru bahwa setiap warga wajib menyerahkan fotokopi KK terbaru.\n- Seorang ibu lanjut usia datang dari desa yang jauh dengan membawa KK asli, tetapi lupa memfotokopinya.\n- Di sekitar kantor tidak ada tempat fotokopi, sedangkan kantor memiliki mesin fotokopi untuk keperluan dinas.\n- Ibu tersebut memohon agar tetap dilayani hari itu.\n\nDITANYAKAN:\nTindakan petugas loket yang tetap memenuhi aturan sekaligus melayani warga dengan baik.\n\nJAWAB:\n1. Dimensi yang diukur: Pelayanan publik, yaitu mendahulukan kepentingan penerima layanan secara ramah, adil, dan transparan tanpa melanggar aturan (sejalan dengan Tribrata: melindungi, mengayomi, dan melayani masyarakat).\n2. Prinsip penilaian: Pelayanan prima mencari jalan agar syarat terpenuhi tanpa melanggar aturan; bukan menolak warga begitu saja, tetapi juga bukan mengabaikan syarat.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (E) 4 → (D) 3 → (B) 2 → (C) 1.\n4. (A) — poin 5: Paling tuntas: syarat fotokopi tetap terpenuhi secara sah, warga terlayani hari itu juga, dan penggunaan fasilitas dinas mendapat izin.\nJadi, jawaban yang tepat adalah (A) Meminta izin atasan untuk menggandakan KK ibu itu dengan mesin kantor, lalu memproses berkasnya.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Membantu dan tidak melanggar aturan, tetapi bergantung pada orang lain sehingga lebih lambat dan kurang pasti.\n- (D) — poin 3: Patuh dan ramah, tetapi beban tetap dikembalikan kepada warga lanjut usia yang datang dari jauh.\n- (B) — poin 2: Tampak membantu, tetapi melonggarkan syarat yang baru ditetapkan sehingga tidak sesuai aturan.\n- (C) — poin 1: Paling pasif: secara aturan tidak salah, tetapi tidak ada upaya melayani warga yang sedang kesulitan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi manipulasi data dan 'uang pribadi + tenaga kebersihan' diganti; premis mesin fotokopi kantor diperjelas; urutan poin direvisi."
+ },
+ {
+  "id": "019b6e3f-204e-70f8-9683-df56125aad8e",
+  "action": "revise",
+  "description": "Anda anggota tim penyusun survei kepuasan masyarakat di kantor Anda. Setelah survei selesai, hasilnya menunjukkan tingkat kepuasan publik terhadap layanan kantor Anda sangat rendah. Bagaimana reaksi Anda sebagai anggota tim?",
+  "options": [
+   {
+    "id": "019b6e3f-2050-78a1-9a4f-dc75a75ed904",
+    "description": "Memeriksa kembali metode dan sampel survei untuk memastikan hasilnya benar-benar sahih sebelum dilaporkan.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-2051-7073-8b43-f2e6f9a74d29",
+    "description": "Menyerahkan tindak lanjut hasil survei kepada bagian pelayanan karena tugas tim hanya menyusun survei.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-2051-7a6f-bfe7-3a991eb8d154",
+    "description": "Menganalisis hasil survei secara jujur untuk menemukan akar masalah, lalu mengusulkan perbaikan layanan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e3f-2051-7f3a-bd0c-4adc392d2489",
+    "description": "Menyarankan agar hasil survei disampaikan terbatas kepada pimpinan dahulu sebelum diumumkan kepada publik.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e3f-2052-76ae-beca-f488d1b11f6f",
+    "description": "Mengusulkan rapat tim bersama pimpinan unit layanan untuk membahas temuan survei tersebut.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda anggota tim penyusun survei kepuasan masyarakat di kantor Anda.\n- Setelah survei selesai, hasilnya menunjukkan tingkat kepuasan publik terhadap layanan kantor Anda sangat rendah.\n\nDITANYAKAN:\nReaksi yang paling tepat terhadap hasil survei kepuasan yang rendah.\n\nJAWAB:\n1. Dimensi yang diukur: Pelayanan publik, yaitu mendahulukan kepentingan penerima layanan secara ramah, adil, dan transparan tanpa melanggar aturan (sejalan dengan Tribrata: melindungi, mengayomi, dan melayani masyarakat).\n2. Prinsip penilaian: Hasil survei adalah masukan untuk memperbaiki layanan; sikap terbaik adalah jujur terhadap data dan mengubahnya menjadi langkah perbaikan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (E) 4 → (A) 3 → (D) 2 → (B) 1.\n4. (C) — poin 5: Paling tuntas: menerima data apa adanya, mencari penyebab, dan menghasilkan usulan perbaikan konkret.\nJadi, jawaban yang tepat adalah (C) Menganalisis hasil survei secara jujur untuk menemukan akar masalah, lalu mengusulkan perbaikan layanan.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Langkah yang baik untuk menindaklanjuti, tetapi belum sampai pada analisis akar masalah dan usulan konkret.\n- (A) — poin 3: Wajar secara ilmiah, tetapi fokus pada keabsahan data dan menunda perbaikan layanan.\n- (D) — poin 2: Masih melaporkan, tetapi cenderung menahan keterbukaan informasi kepada masyarakat.\n- (B) — poin 1: Melempar tanggung jawab dan tidak ikut berkontribusi pada perbaikan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi defensif/tidak etis diganti opsi wajar; urutan poin disusun ulang (menolak validitas tidak lagi poin 4)."
+ },
+ {
+  "id": "019b6e3f-206a-78e8-9440-61086297d283",
+  "action": "revise",
+  "description": "Anda adalah petugas bagian pengajuan izin usaha. Seorang pengusaha besar yang Anda kenal datang dan meminta prosesnya dipercepat karena ia merasa sudah banyak mengeluarkan biaya untuk urusan birokrasi. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b6e3f-206a-7d17-9750-cbf4a59d4818",
+    "description": "Menyarankan ia menggunakan layanan daring agar status permohonannya dapat dipantau sendiri.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-206b-72cc-930c-3dca4b8f5734",
+    "description": "Menjelaskan prosedur dan perkiraan waktu secara terbuka, lalu memproses izinnya sesuai SOP dan urutan antrean.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e3f-206b-7672-b651-5de52cbb8ebd",
+    "description": "Menyampaikan bahwa Anda akan menanyakan kemungkinan percepatan kepada atasan, mengingat ia sudah lama menunggu dan berkasnya lengkap.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e3f-206b-7b10-bdca-224d42c17237",
+    "description": "Mendahulukan berkasnya karena berkasnya lengkap dan ia sudah lama menunggu.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-206b-7e49-8bad-d48b9322d49c",
+    "description": "Memeriksa kelengkapan berkasnya saat itu juga agar tidak ada hambatan ketika diproses sesuai antrean.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah petugas bagian pengajuan izin usaha.\n- Seorang pengusaha besar yang Anda kenal datang dan meminta prosesnya dipercepat karena ia merasa sudah banyak mengeluarkan biaya untuk urusan birokrasi.\n\nDITANYAKAN:\nSikap petugas perizinan yang adil dan bebas dari perlakuan istimewa.\n\nJAWAB:\n1. Dimensi yang diukur: Pelayanan publik, yaitu mendahulukan kepentingan penerima layanan secara ramah, adil, dan transparan tanpa melanggar aturan (sejalan dengan Tribrata: melindungi, mengayomi, dan melayani masyarakat).\n2. Prinsip penilaian: Pelayanan publik harus setara bagi semua pemohon sesuai SOP; kedekatan pribadi tidak boleh menjadi dasar percepatan (prinsip anti-KKN).\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (E) 4 → (A) 3 → (C) 2 → (D) 1.\n4. (B) — poin 5: Paling tuntas: transparan, adil kepada semua pemohon, dan tetap melayani pemohon dengan baik.\nJadi, jawaban yang tepat adalah (B) Menjelaskan prosedur dan perkiraan waktu secara terbuka, lalu memproses izinnya sesuai SOP dan urutan antrean.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Membantu secara sah tanpa perlakuan istimewa, tetapi belum memberi penjelasan prosedur secara menyeluruh.\n- (A) — poin 3: Solutif dan wajar, tetapi kurang menanggapi keluhan pemohon secara langsung.\n- (C) — poin 2: Tampak sopan, tetapi membuka peluang perlakuan khusus di luar SOP.\n- (D) — poin 1: Memberi perlakuan istimewa kepada kenalan di atas pemohon lain; bertentangan dengan asas keadilan dan anti-KKN.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Perlakuan istimewa diturunkan ke poin 1; opsi suap/mempersulit yang jelas buruk diganti opsi wajar; pembahasan 5→1."
+ },
+ {
+  "id": "019b6e3f-2077-7900-8c6d-5c493a2581fb",
+  "action": "revise",
+  "description": "Anda ditugaskan menyusun standar pelayanan baru di kantor Anda. Setelah disusun, standar tersebut ternyata membuat alur pelayanan lebih rumit dan panjang, meskipun secara hukum lebih aman bagi instansi. Bagaimana reaksi Anda?",
+  "options": [
+   {
+    "id": "019b6e3f-2077-7d07-8617-2a5b57bf12cc",
+    "description": "Menarik kembali standar itu dan kembali ke prosedur lama agar tidak ada keluhan.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-2078-720f-a903-9240e8733347",
+    "description": "Mengevaluasi ulang standar itu untuk menyederhanakan alur tanpa mengurangi kepastian hukum, lalu menyosialisasikannya.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e3f-2078-7603-a740-fff1f300277b",
+    "description": "Menerapkan standar tersebut karena sudah sesuai dengan ketentuan hukum.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-2078-7a7d-92c0-6d0c04b16201",
+    "description": "Menerapkan standar tersebut sambil menyiapkan panduan tertulis dan petugas pendamping agar masyarakat tidak kesulitan mengikutinya.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b6e3f-2078-7df9-822f-564061df4609",
+    "description": "Menunda penerapan standar sampai ada masukan resmi dari masyarakat.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda ditugaskan menyusun standar pelayanan baru di kantor Anda.\n- Setelah disusun, standar tersebut ternyata membuat alur pelayanan lebih rumit dan panjang, meskipun secara hukum lebih aman bagi instansi.\n\nDITANYAKAN:\nLangkah paling tepat ketika standar pelayanan yang disusun aman secara hukum tetapi memberatkan masyarakat.\n\nJAWAB:\n1. Dimensi yang diukur: Pelayanan publik, yaitu mendahulukan kepentingan penerima layanan secara ramah, adil, dan transparan tanpa melanggar aturan (sejalan dengan Tribrata: melindungi, mengayomi, dan melayani masyarakat).\n2. Prinsip penilaian: Standar pelayanan harus memberi kepastian hukum sekaligus mudah bagi masyarakat; penyusun bertanggung jawab memperbaikinya, bukan sekadar mempertahankan atau membatalkannya.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (D) 4 → (C) 3 → (E) 2 → (A) 1.\n4. (B) — poin 5: Paling tuntas: memperbaiki akar masalah (alur yang rumit) dengan tetap menjaga aspek hukum dan memberi tahu masyarakat.\nJadi, jawaban yang tepat adalah (B) Mengevaluasi ulang standar itu untuk menyederhanakan alur tanpa mengurangi kepastian hukum, lalu menyosialisasikannya.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Mengurangi dampak bagi masyarakat, tetapi alur yang rumit tetap dibiarkan.\n- (C) — poin 3: Patuh hukum, tetapi tidak peduli pada kemudahan bagi penerima layanan.\n- (E) — poin 2: Hati-hati, tetapi menunda tanggung jawab tanpa memperbaiki apa pun.\n- (A) — poin 1: Menghindari masalah dan mengorbankan kepastian hukum yang sudah dibangun.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi 'menyalahkan bagian hukum' diganti; urutan 4–1 ditata ulang; pembahasan 5→1."
+ },
+ {
+  "id": "0199d8e4-0962-7a6d-9729-823132c63d83",
+  "action": "revise",
+  "description": "Anda adalah pemimpin sebuah tim. Salah satu anggota tim memiliki kemampuan teknis yang sangat baik, tetapi cara berkomunikasinya buruk sehingga sering memicu konflik dengan anggota lain. Memberhentikannya berarti kehilangan aset berharga, sedangkan membiarkannya berisiko merusak semangat tim. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-0963-70a9-b0dc-a693062497c1",
+    "description": "Mengadakan pelatihan komunikasi untuk seluruh tim dan menetapkan aturan diskusi yang disepakati bersama.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-0963-7590-a73a-0e6eaa0c4b27",
+    "description": "Menjadi perantara komunikasi antara dia dan anggota lain untuk sementara waktu.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0963-79c3-b133-584b9671cfca",
+    "description": "Berbicara empat mata dengannya untuk memahami kendalanya dan menyepakati cara berkomunikasi yang lebih baik.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0964-71af-afa6-856b13597790",
+    "description": "Meminta atasan memindahkannya ke tim lain agar suasana tim kembali kondusif.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-0964-7661-9a64-aae53d6aac62",
+    "description": "Mengatur pembagian tugas agar ia lebih banyak bekerja mandiri sehingga gesekan dengan anggota lain berkurang tanpa kehilangan kontribusinya.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah pemimpin sebuah tim.\n- Salah satu anggota tim memiliki kemampuan teknis yang sangat baik, tetapi cara berkomunikasinya buruk sehingga sering memicu konflik dengan anggota lain.\n- Memberhentikannya berarti kehilangan aset berharga, sedangkan membiarkannya berisiko merusak semangat tim.\n\nDITANYAKAN:\nLangkah pemimpin tim yang menjaga hubungan kerja sekaligus kinerja tim.\n\nJAWAB:\n1. Dimensi yang diukur: Jejaring kerja, yaitu membangun dan menjaga hubungan kerja yang sehat, menyelesaikan perbedaan secara dewasa, tanpa mengorbankan tugas.\n2. Prinsip penilaian: Jejaring kerja yang sehat dibangun dengan menyelesaikan masalah langsung pada orangnya secara empatik, bukan dengan menghindari, memisahkan, atau melempar masalah.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (A) 4 → (B) 3 → (E) 2 → (D) 1.\n4. (C) — poin 5: Paling tuntas: menyentuh akar masalah secara langsung, menghargai orangnya, dan menghasilkan kesepakatan perbaikan.\nJadi, jawaban yang tepat adalah (C) Berbicara empat mata dengannya untuk memahami kendalanya dan menyepakati cara berkomunikasi yang lebih baik.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Membangun budaya komunikasi tim, tetapi tidak secara khusus menyelesaikan masalah anggota tersebut.\n- (B) — poin 3: Meredam konflik jangka pendek, tetapi tidak mengubah cara berkomunikasinya.\n- (E) — poin 2: Menghindari gesekan dengan cara memisahkan, sehingga kerja sama tim melemah.\n- (D) — poin 1: Melempar masalah kepada pihak lain dan kehilangan anggota yang berkemampuan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi 'mengabaikan' dan 'memecat' diganti opsi wajar; pembiaran tidak lagi di atas upaya perbaikan."
+ },
+ {
+  "id": "0199d8e4-096a-7957-8887-a5527d00a647",
+  "action": "revise",
+  "description": "Anda adalah karyawan yang sedang sangat sibuk. Seorang rekan kerja meminta bantuan menyelesaikan tugasnya karena waktunya tidak cukup. Jika Anda membantu, tugas Anda sendiri terancam terlambat; jika tidak, Anda merasa tidak enak kepadanya. Apa yang akan Anda putuskan?",
+  "options": [
+   {
+    "id": "0199d8e4-096a-7cb8-917f-52224f6444f8",
+    "description": "Menyarankan ia meminta bantuan rekan lain yang bebannya lebih ringan.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-096b-72f1-aec1-be11b5bca93c",
+    "description": "Menolak dengan sopan karena Anda juga sedang sibuk.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-096b-7792-81e1-153b8189b6fb",
+    "description": "Membantunya sepenuhnya meskipun tugas Anda sendiri menjadi terlambat.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-096b-7d44-8959-fadd02dadced",
+    "description": "Membahas prioritas bersamanya, lalu membantu bagian yang sanggup Anda kerjakan tanpa menelantarkan tugas sendiri.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-096c-753f-80ab-67212080b267",
+    "description": "Menyelesaikan tugas Anda lebih dahulu sesuai tenggat, kemudian menggunakan sisa waktu yang ada untuk membantu menyelesaikan tugasnya.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah karyawan yang sedang sangat sibuk.\n- Seorang rekan kerja meminta bantuan menyelesaikan tugasnya karena waktunya tidak cukup.\n- Jika Anda membantu, tugas Anda sendiri terancam terlambat; jika tidak, Anda merasa tidak enak kepadanya.\n\nDITANYAKAN:\nCara menanggapi permintaan bantuan rekan tanpa mengorbankan tanggung jawab sendiri.\n\nJAWAB:\n1. Dimensi yang diukur: Jejaring kerja, yaitu membangun dan menjaga hubungan kerja yang sehat, menyelesaikan perbedaan secara dewasa, tanpa mengorbankan tugas.\n2. Prinsip penilaian: Hubungan kerja dijaga dengan kepedulian, tetapi tanggung jawab pokok tidak boleh dikorbankan; solusi terbaik dicari bersama.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (E) 4 → (C) 3 → (A) 2 → (B) 1.\n4. (D) — poin 5: Paling tuntas: rekan terbantu, tugas sendiri tetap selesai, dan keputusan diambil bersama secara terbuka.\nJadi, jawaban yang tepat adalah (D) Membahas prioritas bersamanya, lalu membantu bagian yang sanggup Anda kerjakan tanpa menelantarkan tugas sendiri.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Bertanggung jawab dan tetap peduli, tetapi bantuan bisa datang terlambat bagi rekan.\n- (C) — poin 3: Sangat peduli, tetapi mengorbankan tanggung jawab pokok Anda.\n- (A) — poin 2: Masih memberi arah, tetapi pada dasarnya melempar permintaan kepada orang lain.\n- (B) — poin 1: Jujur, tetapi pasif dan tidak menunjukkan upaya menjaga hubungan kerja.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi transaksional (meminta bayaran) dan 'mengabaikan' diganti; urutan poin dibuat konsisten."
+ },
+ {
+  "id": "0199d8e4-0982-78f2-bb2d-ea42cbaf1a1e",
+  "action": "revise",
+  "description": "Sahabat dekat Anda meminta Anda berbohong kepada orang lain agar ia terlepas dari masalah. Ia beralasan kebohongan itu tidak merugikan siapa pun. Anda tahu berbohong itu salah, tetapi Anda juga ingin membantu sahabat Anda. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-0982-7e0f-9a94-13f46df52cfc",
+    "description": "Menolak berbohong dengan cara yang baik, lalu membantunya menyiapkan penjelasan yang jujur dan menghadapi masalahnya.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0983-7507-976c-e662107e4620",
+    "description": "Memilih tidak berkomentar apa pun jika ada orang yang menanyakan masalah itu.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-0983-79d9-9e20-db038ce12780",
+    "description": "Memenuhi permintaannya kali ini saja karena ia sedang dalam kesulitan.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-0983-7eaa-a9e7-d56c04e459ab",
+    "description": "Menyarankan ia berkonsultasi dengan orang yang lebih berpengalaman untuk mencari jalan keluar.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0984-74dc-ac97-9a764f55f113",
+    "description": "Menolak berbohong sambil menjelaskan dengan baik bahwa kejujuran justru akan lebih melindunginya dalam jangka panjang dibandingkan kebohongan.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Sahabat dekat Anda meminta Anda berbohong kepada orang lain agar ia terlepas dari masalah.\n- Ia beralasan kebohongan itu tidak merugikan siapa pun.\n- Anda tahu berbohong itu salah, tetapi Anda juga ingin membantu sahabat Anda.\n\nDITANYAKAN:\nSikap yang menjaga kejujuran sekaligus persahabatan.\n\nJAWAB:\n1. Dimensi yang diukur: Jejaring kerja, yaitu membangun dan menjaga hubungan kerja yang sehat, menyelesaikan perbedaan secara dewasa, tanpa mengorbankan tugas.\n2. Prinsip penilaian: Integritas tidak boleh dikorbankan demi hubungan pribadi; persahabatan yang sehat ditunjukkan dengan membantu menyelesaikan masalah secara jujur.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (E) 4 → (D) 3 → (B) 2 → (C) 1.\n4. (A) — poin 5: Paling tuntas: kejujuran terjaga dan sahabat tetap dibantu menyelesaikan masalah sampai ke akarnya.\nJadi, jawaban yang tepat adalah (A) Menolak berbohong dengan cara yang baik, lalu membantunya menyiapkan penjelasan yang jujur dan menghadapi masalahnya.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Berintegritas dan memberi alasan yang baik, tetapi belum membantu menyelesaikan masalahnya.\n- (D) — poin 3: Tidak ikut berbohong, tetapi bantuan Anda terbatas pada mengarahkan ke orang lain.\n- (B) — poin 2: Menghindar; tidak berbohong secara aktif, tetapi juga tidak bersikap jujur dan tegas.\n- (C) — poin 1: Mengorbankan kejujuran demi hubungan pribadi; bertentangan dengan integritas.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi salin-tempel (mengadu ke atasan) dihapus; pembeda poin 5 dan 4 dipertegas."
+ },
+ {
+  "id": "0199d8e4-1d1b-7656-9334-29ce23777ae0",
+  "action": "revise",
+  "description": "Anda adalah sukarelawan dalam kegiatan pembersihan sungai. Dua kelompok sukarelawan dengan latar belakang berbeda berselisih paham tentang cara terbaik membersihkan sungai. Perselisihan ini mengancam keberhasilan kegiatan, tetapi turun tangan juga berisiko menimbulkan ketidakpuasan. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8e4-1d1b-7b29-b52a-f255388211ee",
+    "description": "Tetap fokus pada pekerjaan Anda sendiri sambil menunggu perselisihan mereda.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-1d1c-704f-a2b3-8aec4e1b3fcf",
+    "description": "Meminta koordinator kegiatan menetapkan satu cara kerja yang wajib diikuti semua kelompok.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-1d1c-73f3-b8b1-c74abc6e7882",
+    "description": "Menegur kedua kelompok agar menghentikan perdebatan dan segera kembali bekerja.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-1d1c-76bc-a36b-8b912f154eb8",
+    "description": "Membagi area kerja sehingga setiap kelompok dapat memakai caranya sendiri di bagian sungai yang berbeda tanpa saling mengganggu.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-1d1c-7a28-aeac-41a14fefb43e",
+    "description": "Mempertemukan perwakilan kedua kelompok untuk membandingkan usulan masing-masing dan menyepakati cara kerja bersama.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah sukarelawan dalam kegiatan pembersihan sungai.\n- Dua kelompok sukarelawan dengan latar belakang berbeda berselisih paham tentang cara terbaik membersihkan sungai.\n- Perselisihan ini mengancam keberhasilan kegiatan, tetapi turun tangan juga berisiko menimbulkan ketidakpuasan.\n\nDITANYAKAN:\nSikap yang paling tepat untuk menyelesaikan perselisihan antarkelompok agar kegiatan tetap berhasil.\n\nJAWAB:\n1. Dimensi yang diukur: Jejaring kerja, yaitu membangun dan menjaga hubungan kerja yang sehat, menyelesaikan perbedaan secara dewasa, tanpa mengorbankan tugas.\n2. Prinsip penilaian: Perbedaan pendapat diselesaikan dengan mempertemukan pihak-pihak secara setara dan mencari kesepakatan, bukan dengan teguran, pemisahan, atau pembiaran.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (D) 4 → (B) 3 → (C) 2 → (A) 1.\n4. (E) — poin 5: Paling tuntas: perbedaan dibahas terbuka dan menghasilkan kesepakatan yang diterima kedua kelompok.\nJadi, jawaban yang tepat adalah (E) Mempertemukan perwakilan kedua kelompok untuk membandingkan usulan masing-masing dan menyepakati cara kerja bersama.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Kegiatan tetap berjalan dan konflik mereda, tetapi perbedaan tidak benar-benar diselesaikan.\n- (B) — poin 3: Melalui jalur yang sah, tetapi keputusan bersifat sepihak dan bisa menyisakan ketidakpuasan.\n- (C) — poin 2: Tegas, tetapi tidak menyentuh pokok perselisihan dan berisiko menyinggung.\n- (A) — poin 1: Pasif; membiarkan konflik yang mengancam kegiatan bersama.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Pola poin diseragamkan: teguran keras tidak lagi di atas jalur koordinator; opsi ditulis ulang."
+ },
+ {
+  "id": "0199d8e4-1d20-7e2b-924c-b723f0cf1617",
+  "action": "revise",
+  "description": "Anda adalah koordinator kegiatan bersih-bersih sungai. Seorang peserta sukarelawan dari kelompok lain memiliki kebiasaan buruk yang mengganggu kinerja tim. Menegurnya berisiko memicu konflik, sedangkan membiarkannya membuat kinerja tim terus terganggu. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-1d21-72e7-a358-00d40993f7b0",
+    "description": "Mengingatkan seluruh peserta tentang aturan kerja tim tanpa menunjuk orang tertentu.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-1d21-7764-bd02-1bbd8063c639",
+    "description": "Membiarkannya dahulu sambil berharap ia akan sadar dengan sendirinya setelah melihat contoh peserta lain yang bekerja dengan tertib.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-1d21-7ec9-bcda-639ebdfc6452",
+    "description": "Menghubungi ketua kelompok asalnya agar ikut membantu menegur peserta tersebut.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-1d22-73c7-95cf-ba6672ca956e",
+    "description": "Berbicara secara pribadi dan santun dengannya, menjelaskan dampak kebiasaannya, lalu menyepakati perubahan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-1d22-78e7-b13d-396c2a55a60f",
+    "description": "Memindahkannya ke tugas lain yang tidak banyak bersinggungan dengan anggota tim.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah koordinator kegiatan bersih-bersih sungai.\n- Seorang peserta sukarelawan dari kelompok lain memiliki kebiasaan buruk yang mengganggu kinerja tim.\n- Menegurnya berisiko memicu konflik, sedangkan membiarkannya membuat kinerja tim terus terganggu.\n\nDITANYAKAN:\nCara koordinator menangani perilaku peserta yang mengganggu tanpa merusak hubungan kerja.\n\nJAWAB:\n1. Dimensi yang diukur: Jejaring kerja, yaitu membangun dan menjaga hubungan kerja yang sehat, menyelesaikan perbedaan secara dewasa, tanpa mengorbankan tugas.\n2. Prinsip penilaian: Masalah perilaku ditangani langsung, pribadi, dan santun agar orang tersebut mau berubah tanpa merasa dipermalukan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (A) 4 → (C) 3 → (E) 2 → (B) 1.\n4. (D) — poin 5: Paling tuntas: menyelesaikan masalah langsung pada orangnya, menjaga martabatnya, dan menghasilkan kesepakatan.\nJadi, jawaban yang tepat adalah (D) Berbicara secara pribadi dan santun dengannya, menjelaskan dampak kebiasaannya, lalu menyepakati perubahan.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Santun dan tidak mempermalukan, tetapi pesan bisa tidak sampai kepada orang yang dimaksud.\n- (C) — poin 3: Memanfaatkan jejaring, tetapi tanggung jawab koordinator dialihkan sebagian kepada pihak lain.\n- (E) — poin 2: Mengurangi gangguan, tetapi menghindari pembicaraan dan kebiasaan buruknya tetap ada.\n- (B) — poin 1: Pasif; masalah dibiarkan dan kinerja tim tetap terganggu.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Pola poin diseragamkan dengan soal kembar (pembiaran = 1); opsi 'memecat' diganti opsi wajar."
+ },
+ {
+  "id": "019b5ef7-08fd-7573-8cba-42468258a25a",
+  "action": "revise",
+  "description": "Dalam rapat tim untuk menentukan strategi promosi, ide Anda dikritik tajam oleh rekan kerja yang selama ini menjadi saingan Anda. Kritiknya terdengar menyerang pribadi, bukan substansi ide. Bagaimana respons Anda?",
+  "options": [
+   {
+    "id": "019b5ef7-08fd-783b-a5cf-b3de364cc998",
+    "description": "Tetap tenang, berterima kasih atas masukannya, lalu mengajak forum kembali membahas isi ide disertai data.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b5ef7-08fd-7b71-8bff-767320b7f6cc",
+    "description": "Meminta rekan tersebut menjelaskan bagian mana dari ide Anda yang menurutnya lemah sehingga diskusi kembali ke substansi.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b5ef7-08fd-7f2f-a273-8fdb47504686",
+    "description": "Diam dan menerima kritik itu agar rapat tidak gaduh.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b5ef7-08fe-749d-adf0-3688b1bbfa8d",
+    "description": "Meminta pimpinan rapat menegur rekan tersebut agar diskusi tetap profesional.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b5ef7-08fe-7a15-96ea-d67621d73f05",
+    "description": "Menanggapi seperlunya, lalu membicarakan sikapnya secara pribadi setelah rapat selesai.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Dalam rapat tim untuk menentukan strategi promosi, ide Anda dikritik tajam oleh rekan kerja yang selama ini menjadi saingan Anda.\n- Kritiknya terdengar menyerang pribadi, bukan substansi ide.\n\nDITANYAKAN:\nRespons yang paling tepat terhadap kritik bernada pribadi dalam rapat.\n\nJAWAB:\n1. Dimensi yang diukur: Jejaring kerja, yaitu membangun dan menjaga hubungan kerja yang sehat, menyelesaikan perbedaan secara dewasa, tanpa mengorbankan tugas.\n2. Prinsip penilaian: Profesional dalam jejaring kerja berarti mengendalikan emosi, menghargai masukan, dan mengembalikan diskusi pada substansi.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (B) 4 → (E) 3 → (D) 2 → (C) 1.\n4. (A) — poin 5: Paling tuntas: emosi terkendali, hubungan terjaga, dan rapat kembali produktif membahas isi ide.\nJadi, jawaban yang tepat adalah (A) Tetap tenang, berterima kasih atas masukannya, lalu mengajak forum kembali membahas isi ide disertai data.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Konstruktif dan tenang, tetapi belum memperkuat ide dengan data.\n- (E) — poin 3: Menjaga suasana rapat dan menyelesaikan masalah hubungan, tetapi substansi ide tidak dibela di forum.\n- (D) — poin 2: Melalui jalur yang ada, tetapi melempar penyelesaian kepada pimpinan dan bisa memperuncing persaingan.\n- (C) — poin 1: Pasif; ide tidak diperjuangkan dan masalah hubungan tidak diselesaikan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Ditambah opsi poin 5 yang ideal; opsi membalas/walk out diganti; urutan poin disusun ulang."
+ },
+ {
+  "id": "019b8d7a-7c1f-75c1-bd8d-35034215414a",
+  "action": "revise",
+  "description": "Anda adalah siswa SMK yang sedang praktik kerja lapangan di sebuah kantor. Beberapa senior sering meremehkan hasil kerja Anda dan membandingkan Anda dengan mahasiswa magang dari universitas ternama, padahal pekerjaan Anda rapi dan tepat waktu. Apa respons Anda?",
+  "options": [
+   {
+    "id": "019b8d7a-7c1f-7a32-86b3-d344174e71c0",
+    "description": "Menunjukkan sertifikat kompetensi Anda kepada para senior agar mereka mengetahui kemampuan Anda.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-7c1f-7e87-8de1-ba2a9b1eb9f8",
+    "description": "Tetap bekerja sebaik mungkin dan rutin meminta masukan senior agar hasil kerja Anda dinilai secara objektif.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b8d7a-7c20-72ce-9bbe-30185b5e6a57",
+    "description": "Terus bekerja dengan baik tanpa menanggapi perbandingan tersebut.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b8d7a-7c20-7626-9425-4d530cf6ff1b",
+    "description": "Menjalin kerja sama dengan mahasiswa magang tersebut agar kalian dapat saling belajar dan tidak terus dipertentangkan oleh para senior.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b8d7a-7c21-7cbb-85f3-5deb26b24871",
+    "description": "Meminta pembimbing memindahkan Anda ke bagian lain yang lebih menghargai hasil kerja Anda.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah siswa SMK yang sedang praktik kerja lapangan di sebuah kantor.\n- Beberapa senior sering meremehkan hasil kerja Anda dan membandingkan Anda dengan mahasiswa magang dari universitas ternama, padahal pekerjaan Anda rapi dan tepat waktu.\n\nDITANYAKAN:\nRespons yang paling tepat ketika hasil kerja diremehkan dan dibanding-bandingkan.\n\nJAWAB:\n1. Dimensi yang diukur: Jejaring kerja, yaitu membangun dan menjaga hubungan kerja yang sehat, menyelesaikan perbedaan secara dewasa, tanpa mengorbankan tugas.\n2. Prinsip penilaian: Kepercayaan dalam jejaring kerja dibangun lewat kinerja dan keterbukaan menerima masukan, bukan lewat pembuktian diri yang reaktif atau menghindar.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (D) 4 → (C) 3 → (A) 2 → (E) 1.\n4. (B) — poin 5: Paling tuntas: kinerja terjaga dan senior dilibatkan sehingga penilaian berubah berdasarkan bukti.\nJadi, jawaban yang tepat adalah (B) Tetap bekerja sebaik mungkin dan rutin meminta masukan senior agar hasil kerja Anda dinilai secara objektif.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Membangun jejaring yang sehat, tetapi belum mengubah cara pandang senior terhadap hasil kerja Anda.\n- (C) — poin 3: Sikap tenang dan fokus, tetapi pasif dalam membangun komunikasi dengan senior.\n- (A) — poin 2: Ingin membuktikan diri, tetapi reaktif dan dapat dianggap menyombongkan diri.\n- (E) — poin 1: Menghindari masalah dan melempar penyelesaiannya kepada pembimbing.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Konteks 'SMK' dimasukkan ke stem; urutan poin direvisi (sertifikat reaktif diturunkan); opsi ditulis ulang."
+ },
+ {
+  "id": "0199d8e4-0973-7305-842d-03466f4c98f4",
+  "action": "revise",
+  "description": "Anda adalah ketua komunitas perantauan Indonesia di sebuah kota yang anggotanya berasal dari berbagai daerah. Belakangan muncul konflik antara anggota dari daerah yang berbeda. Jika dibiarkan, konflik dapat membesar dan memecah komunitas; jika ditangani, Anda berisiko memicu ketidakpuasan sebagian anggota. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-0973-779f-abf0-6f80253fb049",
+    "description": "Mengadakan kegiatan bersama lintas daerah agar anggota saling mengenal budaya satu sama lain.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-0973-7bb1-aa58-bb9781cff1ca",
+    "description": "Mengelompokkan kegiatan komunitas berdasarkan daerah asal anggota agar gesekan antaranggota berkurang untuk sementara waktu.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-0974-7262-a42a-1c28b73c079b",
+    "description": "Mempertemukan perwakilan pihak yang berselisih untuk menggali akar masalah dan menyepakati solusi yang adil.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0974-76e5-b0d3-88ba0bed69d0",
+    "description": "Mengadakan forum terbuka dan meminta anggota menyelesaikan perselisihannya sendiri.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0974-7bc7-85e1-f87b7f605af6",
+    "description": "Menunggu konflik mereda dengan sendirinya agar Anda tidak dianggap memihak.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah ketua komunitas perantauan Indonesia di sebuah kota yang anggotanya berasal dari berbagai daerah.\n- Belakangan muncul konflik antara anggota dari daerah yang berbeda.\n- Jika dibiarkan, konflik dapat membesar dan memecah komunitas; jika ditangani, Anda berisiko memicu ketidakpuasan sebagian anggota.\n\nDITANYAKAN:\nLangkah ketua komunitas yang paling tepat untuk menyelesaikan konflik antardaerah.\n\nJAWAB:\n1. Dimensi yang diukur: Sosial budaya, yaitu menghormati keberagaman dan kebiasaan setempat, merekatkan persatuan, tanpa melanggar aturan maupun keyakinan.\n2. Prinsip penilaian: Dalam masyarakat majemuk, konflik diselesaikan dengan musyawarah yang adil bagi semua pihak dan dengan memperkuat persatuan, bukan dengan memisahkan kelompok.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (A) 4 → (D) 3 → (B) 2 → (E) 1.\n4. (C) — poin 5: Paling tuntas: akar konflik digali bersama dan hasilnya diterima semua pihak.\nJadi, jawaban yang tepat adalah (C) Mempertemukan perwakilan pihak yang berselisih untuk menggali akar masalah dan menyepakati solusi yang adil.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Memperkuat persatuan jangka panjang, tetapi konflik yang sedang terjadi belum diselesaikan.\n- (D) — poin 3: Memberi ruang dialog, tetapi ketua tidak memfasilitasi penyelesaian secara aktif.\n- (B) — poin 2: Meredam gesekan sesaat, tetapi justru memperlebar sekat antardaerah.\n- (E) — poin 1: Pasif; konflik berpotensi membesar dan memecah komunitas.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi pemisahan antardaerah diturunkan ke poin 2; opsi 'memecat' diganti; pembahasan 5→1."
+ },
+ {
+  "id": "019b5ef7-08ab-7401-9047-bae064e830aa",
+  "action": "revise",
+  "description": "Anda ditugaskan ke daerah pelosok untuk melakukan pendataan sosial. Kepala desa menyambut Anda dengan meriah dan menyuguhkan hidangan khas yang ternyata mengandung bahan yang dilarang oleh keyakinan agama Anda. Warga menunggu Anda mencicipinya sebagai tanda penghormatan, dan menolak hidangan dianggap kurang sopan menurut adat setempat. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b5ef7-08ab-77cd-8fa2-43171b699744",
+    "description": "Memakan sedikit hidangan tersebut demi menghormati adat agar pendataan berjalan lancar.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b5ef7-08ab-7b9e-bbb6-27f4a9fb0d29",
+    "description": "Meminta bantuan perangkat desa untuk menyampaikan pantangan keyakinan Anda kepada tuan rumah sesuai tata krama adat setempat.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b5ef7-08ab-7ef2-a87e-23c3d0093412",
+    "description": "Mengambil sedikit hidangan itu ke piring sebagai bentuk penghormatan tanpa memakannya.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b5ef7-08ac-73cc-a6b8-6ac46f10266f",
+    "description": "Mengatakan bahwa Anda sedang kurang enak badan sehingga tidak dapat makan banyak.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b5ef7-08ac-7791-b3ed-9213b41c78d7",
+    "description": "Berterima kasih atas sambutannya, lalu dengan santun menjelaskan pantangan keyakinan Anda dan memilih hidangan lain.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda ditugaskan ke daerah pelosok untuk melakukan pendataan sosial.\n- Kepala desa menyambut Anda dengan meriah dan menyuguhkan hidangan khas yang ternyata mengandung bahan yang dilarang oleh keyakinan agama Anda.\n- Warga menunggu Anda mencicipinya sebagai tanda penghormatan, dan menolak hidangan dianggap kurang sopan menurut adat setempat.\n\nDITANYAKAN:\nSikap yang menghormati adat setempat tanpa melanggar keyakinan sendiri.\n\nJAWAB:\n1. Dimensi yang diukur: Sosial budaya, yaitu menghormati keberagaman dan kebiasaan setempat, merekatkan persatuan, tanpa melanggar aturan maupun keyakinan.\n2. Prinsip penilaian: Menghormati budaya setempat dilakukan dengan santun dan jujur tanpa mengorbankan keyakinan pribadi; komunikasi yang baik menjaga hubungan dengan warga.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (B) 4 → (C) 3 → (D) 2 → (A) 1.\n4. (E) — poin 5: Paling tuntas: jujur, santun, menghargai tuan rumah, dan keyakinan tetap terjaga.\nJadi, jawaban yang tepat adalah (E) Berterima kasih atas sambutannya, lalu dengan santun menjelaskan pantangan keyakinan Anda dan memilih hidangan lain.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Peka terhadap adat, tetapi tidak menyampaikannya sendiri secara langsung.\n- (C) — poin 3: Menjaga suasana, tetapi tidak terbuka sehingga dapat menimbulkan salah paham.\n- (D) — poin 2: Menghindari penolakan langsung, tetapi dengan cara tidak jujur.\n- (A) — poin 1: Mengorbankan keyakinan sendiri; penghormatan adat tidak mengharuskan Anda melanggar keyakinan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi berbohong (pura-pura sakit) diturunkan ke poin 2; opsi lain ditulis ulang agar wajar."
+ },
+ {
+  "id": "019b8d7a-d180-7dd5-9a2f-038af0cfb05d",
+  "action": "revise",
+  "description": "Anda membawa pulang motor hasil rakitan tugas praktik sekolah. Suara mesinnya lebih bising daripada motor biasa. Tetangga mulai mengeluh dan menyebut Anda pembalap liar hanya karena tampilan motornya. Apa tindakan Anda?",
+  "options": [
+   {
+    "id": "019b8d7a-d181-7207-8218-6655bbcb8bbd",
+    "description": "Menyimpan motor itu di bengkel sekolah dan tidak lagi membawanya pulang.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-d181-755a-8710-121189cc9665",
+    "description": "Memperbaiki knalpot agar suaranya dalam batas wajar, lalu menjelaskan kepada tetangga bahwa motor itu tugas praktik sekolah.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b8d7a-d181-78a7-b1e4-d7df92f29c07",
+    "description": "Tetap mengendarainya seperti biasa karena surat-surat motor itu lengkap dan sah.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b8d7a-d181-7cef-835e-451f66857eba",
+    "description": "Menuntun motor setiap kali melintasi gang permukiman agar tidak mengganggu warga.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b8d7a-d182-70c1-a3de-d48bb2efa930",
+    "description": "Meminta ketua RT menjelaskan kepada warga dalam pertemuan rutin bahwa motor tersebut adalah tugas praktik sekolah, bukan motor balap.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda membawa pulang motor hasil rakitan tugas praktik sekolah.\n- Suara mesinnya lebih bising daripada motor biasa.\n- Tetangga mulai mengeluh dan menyebut Anda pembalap liar hanya karena tampilan motornya.\n\nDITANYAKAN:\nTindakan yang menghormati kenyamanan lingkungan sekaligus meluruskan anggapan tetangga.\n\nJAWAB:\n1. Dimensi yang diukur: Sosial budaya, yaitu menghormati keberagaman dan kebiasaan setempat, merekatkan persatuan, tanpa melanggar aturan maupun keyakinan.\n2. Prinsip penilaian: Hidup bermasyarakat menuntut kita menyelesaikan penyebab gangguan dan berkomunikasi dengan santun, bukan bersikeras atau menghindar.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (D) 4 → (E) 3 → (A) 2 → (C) 1.\n4. (B) — poin 5: Paling tuntas: sumber kebisingan diatasi dan salah paham diluruskan dengan santun.\nJadi, jawaban yang tepat adalah (B) Memperbaiki knalpot agar suaranya dalam batas wajar, lalu menjelaskan kepada tetangga bahwa motor itu tugas praktik sekolah.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Menghormati kenyamanan warga, tetapi kebisingan dan salah paham belum diselesaikan.\n- (E) — poin 3: Meluruskan anggapan melalui tokoh lingkungan, tetapi tidak menyelesaikan kebisingan dan tidak berkomunikasi sendiri.\n- (A) — poin 2: Menghindari konflik, tetapi tidak meluruskan anggapan tetangga.\n- (C) — poin 1: Mengabaikan keluhan warga; legal tidak berarti boleh mengganggu lingkungan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi 'sudah bayar pajak' diturunkan ke poin 1; opsi menantang tetangga diganti; urutan poin direvisi."
+ },
+ {
+  "id": "0199d8df-1b54-7bf4-adf6-f6a129ac9958",
+  "action": "revise",
+  "description": "Anda adalah desainer produk digital. Klien meminta Anda menambahkan fitur tersembunyi yang mengumpulkan data pribadi pengguna tanpa sepengetahuan mereka. Menolak berarti berisiko kehilangan proyek, sedangkan mengabulkan berarti membuat produk yang melanggar privasi pengguna. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8df-1b55-721f-8ebc-af2589e8e1a1",
+    "description": "Menolak permintaan tersebut dan menjelaskan risiko hukum perlindungan data pribadi kepada klien.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8df-1b55-7830-8296-616dc9794612",
+    "description": "Membuat fitur itu sesuai permintaan karena tanggung jawab penggunaan data berada pada klien.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8df-1b55-7e4a-94ea-f2280297bb3e",
+    "description": "Menolak fitur tersembunyi itu dan menawarkan rancangan pengumpulan data yang transparan dengan persetujuan pengguna.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8df-1b56-75da-b232-acf97e922082",
+    "description": "Membahas permintaan klien itu dengan atasan sebelum memberikan jawaban.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-1b56-7acf-8708-0dcd0568f3b0",
+    "description": "Membuat produk tanpa fitur pengumpul data tersebut, tetapi tidak memberi tahu klien bahwa permintaannya tidak Anda penuhi.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah desainer produk digital.\n- Klien meminta Anda menambahkan fitur tersembunyi yang mengumpulkan data pribadi pengguna tanpa sepengetahuan mereka.\n- Menolak berarti berisiko kehilangan proyek, sedangkan mengabulkan berarti membuat produk yang melanggar privasi pengguna.\n\nDITANYAKAN:\nSikap yang aman terhadap data pribadi pengguna sekaligus tetap profesional kepada klien.\n\nJAWAB:\n1. Dimensi yang diukur: Teknologi informasi dan komunikasi, yaitu memanfaatkan teknologi secara efektif, aman bagi data, sesuai prosedur, dan beretika.\n2. Prinsip penilaian: Pemanfaatan teknologi harus menjaga keamanan dan privasi data sesuai hukum perlindungan data pribadi; solusi terbaik tetap memenuhi kebutuhan bisnis secara sah dan transparan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (A) 4 → (D) 3 → (E) 2 → (B) 1.\n4. (C) — poin 5: Paling tuntas: privasi terlindungi, aturan dipatuhi, dan kebutuhan klien tetap dicarikan solusi yang sah.\nJadi, jawaban yang tepat adalah (C) Menolak fitur tersembunyi itu dan menawarkan rancangan pengumpulan data yang transparan dengan persetujuan pengguna.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Berintegritas dan edukatif, tetapi belum menawarkan alternatif bagi kebutuhan klien.\n- (D) — poin 3: Sesuai jalur, tetapi menunda sikap tegas atas permintaan yang jelas melanggar privasi.\n- (E) — poin 2: Privasi terlindungi, tetapi tidak transparan kepada klien.\n- (B) — poin 1: Melanggar privasi pengguna dan melempar tanggung jawab etis kepada klien.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi B dan E yang hampir identik dirumuskan ulang agar berbeda jelas; urutan poin disusun ulang."
+ },
+ {
+  "id": "019b6e3f-208e-7b71-a713-b42483f7f582",
+  "action": "revise",
+  "description": "Anda bertanggung jawab atas pembaruan data di website kantor yang sering diakses publik. Tiba-tiba website kantor diretas dan sejumlah data publik di dalamnya dipalsukan. Bagaimana reaksi Anda?",
+  "options": [
+   {
+    "id": "019b6e3f-208e-7e5d-974f-7bbb84dc2d66",
+    "description": "Menunggu tim TI menyadari peretasan tersebut karena keamanan sistem adalah tanggung jawab mereka.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-208f-73f1-90ed-37e90005bf32",
+    "description": "Mengunggah klarifikasi di akun media sosial pribadi bahwa data di website kantor tidak benar.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e3f-208f-7900-8cee-d084c11b2bf5",
+    "description": "Memulihkan data yang dipalsukan dari cadangan secepatnya agar layanan tidak terganggu, lalu melapor setelah website kembali normal.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-208f-7d7a-be35-da42601b97dc",
+    "description": "Segera melapor kepada atasan dan tim TI untuk menutup akses, mengamankan bukti, lalu mengumumkan gangguan melalui kanal resmi.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e3f-2090-721a-9279-fc467bd01b02",
+    "description": "Langsung menonaktifkan website untuk sementara dan menghubungi tim TI agar pemulihan segera dimulai.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda bertanggung jawab atas pembaruan data di website kantor yang sering diakses publik.\n- Tiba-tiba website kantor diretas dan sejumlah data publik di dalamnya dipalsukan.\n\nDITANYAKAN:\nLangkah yang paling tepat saat website kantor diretas.\n\nJAWAB:\n1. Dimensi yang diukur: Teknologi informasi dan komunikasi, yaitu memanfaatkan teknologi secara efektif, aman bagi data, sesuai prosedur, dan beretika.\n2. Prinsip penilaian: Insiden keamanan informasi harus segera dilaporkan, dibatasi dampaknya, buktinya diamankan, dan publik diberi informasi melalui kanal resmi.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (E) 4 → (C) 3 → (B) 2 → (A) 1.\n4. (D) — poin 5: Paling tuntas: dampak dibatasi, prosedur insiden dipatuhi, bukti terjaga, dan publik tidak tersesat oleh data palsu.\nJadi, jawaban yang tepat adalah (D) Segera melapor kepada atasan dan tim TI untuk menutup akses, mengamankan bukti, lalu mengumumkan gangguan melalui kanal resmi.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Cepat membatasi dampak, tetapi belum melapor kepada atasan dan belum memberi informasi kepada publik.\n- (C) — poin 3: Berinisiatif, tetapi berisiko menghapus jejak peretasan dan melangkahi prosedur pelaporan.\n- (B) — poin 2: Ingin meluruskan informasi, tetapi tidak melalui kanal resmi dan tidak menangani insidennya.\n- (A) — poin 1: Pasif dan melempar tanggung jawab padahal Anda pengelola data website.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi menyembunyikan insiden tidak lagi poin 4; opsi ditulis ulang agar semua wajar; pembahasan 5→1."
+ },
+ {
+  "id": "0199d8df-01dc-7b72-ad09-bdd9f5054d17",
+  "action": "revise",
+  "description": "Anda adalah kurator di sebuah galeri seni. Sebuah karya seni terkenal yang dipinjamkan kepada galeri ternyata, menurut studi terbaru, direstorasi dengan bahan kimia yang perlahan merusaknya. Mengungkapkan temuan ini dapat menimbulkan skandal dan merusak reputasi galeri, tetapi mendiamkannya membuat karya tersebut berisiko hancur. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8df-01dc-7e88-879c-9edda27540b8",
+    "description": "Melaporkan temuan itu kepada pimpinan galeri dan pemilik karya, lalu mengusulkan penanganan oleh ahli konservasi secara terbuka.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8df-01dd-7375-8043-66754a919a9d",
+    "description": "Mengumumkan temuan tersebut langsung kepada publik agar penanganannya mendapat dukungan luas.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-01dd-7687-801b-348fdbc51147",
+    "description": "Menunggu hasil studi lanjutan untuk memastikan temuan sebelum mengambil tindakan apa pun.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-01dd-7999-aa1c-d3ff46b794e8",
+    "description": "Segera menghubungi ahli konservasi untuk menyelamatkan karya tersebut, kemudian melaporkan temuan dan langkah yang diambil kepada pimpinan galeri.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8df-01dd-7d80-8583-555b193fab1e",
+    "description": "Menangani kerusakan secara diam-diam tanpa mengungkapkan temuan agar reputasi galeri terjaga.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah kurator di sebuah galeri seni.\n- Sebuah karya seni terkenal yang dipinjamkan kepada galeri ternyata, menurut studi terbaru, direstorasi dengan bahan kimia yang perlahan merusaknya.\n- Mengungkapkan temuan ini dapat menimbulkan skandal dan merusak reputasi galeri, tetapi mendiamkannya membuat karya tersebut berisiko hancur.\n\nDITANYAKAN:\nSikap profesional kurator terhadap temuan yang mengancam karya seni dan reputasi galeri.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Profesionalisme menuntut kejujuran dan tindakan penyelamatan yang ditempuh melalui jalur kewenangan yang benar, bukan menutupi atau bertindak sepihak.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (D) 4 → (B) 3 → (C) 2 → (E) 1.\n4. (A) — poin 5: Paling tuntas: jujur, sesuai jalur kewenangan, dan karya diselamatkan oleh ahlinya.\nJadi, jawaban yang tepat adalah (A) Melaporkan temuan itu kepada pimpinan galeri dan pemilik karya, lalu mengusulkan penanganan oleh ahli konservasi secara terbuka.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Sigap menyelamatkan karya, tetapi mendahului keputusan pimpinan dan pemilik karya.\n- (B) — poin 3: Jujur, tetapi melangkahi pimpinan dan pemilik karya sehingga dapat menimbulkan kegaduhan.\n- (C) — poin 2: Berhati-hati, tetapi menunda penyelamatan karya yang terus rusak.\n- (E) — poin 1: Menutupi fakta dari pihak yang berhak tahu; bertentangan dengan integritas.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Pengumuman sepihak ke publik tidak lagi poin 5; opsi pelaporan berjenjang menjadi poin 5; pembahasan 5→1."
+ },
+ {
+  "id": "0199d8df-01e1-7ceb-b3e3-16a90a9df739",
+  "action": "revise",
+  "description": "Anda adalah manajer penampungan hewan yang sudah melebihi kapasitas. Penampungan menerapkan aturan adopsi berdasarkan urutan pendaftaran dan hasil survei kelayakan calon pengadopsi. Seorang donatur besar ingin langsung mengadopsi seekor anjing yang sudah dipesan calon pengadopsi lain yang lebih dulu lolos survei. Ia menjanjikan donasi besar jika permintaannya dikabulkan, padahal dana itu sangat dibutuhkan penampungan. Apa yang akan Anda putuskan?",
+  "options": [
+   {
+    "id": "0199d8df-01e2-71fe-97f5-c8f972bc8978",
+    "description": "Menghubungi calon pengadopsi pertama untuk menanyakan apakah ia bersedia mengalah, mengingat donasi itu dapat menolong banyak hewan lain.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-01e2-7651-80fd-8add4f544b01",
+    "description": "Meminta pertimbangan pengurus yayasan sebelum menjawab permintaan donatur tersebut.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-01e2-7b19-9888-f6c1f68f8c2e",
+    "description": "Mengabulkan permintaan donatur karena dananya dapat menyelamatkan banyak hewan lain.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8df-01e3-734a-a538-01aed83f2fc2",
+    "description": "Menolak permintaan donatur dengan sopan karena anjing tersebut sudah menjadi hak calon pengadopsi lain.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8df-01e3-77ff-ba0f-bfe28d520b96",
+    "description": "Menjelaskan aturan adopsi kepada donatur dengan hormat dan menawarkan hewan lain yang cocok baginya, terlepas dari donasinya.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah manajer penampungan hewan yang sudah melebihi kapasitas.\n- Penampungan menerapkan aturan adopsi berdasarkan urutan pendaftaran dan hasil survei kelayakan calon pengadopsi.\n- Seorang donatur besar ingin langsung mengadopsi seekor anjing yang sudah dipesan calon pengadopsi lain yang lebih dulu lolos survei.\n- Ia menjanjikan donasi besar jika permintaannya dikabulkan, padahal dana itu sangat dibutuhkan penampungan.\n\nDITANYAKAN:\nKeputusan manajer yang adil terhadap calon pengadopsi tanpa mengabaikan donatur.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Aturan dan hak orang lain tidak boleh dikalahkan oleh imbalan; profesional tetap menghargai donatur dengan menawarkan alternatif yang sah.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (D) 4 → (B) 3 → (A) 2 → (C) 1.\n4. (E) — poin 5: Paling tuntas: aturan ditegakkan, hak calon pengadopsi terlindungi, dan donatur tetap dilayani dengan baik.\nJadi, jawaban yang tepat adalah (E) Menjelaskan aturan adopsi kepada donatur dengan hormat dan menawarkan hewan lain yang cocok baginya, terlepas dari donasinya.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Adil dan sesuai aturan, tetapi tidak menawarkan alternatif bagi donatur.\n- (B) — poin 3: Hati-hati, tetapi menunda keputusan yang sebenarnya sudah jelas diatur.\n- (A) — poin 2: Tampak mencari jalan tengah, tetapi menekan pihak yang berhak demi kepentingan donasi.\n- (C) — poin 1: Mengalahkan aturan dan hak orang lain demi imbalan; tidak adil.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Stem ditulis ulang agar runtut dan tidak ambigu (aturan adopsi dan hak calon pengadopsi diperjelas); opsi dan poin disusun ulang."
+ },
+ {
+  "id": "0199d8df-1b26-74d2-aa17-c48d23f1f9b0",
+  "action": "revise",
+  "description": "Anda adalah kepala lembaga sosial yang bermisi pemberdayaan ekonomi jangka panjang dengan dana terbatas. Ada dua usulan proyek: pelatihan kerja intensif bagi 10 orang yang sangat membutuhkan, atau bantuan makanan bagi 100 keluarga miskin. Di wilayah yang sama sudah ada lembaga lain yang rutin menyalurkan bantuan pangan. Dana hanya cukup untuk satu proyek. Apa yang akan Anda putuskan?",
+  "options": [
+   {
+    "id": "0199d8df-1b26-7b6f-b78d-7579c6a5c114",
+    "description": "Membagi dana untuk kedua proyek walaupun masing-masing hanya berjalan sebagian.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-1b27-70cf-8121-b10af468f241",
+    "description": "Mendanai pelatihan kerja sesuai misi lembaga, lalu berkoordinasi dengan lembaga pangan agar 100 keluarga itu tetap terlayani.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8df-1b27-7783-ade2-b486863d302f",
+    "description": "Menunda keputusan sampai ada tambahan dana dari donatur.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8df-1b27-7bae-a1bf-c7e5b055e49e",
+    "description": "Mendanai bantuan makanan karena jumlah penerima manfaatnya jauh lebih banyak.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-1b28-7208-a2b5-5c79677e34ea",
+    "description": "Mendanai pelatihan kerja sesuai misi lembaga dan memantau hasilnya secara berkala.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah kepala lembaga sosial yang bermisi pemberdayaan ekonomi jangka panjang dengan dana terbatas.\n- Ada dua usulan proyek: pelatihan kerja intensif bagi 10 orang yang sangat membutuhkan, atau bantuan makanan bagi 100 keluarga miskin.\n- Di wilayah yang sama sudah ada lembaga lain yang rutin menyalurkan bantuan pangan.\n- Dana hanya cukup untuk satu proyek.\n\nDITANYAKAN:\nKeputusan pendanaan yang paling tepat sesuai misi lembaga dan kebutuhan masyarakat.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Penetapan prioritas yang profesional berpegang pada mandat organisasi, mempertimbangkan sumber daya lain yang tersedia, dan tetap memastikan kelompok rentan terlayani.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (E) 4 → (D) 3 → (A) 2 → (C) 1.\n4. (B) — poin 5: Paling tuntas: sesuai mandat lembaga dan kebutuhan pangan keluarga miskin tetap terjawab lewat kerja sama.\nJadi, jawaban yang tepat adalah (B) Mendanai pelatihan kerja sesuai misi lembaga, lalu berkoordinasi dengan lembaga pangan agar 100 keluarga itu tetap terlayani.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Keputusan sesuai mandat dan bertanggung jawab, tetapi tidak memikirkan nasib 100 keluarga.\n- (D) — poin 3: Peduli, tetapi menyimpang dari misi lembaga dan tumpang tindih dengan lembaga pangan yang sudah ada.\n- (A) — poin 2: Tampak adil, tetapi kedua proyek menjadi tidak efektif.\n- (C) — poin 1: Pasif; tidak ada pihak yang terbantu selama keputusan ditunda.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Stem diberi kriteria (misi lembaga, lembaga pangan lain) agar urutan poin tidak subjektif; opsi keluar premis dirapikan."
+ },
+ {
+  "id": "0199d8df-1b28-77fb-b04b-e2de25546a63",
+  "action": "revise",
+  "description": "Anda adalah kepala sekolah yang mendapat dana hibah terbatas untuk meningkatkan kualitas pengajaran. Sebagian guru ingin dana dipakai membeli komputer baru, sedangkan sebagian lain ingin dana dipakai untuk pelatihan intensif guru. Petunjuk teknis hibah mengharuskan dana dipakai sesuai kebutuhan paling mendesak berdasarkan hasil evaluasi sekolah. Hasil evaluasi menunjukkan sebagian besar komputer masih layak, tetapi kemampuan guru menerapkan metode pembelajaran baru masih rendah. Bagaimana Anda mengambil keputusan?",
+  "options": [
+   {
+    "id": "0199d8df-1b28-7e44-9804-9758c916ee2d",
+    "description": "Menunda penggunaan dana sampai kedua kelompok guru mencapai kesepakatan.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8df-1b29-739a-aaf6-031d1e8e4d6d",
+    "description": "Mengalokasikan dana untuk komputer baru karena manfaatnya langsung dirasakan semua siswa.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-1b29-7835-8c3f-0e6fb4927f62",
+    "description": "Mengalokasikan dana untuk pelatihan guru karena dampak jangka panjangnya lebih besar.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8df-1b29-7d28-8abc-c179ba10bb84",
+    "description": "Mengalokasikan dana untuk pelatihan guru sesuai hasil evaluasi, lalu menjelaskan dasar keputusan itu kepada seluruh guru.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8df-1b2a-73e1-bd90-b27888184733",
+    "description": "Mengadakan rapat dewan guru dan memutuskan prioritas penggunaan dana berdasarkan suara terbanyak agar keputusan dianggap demokratis.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah kepala sekolah yang mendapat dana hibah terbatas untuk meningkatkan kualitas pengajaran.\n- Sebagian guru ingin dana dipakai membeli komputer baru, sedangkan sebagian lain ingin dana dipakai untuk pelatihan intensif guru.\n- Petunjuk teknis hibah mengharuskan dana dipakai sesuai kebutuhan paling mendesak berdasarkan hasil evaluasi sekolah.\n- Hasil evaluasi menunjukkan sebagian besar komputer masih layak, tetapi kemampuan guru menerapkan metode pembelajaran baru masih rendah.\n\nDITANYAKAN:\nCara kepala sekolah menetapkan prioritas penggunaan dana hibah.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Keputusan profesional didasarkan pada aturan penggunaan dana dan data evaluasi, lalu dikomunikasikan secara terbuka agar diterima semua pihak.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (C) 4 → (E) 3 → (B) 2 → (A) 1.\n4. (D) — poin 5: Paling tuntas: sesuai petunjuk teknis dan data, serta transparan sehingga kelompok yang usulannya tidak dipilih memahami alasannya.\nJadi, jawaban yang tepat adalah (D) Mengalokasikan dana untuk pelatihan guru sesuai hasil evaluasi, lalu menjelaskan dasar keputusan itu kepada seluruh guru.\nMengapa opsi lain kurang tepat:\n- (C) — poin 4: Pilihan prioritasnya tepat, tetapi dasar keputusannya tidak dikaitkan dengan aturan dan tidak dikomunikasikan.\n- (E) — poin 3: Demokratis, tetapi mengabaikan ketentuan bahwa prioritas harus berdasarkan hasil evaluasi.\n- (B) — poin 2: Ada manfaatnya, tetapi bertentangan dengan hasil evaluasi dan petunjuk teknis hibah.\n- (A) — poin 1: Pasif; dana tidak termanfaatkan dan keputusan dilempar kepada para guru.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Stem diberi data evaluasi dan aturan hibah; opsi 'membagi dana kecil' tidak lagi poin 5; urutan poin disusun ulang."
+ },
+ {
+  "id": "0199d8df-1b41-7201-a586-021b5851fc0f",
+  "action": "revise",
+  "description": "Anda adalah pemimpin tim riset. Seorang anggota tim mengusulkan pendekatan baru yang dapat menghemat waktu dan biaya secara signifikan, tetapi belum pernah diuji dan berpotensi menggagalkan proyek. Pimpinan perusahaan menuntut hasil yang pasti, sementara tim bersemangat mencoba ide baru tersebut. Bagaimana Anda mengambil keputusan?",
+  "options": [
+   {
+    "id": "0199d8df-1b41-762d-a446-64bd9216481e",
+    "description": "Langsung menerapkan pendekatan baru karena penghematannya sangat besar.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-1b41-7a49-8dab-098684bf624c",
+    "description": "Menyerahkan keputusan sepenuhnya kepada pimpinan perusahaan agar tim tidak menanggung risiko.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8df-1b42-700a-b1ae-dd11be6f4e81",
+    "description": "Mengusulkan uji coba terkendali dalam skala kecil, sementara proyek utama tetap memakai metode yang teruji.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8df-1b42-74fc-beb0-155a0e67ad72",
+    "description": "Tetap memakai metode yang teruji dan mencatat ide tersebut untuk dikaji pada proyek berikutnya.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-1b42-7a8e-8499-04e3ebe9b71e",
+    "description": "Meminta anggota tim menyusun analisis risiko pendekatan baru itu sebelum Anda memutuskan.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah pemimpin tim riset.\n- Seorang anggota tim mengusulkan pendekatan baru yang dapat menghemat waktu dan biaya secara signifikan, tetapi belum pernah diuji dan berpotensi menggagalkan proyek.\n- Pimpinan perusahaan menuntut hasil yang pasti, sementara tim bersemangat mencoba ide baru tersebut.\n\nDITANYAKAN:\nKeputusan pemimpin tim yang menyeimbangkan kepastian hasil dan inovasi.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Profesional mengelola risiko secara terukur: target utama tetap aman, tetapi inovasi diberi ruang untuk dibuktikan secara terkendali.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (E) 4 → (D) 3 → (A) 2 → (B) 1.\n4. (C) — poin 5: Paling tuntas: target pasti tetap terjaga dan potensi inovasi dapat dibuktikan tanpa mempertaruhkan proyek.\nJadi, jawaban yang tepat adalah (C) Mengusulkan uji coba terkendali dalam skala kecil, sementara proyek utama tetap memakai metode yang teruji.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Langkah yang cermat, tetapi keputusan dan manfaat inovasi belum terwujud.\n- (D) — poin 3: Aman bagi target, tetapi peluang inovasi ditunda dan semangat tim kurang dihargai.\n- (A) — poin 2: Berani berinovasi, tetapi mempertaruhkan proyek tanpa pengujian.\n- (B) — poin 1: Melempar tanggung jawab yang seharusnya diambil pemimpin tim.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Uji coba terkendali dinaikkan menjadi poin 5; penolakan total diturunkan; opsi ditulis ulang."
+ },
+ {
+  "id": "0199d8df-1b6c-7eff-a783-72a8868f42da",
+  "action": "revise",
+  "description": "Anda adalah jurnalis investigasi. Anda memperoleh informasi tentang dugaan korupsi di sebuah perusahaan yang juga menjadi sponsor utama media tempat Anda bekerja. Atasan memerintahkan Anda menghentikan investigasi demi menjaga hubungan dengan sponsor. Menolak berisiko membuat Anda kehilangan pekerjaan, sedangkan menurut berarti mengkhianati etika profesi. Apa yang akan Anda putuskan?",
+  "options": [
+   {
+    "id": "0199d8df-1b6d-7694-8338-23aaae61cfe6",
+    "description": "Menghentikan investigasi sesuai perintah atasan demi menjaga hubungan dengan sponsor.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8df-1b6d-7cb1-bfd2-ae8922bc59dd",
+    "description": "Menyimpan seluruh data investigasi dengan rapi sambil menunggu situasi lebih memungkinkan.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-1b6e-74f1-a36e-e45ec1a55ef0",
+    "description": "Menyerahkan data temuan kepada media lain agar beritanya tetap terbit.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-1b6e-790e-90ff-c16a2d0bf189",
+    "description": "Melanjutkan investigasi hingga semua data terverifikasi, lalu mempublikasikannya sendiri meskipun berisiko kehilangan pekerjaan.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8df-1b6f-7240-8c64-9e31e3dccc01",
+    "description": "Menyampaikan kepada atasan bahwa liputan itu berbasis bukti terverifikasi dan mengusulkan pembahasannya dalam rapat redaksi.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah jurnalis investigasi.\n- Anda memperoleh informasi tentang dugaan korupsi di sebuah perusahaan yang juga menjadi sponsor utama media tempat Anda bekerja.\n- Atasan memerintahkan Anda menghentikan investigasi demi menjaga hubungan dengan sponsor.\n- Menolak berisiko membuat Anda kehilangan pekerjaan, sedangkan menurut berarti mengkhianati etika profesi.\n\nDITANYAKAN:\nSikap profesional jurnalis ketika kepentingan sponsor berbenturan dengan etika profesi.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Integritas profesi dijaga dengan tetap berpegang pada kebenaran dan kode etik, tetapi perjuangannya ditempuh melalui mekanisme organisasi yang sah, bukan secara sepihak.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (D) 4 → (B) 3 → (C) 2 → (A) 1.\n4. (E) — poin 5: Paling tuntas: kebenaran tetap diperjuangkan melalui mekanisme redaksi yang sah tanpa membangkang secara sepihak.\nJadi, jawaban yang tepat adalah (E) Menyampaikan kepada atasan bahwa liputan itu berbasis bukti terverifikasi dan mengusulkan pembahasannya dalam rapat redaksi.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Berani dan berintegritas, tetapi mengabaikan mekanisme redaksi sehingga bertindak sepihak.\n- (B) — poin 3: Bukti tetap terjaga, tetapi kebenaran tertunda tanpa kepastian.\n- (C) — poin 2: Ingin kebenaran terungkap, tetapi melanggar kewajiban kepada tempat kerja sendiri.\n- (A) — poin 1: Patuh, tetapi mengorbankan kebenaran dan etika profesi.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi berorientasi keuntungan sponsor dan salin-tempel diganti; jalur redaksi menjadi poin 5; pembahasan 5→1."
+ },
+ {
+  "id": "0199d8e4-0931-7e7d-9d49-3afa4fabb5fc",
+  "action": "revise",
+  "description": "Anda adalah pengurus pembangunan di lingkungan tempat tinggal Anda dan mengelola dana terbatas untuk membangun pos keamanan. Sebagian warga ingin pos dibangun dengan material berkualitas tinggi agar tahan lama, meskipun dana untuk peralatan keamanan menjadi habis. Sebagian warga lain ingin material yang lebih murah agar dana tersisa untuk membeli peralatan keamanan. Bagaimana Anda mengambil keputusan?",
+  "options": [
+   {
+    "id": "0199d8e4-0932-7550-b08b-f517100bc334",
+    "description": "Menyusun perbandingan biaya dan manfaat kedua usulan, lalu membawanya ke musyawarah warga untuk diputuskan bersama.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0932-7b88-b431-927959144e3c",
+    "description": "Memilih material dengan mutu dan harga menengah agar sebagian dana tersisa untuk peralatan keamanan pokok.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-0933-711f-bb65-4324fbc7dc88",
+    "description": "Menunda pembangunan pos sampai dana yang terkumpul cukup untuk keduanya.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-0933-7799-a86f-eee89f30da61",
+    "description": "Membangun pos dengan material berkualitas tinggi sambil menggalang iuran tambahan untuk peralatan keamanan.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0933-7c3b-b6bf-73feac449cd2",
+    "description": "Mengikuti usulan kelompok warga yang jumlahnya lebih banyak tanpa pembahasan lebih lanjut.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah pengurus pembangunan di lingkungan tempat tinggal Anda dan mengelola dana terbatas untuk membangun pos keamanan.\n- Sebagian warga ingin pos dibangun dengan material berkualitas tinggi agar tahan lama, meskipun dana untuk peralatan keamanan menjadi habis.\n- Sebagian warga lain ingin material yang lebih murah agar dana tersisa untuk membeli peralatan keamanan.\n\nDITANYAKAN:\nCara pengurus mengambil keputusan atas dana bersama ketika warga berbeda pendapat.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Dana milik bersama diputuskan secara transparan dan berdasarkan data, melalui musyawarah warga, bukan secara sepihak atau mengikuti suara terbanyak tanpa pertimbangan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (B) 4 → (D) 3 → (E) 2 → (C) 1.\n4. (A) — poin 5: Paling tuntas: keputusan berbasis data, transparan, dan disepakati bersama sehingga diterima kedua kelompok.\nJadi, jawaban yang tepat adalah (A) Menyusun perbandingan biaya dan manfaat kedua usulan, lalu membawanya ke musyawarah warga untuk diputuskan bersama.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Jalan tengah yang masuk akal, tetapi diputuskan sendiri tanpa melibatkan warga.\n- (D) — poin 3: Ada upaya mencari dana, tetapi memihak satu kelompok dan membebani warga.\n- (E) — poin 2: Tampak demokratis, tetapi tanpa pertimbangan manfaat dan aspirasi kelompok lain.\n- (C) — poin 1: Pasif; kebutuhan keamanan warga tidak terpenuhi.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Ditambah opsi musyawarah berbasis data sebagai poin 5 agar kunci tidak sekadar selera; spasi setelah titik diperbaiki."
+ },
+ {
+  "id": "0199d8e4-0944-7141-8f39-981292c8e244",
+  "action": "revise",
+  "description": "Anda adalah ketua OSIS yang sedang merencanakan acara besar sekolah. Sebagian besar siswa menginginkan konser musik yang meriah, tetapi biayanya menghabiskan sebagian besar anggaran OSIS dan manfaat edukatifnya kecil. Sebagian kecil siswa mengusulkan seminar kewirausahaan yang lebih bermanfaat, tetapi kurang diminati. Bagaimana Anda mengambil keputusan?",
+  "options": [
+   {
+    "id": "0199d8e4-0944-7482-8b89-5fdbb1bdde5d",
+    "description": "Merancang seminar kewirausahaan yang dikemas menarik, misalnya menghadirkan pengusaha muda dan penampilan musik singkat dari siswa.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-0944-781f-8ce3-9cf82db90853",
+    "description": "Mengadakan konser musik sesuai keinginan sebagian besar siswa.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-0944-7c6e-9d3f-d0d2516f5a44",
+    "description": "Mengadakan seminar kewirausahaan karena lebih bermanfaat, meskipun kurang populer.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0945-7159-a201-243d91f133d0",
+    "description": "Memaparkan anggaran serta manfaat tiap usulan dalam musyawarah perwakilan kelas, lalu memutuskannya bersama.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0945-7595-9ea4-69e63a6d91f3",
+    "description": "Menyerahkan keputusan kepada pembina OSIS agar pengurus tidak disalahkan siswa.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah ketua OSIS yang sedang merencanakan acara besar sekolah.\n- Sebagian besar siswa menginginkan konser musik yang meriah, tetapi biayanya menghabiskan sebagian besar anggaran OSIS dan manfaat edukatifnya kecil.\n- Sebagian kecil siswa mengusulkan seminar kewirausahaan yang lebih bermanfaat, tetapi kurang diminati.\n\nDITANYAKAN:\nKeputusan ketua OSIS yang paling tepat dalam memilih acara dan menggunakan anggaran.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Anggaran OSIS adalah milik seluruh siswa; keputusan terbaik mempertimbangkan manfaat dan biaya secara terbuka lalu disepakati bersama perwakilan siswa.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (A) 4 → (C) 3 → (B) 2 → (E) 1.\n4. (D) — poin 5: Paling tuntas: keputusan transparan, berbasis manfaat dan anggaran, serta melibatkan perwakilan siswa.\nJadi, jawaban yang tepat adalah (D) Memaparkan anggaran serta manfaat tiap usulan dalam musyawarah perwakilan kelas, lalu memutuskannya bersama.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Kreatif memadukan manfaat dan minat siswa, tetapi diputuskan tanpa musyawarah.\n- (C) — poin 3: Tepat dari sisi manfaat, tetapi sepihak dan kurang memperhatikan aspirasi siswa.\n- (B) — poin 2: Mengikuti mayoritas, tetapi boros anggaran dan kurang bermanfaat.\n- (E) — poin 1: Melempar tanggung jawab yang seharusnya diambil ketua OSIS.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Musyawarah berbasis data menjadi poin 5 (keputusan sepihak diturunkan); spasi setelah titik diperbaiki; opsi ditulis ulang."
+ },
+ {
+  "id": "0199d8e4-094a-76ed-b69c-162ffddff32e",
+  "action": "revise",
+  "description": "Anda adalah kepala sekolah. Sekelompok siswa ingin mengadakan diskusi bertema sensitif yang berpotensi memicu protes orang tua. Anda menilai kegiatan itu bermanfaat bagi perkembangan berpikir kritis siswa. Menolaknya berarti membatasi kebebasan berekspresi siswa, sedangkan menyetujuinya berisiko memicu kemarahan orang tua. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8e4-094a-7a56-8df6-07b6eb33862e",
+    "description": "Menelaah materi kegiatan bersama guru pembina dan siswa, lalu menjelaskan tujuan edukatifnya kepada orang tua sebelum memutuskan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-094b-733c-bfa8-7b6d3f7dd7e9",
+    "description": "Mengizinkan kegiatan tersebut dengan pendampingan guru pembina dan narasumber yang kompeten agar pembahasannya tetap terarah dan ilmiah.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-094b-777b-bd68-2bd785ac38ad",
+    "description": "Mengizinkan kegiatan dengan syarat temanya diganti dengan topik yang lebih aman.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-094b-7adb-b92b-ec8b236ee2f3",
+    "description": "Menyerahkan keputusan kepada komite sekolah agar sekolah tidak disalahkan orang tua.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-094c-700d-8e85-50e5b57c19ad",
+    "description": "Menunda kegiatan sampai semester depan sambil menunggu situasi lebih kondusif.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah kepala sekolah.\n- Sekelompok siswa ingin mengadakan diskusi bertema sensitif yang berpotensi memicu protes orang tua.\n- Anda menilai kegiatan itu bermanfaat bagi perkembangan berpikir kritis siswa.\n- Menolaknya berarti membatasi kebebasan berekspresi siswa, sedangkan menyetujuinya berisiko memicu kemarahan orang tua.\n\nDITANYAKAN:\nSikap kepala sekolah yang menyeimbangkan manfaat bagi siswa dan kekhawatiran orang tua.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Pemimpin yang profesional menelaah isi kegiatan secara cermat dan berkomunikasi dengan pihak yang berkepentingan sebelum memutuskan, bukan menolak, menunda, atau melempar keputusan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (B) 4 → (C) 3 → (E) 2 → (D) 1.\n4. (A) — poin 5: Paling tuntas: isi kegiatan dipastikan layak dan kekhawatiran orang tua dijawab sebelum izin diberikan.\nJadi, jawaban yang tepat adalah (A) Menelaah materi kegiatan bersama guru pembina dan siswa, lalu menjelaskan tujuan edukatifnya kepada orang tua sebelum memutuskan.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Mendukung siswa dengan pengamanan yang baik, tetapi belum berkomunikasi dengan orang tua.\n- (C) — poin 3: Mengurangi risiko protes, tetapi manfaat utama kegiatan menjadi hilang.\n- (E) — poin 2: Menghindari risiko sementara tanpa menyelesaikan persoalan.\n- (D) — poin 1: Melempar tanggung jawab yang menjadi wewenang kepala sekolah.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Persetujuan sepihak tidak lagi poin 5; telaah materi dan komunikasi dengan orang tua menjadi poin 5; spasi diperbaiki."
+ },
+ {
+  "id": "0199d8e4-0952-7bd1-8608-aec21ed1b6e9",
+  "action": "revise",
+  "description": "Anda adalah mahasiswa yang bekerja paruh waktu untuk membiayai kuliah. Pekerjaan itu sangat menyita waktu sehingga Anda sering terlambat mengumpulkan tugas dan nilai Anda menurun. Anda harus memutuskan bagaimana menyikapi pekerjaan dan kuliah Anda. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-0953-71de-96a0-486217a1f4c1",
+    "description": "Meminta dosen memberi kelonggaran tenggat karena Anda bekerja untuk membiayai kuliah.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-0953-7611-85de-9a28618efa7b",
+    "description": "Tetap bekerja seperti biasa dan berharap nilai dapat diperbaiki pada semester berikutnya.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-0953-79ca-8d70-d163e4b8a888",
+    "description": "Menyusun jadwal kuliah dan kerja yang realistis, lalu meminta atasan menyesuaikan jam kerja pada pekan-pekan tenggat tugas.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0953-7d23-8ca2-79805a35ea91",
+    "description": "Berhenti bekerja dan fokus pada kuliah dengan biaya seadanya.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0954-720b-9c6e-c208f351f7b3",
+    "description": "Mengurangi jam kerja dan mengajukan beasiswa kampus untuk menutup kekurangan biaya.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah mahasiswa yang bekerja paruh waktu untuk membiayai kuliah.\n- Pekerjaan itu sangat menyita waktu sehingga Anda sering terlambat mengumpulkan tugas dan nilai Anda menurun.\n- Anda harus memutuskan bagaimana menyikapi pekerjaan dan kuliah Anda.\n\nDITANYAKAN:\nCara mengatur prioritas antara pekerjaan dan kuliah secara bertanggung jawab.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Profesionalisme berarti menata prioritas secara realistis dan mengomunikasikan kebutuhan kepada pihak terkait, tanpa mengorbankan salah satu tanggung jawab secara gegabah.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (E) 4 → (D) 3 → (A) 2 → (B) 1.\n4. (C) — poin 5: Paling tuntas: kuliah dan biaya hidup sama-sama terjaga melalui perencanaan dan komunikasi.\nJadi, jawaban yang tepat adalah (C) Menyusun jadwal kuliah dan kerja yang realistis, lalu meminta atasan menyesuaikan jam kerja pada pekan-pekan tenggat tugas.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Mengutamakan kuliah dengan solusi pendanaan, tetapi hasil beasiswa belum pasti.\n- (D) — poin 3: Kuliah menjadi prioritas, tetapi biaya hidup dan kuliah terancam.\n- (A) — poin 2: Komunikatif, tetapi memindahkan masalah kepada dosen tanpa membenahi pengaturan waktu.\n- (B) — poin 1: Pasif; masalah keterlambatan tugas dibiarkan berlanjut.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi salin-tempel (keluhan kepada atasan) dihapus; negosiasi jadwal menjadi poin 5; spasi diperbaiki."
+ },
+ {
+  "id": "0199d8e4-0964-7b85-8685-dc074c039f49",
+  "action": "revise",
+  "description": "Anda adalah manajer SDM di perusahaan yang sedang mengalami kesulitan keuangan. Pimpinan memberi mandat memotong gaji seluruh karyawan sebesar 20 persen secara merata untuk menghindari PHK massal. Karyawan sudah menunjukkan ketidakpuasan. Menolak mandat membuat pimpinan kecewa, sedangkan menerapkannya begitu saja dapat menurunkan semangat kerja karyawan. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-0965-7195-a116-1ac367f85132",
+    "description": "Melaksanakan mandat sambil menjelaskan secara terbuka kepada seluruh karyawan alasan, besaran, dan jangka waktu pemotongan gaji.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-0965-76d9-88e2-45853e5f8891",
+    "description": "Menyusun kajian skema alternatif, seperti pemotongan berjenjang sesuai level jabatan, lalu membahasnya dengan pimpinan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0965-7b95-b4e2-a4de3a80ded8",
+    "description": "Melaksanakan mandat tersebut sesuai instruksi pimpinan.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0966-7212-8650-68d0f7dfe03c",
+    "description": "Mengundurkan diri dari jabatan karena tidak setuju dengan kebijakan tersebut.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-0966-77c5-aa7a-21812095b8b3",
+    "description": "Menolak menjalankan mandat itu sebelum pimpinan menyetujui usulan skema dari Anda.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah manajer SDM di perusahaan yang sedang mengalami kesulitan keuangan.\n- Pimpinan memberi mandat memotong gaji seluruh karyawan sebesar 20 persen secara merata untuk menghindari PHK massal.\n- Karyawan sudah menunjukkan ketidakpuasan.\n- Menolak mandat membuat pimpinan kecewa, sedangkan menerapkannya begitu saja dapat menurunkan semangat kerja karyawan.\n\nDITANYAKAN:\nSikap manajer SDM yang tetap loyal kepada pimpinan sekaligus memperhatikan karyawan.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Profesional tidak membangkang secara sepihak dan tidak sekadar patuh; ia memberi masukan berbasis kajian melalui jalur yang benar sebelum kebijakan dijalankan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (A) 4 → (C) 3 → (E) 2 → (D) 1.\n4. (B) — poin 5: Paling tuntas: loyal kepada pimpinan, memberi solusi yang lebih adil, dan menjaga semangat karyawan.\nJadi, jawaban yang tepat adalah (B) Menyusun kajian skema alternatif, seperti pemotongan berjenjang sesuai level jabatan, lalu membahasnya dengan pimpinan.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Patuh dan transparan sehingga ketidakpuasan berkurang, tetapi tidak berupaya mencari skema yang lebih adil.\n- (C) — poin 3: Patuh, tetapi tidak memperhatikan dampaknya terhadap karyawan.\n- (E) — poin 2: Memiliki usulan, tetapi menekan pimpinan dan menghambat kebijakan yang sah.\n- (D) — poin 1: Menghindari tanggung jawab saat perusahaan paling membutuhkan Anda.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Jabatan manajer SDM dimasukkan ke stem; penolakan sepihak tidak lagi poin 5; diskusi berbasis kajian menjadi poin 5."
+ },
+ {
+  "id": "0199d8e4-096f-7a77-8033-cd6150f4993f",
+  "action": "revise",
+  "description": "Anda adalah mahasiswa Indonesia yang kuliah di luar negeri. Biaya hidup sangat tinggi dan beasiswa Anda tidak mencukupi. Seorang teman menawarkan pekerjaan paruh waktu bergaji tinggi, tetapi pekerjaan itu melanggar ketentuan visa pelajar Anda. Jika mengambilnya, Anda berisiko dideportasi; jika menolak, Anda tetap kesulitan keuangan. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-096f-7eae-9a22-0f38fa23da77",
+    "description": "Menerima pekerjaan itu karena banyak teman yang melakukannya tanpa masalah.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-0970-7564-b8a6-d4e2b11a4710",
+    "description": "Menolak tawaran itu dan berhemat dengan menyusun ulang anggaran hidup.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0970-7938-8a07-376a7e0a0b78",
+    "description": "Menerima pekerjaan itu untuk sementara sambil mengurus izin kerja yang sah.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-0970-7dda-842e-b1189521e64e",
+    "description": "Menghubungi pemberi beasiswa untuk menjelaskan kesulitan Anda dan mengajukan tambahan tunjangan.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-0971-733a-a4b7-c4ceb5d0a3dc",
+    "description": "Menolak tawaran itu, lalu berkonsultasi dengan kantor layanan mahasiswa internasional tentang pekerjaan legal dan bantuan dana darurat.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah mahasiswa Indonesia yang kuliah di luar negeri.\n- Biaya hidup sangat tinggi dan beasiswa Anda tidak mencukupi.\n- Seorang teman menawarkan pekerjaan paruh waktu bergaji tinggi, tetapi pekerjaan itu melanggar ketentuan visa pelajar Anda.\n- Jika mengambilnya, Anda berisiko dideportasi; jika menolak, Anda tetap kesulitan keuangan.\n\nDITANYAKAN:\nSikap yang taat aturan sekaligus menyelesaikan masalah keuangan.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Kesulitan pribadi tidak membenarkan pelanggaran hukum; profesional mencari jalan keluar yang sah dan memanfaatkan jalur bantuan resmi.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (D) 4 → (B) 3 → (C) 2 → (A) 1.\n4. (E) — poin 5: Paling tuntas: taat hukum dan masalah keuangan dicari solusinya melalui jalur resmi.\nJadi, jawaban yang tepat adalah (E) Menolak tawaran itu, lalu berkonsultasi dengan kantor layanan mahasiswa internasional tentang pekerjaan legal dan bantuan dana darurat.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Taat hukum dan proaktif, tetapi hanya mengandalkan satu jalur bantuan.\n- (B) — poin 3: Taat hukum, tetapi belum tentu menutup kekurangan biaya.\n- (C) — poin 2: Ada niat menjadi legal, tetapi tetap melanggar aturan visa selama izin belum keluar.\n- (A) — poin 1: Melanggar aturan dengan alasan kebiasaan orang lain; berisiko dideportasi.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi pelanggaran visa diturunkan ke poin 2; opsi salin-tempel (keluhan kepada atasan) dihapus; pembahasan 5→1."
+ },
+ {
+  "id": "0199d8e4-0992-7e2d-bf57-e35b08c662d2",
+  "action": "revise",
+  "description": "Anda sudah berjanji menghadiri acara ulang tahun seorang teman. Pada hari yang sama Anda harus menyelesaikan pekerjaan penting dengan tenggat yang tidak dapat diundur. Jika menghadiri acara, pekerjaan itu tidak akan selesai tepat waktu; jika tidak hadir, teman Anda akan kecewa. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8e4-0993-7211-8a50-9d486ef9f944",
+    "description": "Meminta rekan kerja menyelesaikan pekerjaan Anda agar Anda tetap bisa hadir.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-0993-7572-a92b-ef6d017d090e",
+    "description": "Menyelesaikan pekerjaan lebih dahulu, meminta maaf kepada teman sejak awal, lalu mengatur waktu lain untuk merayakannya.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0993-7907-8eb1-6b84814d7bfe",
+    "description": "Meminta atasan memperpanjang tenggat agar Anda dapat menghadiri acara tersebut.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-0993-7d0a-92d1-534fbdab39fa",
+    "description": "Menghadiri acara sebentar, lalu kembali bekerja hingga larut malam agar pekerjaan tetap selesai.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-0994-716e-a2d2-cc3fcbe8c7ab",
+    "description": "Fokus menyelesaikan pekerjaan, lalu mengirimkan hadiah ke rumah teman melalui kurir tanpa memberi penjelasan panjang tentang ketidakhadiran Anda.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda sudah berjanji menghadiri acara ulang tahun seorang teman.\n- Pada hari yang sama Anda harus menyelesaikan pekerjaan penting dengan tenggat yang tidak dapat diundur.\n- Jika menghadiri acara, pekerjaan itu tidak akan selesai tepat waktu; jika tidak hadir, teman Anda akan kecewa.\n\nDITANYAKAN:\nCara menentukan prioritas antara tanggung jawab kerja dan janji pribadi.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Tanggung jawab pekerjaan diutamakan, tetapi hubungan pribadi tetap dijaga dengan komunikasi yang jujur dan itikad baik.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (D) 4 → (E) 3 → (C) 2 → (A) 1.\n4. (B) — poin 5: Paling tuntas: pekerjaan selesai dan teman dihargai melalui komunikasi yang jujur serta pengganti yang nyata.\nJadi, jawaban yang tepat adalah (B) Menyelesaikan pekerjaan lebih dahulu, meminta maaf kepada teman sejak awal, lalu mengatur waktu lain untuk merayakannya.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Berusaha memenuhi keduanya, tetapi berisiko menurunkan mutu pekerjaan.\n- (E) — poin 3: Pekerjaan beres, tetapi komunikasi kepada teman kurang.\n- (C) — poin 2: Komunikatif, tetapi mengorbankan tenggat pekerjaan demi urusan pribadi.\n- (A) — poin 1: Melempar tanggung jawab pekerjaan kepada orang lain.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Kunci diperbaiki agar memuat pemberitahuan dan permintaan maaf kepada teman; opsi pasif diganti; tenggat diperjelas di stem."
+ },
+ {
+  "id": "0199d8e4-1d32-778d-be53-88e7122ef1e4",
+  "action": "revise",
+  "description": "Anda adalah warga yang tinggal di tepi pantai. Anda mengetahui sebuah pabrik membuang limbah ke laut sehingga air pantai tercemar. Melapor berisiko menimbulkan konflik dengan pemilik pabrik, sedangkan diam membahayakan kesehatan Anda dan warga lain. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8e4-1d32-7b47-a266-fbae0e88c7f7",
+    "description": "Mendatangi pemilik pabrik dan memintanya menghentikan pembuangan limbah.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-1d33-7302-bc6f-96c70b2b9915",
+    "description": "Menunggu pemerintah mengetahui masalah itu sendiri karena pengawasan pabrik adalah wewenang mereka.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-1d33-77b2-8653-243306672ee2",
+    "description": "Mendokumentasikan bukti pencemaran, lalu melaporkannya kepada dinas lingkungan hidup melalui jalur pengaduan resmi.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-1d33-7c45-a851-8182aa6a2bf9",
+    "description": "Mengajak warga menyampaikan keluhan bersama kepada pemerintah desa.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-1d34-728e-a4d4-b41c1a4d9b72",
+    "description": "Segera melaporkan pembuangan limbah itu kepada dinas lingkungan hidup setempat karena keselamatan dan kesehatan warga harus diutamakan.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah warga yang tinggal di tepi pantai.\n- Anda mengetahui sebuah pabrik membuang limbah ke laut sehingga air pantai tercemar.\n- Melapor berisiko menimbulkan konflik dengan pemilik pabrik, sedangkan diam membahayakan kesehatan Anda dan warga lain.\n\nDITANYAKAN:\nTindakan warga yang paling tepat menghadapi pencemaran oleh pabrik.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Pelanggaran lingkungan ditangani dengan melapor kepada instansi berwenang melalui jalur resmi disertai bukti, sehingga dapat ditindaklanjuti secara hukum.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (E) 4 → (D) 3 → (A) 2 → (B) 1.\n4. (C) — poin 5: Paling tuntas: laporan resmi disertai bukti sehingga instansi berwenang dapat langsung menindak.\nJadi, jawaban yang tepat adalah (C) Mendokumentasikan bukti pencemaran, lalu melaporkannya kepada dinas lingkungan hidup melalui jalur pengaduan resmi.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Jalur sudah tepat, tetapi tanpa bukti laporan lebih sulit ditindaklanjuti.\n- (D) — poin 3: Melibatkan warga dan aparat terdekat, tetapi belum sampai ke instansi yang berwenang menindak.\n- (A) — poin 2: Berani, tetapi tidak melalui jalur resmi dan berisiko memicu konflik tanpa jaminan hasil.\n- (B) — poin 1: Pasif; kesehatan warga terus terancam.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi 'kumpulkan bukti lalu lapor' dinaikkan menjadi poin 5; soal dibedakan dari soal kembar tepi danau; pembahasan 5→1."
+ },
+ {
+  "id": "0199d8e4-1d48-7f08-b7d0-17b776f48c11",
+  "action": "revise",
+  "description": "Anda adalah petugas penyelamat di kawasan pegunungan. Anda menerima dua laporan sekaligus: seorang pendaki tersesat tetapi masih dapat dihubungi lewat telepon dan berada di jalur yang aman, serta sekelompok warga dengan dua orang tidak sadarkan diri akibat keracunan. Tim Anda tidak cukup untuk menangani kedua lokasi sekaligus. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8e4-1d49-741b-9146-566b0ba834db",
+    "description": "Mengirim tim ke lokasi warga dan meminta pendaki tetap di tempat sampai bantuan tiba.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-1d49-77cd-b8c4-f99eb3056738",
+    "description": "Membagi tim menjadi dua kelompok kecil agar kedua lokasi tetap mendapatkan pertolongan pada waktu yang bersamaan, meskipun personelnya terbatas.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-1d49-7ce6-80e5-0fa2316e73a2",
+    "description": "Menunggu arahan komandan posko sebelum memberangkatkan tim.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-1d4a-72aa-a6dc-e557c3bf13c0",
+    "description": "Mengirim tim ke lokasi pendaki karena laporannya diterima lebih dahulu.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-1d4a-78ce-ae29-cee2d171b86b",
+    "description": "Mengirim tim ke lokasi warga yang paling gawat, memandu pendaki lewat telepon, dan meminta dukungan tim SAR lain.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah petugas penyelamat di kawasan pegunungan.\n- Anda menerima dua laporan sekaligus: seorang pendaki tersesat tetapi masih dapat dihubungi lewat telepon dan berada di jalur yang aman, serta sekelompok warga dengan dua orang tidak sadarkan diri akibat keracunan.\n- Tim Anda tidak cukup untuk menangani kedua lokasi sekaligus.\n\nDITANYAKAN:\nPenetapan prioritas penyelamatan yang paling tepat dengan sumber daya terbatas.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Dalam keadaan darurat, prioritas diberikan kepada korban yang paling mengancam nyawa (triase), sementara pihak lain tetap ditangani dengan sarana yang ada.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (A) 4 → (B) 3 → (D) 2 → (C) 1.\n4. (E) — poin 5: Paling tuntas: korban paling kritis ditangani lebih dahulu dan pendaki tetap mendapat bantuan.\nJadi, jawaban yang tepat adalah (E) Mengirim tim ke lokasi warga yang paling gawat, memandu pendaki lewat telepon, dan meminta dukungan tim SAR lain.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Prioritas sudah tepat, tetapi belum mengupayakan bantuan tambahan bagi pendaki.\n- (B) — poin 3: Tampak adil, tetapi kedua misi menjadi kurang optimal, termasuk bagi korban kritis.\n- (D) — poin 2: Bertindak, tetapi mengabaikan tingkat kegawatan korban.\n- (C) — poin 1: Pasif di saat darurat; waktu berharga terbuang.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Tingkat kegawatan kedua lokasi diperjelas agar kunci tidak ambigu; opsi 'keluhan kepada atasan' diganti; spasi diperbaiki."
+ },
+ {
+  "id": "0199d8e4-1d4d-7d5a-8645-e16300f1ad8a",
+  "action": "revise",
+  "description": "Anda tinggal di tepi sebuah danau. Anda melihat proyek pembangunan di tepi danau merusak lingkungan, misalnya dengan menimbun bibir danau dan menebang pohon pelindung. Melapor berisiko menimbulkan konflik, sedangkan diam dapat mengancam keselamatan warga dan kelestarian lingkungan. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-1d4e-72db-8331-1bc6cec7156e",
+    "description": "Tidak melapor karena proyek itu kemungkinan sudah memperoleh izin dari pemerintah.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-1d4e-776f-ba0b-55440c0cb973",
+    "description": "Menemui pihak pengembang untuk menyampaikan dampak kerusakan dan meminta perbaikan.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-1d4e-7b0a-bf3c-c0783fdb40ed",
+    "description": "Melaporkan kerusakan itu kepada pemerintah desa agar diteruskan kepada instansi terkait.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-1d4e-7ebb-936e-37d5eb02325b",
+    "description": "Mencari tahu izin lingkungan proyek tersebut, lalu melaporkan kerusakan beserta buktinya kepada instansi berwenang.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-1d4f-72da-99ab-05d443fb4c74",
+    "description": "Menggalang petisi daring untuk menolak proyek tersebut.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda tinggal di tepi sebuah danau.\n- Anda melihat proyek pembangunan di tepi danau merusak lingkungan, misalnya dengan menimbun bibir danau dan menebang pohon pelindung.\n- Melapor berisiko menimbulkan konflik, sedangkan diam dapat mengancam keselamatan warga dan kelestarian lingkungan.\n\nDITANYAKAN:\nTindakan warga yang paling tepat menghadapi proyek yang merusak lingkungan.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Dugaan pelanggaran lingkungan diselesaikan dengan memastikan fakta dan melapor kepada instansi berwenang, bukan dengan berdiam diri atau bertindak di luar jalur resmi.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (C) 4 → (B) 3 → (E) 2 → (A) 1.\n4. (D) — poin 5: Paling tuntas: fakta dipastikan dan laporan resmi disertai bukti sehingga dapat ditindak.\nJadi, jawaban yang tepat adalah (D) Mencari tahu izin lingkungan proyek tersebut, lalu melaporkan kerusakan beserta buktinya kepada instansi berwenang.\nMengapa opsi lain kurang tepat:\n- (C) — poin 4: Melalui jalur resmi, tetapi tanpa bukti dan bergantung pada penerusan laporan.\n- (B) — poin 3: Berani dan langsung, tetapi tidak melalui jalur berwenang sehingga hasilnya tidak terjamin.\n- (E) — poin 2: Menyuarakan kepedulian, tetapi tidak menempuh jalur pelaporan yang dapat ditindaklanjuti.\n- (A) — poin 1: Pasif; kerusakan lingkungan dibiarkan berlanjut.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Pelaporan disertai bukti dinaikkan menjadi poin 5; opsi salin-tempel diganti; kerusakan diperjelas di stem."
+ },
+ {
+  "id": "0199d8e4-1d5d-74c9-bad9-ba2076ae7e88",
+  "action": "revise",
+  "description": "Anda adalah ketua RT di permukiman tepi danau. Sejak sebuah pabrik beroperasi di dekat danau, air danau berubah warna dan beberapa warga mengeluh gatal-gatal setelah memakainya. Anda menduga pabrik itu membuang limbah ke danau, tetapi khawatir terjadi konflik dengan pemilik pabrik. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8e4-1d5d-7a16-a9ed-48515d494cb1",
+    "description": "Menghimpun bukti dan data keluhan warga, lalu melaporkannya secara resmi kepada dinas lingkungan hidup.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-1d5d-7ee2-9a60-d64c75255447",
+    "description": "Mengimbau warga sementara tidak memakai air danau sambil meminta puskesmas memeriksa warga yang mengeluh.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-1d5e-749e-8906-2e6461e841f5",
+    "description": "Mengunggah foto pencemaran ke media sosial agar segera mendapat perhatian publik.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-1d5e-7a59-83a5-0ccac53887de",
+    "description": "Menunggu laporan resmi dari warga yang terdampak sebelum mengambil langkah apa pun.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-1d5e-7eaa-870e-80f1a70d8ca4",
+    "description": "Mengundang pengelola pabrik ke pertemuan warga untuk membahas keluhan pencemaran.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah ketua RT di permukiman tepi danau.\n- Sejak sebuah pabrik beroperasi di dekat danau, air danau berubah warna dan beberapa warga mengeluh gatal-gatal setelah memakainya.\n- Anda menduga pabrik itu membuang limbah ke danau, tetapi khawatir terjadi konflik dengan pemilik pabrik.\n\nDITANYAKAN:\nTindakan ketua RT yang paling tepat untuk melindungi warga dan menindaklanjuti dugaan pencemaran.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Sebagai pengurus lingkungan, tindakan terbaik adalah menghimpun bukti dan melapor resmi kepada instansi berwenang, sambil tetap melindungi warga.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (B) 4 → (E) 3 → (C) 2 → (D) 1.\n4. (A) — poin 5: Paling tuntas: dugaan pencemaran dilaporkan dengan bukti kepada instansi yang berwenang menindak.\nJadi, jawaban yang tepat adalah (A) Menghimpun bukti dan data keluhan warga, lalu melaporkannya secara resmi kepada dinas lingkungan hidup.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Melindungi warga dengan cepat, tetapi sumber pencemaran belum ditindaklanjuti.\n- (E) — poin 3: Membuka dialog, tetapi tanpa keterlibatan instansi berwenang hasilnya tidak terjamin.\n- (C) — poin 2: Menarik perhatian, tetapi bukan jalur resmi dan dapat memicu kegaduhan.\n- (D) — poin 1: Pasif; sebagai ketua RT Anda seharusnya bertindak lebih dahulu.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Soal dibedakan dari soal kembar tepi pantai (peran ketua RT); pelaporan berbukti menjadi poin 5; urutan poin konsisten."
+ },
+ {
+  "id": "0199d8e4-1d69-7412-80da-4b0b115385d7",
+  "action": "revise",
+  "description": "Anda adalah sukarelawan penjaga keamanan di sebuah taman kota. Anda melihat sekelompok pengunjung masih berpesta melewati batas jam buka taman. Menegur mereka berarti mengganggu kesenangan mereka, sedangkan membiarkan berarti aturan taman dilanggar. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-1d69-798e-b92b-b36cc1a7daef",
+    "description": "Langsung meminta bantuan polisi untuk membubarkan pesta tersebut.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-1d69-7e9c-bf3d-b9c6b892b6ad",
+    "description": "Menegur mereka dengan santun, menjelaskan aturan jam taman, dan memberi waktu singkat untuk berkemas.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-1d6a-7490-a4ee-bd9ec7af446b",
+    "description": "Melaporkan kepada pengelola taman agar petugas resmi yang menegur.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-1d6a-79bb-bd05-9799a1a3345a",
+    "description": "Menegur mereka dengan santun dan mengingatkan batas waktu taman.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-1d6a-7d9e-aeff-2b5b9e888d16",
+    "description": "Membiarkan pesta berlangsung sampai selesai karena mereka tidak membuat keributan.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah sukarelawan penjaga keamanan di sebuah taman kota.\n- Anda melihat sekelompok pengunjung masih berpesta melewati batas jam buka taman.\n- Menegur mereka berarti mengganggu kesenangan mereka, sedangkan membiarkan berarti aturan taman dilanggar.\n\nDITANYAKAN:\nTindakan penjaga taman yang menegakkan aturan dengan cara yang tepat.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Penegakan aturan dilakukan secara tegas tetapi humanis dan proporsional, dimulai dari teguran santun sebelum langkah yang lebih keras.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (D) 4 → (C) 3 → (A) 2 → (E) 1.\n4. (B) — poin 5: Paling tuntas: aturan ditegakkan secara humanis dan pengunjung diberi kesempatan mematuhinya dengan tertib.\nJadi, jawaban yang tepat adalah (B) Menegur mereka dengan santun, menjelaskan aturan jam taman, dan memberi waktu singkat untuk berkemas.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Tepat dan santun, tetapi belum memastikan pengunjung benar-benar meninggalkan taman dengan tertib.\n- (C) — poin 3: Melalui jalur yang ada, tetapi melimpahkan tugas yang sebenarnya dapat Anda tangani.\n- (A) — poin 2: Menegakkan aturan, tetapi berlebihan untuk pelanggaran ringan yang belum ditegur.\n- (E) — poin 1: Pasif; aturan taman dibiarkan dilanggar.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi pasif 'menunggu' diturunkan ke poin 1; pemanggilan polisi ditempatkan sebagai tindakan berlebihan; opsi ditulis ulang."
+ },
+ {
+  "id": "019b5ef7-08b9-70d2-a700-0cc3f51fd52c",
+  "action": "revise",
+  "description": "Anda baru menyadari bahwa laporan keuangan yang Anda kirim kepada atasan kemarin mengandung kesalahan hitung yang cukup serius, meskipun angka akhirnya tampak seimbang. Atasan belum memeriksanya dan sedang sangat sibuk. Jika dibiarkan, kesalahan itu mungkin tidak ketahuan sekarang, tetapi dapat menjadi temuan audit tahun depan. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b5ef7-08b9-7496-a076-cc83dadd3a78",
+    "description": "Menunggu atasan memeriksa laporan; jika ia menemukan kesalahan, barulah Anda memperbaikinya.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b5ef7-08b9-78a9-a755-af83c152558e",
+    "description": "Mengirim laporan revisi melalui email disertai penjelasan singkat tentang bagian yang dikoreksi.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b5ef7-08b9-7c8e-9143-0b77145e2e30",
+    "description": "Memperbaiki laporan dan menunggu saat atasan tidak sibuk untuk menyampaikannya.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b5ef7-08ba-715f-a6c3-6deb18d50586",
+    "description": "Segera memperbaiki laporan, lalu menemui atasan untuk menjelaskan letak kesalahan dan menyerahkan versi yang benar.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b5ef7-08ba-7546-8036-a67350a9d2f0",
+    "description": "Mengirim ulang laporan yang sudah diperbaiki dengan nama berkas yang sama tanpa penjelasan tambahan agar atasan langsung memakai versi yang benar.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda baru menyadari bahwa laporan keuangan yang Anda kirim kepada atasan kemarin mengandung kesalahan hitung yang cukup serius, meskipun angka akhirnya tampak seimbang.\n- Atasan belum memeriksanya dan sedang sangat sibuk.\n- Jika dibiarkan, kesalahan itu mungkin tidak ketahuan sekarang, tetapi dapat menjadi temuan audit tahun depan.\n\nDITANYAKAN:\nSikap yang paling bertanggung jawab atas kesalahan dalam laporan yang sudah dikirim.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Integritas menuntut kejujuran atas kesalahan sendiri: segera memperbaiki dan mengakuinya secara terbuka kepada pihak yang berwenang.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (B) 4 → (C) 3 → (E) 2 → (A) 1.\n4. (D) — poin 5: Paling tuntas: kesalahan diperbaiki, diakui secara jujur, dan atasan memahami perubahannya.\nJadi, jawaban yang tepat adalah (D) Segera memperbaiki laporan, lalu menemui atasan untuk menjelaskan letak kesalahan dan menyerahkan versi yang benar.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Jujur dan cepat, tetapi kurang memastikan atasan yang sibuk benar-benar memahami kesalahan yang serius.\n- (C) — poin 3: Ada niat jujur, tetapi penyampaian tertunda dan berisiko laporan lama telanjur dipakai.\n- (E) — poin 2: Kesalahan diperbaiki, tetapi tidak terbuka sehingga atasan tidak tahu ada revisi.\n- (A) — poin 1: Pasif dan tidak bertanggung jawab atas kesalahan sendiri.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Revisi diam-diam diturunkan ke poin 2; opsi menyalahkan sistem diganti; pembahasan 5→1."
+ },
+ {
+  "id": "019b5ef7-08c2-7b22-acd8-2d83d8c999b1",
+  "action": "revise",
+  "description": "Atasan meminta Anda segera menandatangani dokumen pencairan anggaran proyek agar dana dapat cair hari ini. Dokumen pendukung seperti kuitansi dan bukti fisik belum lengkap. Atasan berjanji melengkapinya besok dan siap bertanggung jawab penuh karena vendor terus menagih pembayaran. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b5ef7-08c2-7f3f-b5d0-9112ded36e96",
+    "description": "Menghindar dengan alasan ada urusan di luar kantor agar tidak diminta tanda tangan.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b5ef7-08c3-7426-94bb-e6369355e277",
+    "description": "Menjelaskan risiko pencairan tanpa bukti lengkap dan mengusulkan agar vendor diberi kepastian jadwal pembayaran.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b5ef7-08c3-7847-939b-da3cf55e026b",
+    "description": "Menolak dengan santun dan menawarkan bantuan melengkapi dokumen pendukung hari itu juga agar pencairan tetap sah.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b5ef7-08c3-7bb4-87d4-40f8c75a7397",
+    "description": "Menolak menandatangani sampai seluruh dokumen pendukung lengkap.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b5ef7-08c3-7eae-a3ea-bdf233c01af2",
+    "description": "Menandatangani dokumen dengan syarat atasan membuat surat pernyataan tanggung jawab.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Atasan meminta Anda segera menandatangani dokumen pencairan anggaran proyek agar dana dapat cair hari ini.\n- Dokumen pendukung seperti kuitansi dan bukti fisik belum lengkap.\n- Atasan berjanji melengkapinya besok dan siap bertanggung jawab penuh karena vendor terus menagih pembayaran.\n\nDITANYAKAN:\nSikap yang patuh pada prosedur keuangan sekaligus membantu menyelesaikan masalah.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Prosedur keuangan tidak boleh dilanggar meskipun atas perintah atasan; sikap terbaik adalah menolak dengan santun sambil membantu agar syarat segera terpenuhi.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (B) 4 → (D) 3 → (E) 2 → (A) 1.\n4. (C) — poin 5: Paling tuntas: prosedur ditegakkan dan masalah pembayaran vendor dibantu diselesaikan.\nJadi, jawaban yang tepat adalah (C) Menolak dengan santun dan menawarkan bantuan melengkapi dokumen pendukung hari itu juga agar pencairan tetap sah.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Patuh dan memberi solusi atas desakan vendor, tetapi belum membantu melengkapi dokumen.\n- (D) — poin 3: Benar secara prosedur, tetapi tidak membantu mencari jalan keluar.\n- (E) — poin 2: Tampak berhati-hati, tetapi tetap melanggar prosedur pencairan anggaran.\n- (A) — poin 1: Menghindari tanggung jawab dan tidak jujur kepada atasan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Penandatanganan dengan surat pernyataan diturunkan ke poin 2; opsi melapor inspektorat diganti; pembahasan 5→1."
+ },
+ {
+  "id": "019b6e3f-2089-7418-b603-3522da68b8df",
+  "action": "revise",
+  "description": "Anda sedang mengikuti seleksi penerimaan di sebuah instansi. Sebelum tes dimulai, seseorang menawarkan bocoran jawaban kepada Anda dengan imbalan uang dalam jumlah besar. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b6e3f-2089-7829-b558-1cbb8b3aff6d",
+    "description": "Menolak tawaran itu dan segera melaporkannya kepada panitia disertai ciri-ciri orang tersebut.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e3f-2089-7bb5-a2ce-fd3f2d5b7923",
+    "description": "Menolak tawaran itu lalu menjauh tanpa mempedulikannya lagi.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-2089-7f30-84d1-bcbf6d883028",
+    "description": "Menolak tawaran itu dan menegur orang tersebut bahwa perbuatannya melanggar aturan seleksi.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-208a-72e0-8bfd-f8016dcdbf17",
+    "description": "Berpura-pura tertarik untuk mengumpulkan bukti sebelum melapor kepada panitia.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e3f-208a-7710-aee0-c737cf5b65a1",
+    "description": "Menolak tawaran itu dan mengingatkan peserta lain di sekitar Anda agar tidak tergiur tawaran serupa.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda sedang mengikuti seleksi penerimaan di sebuah instansi.\n- Sebelum tes dimulai, seseorang menawarkan bocoran jawaban kepada Anda dengan imbalan uang dalam jumlah besar.\n\nDITANYAKAN:\nSikap yang tepat terhadap tawaran bocoran jawaban berbayar.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Integritas berarti menolak kecurangan dan berani melaporkannya agar keadilan seleksi terjaga bagi semua peserta.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (E) 4 → (C) 3 → (D) 2 → (B) 1.\n4. (A) — poin 5: Paling tuntas: menolak kecurangan dan membantu panitia menghentikannya.\nJadi, jawaban yang tepat adalah (A) Menolak tawaran itu dan segera melaporkannya kepada panitia disertai ciri-ciri orang tersebut.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Berintegritas dan peduli, tetapi pelaku tidak dilaporkan sehingga kecurangan masih bisa berlanjut.\n- (C) — poin 3: Tegas, tetapi tanpa laporan pelaku dapat menawarkan kepada peserta lain.\n- (D) — poin 2: Niatnya membongkar, tetapi berisiko terseret dalam transaksi curang.\n- (B) — poin 1: Diri sendiri bersih, tetapi pasif terhadap kecurangan yang merugikan orang lain.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi menerima suap dihapus dari poin 4; semua opsi yang menolak ditempatkan sesuai kadar ketuntasannya."
+ },
+ {
+  "id": "019b6e3f-20ac-701b-a900-f7bb51032bbf",
+  "action": "revise",
+  "description": "Sore hari, saat orang tua belum pulang, Anda tidak sengaja memecahkan layar laptop milik kakak yang sedang dipakai untuk menyusun skripsi. Kondisi ekonomi keluarga sedang sulit, dan kakak sangat membutuhkan laptop itu segera. Anda khawatir orang tua marah atau biaya bimbingan belajar Anda dipotong untuk biaya servis. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "019b6e3f-20ac-731d-b5ce-e607a28e93be",
+    "description": "Membawa laptop ke tempat servis dengan uang tabungan sendiri, lalu baru bercerita setelah laptop selesai diperbaiki.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e3f-20ac-7658-aff8-6786a610ce50",
+    "description": "Menunggu kakak pulang untuk mengakui kejadian secara langsung dan menawarkan diri ikut menanggung biaya perbaikan.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b6e3f-20ac-7957-b55e-c57f4c38a7ce",
+    "description": "Mengembalikan laptop ke meja kakak dan menunggu sampai ia sendiri menanyakan kerusakannya.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-20ac-7e07-b202-fc9226ea2821",
+    "description": "Menceritakan kejadian kepada orang tua lebih dahulu agar mereka membantu menyampaikannya kepada kakak.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-20ad-7286-8b4f-f5d911a5eed0",
+    "description": "Segera menghubungi kakak untuk mengakui kejadian, meminta maaf, dan meminjamkan laptop Anda untuk skripsinya.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Sore hari, saat orang tua belum pulang, Anda tidak sengaja memecahkan layar laptop milik kakak yang sedang dipakai untuk menyusun skripsi.\n- Kondisi ekonomi keluarga sedang sulit, dan kakak sangat membutuhkan laptop itu segera.\n- Anda khawatir orang tua marah atau biaya bimbingan belajar Anda dipotong untuk biaya servis.\n\nDITANYAKAN:\nSikap yang jujur dan bertanggung jawab atas kerusakan yang Anda sebabkan.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Kejujuran dan tanggung jawab ditunjukkan dengan segera mengakui kesalahan kepada pihak yang dirugikan dan ikut mengurangi dampaknya.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (B) 4 → (D) 3 → (A) 2 → (C) 1.\n4. (E) — poin 5: Paling tuntas: jujur sejak awal kepada pihak yang dirugikan dan langsung mengurangi dampaknya.\nJadi, jawaban yang tepat adalah (E) Segera menghubungi kakak untuk mengakui kejadian, meminta maaf, dan meminjamkan laptop Anda untuk skripsinya.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Jujur dan bertanggung jawab, tetapi kakak baru tahu belakangan sehingga pekerjaannya tertunda.\n- (D) — poin 3: Jujur, tetapi tidak berani menghadapi kakak secara langsung.\n- (A) — poin 2: Bertanggung jawab atas biaya, tetapi menutupi kejadian dari pemiliknya.\n- (C) — poin 1: Pasif dan tidak jujur atas kesalahan sendiri.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi menutupi kejadian (servis diam-diam) diturunkan ke poin 2; kejujuran kepada kakak dinaikkan; opsi ditulis ulang."
+ },
+ {
+  "id": "019b6e3f-20ba-7970-8782-145b0987f53c",
+  "action": "revise",
+  "description": "Adik Anda ketahuan menyontek saat ujian sekolah, dan guru memanggil orang tua ke sekolah. Ibu sangat sedih karena selama ini mendidik anak-anaknya untuk jujur. Adik membela diri dengan mengatakan bahwa Anda juga pernah menyontek saat ujian SMA tahun lalu, dan hal itu memang benar pernah Anda lakukan sekali. Bagaimana sikap Anda di depan ibu dan adik?",
+  "options": [
+   {
+    "id": "019b6e3f-20ba-7d24-af99-e65f6cdf5f97",
+    "description": "Mengakui kesalahan itu kepada ibu, lalu berbicara empat mata dengan adik tentang pentingnya kejujuran.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b6e3f-20bb-7199-9fad-18a2cb08ca28",
+    "description": "Mengakui kesalahan masa lalu di depan ibu dan adik, meminta maaf, lalu mengajak adik berkomitmen untuk tidak mengulanginya.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e3f-20bb-7654-9e1f-39e75f30d8b6",
+    "description": "Menjelaskan kepada adik bahwa kesalahan Anda dahulu tidak dapat dijadikan pembenaran atas perbuatannya, apalagi di hadapan ibu yang sedang sedih.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-20bb-7a34-9e58-ab4da5e5885d",
+    "description": "Meminta waktu berbicara dengan ibu nanti agar pembahasan saat ini tetap fokus pada masalah adik.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e3f-20bb-7dfd-9c65-cc85e6801221",
+    "description": "Diam saja dan membiarkan ibu menyelesaikan masalah adik terlebih dahulu.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Adik Anda ketahuan menyontek saat ujian sekolah, dan guru memanggil orang tua ke sekolah.\n- Ibu sangat sedih karena selama ini mendidik anak-anaknya untuk jujur.\n- Adik membela diri dengan mengatakan bahwa Anda juga pernah menyontek saat ujian SMA tahun lalu, dan hal itu memang benar pernah Anda lakukan sekali.\n\nDITANYAKAN:\nSikap yang jujur dan menjadi teladan di hadapan ibu dan adik.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Integritas ditunjukkan dengan berani mengakui kesalahan sendiri secara terbuka dan menjadikannya pelajaran, bukan menutupinya.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (A) 4 → (C) 3 → (D) 2 → (E) 1.\n4. (B) — poin 5: Paling tuntas: jujur, bertanggung jawab, dan menjadi teladan perbaikan bagi adik.\nJadi, jawaban yang tepat adalah (B) Mengakui kesalahan masa lalu di depan ibu dan adik, meminta maaf, lalu mengajak adik berkomitmen untuk tidak mengulanginya.\nMengapa opsi lain kurang tepat:\n- (A) — poin 4: Jujur dan membina adik, tetapi pengakuan dan pembelajaran tidak dilakukan bersama secara terbuka.\n- (C) — poin 3: Pesannya benar, tetapi menghindari pengakuan dan permintaan maaf kepada ibu.\n- (D) — poin 2: Menunda kejujuran dengan alasan fokus pada masalah adik.\n- (E) — poin 1: Pasif dan menghindari tanggung jawab atas kesalahan sendiri.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi mengalihkan pembicaraan tidak lagi poin 4; opsi membantah/memarahi diganti opsi wajar; pembahasan 5→1."
+ },
+ {
+  "id": "019b6e42-e8b8-74f8-9adc-c1244bb2a01f",
+  "action": "revise",
+  "description": "Anda adalah manajer proyek konstruksi gedung. Anda menemukan vendor utama tidak transparan soal biaya dan memakai bahan di bawah spesifikasi kontrak. Kontrak memuat klausul audit dan sanksi bagi vendor yang melanggar spesifikasi. Menghentikan kerja sama dapat membuat proyek terlambat, sedangkan melanjutkannya berisiko menurunkan mutu bangunan dan membengkakkan anggaran. Bagaimana Anda mengambil keputusan?",
+  "options": [
+   {
+    "id": "019b6e42-e8b8-781a-b4b3-96d19d27d56e",
+    "description": "Memanggil vendor untuk meminta klarifikasi dan menuntut agar bahan diganti sesuai kontrak.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e42-e8b8-7bef-b97d-d29b440d4e86",
+    "description": "Menghentikan kontrak sesuai ketentuan dan segera mencari vendor baru yang lebih andal.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b6e42-e8b9-7236-93c5-0dd9cf20c6a4",
+    "description": "Melaporkan temuan itu kepada atasan dan menunggu arahan sebelum bertindak.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e42-e8b9-75d8-91f3-3f9f2f0d4b0a",
+    "description": "Meminta audit atas biaya dan mutu bahan, menerapkan sanksi sesuai kontrak, serta menyiapkan vendor cadangan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e42-e8b9-78f8-b62b-fe27c8ec6d6b",
+    "description": "Tetap bekerja sama dengan vendor tersebut agar jadwal proyek tidak terganggu.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah manajer proyek konstruksi gedung.\n- Anda menemukan vendor utama tidak transparan soal biaya dan memakai bahan di bawah spesifikasi kontrak.\n- Kontrak memuat klausul audit dan sanksi bagi vendor yang melanggar spesifikasi.\n- Menghentikan kerja sama dapat membuat proyek terlambat, sedangkan melanjutkannya berisiko menurunkan mutu bangunan dan membengkakkan anggaran.\n\nDITANYAKAN:\nKeputusan manajer proyek yang menegakkan kontrak sekaligus menjaga kelangsungan proyek.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Profesional menegakkan ketentuan kontrak berdasarkan bukti dan menyiapkan langkah antisipasi, sehingga mutu terjaga tanpa mengorbankan proyek.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (B) 4 → (A) 3 → (C) 2 → (E) 1.\n4. (D) — poin 5: Paling tuntas: pelanggaran dibuktikan, kontrak ditegakkan, dan risiko keterlambatan diantisipasi.\nJadi, jawaban yang tepat adalah (D) Meminta audit atas biaya dan mutu bahan, menerapkan sanksi sesuai kontrak, serta menyiapkan vendor cadangan.\nMengapa opsi lain kurang tepat:\n- (B) — poin 4: Tegas, tetapi tanpa audit dan persiapan sehingga proyek berisiko terlambat.\n- (A) — poin 3: Langkah awal yang baik, tetapi belum memakai mekanisme audit dan sanksi.\n- (C) — poin 2: Melalui jalur, tetapi melimpahkan keputusan yang menjadi wewenang manajer proyek.\n- (E) — poin 1: Pasif dan menoleransi pelanggaran yang membahayakan mutu bangunan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Soal dibedakan dari soal vendor serupa (klausul audit/sanksi, proyek gedung); poin 5 kini menegakkan kontrak berbasis bukti."
+ },
+ {
+  "id": "019b8d7a-7bfe-7466-82ff-7718fc62a23e",
+  "action": "revise",
+  "description": "Anda akan berangkat ke bimbingan belajar yang sangat penting. Adik kecil Anda menangis ingin ikut karena merasa kesepian, sementara ibu ada di rumah tetapi sedang sibuk menyelesaikan pesanan jahitan. Jika membawanya, konsentrasi belajar Anda pasti terganggu; jika tidak, ia akan terus menangis. Apa keputusan Anda?",
+  "options": [
+   {
+    "id": "019b8d7a-7bfe-77f6-904d-9623b5058294",
+    "description": "Berangkat diam-diam ketika adik tidak melihat agar ia tidak menangis.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-7bfe-7cc8-b16b-b32759e718dc",
+    "description": "Membatalkan bimbingan hari itu untuk menemani adik di rumah.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b8d7a-7bff-70d0-93d9-cce1dc4933fc",
+    "description": "Menenangkan adik dan memberinya kegiatan mewarnai, lalu berpamitan kepada ibu dan berjanji menemaninya bermain sepulang bimbingan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b8d7a-7bff-73b2-8c90-37cbc6ecb30e",
+    "description": "Meminta ibu menenangkan adik sementara Anda berangkat ke bimbingan.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b8d7a-7bff-76f6-906a-41da2321c24e",
+    "description": "Mengajak adik ikut dan memintanya menunggu di ruang tunggu tempat bimbingan.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda akan berangkat ke bimbingan belajar yang sangat penting.\n- Adik kecil Anda menangis ingin ikut karena merasa kesepian, sementara ibu ada di rumah tetapi sedang sibuk menyelesaikan pesanan jahitan.\n- Jika membawanya, konsentrasi belajar Anda pasti terganggu; jika tidak, ia akan terus menangis.\n\nDITANYAKAN:\nKeputusan yang menjaga tanggung jawab belajar sekaligus memperhatikan adik.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Tanggung jawab utama tetap dijalankan, tetapi dengan komunikasi yang jujur dan kepedulian kepada keluarga.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (D) 4 → (E) 3 → (A) 2 → (B) 1.\n4. (C) — poin 5: Paling tuntas: bimbingan tetap diikuti, adik ditenangkan secara jujur, dan ibu mengetahui keadaannya.\nJadi, jawaban yang tepat adalah (C) Menenangkan adik dan memberinya kegiatan mewarnai, lalu berpamitan kepada ibu dan berjanji menemaninya bermain sepulang bimbingan.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Tanggung jawab belajar terpenuhi, tetapi beban menenangkan adik dialihkan kepada ibu yang sedang sibuk.\n- (E) — poin 3: Peduli kepada adik, tetapi konsentrasi belajar dan ketertiban tempat bimbingan dapat terganggu.\n- (A) — poin 2: Bimbingan diikuti, tetapi dengan cara tidak jujur kepada adik.\n- (B) — poin 1: Mengorbankan tanggung jawab penting karena rasa kasihan sesaat.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Pergi diam-diam diturunkan ke poin 2; stem diperjelas (ibu di rumah); opsi ditulis ulang."
+ },
+ {
+  "id": "019b8d7a-7c06-70ef-89b2-aaf474e1d689",
+  "action": "revise",
+  "description": "Saat berkunjung ke rumah tetangga, Anda melihat adik Anda diam-diam mengambil mainan milik anak tetangga dan menyimpannya di saku. Anda tahu adik sangat menginginkan mainan itu dan sulit dilarang. Apa yang Anda lakukan?",
+  "options": [
+   {
+    "id": "019b8d7a-7c06-73ea-8896-a193dfe8fef2",
+    "description": "Menegur adik saat itu juga dan memintanya mengeluarkan mainan dari sakunya di hadapan tetangga agar masalah langsung selesai dengan jelas.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b8d7a-7c06-790c-bd65-5760e0a0724a",
+    "description": "Menawarkan untuk membeli mainan itu dari tetangga karena adik sangat menyukainya.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b8d7a-7c06-7d1d-92af-a3a6b8218c76",
+    "description": "Membiarkan adik membawanya pulang, lalu mengembalikan mainan itu keesokan harinya.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-7c07-7106-b850-d2c1194b0bf2",
+    "description": "Mengembalikan mainan itu kepada tetangga sambil meminta maaf, lalu menasihati adik setibanya di rumah.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b8d7a-7c07-748f-a6f2-dc58a24098e1",
+    "description": "Mengajak adik menepi, memintanya mengembalikan mainan itu sendiri serta meminta maaf, lalu menjelaskan mengapa perbuatannya salah.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Saat berkunjung ke rumah tetangga, Anda melihat adik Anda diam-diam mengambil mainan milik anak tetangga dan menyimpannya di saku.\n- Anda tahu adik sangat menginginkan mainan itu dan sulit dilarang.\n\nDITANYAKAN:\nTindakan yang paling tepat untuk menyelesaikan perbuatan adik dengan jujur dan mendidik.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Kesalahan diselesaikan saat itu juga dengan jujur, tanpa mempermalukan anak, dan disertai pembinaan agar ia memahami kesalahannya.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (D) 4 → (A) 3 → (C) 2 → (B) 1.\n4. (E) — poin 5: Paling tuntas: barang dikembalikan, adik bertanggung jawab langsung, dan ia memahami kesalahannya tanpa dipermalukan.\nJadi, jawaban yang tepat adalah (E) Mengajak adik menepi, memintanya mengembalikan mainan itu sendiri serta meminta maaf, lalu menjelaskan mengapa perbuatannya salah.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Jujur dan tuntas soal barang, tetapi adik tidak belajar bertanggung jawab sendiri.\n- (A) — poin 3: Jujur dan cepat, tetapi dapat mempermalukan adik di depan orang lain.\n- (C) — poin 2: Akhirnya dikembalikan, tetapi menunda kejujuran dan memberi contoh yang keliru.\n- (B) — poin 1: Menutupi kesalahan dan seolah membenarkan perbuatan mengambil barang orang lain.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Menggeledah di depan tetangga diturunkan ke poin 3 (redaksi diperhalus); urutan poin disusun ulang."
+ },
+ {
+  "id": "019b8d7a-7c2c-7a57-b238-1f7309d2ee49",
+  "action": "revise",
+  "description": "Anda pengurus OSIS yang dipercaya menjaga ruang guru selama rapat besar berlangsung. Anda melihat teman akrab Anda, yang terancam tidak lulus matematika, masuk dan memotret lembar soal ujian susulan di meja guru. Teman Anda memohon agar Anda tidak melaporkannya karena ia sangat tertekan oleh tuntutan orang tuanya. Apa tindakan Anda?",
+  "options": [
+   {
+    "id": "019b8d7a-7c2d-7088-aadb-a0b15e121aa5",
+    "description": "Menghentikan perbuatannya, memastikan foto dihapus, lalu melaporkannya kepada guru agar ia ditangani dan didampingi.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b8d7a-7c2d-742f-9cfb-0dad500f3d39",
+    "description": "Menegur keras, memintanya menghapus foto, dan menawarkan bantuan belajar tanpa melaporkan kejadian itu.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b8d7a-7c2d-7731-b3a9-c4befed18bc3",
+    "description": "Berpura-pura tidak melihat karena kasihan dengan tekanan yang ia alami.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b8d7a-7c2d-7ad3-9ba2-ba4c13d849c6",
+    "description": "Memintanya keluar ruangan dan berjanji tidak melapor asalkan ia tidak mengulanginya.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-7c2d-7f28-83b9-20684d75753f",
+    "description": "Mendampingi teman tersebut melapor sendiri kepada guru BK sambil membantu menceritakan tekanan berat dari orang tua yang selama ini ia alami.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda pengurus OSIS yang dipercaya menjaga ruang guru selama rapat besar berlangsung.\n- Anda melihat teman akrab Anda, yang terancam tidak lulus matematika, masuk dan memotret lembar soal ujian susulan di meja guru.\n- Teman Anda memohon agar Anda tidak melaporkannya karena ia sangat tertekan oleh tuntutan orang tuanya.\n\nDITANYAKAN:\nTindakan pengurus OSIS yang menjaga amanah sekaligus peduli kepada teman.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Amanah dan integritas harus ditegakkan: kecurangan dihentikan dan dilaporkan, tetapi teman tetap diperlakukan secara manusiawi dan mendapat pendampingan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (E) 4 → (B) 3 → (D) 2 → (C) 1.\n4. (A) — poin 5: Paling tuntas: kecurangan dihentikan, bukti dimusnahkan, amanah dijalankan, dan teman memperoleh pembinaan.\nJadi, jawaban yang tepat adalah (A) Menghentikan perbuatannya, memastikan foto dihapus, lalu melaporkannya kepada guru agar ia ditangani dan didampingi.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Jujur dan empatik, tetapi belum memastikan foto soal sudah dihapus.\n- (B) — poin 3: Kecurangan dihentikan dan teman dibantu, tetapi amanah menjaga ruangan tidak dipertanggungjawabkan.\n- (D) — poin 2: Melindungi teman, tetapi kecurangan dibiarkan tanpa memastikan foto dihapus.\n- (C) — poin 1: Pasif dan mengkhianati amanah yang diberikan sekolah.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi melapor diri dinaikkan; urutan poin bagian bawah disusun ulang; opsi ditulis ulang."
+ },
+ {
+  "id": "019b8d7a-ba28-7463-9985-9cd8fa21b795",
+  "action": "revise",
+  "description": "Anda adalah ketua OSIS yang menyusun program akhir semester. Sebagian besar siswa menginginkan pentas seni dengan bintang tamu terkenal yang menghabiskan hampir seluruh sisa anggaran. Sebagian kecil siswa mengusulkan pelatihan pertolongan pertama dan tanggap bencana yang lebih bermanfaat, tetapi kurang diminati. Bagaimana Anda mengambil keputusan?",
+  "options": [
+   {
+    "id": "019b8d7a-ba28-787d-97f1-40bcee460c29",
+    "description": "Mengadakan pentas seni dengan bintang tamu karena paling banyak diminati siswa.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-ba28-7e54-a686-74bf0ceffc2c",
+    "description": "Mengadakan pelatihan pertolongan pertama karena manfaatnya lebih besar bagi siswa.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b8d7a-ba29-72e4-8033-0b5035043cf3",
+    "description": "Mengadakan survei kepada seluruh siswa setelah menjelaskan rincian biaya dan manfaat masing-masing usulan.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b8d7a-ba29-79ea-983d-289339c52456",
+    "description": "Meniadakan program akhir semester tahun ini agar tidak ada pihak yang kecewa.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b8d7a-ba29-7e65-a2d0-875ed5bd20d8",
+    "description": "Mengusulkan pentas seni sederhana yang dirangkai dengan pelatihan pertolongan pertama, lalu meminta persetujuan rapat pengurus.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah ketua OSIS yang menyusun program akhir semester.\n- Sebagian besar siswa menginginkan pentas seni dengan bintang tamu terkenal yang menghabiskan hampir seluruh sisa anggaran.\n- Sebagian kecil siswa mengusulkan pelatihan pertolongan pertama dan tanggap bencana yang lebih bermanfaat, tetapi kurang diminati.\n\nDITANYAKAN:\nKeputusan ketua OSIS yang paling tepat dalam memilih program dan mengelola anggaran.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Keputusan organisasi yang baik menimbang manfaat dan anggaran, memadukan aspirasi bila memungkinkan, dan disahkan melalui forum resmi organisasi.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (C) 4 → (B) 3 → (A) 2 → (D) 1.\n4. (E) — poin 5: Paling tuntas: manfaat dan minat siswa terakomodasi, anggaran terkendali, dan keputusan sah melalui rapat.\nJadi, jawaban yang tepat adalah (E) Mengusulkan pentas seni sederhana yang dirangkai dengan pelatihan pertolongan pertama, lalu meminta persetujuan rapat pengurus.\nMengapa opsi lain kurang tepat:\n- (C) — poin 4: Transparan dan partisipatif, tetapi belum menawarkan rancangan yang memadukan kedua aspirasi.\n- (B) — poin 3: Tepat dari sisi manfaat, tetapi sepihak dan mengabaikan aspirasi mayoritas.\n- (A) — poin 2: Mengikuti mayoritas, tetapi menghabiskan anggaran untuk kegiatan yang kurang bermanfaat.\n- (D) — poin 1: Menghindari keputusan dan merugikan semua siswa.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Soal duplikat (OSIS musik vs seminar) dibedakan menjadi pentas seni vs pelatihan P3K; keputusan sepihak tidak lagi poin 5; spasi diperbaiki."
+ },
+ {
+  "id": "019b6e3f-209c-74ca-b76e-477ee542b822",
+  "action": "revise",
+  "description": "Anda menemukan beberapa akun media sosial milik ASN dari instansi lain yang sering mengunggah konten yang memuja sistem khilafah dan mengajak mengganti Pancasila. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b6e3f-209c-77fe-86a2-3a6143329e2b",
+    "description": "Tidak menanggapi karena akun tersebut berasal dari instansi lain.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-209c-7b88-b3da-c4782639a84a",
+    "description": "Menegur pemilik akun melalui pesan pribadi agar menghapus unggahannya.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-209d-71b4-9d99-129e54f6adc6",
+    "description": "Melaporkan akun-akun tersebut melalui fitur pelaporan konten di platform media sosial agar unggahannya segera ditinjau dan diturunkan.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b6e3f-209d-75de-9c2a-a479991c8217",
+    "description": "Menyimpan tangkapan layar sebagai bukti, lalu melaporkan akun tersebut melalui kanal pengaduan resmi instansi terkait atau BKN.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e3f-209d-79bb-a63e-62d38400c7f9",
+    "description": "Membalas unggahan itu di kolom komentar dengan argumen tentang Pancasila.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda menemukan beberapa akun media sosial milik ASN dari instansi lain yang sering mengunggah konten yang memuja sistem khilafah dan mengajak mengganti Pancasila.\n\nDITANYAKAN:\nSikap yang paling tepat terhadap penyebaran paham anti-Pancasila oleh aparatur negara di media sosial.\n\nJAWAB:\n1. Dimensi yang diukur: Antiradikalisme, yaitu kesetiaan kepada Pancasila dan NKRI, menolak paham radikal, serta menindaklanjutinya melalui jalur pelaporan yang tepat.\n2. Prinsip penilaian: Setia kepada Pancasila dan NKRI berarti tidak membiarkan paham radikal, mengamankan bukti, dan melapor melalui kanal resmi yang berwenang, bukan berdebat atau bertindak sendiri.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (C) 4 → (B) 3 → (E) 2 → (A) 1.\n4. (D) — poin 5: Paling tuntas: bukti aman dan laporan sampai kepada pihak yang berwenang menindak ASN tersebut.\nJadi, jawaban yang tepat adalah (D) Menyimpan tangkapan layar sebagai bukti, lalu melaporkan akun tersebut melalui kanal pengaduan resmi instansi terkait atau BKN.\nMengapa opsi lain kurang tepat:\n- (C) — poin 4: Cepat membatasi penyebaran konten, tetapi tidak menyentuh pembinaan dan penindakan ASN yang bersangkutan.\n- (B) — poin 3: Peduli, tetapi tidak melalui jalur resmi dan berisiko diabaikan.\n- (E) — poin 2: Membela Pancasila, tetapi justru menambah keterlibatan dan penyebaran konten tersebut.\n- (A) — poin 1: Pasif terhadap ancaman ideologi negara.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi 'menunggu viral' (poin 4) dihapus; urutan poin disusun ulang dengan penekanan pada jalur pelaporan resmi."
+ },
+ {
+  "id": "019b8d7a-7c29-79da-b8c5-7f0d04ef090d",
+  "action": "revise",
+  "description": "Anda sedang magang di sebuah kantor. Dalam obrolan santai, beberapa senior membicarakan suatu kelompok masyarakat dan pemerintah dengan nada yang mengarah pada paham radikal. Mereka lalu meminta pendapat Anda. Bagaimana Anda merespons?",
+  "options": [
+   {
+    "id": "019b8d7a-7c29-7d44-8d83-7b92e1329f1b",
+    "description": "Mengalihkan pembicaraan ke topik pekerjaan agar diskusi itu tidak berlanjut.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-7c2a-71cd-84bd-07b15a60b732",
+    "description": "Menyatakan dengan santun bahwa Anda tidak sependapat, menjelaskan pentingnya persatuan, lalu melapor kepada pembimbing bila obrolan mengarah pada ajakan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b8d7a-7c2a-7640-95e7-931fe40a8efc",
+    "description": "Menjawab bahwa Anda tidak mengikuti isu politik dan memilih tidak berpendapat.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b8d7a-7c2a-7ad1-b642-b914eb7ec03b",
+    "description": "Menanggapi dengan santun bahwa setiap persoalan sebaiknya disikapi melalui jalur yang sah sesuai hukum.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b8d7a-7c2a-7ee2-bf5d-d7e8a6b46181",
+    "description": "Mendengarkan tanpa berkomentar, lalu menceritakan isi obrolan itu kepada pembimbing magang.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda sedang magang di sebuah kantor.\n- Dalam obrolan santai, beberapa senior membicarakan suatu kelompok masyarakat dan pemerintah dengan nada yang mengarah pada paham radikal.\n- Mereka lalu meminta pendapat Anda.\n\nDITANYAKAN:\nRespons yang paling tepat terhadap obrolan bernada radikal dari senior.\n\nJAWAB:\n1. Dimensi yang diukur: Antiradikalisme, yaitu kesetiaan kepada Pancasila dan NKRI, menolak paham radikal, serta menindaklanjutinya melalui jalur pelaporan yang tepat.\n2. Prinsip penilaian: Sikap antiradikalisme ditunjukkan dengan berani menyatakan sikap kebangsaan secara santun dan melaporkan kepada pihak yang tepat bila ada indikasi ajakan, bukan diam atau ikut arus.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (D) 4 → (E) 3 → (A) 2 → (C) 1.\n4. (B) — poin 5: Paling tuntas: sikap kebangsaan ditegaskan secara santun dan potensi paham radikal ditindaklanjuti melalui jalur yang tepat.\nJadi, jawaban yang tepat adalah (B) Menyatakan dengan santun bahwa Anda tidak sependapat, menjelaskan pentingnya persatuan, lalu melapor kepada pembimbing bila obrolan mengarah pada ajakan.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Menyampaikan sikap yang benar, tetapi tidak ada tindak lanjut bila obrolan itu berkembang.\n- (E) — poin 3: Ada pelaporan, tetapi tidak berani menyatakan sikap saat diminta pendapat.\n- (A) — poin 2: Menghindari konflik, tetapi tidak menunjukkan sikap terhadap paham radikal.\n- (C) — poin 1: Pasif dan menghindar dari sikap kebangsaan yang seharusnya ditunjukkan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Urutan poin dibalik agar menyatakan sikap tegas-santun menjadi poin 5 dan mengalihkan pembicaraan turun; opsi 'mengangguk setuju' diganti."
+ },
+ {
+  "id": "019b5ef7-0904-7245-b18e-10313b62932b",
+  "action": "fix",
+  "description": "Anda adalah ketua tim kerja yang anggotanya memiliki latar belakang budaya dan agama yang sangat beragam. Salah satu anggota sering menyendiri dan tidak berbaur saat jam istirahat, sehingga koordinasi kerja kadang terhambat. Bagaimana sikap Anda sebagai ketua tim?",
+  "options": [
+   {
+    "id": "019b5ef7-0904-769e-ae2c-74854c6023a7",
+    "description": "Mendekati anggota itu secara pribadi untuk memahami alasannya, lalu menyepakati cara koordinasi yang menghormati latar belakangnya.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b5ef7-0904-799a-958b-71e0b0c05397",
+    "description": "Meminta anggota lain lebih sering mengajaknya bergabung saat jam istirahat.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b5ef7-0904-7d56-a354-138b0004700b",
+    "description": "Mengadakan rapat koordinasi singkat setiap pagi pada jam kerja agar semua anggota tetap terlibat tanpa harus berbaur saat jam istirahat.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b5ef7-0905-70fc-b0f1-56ab9bef1ef3",
+    "description": "Melaporkan kepada atasan dan meminta agar anggota tersebut dipindahkan ke tim lain.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b5ef7-0905-74a6-a24a-bbd818467177",
+    "description": "Mewajibkan seluruh anggota tim makan siang bersama agar kebersamaan tim terbangun.",
+    "isCorrect": true,
+    "point": 2
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah ketua tim kerja yang anggotanya memiliki latar belakang budaya dan agama yang sangat beragam.\n- Salah satu anggota sering menyendiri dan tidak berbaur saat jam istirahat, sehingga koordinasi kerja kadang terhambat.\n\nDITANYAKAN:\nSikap ketua tim yang menghormati keberagaman sekaligus memperlancar koordinasi kerja.\n\nJAWAB:\n1. Dimensi yang diukur: Sosial budaya, yaitu menghormati keberagaman dan kebiasaan setempat, merekatkan persatuan, tanpa melanggar aturan maupun keyakinan.\n2. Prinsip penilaian: Dalam tim majemuk, perbedaan kebiasaan dihormati; masalah koordinasi diselesaikan dengan pendekatan pribadi yang empatik, bukan dengan paksaan atau pelimpahan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (C) 4 → (B) 3 → (E) 2 → (D) 1.\n4. (A) — poin 5: Paling tuntas: akar masalah dipahami, keberagaman dihormati, dan koordinasi kerja diperbaiki atas kesepakatan bersama.\nJadi, jawaban yang tepat adalah (A) Mendekati anggota itu secara pribadi untuk memahami alasannya, lalu menyepakati cara koordinasi yang menghormati latar belakangnya.\nMengapa opsi lain kurang tepat:\n- (C) — poin 4: Memperlancar koordinasi dan menghormati waktu pribadi, tetapi belum memahami alasan anggota tersebut.\n- (B) — poin 3: Niatnya merangkul, tetapi ketua tidak turun tangan langsung dan bisa membuat anggota itu merasa tertekan.\n- (E) — poin 2: Ingin membangun kebersamaan, tetapi memaksa dan kurang menghormati keberagaman kebiasaan.\n- (D) — poin 1: Melempar masalah dan tidak menghargai keberagaman dalam tim.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Soal TKP-04 diperbaiki: opsi pendekatan personal menjadi poin 5, aturan wajib makan bersama diturunkan ke poin 2, poin lengkap 1–5."
+ },
+ {
+  "id": "019b8d7a-7bc8-707f-a0fd-32a743f374b0",
+  "action": "fix",
+  "description": "Anda sedang dinas luar kota dan terpaksa menginap di rumah kerabat. Kerabat Anda memiliki kebiasaan dan tradisi yang sangat berbeda dengan Anda, sehingga Anda merasa sedikit tidak nyaman. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b8d7a-7bc8-75a8-83a3-8c6a00c3dfda",
+    "description": "Meminta kerabat menyesuaikan kebiasaannya selama Anda menginap di sana.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b8d7a-7bc8-7b9a-9267-cdfdad9592ca",
+    "description": "Bersikap sopan, tetapi lebih banyak menghabiskan waktu di luar rumah selama dinas.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b8d7a-7bc9-7095-a9c3-dbcc0b5364e9",
+    "description": "Menghormati kebiasaan kerabat dan ikut serta sejauh tidak bertentangan dengan keyakinan Anda.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b8d7a-7bc9-7380-acbb-834a41e8f012",
+    "description": "Mencari penginapan lain agar tidak perlu menyesuaikan diri dengan tradisi tersebut.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-7bc9-7738-b1d0-aea04cb1e212",
+    "description": "Menanyakan makna tradisi itu kepada kerabat agar Anda dapat menyesuaikan diri dengan tepat.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda sedang dinas luar kota dan terpaksa menginap di rumah kerabat.\n- Kerabat Anda memiliki kebiasaan dan tradisi yang sangat berbeda dengan Anda, sehingga Anda merasa sedikit tidak nyaman.\n\nDITANYAKAN:\nSikap yang paling tepat ketika harus menyesuaikan diri dengan tradisi yang berbeda.\n\nJAWAB:\n1. Dimensi yang diukur: Sosial budaya, yaitu menghormati keberagaman dan kebiasaan setempat, merekatkan persatuan, tanpa melanggar aturan maupun keyakinan.\n2. Prinsip penilaian: Menghormati kebiasaan setempat berarti mau memahami dan menyesuaikan diri sejauh tidak melanggar keyakinan atau aturan, bukan menghindar atau menuntut orang lain berubah.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (E) 4 → (B) 3 → (D) 2 → (A) 1.\n4. (C) — poin 5: Paling tuntas: menghargai tuan rumah, menyesuaikan diri, dan tetap memegang keyakinan.\nJadi, jawaban yang tepat adalah (C) Menghormati kebiasaan kerabat dan ikut serta sejauh tidak bertentangan dengan keyakinan Anda.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Sikap terbuka dan ingin memahami, tetapi belum sampai pada penyesuaian diri yang nyata.\n- (B) — poin 3: Tidak menimbulkan konflik, tetapi cenderung menghindari interaksi.\n- (D) — poin 2: Menghindari perbedaan dan dapat menyinggung kerabat.\n- (A) — poin 1: Menuntut tuan rumah berubah; tidak menghormati kebiasaan setempat.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi A yang menyalin teks soal ditulis ulang menjadi opsi yang dapat dinilai; urutan poin disusun ulang."
+ },
+ {
+  "id": "019b6e3f-206d-7d9c-8dff-99929570c80d",
+  "action": "fix",
+  "description": "Anda bertugas di bagian arsip sebuah kantor pelayanan. Anda menemukan bahwa sebagian arsip digital lama tersimpan dalam format berkas usang yang tidak lagi dapat dibuka oleh perangkat lunak kantor. Sebagian arsip itu masih dibutuhkan sebagai dasar pelayanan kepada masyarakat. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b6e3f-206e-725b-bdb8-36de2b54a9a5",
+    "description": "Membiarkannya karena arsip lama jarang dibuka dan arsip baru sudah tersimpan dengan baik.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-206e-7572-901e-0db688813310",
+    "description": "Mencatat daftar arsip yang tidak dapat dibuka agar diketahui petugas berikutnya.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-206e-78a0-904e-687e4794c6cf",
+    "description": "Mendata arsip yang terdampak, lalu mengusulkan kepada atasan alih media resmi bersama tim TI lengkap dengan salinan cadangan.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e3f-206e-7bbd-8b88-2840f53c33be",
+    "description": "Mengonversi arsip tersebut satu per satu di komputer kerja memakai aplikasi gratis dari internet agar arsip cepat dapat dibuka kembali.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e3f-206f-705f-a8b4-a8e21807ca6f",
+    "description": "Melaporkan kondisi arsip kepada atasan dan meminta tim TI mencarikan solusinya.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda bertugas di bagian arsip sebuah kantor pelayanan.\n- Anda menemukan bahwa sebagian arsip digital lama tersimpan dalam format berkas usang yang tidak lagi dapat dibuka oleh perangkat lunak kantor.\n- Sebagian arsip itu masih dibutuhkan sebagai dasar pelayanan kepada masyarakat.\n\nDITANYAKAN:\nTindakan yang aman bagi data sekaligus efektif agar arsip dapat dimanfaatkan kembali.\n\nJAWAB:\n1. Dimensi yang diukur: Teknologi informasi dan komunikasi, yaitu memanfaatkan teknologi secara efektif, aman bagi data, sesuai prosedur, dan beretika.\n2. Prinsip penilaian: Pengelolaan data harus aman dan sesuai prosedur: masalah dipetakan, dilaporkan, dan ditangani secara resmi bersama pihak yang kompeten dengan cadangan data yang terjaga.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (C) 5 → (E) 4 → (B) 3 → (D) 2 → (A) 1.\n4. (C) — poin 5: Paling tuntas: masalah dipetakan, ditangani melalui jalur resmi oleh pihak kompeten, dan keamanan data terjaga.\nJadi, jawaban yang tepat adalah (C) Mendata arsip yang terdampak, lalu mengusulkan kepada atasan alih media resmi bersama tim TI lengkap dengan salinan cadangan.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Sesuai prosedur, tetapi tanpa pemetaan masalah dan usulan yang konkret.\n- (B) — poin 3: Berguna sebagai dokumentasi, tetapi tidak menyelesaikan masalah.\n- (D) — poin 2: Berinisiatif, tetapi berisiko terhadap keamanan dan keutuhan data.\n- (A) — poin 1: Pasif; arsip yang masih dibutuhkan pelayanan dibiarkan tidak dapat diakses.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Stem yang rusak/tertukar dipulihkan (arsip berformat usang); opsi disesuaikan dengan TIK dan keamanan data; poin 1–5 disusun ulang."
+ },
+ {
+  "id": "0199d8df-0211-7f28-a588-90b90492fefd",
+  "action": "fix",
+  "description": "Anda adalah dokter di sebuah klinik pemerintah. Kebijakan baru mewajibkan resep obat generik yang tercantum dalam formularium klinik. Seorang pasien memiliki riwayat alergi tercatat terhadap bahan tambahan pada obat generik yang tersedia, sedangkan obat bermerek tidak mengandung bahan tersebut. Atasan mengingatkan adanya sanksi bagi pelanggar kebijakan. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8df-0212-7328-bbac-e7ab5254434f",
+    "description": "Meresepkan obat bermerek untuk pasien tersebut dan siap menanggung sanksi karena keselamatan pasien adalah hal yang paling utama.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8df-0212-7702-ae42-466b000a1320",
+    "description": "Berkonsultasi dengan apoteker untuk mencari alternatif generik yang aman; bila tidak ada, mengajukan pengecualian resmi.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8df-0212-7ace-9cb8-2c9c8a47b595",
+    "description": "Melaporkan kasus ini kepada atasan dan menunggu keputusannya sebelum meresepkan obat.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8df-0212-7d7a-b6a8-42f89c29eedf",
+    "description": "Mengajukan permohonan pengecualian kepada atasan disertai bukti riwayat alergi pasien.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8df-0213-718a-85d9-9ae4891dc17d",
+    "description": "Merujuk pasien ke rumah sakit lain agar Anda tidak perlu memutuskan sendiri.",
+    "isCorrect": true,
+    "point": 1
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah dokter di sebuah klinik pemerintah.\n- Kebijakan baru mewajibkan resep obat generik yang tercantum dalam formularium klinik.\n- Seorang pasien memiliki riwayat alergi tercatat terhadap bahan tambahan pada obat generik yang tersedia, sedangkan obat bermerek tidak mengandung bahan tersebut.\n- Atasan mengingatkan adanya sanksi bagi pelanggar kebijakan.\n\nDITANYAKAN:\nSikap dokter yang tetap patuh aturan sekaligus menjamin keselamatan pasien.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Profesional mematuhi kebijakan yang sah dan menyelesaikan kasus khusus melalui mekanisme resmi, sehingga keselamatan pasien terjamin tanpa melanggar aturan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (B) 5 → (D) 4 → (C) 3 → (A) 2 → (E) 1.\n4. (B) — poin 5: Paling tuntas: aturan dipatuhi, keselamatan pasien terjamin, dan jalur pengecualian dipakai bila memang diperlukan.\nJadi, jawaban yang tepat adalah (B) Berkonsultasi dengan apoteker untuk mencari alternatif generik yang aman; bila tidak ada, mengajukan pengecualian resmi.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Sesuai prosedur dan melindungi pasien, tetapi belum mencari alternatif yang tersedia dalam formularium.\n- (C) — poin 3: Taat jalur, tetapi pasif sehingga penanganan pasien tertunda.\n- (A) — poin 2: Melindungi pasien, tetapi melanggar kebijakan secara sepihak padahal ada jalur resmi.\n- (E) — poin 1: Melempar tanggung jawab kepada pihak lain.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Premis keliru (generik 'kurang efektif') diganti kasus alergi tercatat; melanggar kebijakan tidak lagi poin 5; urutan poin disusun ulang."
+ },
+ {
+  "id": "0199d8e4-0971-77ab-ac2e-e91bdc86d6f3",
+  "action": "fix",
+  "description": "Anda adalah pekerja migran di sebuah pabrik di luar negeri. Seorang rekan kerja dipaksa atasan bekerja lebih lama tanpa upah lembur. Rekan itu tidak berani melapor karena takut dipecat dan dideportasi. Jika Anda ikut melapor, Anda berisiko kehilangan pekerjaan; jika diam, ketidakadilan terus berlangsung. Bagaimana Anda akan bersikap?",
+  "options": [
+   {
+    "id": "0199d8e4-0971-7b89-8270-b2a327674aa4",
+    "description": "Membicarakan masalah itu dengan bagian personalia pabrik agar ditangani secara internal.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "0199d8e4-0971-7f2c-ad58-ff193751540d",
+    "description": "Menasihati rekan agar bersabar sampai kontraknya selesai supaya tidak kehilangan pekerjaan.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-0972-74cf-97a0-a148bf122530",
+    "description": "Menegur langsung atasan tersebut agar memberi upah lembur yang layak.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-0972-786c-b903-a27cc9847d71",
+    "description": "Menghimpun bukti jam kerja dan mendampingi rekan melapor ke perwakilan RI atau otoritas ketenagakerjaan setempat.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-0972-7e2a-8433-fde0e8fafaf9",
+    "description": "Menyarankan rekan menghubungi layanan pengaduan pekerja migran dan menawarkan diri menjadi saksi.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah pekerja migran di sebuah pabrik di luar negeri.\n- Seorang rekan kerja dipaksa atasan bekerja lebih lama tanpa upah lembur.\n- Rekan itu tidak berani melapor karena takut dipecat dan dideportasi.\n- Jika Anda ikut melapor, Anda berisiko kehilangan pekerjaan; jika diam, ketidakadilan terus berlangsung.\n\nDITANYAKAN:\nSikap yang tepat melihat rekan kerja diperlakukan tidak adil oleh atasan.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Ketidakadilan dilaporkan kepada pihak berwenang yang independen disertai bukti, bukan kepada pelaku atau dibiarkan; korban didampingi agar berani menempuh jalur resmi.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (E) 4 → (A) 3 → (C) 2 → (B) 1.\n4. (D) — poin 5: Paling tuntas: laporan sampai kepada pihak yang berwenang dan aman, disertai bukti, dan korban tidak sendirian.\nJadi, jawaban yang tepat adalah (D) Menghimpun bukti jam kerja dan mendampingi rekan melapor ke perwakilan RI atau otoritas ketenagakerjaan setempat.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Mendukung jalur resmi, tetapi belum membantu menyiapkan bukti dan pendampingan langsung.\n- (A) — poin 3: Masih melalui jalur, tetapi penanganan internal belum tentu independen terhadap atasan pelaku.\n- (C) — poin 2: Berani, tetapi tidak melalui jalur resmi dan berisiko tanpa hasil.\n- (B) — poin 1: Pasif; ketidakadilan dibiarkan berlanjut.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Melapor kepada atasan pelaku tidak lagi poin 5; pengumpulan bukti dan pelaporan ke otoritas menjadi poin 5; opsi salin-tempel dihapus."
+ },
+ {
+  "id": "0199d8e4-1d63-74a8-a35e-ef93d0d8a7fe",
+  "action": "fix",
+  "description": "Anda adalah petugas kebersihan di sebuah taman. Anda menemukan dompet berisi uang tunai dan kartu identitas. Anda tahu dompet temuan harus diserahkan kepada pihak berwenang, tetapi Anda sedang kesulitan keuangan. Apa yang akan Anda lakukan?",
+  "options": [
+   {
+    "id": "0199d8e4-1d63-7991-b4c9-e007cee876bd",
+    "description": "Menyerahkan dompet secara utuh ke kantor polisi terdekat dan mencatat waktu serta lokasi penemuannya.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "0199d8e4-1d63-7edb-807f-54f0a8aaf4d7",
+    "description": "Mengumumkan temuan dompet di media sosial dengan memperlihatkan foto kartu identitas pemiliknya.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "0199d8e4-1d64-7524-bd53-d795cb6fd925",
+    "description": "Menghubungi pemilik melalui data di kartu identitas, lalu menyerahkan dompet itu secara utuh di kantor pengelola taman.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "0199d8e4-1d64-7ad3-b2c7-e7af5d338b3b",
+    "description": "Membiarkan dompet itu di tempatnya karena khawatir dituduh mengambil isinya.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "0199d8e4-1d65-703a-8333-eac131a95ec5",
+    "description": "Menyimpan dompet di loker untuk diserahkan kepada atasan saat jam kerja berakhir.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda adalah petugas kebersihan di sebuah taman.\n- Anda menemukan dompet berisi uang tunai dan kartu identitas.\n- Anda tahu dompet temuan harus diserahkan kepada pihak berwenang, tetapi Anda sedang kesulitan keuangan.\n\nDITANYAKAN:\nSikap yang jujur dan sesuai aturan terhadap barang temuan.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Kejujuran berarti menyerahkan barang temuan secara utuh kepada pihak berwenang dengan cara yang tertib dan menjaga hak serta privasi pemiliknya.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (C) 4 → (E) 3 → (B) 2 → (D) 1.\n4. (A) — poin 5: Paling tuntas: jujur, sesuai aturan, dan pemilik mudah dilacak melalui pihak berwenang.\nJadi, jawaban yang tepat adalah (A) Menyerahkan dompet secara utuh ke kantor polisi terdekat dan mencatat waktu serta lokasi penemuannya.\nMengapa opsi lain kurang tepat:\n- (C) — poin 4: Jujur dan cepat, tetapi tidak sepenuhnya mengikuti prosedur penyerahan kepada pihak berwenang.\n- (E) — poin 3: Jujur, tetapi penyerahannya tertunda dan risiko kehilangan meningkat.\n- (B) — poin 2: Berniat mengembalikan, tetapi membuka data pribadi pemilik kepada publik.\n- (D) — poin 1: Pasif; dompet berisiko diambil orang lain.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi mengambil uang tunai (poin 4) dihapus; semua opsi jujur diurutkan menurut ketuntasan dan kepatuhan prosedur."
+ },
+ {
+  "id": "019b6e3f-208d-7278-a22f-7743b6f8f175",
+  "action": "fix",
+  "description": "Atasan meminta Anda menyelesaikan pekerjaan yang sangat penting. Anda sudah mencurahkan seluruh tenaga dan waktu, tetapi hasilnya tetap di bawah harapan atasan. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b6e3f-208d-767f-9598-a9fefcf320ac",
+    "description": "Meminta rekan yang lebih ahli menyelesaikan perbaikan pekerjaan tersebut.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e3f-208d-7ab0-84a9-fcec6b3e2653",
+    "description": "Menjelaskan kepada atasan bahwa Anda sudah berusaha maksimal dengan waktu yang tersedia.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e3f-208d-7e19-b7c1-831060e384f0",
+    "description": "Menerima penilaian tersebut dengan lapang dada dan berharap tugas berikutnya lebih sesuai dengan kemampuan dan pengalaman Anda.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e3f-208e-72ee-b5df-e904e1c9e246",
+    "description": "Memperbaiki pekerjaan sesuai kritik atasan secepatnya.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b6e3f-208e-75c4-b895-63696071fd08",
+    "description": "Meminta umpan balik rinci dari atasan, lalu memperbaiki pekerjaan sesuai masukan dengan bantuan rekan yang lebih ahli.",
+    "isCorrect": true,
+    "point": 5
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Atasan meminta Anda menyelesaikan pekerjaan yang sangat penting.\n- Anda sudah mencurahkan seluruh tenaga dan waktu, tetapi hasilnya tetap di bawah harapan atasan.\n\nDITANYAKAN:\nSikap yang paling tepat ketika hasil kerja belum memenuhi harapan atasan.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Profesional menerima evaluasi dengan terbuka, mencari tahu kekurangan secara jelas, dan memperbaikinya sampai tuntas.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (E) 5 → (D) 4 → (A) 3 → (B) 2 → (C) 1.\n4. (E) — poin 5: Paling tuntas: kekurangan dipahami dengan jelas, diperbaiki sendiri, dan didukung sumber yang kompeten.\nJadi, jawaban yang tepat adalah (E) Meminta umpan balik rinci dari atasan, lalu memperbaiki pekerjaan sesuai masukan dengan bantuan rekan yang lebih ahli.\nMengapa opsi lain kurang tepat:\n- (D) — poin 4: Bertanggung jawab, tetapi tanpa memastikan detail harapan atasan.\n- (A) — poin 3: Hasil mungkin membaik, tetapi tanggung jawab dilimpahkan kepada orang lain.\n- (B) — poin 2: Jujur, tetapi defensif dan tidak memperbaiki hasil.\n- (C) — poin 1: Pasif; tidak ada upaya perbaikan.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Opsi A yang menyalin teks soal ditulis ulang; urutan poin disusun ulang; opsi protes/menyalahkan diganti opsi wajar."
+ },
+ {
+  "id": "019b6e42-e914-7278-866b-88bb4407aa72",
+  "action": "fix",
+  "description": "Anda baru dipromosikan menjadi kepala bagian. Budaya kerja di bagian itu sangat santai: staf sering datang terlambat dan pulang lebih awal dengan alasan pekerjaan sudah selesai, padahal mutu hasil kerja masih dapat ditingkatkan. Saat Anda mulai menegakkan disiplin, staf senior yang dihormati mengatakan bahwa cara kerja santai itulah yang membuat tim tidak stres dan tetap solid. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b6e42-e914-7973-9dc2-d07ec0a96260",
+    "description": "Berdiskusi dengan staf senior untuk menyamakan visi, lalu menetapkan target mutu dan jam kerja yang disepakati tim.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b6e42-e914-7e4b-b2b5-c538a62b5a57",
+    "description": "Melaporkan kondisi tersebut kepada atasan agar pimpinan yang menegur staf.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b6e42-e915-7225-82cf-167af018c564",
+    "description": "Mengikuti budaya kerja yang ada demi menjaga keharmonisan karena Anda orang baru.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b6e42-e915-75d6-851f-87107e949c8b",
+    "description": "Menerapkan absensi digital dan sanksi tegas tanpa kecuali sejak hari pertama.",
+    "isCorrect": true,
+    "point": 3
+   },
+   {
+    "id": "019b6e42-e915-7987-ae55-a6b0bbfd1194",
+    "description": "Menetapkan target mutu yang jelas bagi setiap staf dan memantau capaiannya secara berkala.",
+    "isCorrect": true,
+    "point": 4
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Anda baru dipromosikan menjadi kepala bagian.\n- Budaya kerja di bagian itu sangat santai: staf sering datang terlambat dan pulang lebih awal dengan alasan pekerjaan sudah selesai, padahal mutu hasil kerja masih dapat ditingkatkan.\n- Saat Anda mulai menegakkan disiplin, staf senior yang dihormati mengatakan bahwa cara kerja santai itulah yang membuat tim tidak stres dan tetap solid.\n\nDITANYAKAN:\nSikap pemimpin baru dalam membenahi budaya kerja yang kurang disiplin.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Pemimpin yang profesional menegakkan disiplin dan mutu kerja, tetapi melakukannya dengan merangkul tokoh kunci dan membangun kesepakatan, bukan sepihak atau melimpahkan.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (A) 5 → (E) 4 → (D) 3 → (B) 2 → (C) 1.\n4. (A) — poin 5: Paling tuntas: disiplin dan mutu ditegakkan dengan dukungan tokoh kunci sehingga perubahan diterima tim.\nJadi, jawaban yang tepat adalah (A) Berdiskusi dengan staf senior untuk menyamakan visi, lalu menetapkan target mutu dan jam kerja yang disepakati tim.\nMengapa opsi lain kurang tepat:\n- (E) — poin 4: Fokus pada peningkatan mutu, tetapi belum merangkul staf senior dan belum menyentuh disiplin jam kerja.\n- (D) — poin 3: Tegas menegakkan aturan, tetapi sepihak sehingga berisiko memicu penolakan.\n- (B) — poin 2: Melempar tanggung jawab yang seharusnya dijalankan kepala bagian.\n- (C) — poin 1: Pasif dan membiarkan pelanggaran disiplin.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Melapor ke atasan tidak lagi poin 5 (kepala bagian berwenang sendiri); diskusi + kesepakatan menjadi poin 5; kalimat tanya ditambahkan."
+ },
+ {
+  "id": "019b8d7a-7c26-7bb3-8048-6877255e9500",
+  "action": "fix",
+  "description": "Senior pendamping Anda di tempat magang sering pulang lebih awal untuk urusan pribadi. Ia meminta Anda mengatakan kepada atasan bahwa ia sedang di lapangan jika atasan menanyakannya. Bagaimana sikap Anda?",
+  "options": [
+   {
+    "id": "019b8d7a-7c26-7f08-9173-bd528c51488b",
+    "description": "Menjawab tidak tahu keberadaannya agar tidak perlu berbohong ataupun melaporkan senior.",
+    "isCorrect": true,
+    "point": 1
+   },
+   {
+    "id": "019b8d7a-7c27-74aa-b78c-908791fd0d23",
+    "description": "Menghubungi senior saat ditanya atasan agar ia sendiri yang menjelaskan keberadaannya.",
+    "isCorrect": true,
+    "point": 2
+   },
+   {
+    "id": "019b8d7a-7c27-776d-8f9a-f4bf83fa37d5",
+    "description": "Menjawab jujur bahwa senior sudah pulang bila atasan menanyakannya.",
+    "isCorrect": true,
+    "point": 4
+   },
+   {
+    "id": "019b8d7a-7c27-7b35-9057-432e601934e0",
+    "description": "Menolak permintaan itu dengan sopan, menyarankan senior meminta izin resmi, dan menjawab jujur bila atasan bertanya.",
+    "isCorrect": true,
+    "point": 5
+   },
+   {
+    "id": "019b8d7a-7c27-7ecc-847c-a40075598fe7",
+    "description": "Menyarankan senior agar mengajukan izin resmi kepada atasan setiap kali ada keperluan pribadi.",
+    "isCorrect": true,
+    "point": 3
+   }
+  ],
+  "explanation": "DIKETAHUI:\n- Senior pendamping Anda di tempat magang sering pulang lebih awal untuk urusan pribadi.\n- Ia meminta Anda mengatakan kepada atasan bahwa ia sedang di lapangan jika atasan menanyakannya.\n\nDITANYAKAN:\nSikap yang menjaga kejujuran tanpa merusak hubungan dengan senior.\n\nJAWAB:\n1. Dimensi yang diukur: Profesionalisme, yaitu tanggung jawab, integritas, ketepatan menentukan prioritas, dan kepatuhan pada aturan (sejalan dengan Catur Prasetya dan kode etik profesi Polri).\n2. Prinsip penilaian: Integritas tidak dapat ditawar: menolak berbohong dengan santun, mendorong senior menempuh izin resmi, dan menjawab jujur bila ditanya.\n3. Urutan kepatutan opsi (poin 5 ke poin 1): (D) 5 → (C) 4 → (E) 3 → (B) 2 → (A) 1.\n4. (D) — poin 5: Paling tuntas: kejujuran terjaga, hubungan tetap santun, dan senior diarahkan pada cara yang benar.\nJadi, jawaban yang tepat adalah (D) Menolak permintaan itu dengan sopan, menyarankan senior meminta izin resmi, dan menjawab jujur bila atasan bertanya.\nMengapa opsi lain kurang tepat:\n- (C) — poin 4: Jujur, tetapi tidak berkomunikasi lebih dahulu dengan senior.\n- (E) — poin 3: Memberi saran yang benar, tetapi belum menyatakan sikap atas permintaan berbohong.\n- (B) — poin 2: Menghindari menjawab dan menunda kejujuran.\n- (A) — poin 1: Kebohongan terselubung karena Anda sebenarnya tahu; bertentangan dengan integritas.",
+  "status": "aktif",
+  "quality_score": 4,
+  "quality_notes": "Jawaban 'tidak tahu' (kebohongan terselubung) diturunkan ke poin 1; sikap jujur dan santun menjadi poin 5."
+ }
+]

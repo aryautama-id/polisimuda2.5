@@ -1,0 +1,26 @@
+# Dependencies & caches
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.claude-flow/
+graphify-out/cache/
+graphify-out/.graphify_*
+
+# One-off generation/fix scripts — contain API keys / DB credentials, keep local only
+auto_report*.py
+fill_*.js
+fill_*.py
+fix_*.js
+gen_*.js
+gen_*.py
+generate_*.py
+test_api.js
+test_batch.py
+update_explanation.js
+one_question_reporter.py
+run_gen.sh
+batch_*.txt
+numerik_images/
+.claude/test-credentials.local
+backups/

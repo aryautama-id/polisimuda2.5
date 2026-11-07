@@ -1,0 +1,682 @@
+[
+  {
+    "sub_material_code": "NUM-15",
+    "description": "Sebuah mesin fotokopi di bagian administrasi Polres dapat mencetak 1.200 lembar dalam 16 menit. Sebanyak 45 berkas laporan, masing-masing 48 halaman, harus digandakan satu kali secara bolak-balik (setiap lembar memuat 2 halaman). Jika pekerjaan dibagi rata pada 2 mesin identik yang bekerja bersamaan, waktu yang diperlukan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "3 menit 36 detik",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "7 menit 12 detik",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "7 menit 20 detik",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "14 menit 24 detik",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "28 menit 48 detik",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- 1 mesin: 1.200 lembar dalam 16 menit.\n- 45 berkas × 48 halaman, dicetak bolak-balik (2 halaman per lembar).\n- 2 mesin identik bekerja bersamaan.\n\nDITANYAKAN:\nWaktu penggandaan.\n\nJAWAB:\n1. Kecepatan 1 mesin = 1.200 ÷ 16 = 75 lembar/menit; 2 mesin = 150 lembar/menit.\n2. Banyak halaman = 45 × 48 = 2.160 halaman.\n3. Banyak lembar (bolak-balik) = 2.160 ÷ 2 = 1.080 lembar.\n4. Waktu = 1.080 ÷ 150 = 7,2 menit.\n5. 0,2 menit = 0,2 × 60 = 12 detik, jadi waktunya 7 menit 12 detik.\nJadi, jawaban yang tepat adalah (B) 7 menit 12 detik.\nMengapa opsi lain kurang tepat:\n- (A) 3 menit 36 detik: Banyak lembar dibagi 2 dua kali (540 lembar), seolah-olah bolak-balik mengurangi lembar dua kali. 1.080 lembar sudah memperhitungkan bolak-balik.\n- (C) 7 menit 20 detik: 7,2 menit dibaca 7 menit 20 detik. Padahal 0,2 menit = 0,2 × 60 = 12 detik.\n- (D) 14 menit 24 detik: Salah satu faktor terlewat: tidak dicetak bolak-balik (2.160 ÷ 150) atau hanya memakai satu mesin (1.080 ÷ 75); keduanya menghasilkan 14,4 menit.\n- (E) 28 menit 48 detik: 2.160 ÷ 75 = 28,8 menit. Bolak-balik dan dua mesin sama-sama tidak diperhitungkan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-15",
+    "description": "Pembangunan pos pantau ditargetkan selesai dalam 30 hari oleh 24 pekerja. Setelah 6 hari bekerja, pembangunan terhenti 6 hari karena cuaca buruk. Untuk mengejar target, pelaksana menambah pekerja baru yang produktivitasnya hanya 2/3 produktivitas pekerja lama. Agar pembangunan selesai tepat 30 hari sejak dimulai, banyak pekerja baru yang harus ditambahkan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "8 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "24 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "12 orang",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "32 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "48 orang",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rencana: 24 pekerja × 30 hari.\n- Sudah bekerja 6 hari, lalu berhenti 6 hari.\n- Pekerja baru = 2/3 produktivitas pekerja lama.\n\nDITANYAKAN:\nBanyak pekerja baru yang ditambahkan.\n\nJAWAB:\n1. Total pekerjaan = 24 × 30 = 720 hari-orang (satuan pekerja lama).\n2. Selesai dalam 6 hari = 24 × 6 = 144; sisa = 720 − 144 = 576 hari-orang.\n3. Sisa waktu = 30 − 6 − 6 = 18 hari. Kebutuhan = 576 ÷ 18 = 32 pekerja setara pekerja lama.\n4. Kekurangan = 32 − 24 = 8 pekerja setara pekerja lama.\n5. Banyak pekerja baru = 8 ÷ (2/3) = 12 orang.\n6. Uji: (24 + 12 × 2/3) × 18 = 32 × 18 = 576, tepat sama dengan sisa pekerjaan.\nJadi, jawaban yang tepat adalah (C) 12 orang.\nMengapa opsi lain kurang tepat:\n- (A) 8 orang: 8 adalah kekurangan dalam satuan pekerja lama. Karena satu pekerja baru hanya setara 2/3 pekerja lama, jumlahnya harus 8 ÷ 2/3.\n- (B) 24 orang: Produktivitas 2/3 diterapkan pada seluruh kebutuhan (32 ÷ 2/3 = 48), lalu dikurangi 24. Pekerja lama tetap berproduktivitas penuh, jadi hanya kekurangannya yang dibagi 2/3.\n- (D) 32 orang: 32 adalah total pekerja (setara pekerja lama) yang dibutuhkan pada 18 hari terakhir, bukan banyak pekerja tambahan.\n- (E) 48 orang: 32 ÷ 2/3 = 48, seolah-olah semua pekerja adalah pekerja baru.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-17",
+    "description": "Jumlah laporan kehilangan yang masuk ke SPKT sebuah Polres naik 25% dari Januari ke Februari, kemudian turun 20% dari Februari ke Maret.\n\nP = jumlah laporan bulan Maret\nQ = jumlah laporan bulan Januari\n\nHubungan yang tepat antara P dan Q adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "P = Q",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "P > Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "P < Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "P = 1,05Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hubungan P dan Q tidak dapat ditentukan",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Januari → Februari: naik 25% (faktor 1,25).\n- Februari → Maret: turun 20% (faktor 0,80).\n\nDITANYAKAN:\nHubungan P (Maret) dan Q (Januari).\n\nJAWAB:\n1. Misalkan laporan Januari = Q.\n2. Februari = Q × 1,25.\n3. Maret = Q × 1,25 × 0,80 = Q × 1,00 = Q.\n4. Contoh: Q = 400 → Februari 500 → Maret 500 × 0,8 = 400.\n5. Jadi P = Q.\nJadi, jawaban yang tepat adalah (A) P = Q.\nMengapa opsi lain kurang tepat:\n- (B) P > Q: Pilihan ini muncul jika persen dijumlahkan: +25% − 20% = +5%. Persen bertingkat harus dikalikan sebagai faktor pengali.\n- (C) P < Q: Anggapan 'naik lalu turun pasti lebih kecil' hanya benar jika persen naik dan turunnya sama (misalnya naik 20% lalu turun 20%). Di sini 1,25 × 0,80 = 1.\n- (D) P = 1,05Q: Ini hasil menjumlahkan persen (25% − 20% = 5%). Turun 20% dihitung dari angka Februari yang sudah lebih besar.\n- (E) Hubungan P dan Q tidak dapat ditentukan: Jumlah laporan Januari memang tidak diketahui, tetapi hubungan P dan Q cukup ditentukan dari faktor pengali yang berlaku untuk berapa pun nilai Q.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-17",
+    "description": "Regu A beranggotakan a personel dan Regu B beranggotakan b personel. Diketahui a + b = 9 dan a × b = 20.\n\nP = banyak bungkus nasi jika setiap anggota Regu A mendapat 2 bungkus dan setiap anggota Regu B mendapat 1 bungkus\nQ = banyak bungkus nasi jika setiap anggota Regu A mendapat 1 bungkus dan setiap anggota Regu B mendapat 2 bungkus\n\nHubungan yang tepat antara P dan Q adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "P > Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "P < Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "P = Q",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hubungan P dan Q tidak dapat ditentukan",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "P − Q = 1",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- a + b = 9 dan a × b = 20.\n- P = 2a + b; Q = a + 2b.\n\nDITANYAKAN:\nHubungan P dan Q.\n\nJAWAB:\n1. Cari a dan b: dua bilangan berjumlah 9 dan hasil kalinya 20 adalah akar t² − 9t + 20 = 0 → (t − 4)(t − 5) = 0 → t = 4 atau t = 5.\n2. Jadi pasangan yang mungkin (a, b) = (4, 5) atau (5, 4).\n3. P − Q = (2a + b) − (a + 2b) = a − b.\n4. Jika (a, b) = (5, 4): P − Q = 1 → P > Q. Jika (a, b) = (4, 5): P − Q = −1 → P < Q.\n5. Kedua kemungkinan sah menurut data, sehingga hubungan P dan Q tidak dapat ditentukan.\nJadi, jawaban yang tepat adalah (D) Hubungan P dan Q tidak dapat ditentukan.\nMengapa opsi lain kurang tepat:\n- (A) P > Q: Benar hanya jika a = 5 dan b = 4. Data tidak menyebutkan regu mana yang lebih banyak.\n- (B) P < Q: Benar hanya jika a = 4 dan b = 5. Kemungkinan sebaliknya juga memenuhi syarat.\n- (C) P = Q: P = Q hanya jika a = b, padahal a dan b adalah 4 dan 5 (tidak sama).\n- (E) P − Q = 1: Ini menganggap a = 5 dan b = 4 karena Regu A disebut lebih dulu. Urutan penyebutan tidak memberi informasi besar-kecilnya a dan b.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-19",
+    "description": "Seorang anggota meminjam Rp12.000.000 dari koperasi Polres dengan bunga tunggal (flat) 1,2% per bulan dari pokok pinjaman. Pinjaman dilunasi dengan angsuran tetap setiap bulan selama 20 bulan. Saat pencairan, koperasi juga memungut biaya administrasi 1% dari pokok yang dibayar tunai di muka dan tidak termasuk dalam angsuran. Besar angsuran per bulan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Rp612.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp686.400",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp738.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp750.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp744.000",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pokok Rp12.000.000; bunga flat 1,2% per bulan dari pokok.\n- Tenor 20 bulan, angsuran tetap.\n- Biaya administrasi 1% dibayar tunai di muka, tidak masuk angsuran.\n\nDITANYAKAN:\nBesar angsuran per bulan.\n\nJAWAB:\n1. Bunga per bulan = 1,2% × 12.000.000 = Rp144.000.\n2. Cicilan pokok per bulan = 12.000.000 ÷ 20 = Rp600.000.\n3. Angsuran per bulan = 600.000 + 144.000 = Rp744.000.\n4. Cek total: bunga 20 bulan = 144.000 × 20 = 2.880.000; total kewajiban 14.880.000 ÷ 20 = 744.000.\n5. Biaya administrasi (1% × 12.000.000 = 120.000) dibayar terpisah sehingga tidak mengubah angsuran.\nJadi, jawaban yang tepat adalah (E) Rp744.000.\nMengapa opsi lain kurang tepat:\n- (A) Rp612.000: Bunga dianggap 1,2% per tahun: 12.000.000 × 1,2% × 20/12 = 240.000, lalu 12.240.000 ÷ 20 = 612.000. Soal menyebut 1,2% per bulan.\n- (B) Rp686.400: Bunga hanya dihitung 12 bulan (1,2% × 12 = 14,4% → 1.728.000), lalu 13.728.000 ÷ 20 = 686.400. Bunga berlaku selama 20 bulan masa pinjaman.\n- (C) Rp738.000: Biaya administrasi 120.000 dikurangkan dari total pinjaman: (14.880.000 − 120.000) ÷ 20 = 738.000. Biaya administrasi dibayar terpisah dan tidak memengaruhi angsuran.\n- (D) Rp750.000: Biaya administrasi 120.000 ikut diangsur: (14.880.000 + 120.000) ÷ 20 = 750.000. Soal menyatakan biaya itu dibayar tunai di muka.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-18",
+    "description": "Koperasi Polres membeli 3 lusin kaus olahraga seharga Rp1.620.000. Sebanyak 2/3 dari kaus itu dijual dengan keuntungan 25% per potong, sedangkan sisanya dijual dengan harga Rp36.000 per potong. Persentase untung atau rugi koperasi dari seluruh penjualan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "untung 2,5%",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "untung 5%",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "untung 10%",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "untung 9,09%",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "untung 16,67%",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- 3 lusin = 36 kaus, harga beli total Rp1.620.000.\n- 2/3 kaus dijual untung 25% per potong.\n- Sisanya dijual Rp36.000 per potong.\n\nDITANYAKAN:\nPersentase untung/rugi keseluruhan.\n\nJAWAB:\n1. Harga beli per potong = 1.620.000 ÷ 36 = Rp45.000.\n2. Kelompok 1: 2/3 × 36 = 24 kaus, harga jual 45.000 × 1,25 = 56.250 → 24 × 56.250 = Rp1.350.000.\n3. Kelompok 2: 12 kaus × 36.000 = Rp432.000 (rugi 9.000 per potong = 20%).\n4. Total penjualan = 1.350.000 + 432.000 = Rp1.782.000; untung = 1.782.000 − 1.620.000 = Rp162.000.\n5. Persentase untung = 162.000 ÷ 1.620.000 × 100% = 10%.\n6. Cek dengan rata-rata tertimbang: (2/3 × 25%) + (1/3 × (−20%)) = 16,67% − 6,67% = 10%.\nJadi, jawaban yang tepat adalah (C) untung 10%.\nMengapa opsi lain kurang tepat:\n- (A) untung 2,5%: (25% − 20%) ÷ 2 = 2,5%. Persen untung dan rugi dirata-ratakan tanpa bobot, padahal banyak kaus pada kedua kelompok berbeda (24 dan 12).\n- (B) untung 5%: 25% − 20% = 5%. Persen langsung dikurangkan tanpa memperhitungkan bobot banyak kaus.\n- (D) untung 9,09%: 162.000 ÷ 1.782.000 ≈ 9,09%. Persen untung dibagi harga jual, padahal acuannya harga beli.\n- (E) untung 16,67%: 2/3 × 25% ≈ 16,67%. Kerugian pada 1/3 kaus sisanya tidak diperhitungkan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-20",
+    "description": "Pukul 08.10 mobil patroli A berangkat dari kota P menuju kota Q yang berjarak 162 km dengan kecepatan tetap 60 km/jam. Pukul 08.40 mobil patroli B berangkat dari kota Q menuju kota P melalui jalan yang sama dengan kecepatan tetap 72 km/jam. Kedua mobil berpapasan pada ....",
+    "image": "",
+    "options": [
+      {
+        "text": "pukul 09.10, 60 km dari P",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pukul 09.10, 90 km dari P",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pukul 09.40, 72 km dari P",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "pukul 09.40, 90 km dari P",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "pukul 09.40, 60 km dari P",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Jarak P–Q = 162 km.\n- A: berangkat 08.10 dari P, 60 km/jam.\n- B: berangkat 08.40 dari Q, 72 km/jam, berlawanan arah.\n\nDITANYAKAN:\nWaktu dan posisi berpapasan.\n\nJAWAB:\n1. Dalam 30 menit sebelum B berangkat, A menempuh 60 × 0,5 = 30 km.\n2. Sisa jarak pukul 08.40 = 162 − 30 = 132 km.\n3. Kecepatan saling mendekat = 60 + 72 = 132 km/jam → waktu = 132 ÷ 132 = 1 jam.\n4. Berpapasan pukul 08.40 + 1 jam = 09.40.\n5. Jarak dari P = jarak tempuh A = 60 × 1,5 = 90 km. Uji: B menempuh 72 km dari Q → 162 − 72 = 90 km dari P.\nJadi, jawaban yang tepat adalah (D) pukul 09.40, 90 km dari P.\nMengapa opsi lain kurang tepat:\n- (A) pukul 09.10, 60 km dari P: 1 jam ditambahkan ke waktu berangkat A (08.10), dan 30 km yang ditempuh A sebelum B berangkat terlupakan.\n- (B) pukul 09.10, 90 km dari P: Jaraknya benar, tetapi 1 jam ditambahkan ke 08.10. Waktu 1 jam itu dihitung sejak B berangkat (08.40).\n- (C) pukul 09.40, 72 km dari P: 72 km adalah jarak yang ditempuh B, diukur dari kota Q, bukan dari P.\n- (E) pukul 09.40, 60 km dari P: Waktunya benar, tetapi jarak dari P hanya memakai 1 jam perjalanan A. A sudah berjalan 1,5 jam (sejak 08.10).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-20",
+    "description": "Iring-iringan kendaraan pengawalan sepanjang 180 m bergerak dengan kecepatan tetap 54 km/jam melintasi terowongan sepanjang 420 m. Waktu sejak ujung depan iring-iringan memasuki terowongan sampai ujung belakangnya keluar dari terowongan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "40 detik",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "28 detik",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "16 detik",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "12 detik",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "11,1 detik",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Panjang iring-iringan 180 m; panjang terowongan 420 m.\n- Kecepatan 54 km/jam.\n\nDITANYAKAN:\nWaktu dari ujung depan masuk sampai ujung belakang keluar.\n\nJAWAB:\n1. Konversi: 54 km/jam = 54.000 m ÷ 3.600 detik = 15 m/detik.\n2. Jarak yang ditempuh ujung depan sampai ujung belakang keluar = panjang terowongan + panjang iring-iringan = 420 + 180 = 600 m.\n3. Waktu = 600 ÷ 15 = 40 detik.\nJadi, jawaban yang tepat adalah (A) 40 detik.\nMengapa opsi lain kurang tepat:\n- (B) 28 detik: 420 ÷ 15 = 28 detik. Panjang iring-iringan tidak ditambahkan; ujung belakang masih harus menempuh 180 m lagi.\n- (C) 16 detik: (420 − 180) ÷ 15 = 16 detik adalah lamanya seluruh iring-iringan berada penuh di dalam terowongan, bukan waktu melintas.\n- (D) 12 detik: 180 ÷ 15 = 12 detik hanya waktu untuk menempuh sepanjang iring-iringan itu sendiri.\n- (E) 11,1 detik: 600 ÷ 54 ≈ 11,1. Kecepatan km/jam tidak dikonversi ke m/detik sebelum dipakai membagi jarak dalam meter.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-21",
+    "description": "Brigpol Andi dapat menyusun satu berkas perkara sendirian dalam 6 jam. Bripda Sinta membutuhkan waktu 1,5 kali waktu Andi untuk pekerjaan yang sama. Kecepatan kerja Bripda Yoga dua kali kecepatan kerja Sinta. Jika ketiganya bekerja bersama sejak awal, berkas itu selesai dalam waktu ....",
+    "image": "",
+    "options": [
+      {
+        "text": "3 jam",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "4 jam 30 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "6 jam 30 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "19 jam 30 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "2 jam",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Andi: 6 jam.\n- Sinta: 1,5 × 6 = 9 jam.\n- Kecepatan Yoga = 2 × kecepatan Sinta → waktu Yoga = 9 ÷ 2 = 4,5 jam.\n\nDITANYAKAN:\nWaktu jika ketiganya bekerja bersama.\n\nJAWAB:\n1. Laju Andi = 1/6, laju Sinta = 1/9, laju Yoga = 2 × 1/9 = 2/9 berkas per jam.\n2. Laju bersama = 1/6 + 1/9 + 2/9 = 3/18 + 2/18 + 4/18 = 9/18 = 1/2 berkas per jam.\n3. Waktu bersama = 1 ÷ (1/2) = 2 jam.\n4. Uji: dalam 2 jam Andi menyelesaikan 2/6, Sinta 2/9, Yoga 4/9 → 3/9 + 2/9 + 4/9 = 1 berkas.\nJadi, jawaban yang tepat adalah (E) 2 jam.\nMengapa opsi lain kurang tepat:\n- (A) 3 jam: Hasil ini muncul jika waktu Yoga dianggap dua kali waktu Sinta (18 jam): 1/6 + 1/9 + 1/18 = 1/3. Kecepatan dua kali berarti waktu menjadi setengahnya.\n- (B) 4 jam 30 menit: 4,5 jam adalah waktu Yoga bekerja sendirian. Bekerja bersama pasti lebih cepat daripada pekerja tercepat sekalipun.\n- (C) 6 jam 30 menit: (6 + 9 + 4,5) ÷ 3 = 6,5 jam adalah rata-rata waktu masing-masing. Pada kerja bersama, yang dijumlahkan adalah laju kerja, bukan waktu.\n- (D) 19 jam 30 menit: 6 + 9 + 4,5 = 19,5 jam: waktu dijumlahkan seolah-olah ketiganya bekerja bergantian menyelesaikan pekerjaan masing-masing.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-21",
+    "description": "Rumput lapangan apel dipotong dengan dua mesin secara bergantian. Mesin P sendirian dapat menyelesaikan seluruh lapangan dalam 5 jam, sedangkan mesin Q sendirian dalam 3 jam. Karena hanya ada satu operator, mesin dipakai bergantian setiap 1 jam, dimulai dengan mesin P (jam ke-1 P, jam ke-2 Q, jam ke-3 P, dan seterusnya). Seluruh lapangan selesai dipotong dalam waktu ....",
+    "image": "",
+    "options": [
+      {
+        "text": "1 jam 52,5 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "3 jam 48 menit",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "3 jam 40 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "3 jam 45 menit",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "4 jam",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- P: 5 jam → 1/5 = 3/15 bagian per jam.\n- Q: 3 jam → 1/3 = 5/15 bagian per jam.\n- Bergantian per jam, mulai P.\n\nDITANYAKAN:\nTotal waktu sampai selesai.\n\nJAWAB:\n1. Jam ke-1 (P): 3/15. Jam ke-2 (Q): 5/15. Total 2 jam = 8/15.\n2. Jam ke-3 (P): 8/15 + 3/15 = 11/15. Sisa = 4/15.\n3. Jam ke-4 giliran Q: waktu = (4/15) ÷ (1/3) = 4/15 × 3 = 4/5 jam = 48 menit.\n4. Total = 3 jam + 48 menit = 3 jam 48 menit.\nJadi, jawaban yang tepat adalah (B) 3 jam 48 menit.\nMengapa opsi lain kurang tepat:\n- (A) 1 jam 52,5 menit: 15/8 jam = 1 jam 52,5 menit adalah waktu jika kedua mesin bekerja bersamaan. Di sini mesin dipakai bergantian.\n- (C) 3 jam 40 menit: Ini hasil jika urutan dimulai dengan mesin Q (Q, P, Q, lalu P butuh 40 menit). Soal menyatakan mesin P dipakai lebih dulu.\n- (D) 3 jam 45 menit: 2 × 15/8 = 3,75 jam: menganggap kerja bergantian tepat dua kali waktu kerja bersamaan. Cara ini tidak memperhatikan mesin mana yang bekerja pada jam terakhir.\n- (E) 4 jam: Jam ke-4 dihitung penuh, padahal mesin Q hanya perlu 48 menit untuk menyelesaikan sisa 4/15 bagian.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-24",
+    "description": "Rata-rata nilai ujian 24 siswa Bintara adalah 75. Dua siswa mengikuti ujian susulan, dan setelah nilai keduanya dimasukkan, rata-rata seluruh siswa menjadi 76. Jika selisih nilai kedua siswa susulan itu 8, nilai yang lebih tinggi di antara keduanya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "80",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "84",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "88",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "92",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "96",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- 24 siswa, rata-rata 75.\n- Setelah 2 siswa susulan masuk (26 siswa), rata-rata 76.\n- Selisih nilai dua siswa susulan = 8.\n\nDITANYAKAN:\nNilai yang lebih tinggi di antara dua siswa susulan.\n\nJAWAB:\n1. Jumlah nilai 24 siswa = 24 × 75 = 1.800.\n2. Jumlah nilai 26 siswa = 26 × 76 = 1.976.\n3. Jumlah nilai dua siswa susulan = 1.976 − 1.800 = 176.\n4. x + y = 176 dan x − y = 8 → 2x = 184 → x = 92, y = 84.\n5. Uji: (1.800 + 92 + 84) ÷ 26 = 1.976 ÷ 26 = 76.\nJadi, jawaban yang tepat adalah (D) 92.\nMengapa opsi lain kurang tepat:\n- (A) 80: 76 + 8/2 = 80. Rata-rata baru dipakai sebagai rata-rata kedua siswa susulan, padahal rata-rata keduanya harus menaikkan rata-rata 24 siswa lain.\n- (B) 84: 84 adalah nilai yang lebih rendah di antara kedua siswa susulan.\n- (C) 88: 88 adalah rata-rata nilai kedua siswa susulan (176 ÷ 2), bukan nilai tertinggi.\n- (E) 96: 88 + 8 = 96. Selisih 8 ditambahkan seluruhnya ke rata-rata, padahal nilai tertinggi = rata-rata + setengah selisih.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-24",
+    "description": "Rata-rata tinggi badan calon Bintara putra adalah 170 cm, sedangkan calon putri 162 cm. Rata-rata tinggi badan gabungan seluruh calon adalah 167 cm. Jika banyak seluruh calon 160 orang, selisih banyak calon putra dan calon putri adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "20 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "60 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "40 orang",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "64 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "100 orang",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rata-rata putra 170 cm, putri 162 cm, gabungan 167 cm.\n- Total calon 160 orang.\n\nDITANYAKAN:\nSelisih banyak calon putra dan putri.\n\nJAWAB:\n1. Gunakan perbandingan selisih (aturan timbangan): putra : putri = (167 − 162) : (170 − 167) = 5 : 3.\n2. Banyak putra = 5/8 × 160 = 100; putri = 3/8 × 160 = 60.\n3. Uji: (100 × 170 + 60 × 162) ÷ 160 = (17.000 + 9.720) ÷ 160 = 26.720 ÷ 160 = 167.\n4. Selisih = 100 − 60 = 40 orang.\nJadi, jawaban yang tepat adalah (C) 40 orang.\nMengapa opsi lain kurang tepat:\n- (A) 20 orang: 160 ÷ 8 = 20 hanya nilai satu bagian perbandingan. Selisih perbandingan 5 : 3 adalah 2 bagian = 40 orang.\n- (B) 60 orang: 60 adalah banyak calon putri, bukan selisihnya.\n- (D) 64 orang: 160 × 2/5 = 64. Selisih 2 bagian dibagi 5 (bagian putra saja), padahal jumlah bagian adalah 5 + 3 = 8.\n- (E) 100 orang: 100 adalah banyak calon putra, bukan selisihnya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-26",
+    "description": "Didefinisikan operasi a ◆ b = 3a − 2b + ab. Jika (x ◆ 2) ◆ 1 = 42, nilai x adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "3",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "1,4",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "2,8",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "11",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "15",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- a ◆ b = 3a − 2b + ab.\n- (x ◆ 2) ◆ 1 = 42.\n\nDITANYAKAN:\nNilai x.\n\nJAWAB:\n1. Strategi: kerjakan dari operasi terluar ke dalam. Operan kiri a dikalikan 3, operan kanan b dikalikan 2 lalu dikurangkan, kemudian ditambah hasil kali ab; urutan operan tidak boleh ditukar karena 3a − 2b ≠ 3b − 2a.\n2. Sederhanakan x ◆ 2 = 3x − 2(2) + 2x = 5x − 4. Sebut y = 5x − 4.\n3. y ◆ 1 = 3y − 2(1) + y(1) = 4y − 2.\n4. 4y − 2 = 42 → 4y = 44 → y = 11.\n5. 5x − 4 = 11 → 5x = 15 → x = 3.\n6. Uji: 3 ◆ 2 = 9 − 4 + 6 = 11; 11 ◆ 1 = 33 − 2 + 11 = 42, sesuai dengan yang diketahui.\nJadi, jawaban yang tepat adalah (A) 3.\nMengapa opsi lain kurang tepat:\n- (B) 1,4: Salah tanda pada langkah pertama: x ◆ 2 ditulis 5x + 4, sehingga 5x + 4 = 11 → x = 1,4.\n- (C) 2,8: Salah tanda pada langkah kedua: 4y − 2 = 42 dihitung 4y = 40 → y = 10 → 5x − 4 = 10 → x = 2,8.\n- (D) 11: 11 adalah nilai x ◆ 2 (yaitu y), belum nilai x.\n- (E) 15: 5x = 15 sudah benar, tetapi lupa dibagi 5.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-27",
+    "description": "Setiap baris pada susunan angka berikut mengikuti aturan yang sama.\nBaris 1: 4   6   14\nBaris 2: 5   3   7\nBaris 3: 3   8   13\nBaris 4: 7   ?   17\nBilangan yang tepat untuk menggantikan tanda tanya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "3",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "5",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "6",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "4",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Baris 1: 4, 6, 14; Baris 2: 5, 3, 7; Baris 3: 3, 8, 13.\n- Baris 4: 7, ?, 17.\n\nDITANYAKAN:\nBilangan pengganti tanda tanya.\n\nJAWAB:\n1. Uji aturan c = a × b − (a + b) pada semua baris lengkap:\n2. Baris 1: 4 × 6 − (4 + 6) = 24 − 10 = 14 (cocok). Baris 2: 5 × 3 − (5 + 3) = 15 − 8 = 7 (cocok). Baris 3: 3 × 8 − (3 + 8) = 24 − 11 = 13 (cocok).\n3. Baris 4: 7 × b − (7 + b) = 17 → 7b − 7 − b = 17 → 6b = 24 → b = 4.\n4. Uji: 7 × 4 − (7 + 4) = 28 − 11 = 17.\n5. Catatan: aturan harus diuji pada ketiga baris; aturan yang hanya cocok untuk satu baris (seperti a + b + 4 atau 2a + b) harus ditolak.\nJadi, jawaban yang tepat adalah (E) 4.\nMengapa opsi lain kurang tepat:\n- (A) 2: Jika ? = 2: 7 × 2 − (7 + 2) = 14 − 9 = 5, bukan 17.\n- (B) 3: Hasil aturan 2a + b (cocok untuk baris 1 saja: 8 + 6 = 14) → 14 + ? = 17. Aturan ini gagal pada baris 2 (10 + 3 = 13 ≠ 7).\n- (C) 5: Jika ? = 5: 7 × 5 − (7 + 5) = 35 − 12 = 23, bukan 17.\n- (D) 6: Hasil aturan a + b + 4 (cocok untuk baris 1 saja: 4 + 6 + 4 = 14) → 7 + ? + 4 = 17. Aturan ini gagal pada baris 2 (5 + 3 + 4 = 12 ≠ 7).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-02",
+    "description": "Anggaran operasi pengamanan sebesar Rp48.000.000 dialokasikan sebagai berikut: 3/8 untuk konsumsi, 2/5 dari sisanya untuk BBM, 1/3 dari sisa setelah itu untuk perlengkapan, dan sisanya disimpan sebagai dana cadangan. Besar dana cadangan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Rp2.000.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp6.000.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp7.200.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp12.000.000",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Rp18.000.000",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Anggaran Rp48.000.000.\n- Konsumsi 3/8 dari total; BBM 2/5 dari sisa; perlengkapan 1/3 dari sisa berikutnya; sisanya cadangan.\n\nDITANYAKAN:\nBesar dana cadangan.\n\nJAWAB:\n1. Konsumsi = 3/8 × 48.000.000 = 18.000.000. Sisa = 30.000.000.\n2. BBM = 2/5 × 30.000.000 = 12.000.000. Sisa = 18.000.000.\n3. Perlengkapan = 1/3 × 18.000.000 = 6.000.000. Sisa = 12.000.000.\n4. Dana cadangan = Rp12.000.000.\n5. Cara cepat: 48.000.000 × 5/8 × 3/5 × 2/3 = 48.000.000 × 1/4 = 12.000.000.\nJadi, jawaban yang tepat adalah (D) Rp12.000.000.\nMengapa opsi lain kurang tepat:\n- (A) Rp2.000.000: 1/3 untuk perlengkapan dihitung dari anggaran total (16.000.000) sehingga sisa 18.000.000 − 16.000.000 = 2.000.000.\n- (B) Rp6.000.000: 6.000.000 adalah dana perlengkapan, bukan dana cadangan.\n- (C) Rp7.200.000: 2/5 untuk BBM dihitung dari anggaran total (19.200.000), sehingga sisa 10.800.000, perlengkapan 3.600.000, cadangan 7.200.000. Soal menyebut 2/5 dari sisanya.\n- (E) Rp18.000.000: 18.000.000 adalah sisa sebelum perlengkapan dikurangkan (sekaligus sama dengan dana konsumsi); langkah terakhir terlewat.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-22",
+    "description": "Jumlah umur ayah, ibu, dan seorang anak saat ini 81 tahun. Ayah 4 tahun lebih tua daripada ibu. Tujuh tahun yang lalu, umur ibu tepat tiga kali umur anak. Umur anak saat ini adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "9 tahun",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "15 tahun",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "8 tahun",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "17 tahun",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "31 tahun",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Ayah + ibu + anak = 81.\n- Ayah = ibu + 4.\n- 7 tahun lalu: umur ibu = 3 × umur anak.\n\nDITANYAKAN:\nUmur anak saat ini.\n\nJAWAB:\n1. Misalkan umur anak c dan umur ibu m. Dari syarat 7 tahun lalu: m − 7 = 3(c − 7) → m = 3c − 14.\n2. Umur ayah = m + 4 = 3c − 10.\n3. Jumlah: (3c − 10) + (3c − 14) + c = 81 → 7c − 24 = 81 → 7c = 105 → c = 15.\n4. Umur ibu = 31, ayah = 35. Cek jumlah 35 + 31 + 15 = 81.\n5. Cek 7 tahun lalu: ibu 24, anak 8; 24 = 3 × 8.\nJadi, jawaban yang tepat adalah (B) 15 tahun.\nMengapa opsi lain kurang tepat:\n- (A) 9 tahun: Hasil ini muncul jika persamaan ditulis m − 7 = 3c (umur anak tidak dikurangi 7), sehingga 7c + 18 = 81 → c = 9. Kedua umur harus dimundurkan 7 tahun.\n- (C) 8 tahun: 8 tahun adalah umur anak tujuh tahun yang lalu, bukan sekarang.\n- (D) 17 tahun: Hasil ini muncul jika persamaan ditulis m = 3(c − 7) (umur ibu tidak dikurangi 7), sehingga 7c − 38 = 81 → c = 17.\n- (E) 31 tahun: 31 tahun adalah umur ibu saat ini.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-23",
+    "description": "Dalam survei kepuasan layanan SPKT terhadap 150 warga, 92 warga menilai pelayanan cepat dan 74 warga menilai petugas ramah. Banyak warga yang memberi kedua penilaian itu sekaligus sama dengan tiga kali banyak warga yang tidak memberi satu pun dari kedua penilaian tersebut. Banyak warga yang hanya menilai petugas ramah adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "24 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "26 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "68 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "74 orang",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "50 orang",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Total 150 warga; n(Cepat) = 92; n(Ramah) = 74.\n- n(keduanya) = 3 × n(tidak keduanya).\n\nDITANYAKAN:\nBanyak warga yang hanya menilai ramah.\n\nJAWAB:\n1. Misalkan banyak warga yang tidak memberi penilaian apa pun = x, maka n(keduanya) = 3x.\n2. Total = n(C) + n(R) − n(keduanya) + n(tidak keduanya) → 150 = 92 + 74 − 3x + x = 166 − 2x.\n3. 2x = 16 → x = 8, sehingga n(keduanya) = 24.\n4. Hanya ramah = 74 − 24 = 50 orang.\n5. Uji: hanya cepat 68 + hanya ramah 50 + keduanya 24 + tidak keduanya 8 = 150.\nJadi, jawaban yang tepat adalah (E) 50 orang.\nMengapa opsi lain kurang tepat:\n- (A) 24 orang: 24 adalah banyak warga yang memberi kedua penilaian sekaligus.\n- (B) 26 orang: 50 − 24 = 26. Irisan dikurangkan dua kali dari himpunan 'ramah'.\n- (C) 68 orang: 68 adalah banyak warga yang hanya menilai pelayanan cepat (92 − 24).\n- (D) 74 orang: 74 adalah seluruh warga yang menilai ramah, termasuk yang juga menilai cepat.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-25",
+    "description": "Dari 6 anggota Sabhara dan 4 anggota Satlantas akan dipilih 3 orang secara acak untuk tim pengamanan rute. Peluang tim itu memuat paling sedikit 1 anggota Satlantas adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "1/6",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "5/6",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "1/2",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "4/5",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "98/125",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- 6 Sabhara + 4 Satlantas = 10 orang.\n- Dipilih 3 orang secara acak.\n\nDITANYAKAN:\nPeluang paling sedikit 1 anggota Satlantas.\n\nJAWAB:\n1. Banyak cara memilih 3 dari 10: C(10,3) = (10 × 9 × 8) ÷ (3 × 2 × 1) = 120.\n2. Komplemen (tanpa Satlantas, semua Sabhara): C(6,3) = 20.\n3. Peluang = 1 − 20/120 = 100/120 = 5/6.\n4. Cek langsung: tepat 1 = C(4,1) × C(6,2) = 4 × 15 = 60; tepat 2 = C(4,2) × C(6,1) = 6 × 6 = 36; tepat 3 = C(4,3) = 4. Total 100 → 100/120 = 5/6.\nJadi, jawaban yang tepat adalah (B) 5/6.\nMengapa opsi lain kurang tepat:\n- (A) 1/6: 1/6 adalah peluang tidak ada anggota Satlantas sama sekali (20/120). Nilai ini masih harus dikurangkan dari 1.\n- (C) 1/2: 1/2 adalah peluang tepat 1 anggota Satlantas (60/120). 'Paling sedikit 1' juga mencakup tepat 2 dan tepat 3.\n- (D) 4/5: (60 + 36)/120 = 4/5: tepat 1 dan tepat 2 sudah dihitung, tetapi kemungkinan ketiganya Satlantas (4 cara) terlewat.\n- (E) 98/125: 1 − (6/10)³ = 98/125 menganggap pemilihan dengan pengembalian (orang yang sama bisa terpilih lagi). Pemilihan 3 orang berbeda harus tanpa pengembalian.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-05",
+    "description": "Halaman Mapolsek berbentuk persegi panjang berukuran 0,8 hm × 450 dm. Seluruh halaman akan dipasangi paving block, kecuali 1/6 bagian yang dijadikan taman. Jika biaya pemasangan paving Rp85.000 per m², biaya seluruhnya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Rp255.000.000",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Rp25.500.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp51.000.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp306.000.000",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rp2.550.000.000",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Ukuran 0,8 hm × 450 dm.\n- 1/6 bagian untuk taman (tidak dipaving).\n- Biaya Rp85.000 per m².\n\nDITANYAKAN:\nBiaya pemasangan paving.\n\nJAWAB:\n1. Konversi: 0,8 hm = 0,8 × 100 = 80 m; 450 dm = 450 ÷ 10 = 45 m.\n2. Luas halaman = 80 × 45 = 3.600 m².\n3. Bagian dipaving = (1 − 1/6) × 3.600 = 5/6 × 3.600 = 3.000 m².\n4. Biaya = 3.000 × 85.000 = Rp255.000.000.\nJadi, jawaban yang tepat adalah (A) Rp255.000.000.\nMengapa opsi lain kurang tepat:\n- (B) Rp25.500.000: 450 dm dianggap 4,5 m (atau 0,8 hm dianggap 8 m) sehingga luas hanya 360 m². Yang benar 1 m = 10 dm dan 1 hm = 100 m.\n- (C) Rp51.000.000: Yang dihitung justru 1/6 bagian taman (600 m² × 85.000), bukan bagian yang dipaving.\n- (D) Rp306.000.000: 3.600 × 85.000 = 306.000.000. Bagian taman 1/6 tidak dikurangkan.\n- (E) Rp2.550.000.000: 0,8 hm dianggap 800 m (1 hm keliru dianggap 1.000 m) sehingga luas 10 kali lebih besar.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "NUM-08",
+    "description": "Enam regu jaga (A, B, C, D, E, F) bertugas bergiliran satu regu per hari dengan urutan tetap A, B, C, D, E, F, lalu kembali ke A. Pada suatu hari Senin, Regu C bertugas. Tepat 250 hari setelah hari Senin itu, regu yang bertugas dan nama harinya adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Regu F, hari Jumat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Regu B, hari Sabtu",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Regu A, hari Sabtu",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Regu A, hari Jumat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Regu B, hari Minggu",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Siklus regu 6 (A–F); hari Senin bertugas Regu C.\n- Siklus hari 7.\n- Ditinjau 250 hari setelah Senin itu.\n\nDITANYAKAN:\nRegu yang bertugas dan nama harinya.\n\nJAWAB:\n1. Regu: 250 = 6 × 41 + 4, sisa 4. Maju 4 regu dari C: D (1), E (2), F (3), A (4) → Regu A.\n2. Hari: 250 = 7 × 35 + 5, sisa 5. Maju 5 hari dari Senin: Selasa (1), Rabu (2), Kamis (3), Jumat (4), Sabtu (5) → Sabtu.\n3. Jadi 250 hari kemudian Regu A bertugas pada hari Sabtu.\nJadi, jawaban yang tepat adalah (C) Regu A, hari Sabtu.\nMengapa opsi lain kurang tepat:\n- (A) Regu F, hari Jumat: Hari Senin itu ikut dihitung sebagai hari pertama sehingga yang terhitung 249 hari (sisa 3 untuk regu dan 4 untuk hari).\n- (B) Regu B, hari Sabtu: Harinya benar, tetapi regu dihitung dengan sisa 5 (sisa pembagian oleh 7). Pergiliran regu memiliki siklus 6, jadi sisa yang dipakai adalah 250 ÷ 6.\n- (D) Regu A, hari Jumat: Regunya benar, tetapi hari dihitung dengan sisa 4 (sisa pembagian oleh 6). Siklus hari adalah 7.\n- (E) Regu B, hari Minggu: Hasil ini menghitung 251 hari (kelebihan satu hari), sehingga sisa menjadi 5 untuk regu dan 6 untuk hari.",
+    "difficulty": "sulit"
+  }
+]

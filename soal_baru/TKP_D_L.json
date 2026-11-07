@@ -1,0 +1,580 @@
+[
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Anda seorang Bripda yang baru enam bulan bertugas di sebuah polres. Di grup WhatsApp alumni SMA beredar video berdurasi 40 detik yang memperlihatkan seorang perwira di polres Anda seolah-olah menerima amplop dari pengusaha. Anda melihat beberapa kejanggalan: gerak bibir tidak selaras dengan suara dan lambang satuan pada seragamnya keliru. Teman-teman alumni mulai menandai Anda dan mendesak Anda “menjelaskan kelakuan atasanmu”. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Melaporkan video tersebut kepada atasan dan fungsi Humas untuk diverifikasi tanpa menanggapi apa pun di grup alumni agar tidak dianggap membela institusi.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menjelaskan di grup kejanggalan teknis yang Anda temukan, seperti gerak bibir yang tidak selaras dan lambang satuan yang keliru, lalu menyimpulkan bahwa video itu kemungkinan besar rekayasa agar teman-teman tidak termakan hoaks.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mengimbau grup agar tidak meneruskan video itu sampai ada verifikasi, lalu benar-benar melaporkannya beserta tautan sumbernya kepada atasan, Humas, dan Propam.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Meminta admin grup menghapus video itu dan keluar dari percakapan karena sebagai anggota junior Anda tidak berwenang mengomentari kasus yang belum jelas.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Membalas dengan tegas bahwa video itu pasti hoaks lalu memperingatkan bahwa siapa pun yang menyebarkannya akan dilaporkan ke polisi siber.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Video yang diduga hasil rekayasa (deepfake) menyeret nama polres tempat Anda bertugas.\n- Ada kejanggalan teknis, tetapi keaslian video belum diverifikasi secara resmi.\n- Anda anggota junior dan sedang didesak teman-teman alumni untuk berkomentar.\n\nDITANYAKAN:\nTindakan yang paling tepat agar penyebaran dapat ditekan, kebenaran dapat diverifikasi, dan Anda tetap bertindak sesuai kewenangan.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-06 Pengambilan keputusan (memilih tindakan secara cepat, beralasan, proporsional, dan dapat dipertanggungjawabkan).\n2. Prinsip acuan: UU ITE secara umum melarang penyebaran informasi bohong yang merugikan; Kode Etik Profesi Polri menuntut anggota menjaga citra institusi melalui saluran resmi, bukan pembelaan pribadi; Tribrata menuntut kejujuran sehingga dugaan pelanggaran tetap harus diuji, bukan ditutupi.\n3. Pembeda utama antaropsi: Opsi terbaik menahan penyebaran sekaligus menyerahkan verifikasi kepada fungsi yang berwenang (Humas dan Propam), tanpa membela atau menuduh sebelum ada kepastian.\n4. Urutan opsi dari poin 5 ke poin 1:\n(C) — 5 poin: menahan laju penyebaran dengan imbauan yang santun, menyerahkan uji keaslian kepada fungsi yang berwenang, dan bersikap transparan kepada teman-teman tanpa membela maupun menuduh sebelum ada hasil verifikasi.\n(A) — 4 poin: jalurnya sudah benar, tetapi Anda melewatkan kesempatan menahan penyebaran di grup yang justru sedang menanti respons Anda.\n(B) — 3 poin: niatnya meluruskan informasi, tetapi Anda mendahului verifikasi resmi; bila ternyata video asli, pernyataan Anda terkesan menutupi pelanggaran.\n(D) — 2 poin: menghindari polemik, tetapi tidak ada pelaporan kepada pihak yang berwenang dan permintaan penghapusan bisa dibaca sebagai upaya menutupi.\n(E) — 1 poin: reaksi berlebihan: memastikan sesuatu yang belum diverifikasi dan mengancam teman sendiri memakai status anggota, sehingga justru memperburuk citra institusi.\n5. Uji jawaban: hanya opsi 5 poin yang sekaligus menekan penyebaran, menempuh verifikasi resmi, dan tidak berpihak sebelum fakta jelas.\nJadi, jawaban yang tepat adalah (C) Mengimbau grup agar tidak meneruskan video itu sampai ada verifikasi, lalu benar-benar melaporkannya beserta tautan sumbernya kepada atasan, Humas, dan Propam.\nMengapa opsi lain kurang tepat:\n- (A) 4 poin: jalur resmi sudah ditempuh, tetapi penyebaran di grup alumni dibiarkan berjalan.\n- (B) 3 poin: menyimpulkan sebelum ada verifikasi resmi dan tidak menempuh jalur pelaporan.\n- (D) 2 poin: menghindar; verifikasi dan pelaporan tidak dilakukan sama sekali.\n- (E) 1 poin: reaksi berlebihan dan mengintimidasi sebelum fakta jelas.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Anda bertugas di Sentra Pelayanan Kepolisian Terpadu (SPKT) dan memiliki akses ke basis data pelapor. Seorang rekan satu angkatan yang akrab meminta Anda melihatkan alamat dan nomor ponsel seorang pelapor karena orang itu berutang kepada keluarganya dan sulit dihubungi. Ia berjanji hanya akan “bersilaturahmi baik-baik” dan tidak akan ada yang tahu. Tindakan Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menolak dengan halus karena data pelapor hanya boleh dibuka untuk kepentingan dinas, lalu menyarankan rekan menempuh mediasi atau jalur perdata.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menawarkan diri menghubungi pelapor itu melalui nomor di sistem untuk menyampaikan pesan rekan agar data tidak berpindah tangan.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menolak membuka data karena setiap akses tercatat di sistem dan bisa diperiksa sewaktu-waktu oleh pengawas, lalu menyarankan rekan mencari kontak orang itu melalui kenalan bersama atau media sosial.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengatakan sedang sibuk dan menyarankan rekan menanyakannya kepada petugas piket lain yang lebih senior.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Memberikan alamatnya saja tanpa nomor ponsel karena alamat dianggap kurang sensitif dan rekan bisa datang secara baik-baik.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Anda memegang akses data pelapor yang diberikan untuk kepentingan dinas.\n- Permintaan berasal dari rekan akrab untuk urusan utang keluarga, bukan kepentingan dinas.\n- Rekan menekankan bahwa tidak akan ada yang mengetahuinya.\n\nDITANYAKAN:\nSikap paling tepat dalam menjaga kerahasiaan data warga tanpa merusak hubungan dengan rekan.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-07 Loyalitas pada Pancasila/NKRI dan aturan (setia pada nilai dasar negara dan ketentuan dinas, termasuk ketika tidak diawasi).\n2. Prinsip acuan: UU Pelindungan Data Pribadi (UU 27/2022) dan UU ITE secara umum mewajibkan data pribadi hanya diproses sesuai tujuan pengumpulannya; Kode Etik Profesi Polri melarang penyalahgunaan wewenang dan informasi dinas untuk kepentingan pribadi; loyalitas pada aturan diuji justru saat tidak diawasi.\n3. Pembeda utama antaropsi: Opsi terbaik menolak karena prinsip (bukan karena takut ketahuan) dan tetap menawarkan jalan keluar yang sah bagi masalah rekan.\n4. Urutan opsi dari poin 5 ke poin 1:\n(A) — 5 poin: menjaga data warga atas dasar prinsip, tetap menghargai rekan, dan memberi solusi sah atas masalah yang ia hadapi.\n(C) — 4 poin: keputusan akhirnya tepat, tetapi alasannya takut terdeteksi, bukan kesadaran bahwa data warga wajib dilindungi; artinya kepatuhan bergantung pada pengawasan.\n(B) — 3 poin: terkesan jalan tengah, tetapi tetap memakai data dinas untuk urusan pribadi orang lain; penyalahgunaan data tetap terjadi.\n(D) — 2 poin: menghindar dan melempar masalah kepada rekan lain; data warga tetap terancam bocor melalui orang lain.\n(E) — 1 poin: alamat tetap data pribadi; membukanya untuk urusan utang pribadi adalah pelanggaran langsung terhadap kerahasiaan data pelapor.\n5. Uji jawaban: hanya opsi 5 poin yang menolak berdasarkan prinsip, menjaga hubungan, dan memberi solusi sah.\nJadi, jawaban yang tepat adalah (A) Menolak dengan halus karena data pelapor hanya boleh dibuka untuk kepentingan dinas, lalu menyarankan rekan menempuh mediasi atau jalur perdata.\nMengapa opsi lain kurang tepat:\n- (C) 4 poin: keputusan tepat, tetapi alasannya takut ketahuan, bukan prinsip perlindungan data.\n- (B) 3 poin: data dinas tetap dipakai untuk urusan pribadi.\n- (D) 2 poin: melempar tanggung jawab sehingga risiko kebocoran tetap ada.\n- (E) 1 poin: membocorkan data pribadi warga secara langsung.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Saat pengamanan konser di alun-alun, Anda merekam momen ketika rekan Anda menggendong anak yang terpisah dari orang tuanya. Video itu lucu dan menyentuh, menampilkan wajah anak, wajah beberapa penonton, serta posisi pos pengamanan. Anda memiliki akun media sosial pribadi dengan ribuan pengikut. Rekan lain berkata, “Unggah saja sekarang, banyak anggota juga begitu, bagus untuk citra Polri.” Tindakan Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Tidak mengunggah video itu sama sekali dan menghapusnya agar tidak menimbulkan masalah di kemudian hari.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengunggahnya saat itu juga seperti yang biasa dilakukan anggota lain karena konten humanis yang cepat tayang terbukti membantu citra Polri dan mendekatkan polisi dengan masyarakat.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mengunggahnya saat jeda istirahat dengan keterangan yang sopan dan positif tentang pelayanan Polri.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Mengunggahnya setelah dinas selesai dengan pengaturan “hanya teman dekat” agar tidak tersebar luas.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Fokus bertugas; setelah dinas, menyunting video agar wajah anak, warga, dan posisi pengamanan tidak tampak, lalu menimbang unggahannya sesuai pedoman media sosial anggota.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Video memperlihatkan wajah anak, wajah warga, dan posisi pengamanan.\n- Pengamanan masih berlangsung.\n- Ada dorongan rekan untuk segera mengunggah dengan alasan citra positif.\n\nDITANYAKAN:\nCara paling tepat memanfaatkan media sosial pribadi tanpa mengorbankan tugas, privasi warga, dan keamanan.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-07 Loyalitas pada Pancasila/NKRI dan aturan (setia pada nilai dasar negara dan ketentuan dinas, termasuk ketika tidak diawasi).\n2. Prinsip acuan: Etika bermedia sosial bagi anggota Polri menuntut fokus pada tugas, tidak membuka informasi pengamanan, dan menghormati privasi warga (terlebih anak); UU ITE dan UU Pelindungan Data Pribadi secara umum melindungi data dan citra diri seseorang.\n3. Pembeda utama antaropsi: Semua opsi ingin menampilkan sisi humanis, tetapi pembedanya adalah waktu (saat tugas atau sesudah), perlindungan privasi anak, dan kerahasiaan posisi pengamanan.\n4. Urutan opsi dari poin 5 ke poin 1:\n(E) — 5 poin: mendahulukan tugas, melindungi privasi anak dan warga, menjaga kerahasiaan pengamanan, dan tetap memanfaatkan media sosial secara positif.\n(A) — 4 poin: aman dan patuh, tetapi kurang adaptif; konten humanis yang bermanfaat sebenarnya bisa dipublikasikan dengan cara yang benar.\n(D) — 3 poin: waktunya sudah tepat, tetapi wajah anak dan posisi pengamanan tetap tampak; pengaturan privasi tidak menjamin video tidak diteruskan.\n(C) — 2 poin: keterangannya baik, tetapi masih dalam rangkaian tugas dan tanpa perlindungan privasi maupun kerahasiaan pengamanan.\n(B) — 1 poin: ikut arus: mengganggu fokus tugas, membuka posisi pengamanan, dan menampilkan wajah anak tanpa izin dengan dalih citra.\n5. Uji jawaban: opsi 5 poin satu-satunya yang memenuhi tiga syarat sekaligus: setelah tugas, privasi terlindungi, dan informasi pengamanan tertutup.\nJadi, jawaban yang tepat adalah (E) Fokus bertugas; setelah dinas, menyunting video agar wajah anak, warga, dan posisi pengamanan tidak tampak, lalu menimbang unggahannya sesuai pedoman media sosial anggota.\nMengapa opsi lain kurang tepat:\n- (A) 4 poin: aman, tetapi melewatkan pemanfaatan media sosial yang sebenarnya bisa dilakukan secara benar.\n- (D) 3 poin: privasi anak dan posisi pengamanan tetap terbuka.\n- (C) 2 poin: masih dalam waktu tugas dan tanpa perlindungan privasi.\n- (B) 1 poin: ikut arus dan mengabaikan tugas, privasi, serta keamanan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Pimpinan menginstruksikan bahwa mulai bulan ini semua laporan kehilangan di SPKT wajib diinput melalui aplikasi pelaporan daring agar warga bisa memantau statusnya. Seorang senior di sif Anda menolak memakai aplikasi itu, tetap menulis laporan di buku manual, dan berkata, “Dua puluh tahun pakai buku tidak pernah bermasalah.” Anda sudah mahir mengoperasikan aplikasi tersebut. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Memakai aplikasi untuk laporan yang Anda tangani dan membiarkan senior memakai buku manual karena yang penting warga tetap terlayani.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Tetap memakai aplikasi sesuai instruksi sambil menawarkan bantuan kepada senior dengan sopan, misalnya menginput bersama sampai ia nyaman beralih.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mengikuti cara manual senior agar suasana kerja tetap harmonis karena senior lebih berpengalaman menghadapi warga.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menginput sendiri laporan-laporan yang diterima senior ke aplikasi setiap akhir sif agar data tetap lengkap dan warga tetap dapat memantau statusnya, tanpa perlu memperdebatkannya dengan senior.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Melaporkan kepada kepala unit bahwa senior belum menjalankan instruksi agar pimpinan yang menegurnya.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Ada instruksi resmi pimpinan untuk beralih ke aplikasi daring.\n- Senior di sif Anda menolak beralih dan tetap memakai cara manual.\n- Anda menguasai aplikasi, tetapi berpangkat lebih rendah.\n\nDITANYAKAN:\nSikap paling tepat agar instruksi berjalan dan senior terbantu beradaptasi tanpa merusak hubungan kerja.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-03 Adaptasi (menyesuaikan diri dengan aturan, cara kerja, dan lingkungan baru tanpa menurunkan mutu kerja).\n2. Prinsip acuan: Loyalitas pada perintah dinas yang sah, budaya pelayanan prima (transparansi status laporan bagi warga), dan etika hubungan senior–junior yang santun; adaptasi berarti menyesuaikan diri sekaligus membantu orang lain menyesuaikan diri.\n3. Pembeda utama antaropsi: Opsi terbaik menjalankan instruksi dan membantu senior secara persuasif lebih dulu, bukan sekadar menutupi atau langsung melapor.\n4. Urutan opsi dari poin 5 ke poin 1:\n(B) — 5 poin: patuh pada instruksi, menghormati senior, dan membantu proses adaptasi secara persuasif sehingga perubahan berjalan berkelanjutan.\n(D) — 4 poin: data warga tetap terlayani, tetapi senior tidak pernah beradaptasi, beban kerja Anda berlipat, dan masalah dasarnya tidak terselesaikan.\n(E) — 3 poin: jalurnya resmi, tetapi melewatkan pendekatan persuasif yang semestinya dicoba lebih dulu dan berisiko merusak hubungan kerja.\n(A) — 2 poin: Anda sendiri patuh, tetapi data satuan menjadi tidak seragam dan warga yang dilayani senior tidak bisa memantau laporannya.\n(C) — 1 poin: ikut arus dan mengabaikan instruksi pimpinan demi kenyamanan; ini kegagalan adaptasi sekaligus loyalitas pada perintah dinas.\n5. Uji jawaban: hanya opsi 5 poin yang menjalankan instruksi dan sekaligus menyelesaikan akar masalah, yaitu keengganan senior beradaptasi.\nJadi, jawaban yang tepat adalah (B) Tetap memakai aplikasi sesuai instruksi sambil menawarkan bantuan kepada senior dengan sopan, misalnya menginput bersama sampai ia nyaman beralih.\nMengapa opsi lain kurang tepat:\n- (D) 4 poin: data terselamatkan, tetapi senior tidak dibantu beradaptasi.\n- (E) 3 poin: langsung melapor tanpa upaya membantu lebih dulu.\n- (A) 2 poin: data menjadi tidak seragam dan sebagian warga tidak mendapat layanan daring.\n- (C) 1 poin: mengabaikan instruksi resmi demi menjaga suasana.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Ibu Anda di kampung ternyata meminjam uang dari aplikasi pinjaman daring yang tidak terdaftar di OJK. Penagih kemudian menyebarkan pesan ancaman ke seluruh kontak di ponsel ibu, termasuk rekan-rekan kantor Anda, dengan menyebut Anda sebagai penjamin. Atasan Anda menanyakan masalah tersebut. Tindakan Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menjelaskan kepada atasan bahwa itu urusan keluarga yang sedang Anda tangani dan meminta rekan-rekan memblokir nomor penagih.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mendatangi kantor penagih bersama beberapa rekan untuk memberi peringatan keras agar menghentikan teror.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Segera melunasi seluruh tagihan beserta dendanya agar teror terhadap ibu dan rekan-rekan kantor berhenti hari itu juga, lalu menjelaskan kepada atasan bahwa masalah sudah selesai.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menjelaskan secara jujur kepada atasan, menyimpan bukti ancaman, melaporkan aplikasi ilegal itu kepada OJK dan kepolisian, serta mendampingi ibu.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mengganti nomor ponsel dan menonaktifkan media sosial sementara sampai penagih berhenti dengan sendirinya.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pinjaman berasal dari aplikasi ilegal (tidak terdaftar di OJK).\n- Penagih menyebarkan ancaman kepada kontak, termasuk rekan kerja Anda.\n- Atasan meminta penjelasan.\n\nDITANYAKAN:\nKeputusan paling tepat untuk melindungi keluarga, menjaga kepercayaan atasan, dan menindak praktik ilegal sesuai prosedur.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-06 Pengambilan keputusan (memilih tindakan secara cepat, beralasan, proporsional, dan dapat dipertanggungjawabkan).\n2. Prinsip acuan: Penyebaran data pribadi dan pengancaman melalui media elektronik dilarang menurut UU ITE dan UU Pelindungan Data Pribadi; pinjaman daring ilegal dilaporkan ke OJK dan kepolisian; Kode Etik Profesi Polri melarang anggota memakai jabatan untuk urusan pribadi.\n3. Pembeda utama antaropsi: Opsi terbaik memadukan kejujuran kepada atasan, pengamanan bukti, pelaporan resmi, dan pendampingan keluarga tanpa memakai kekuatan jabatan.\n4. Urutan opsi dari poin 5 ke poin 1:\n(D) — 5 poin: jujur, tuntas, melalui jalur resmi, dan tetap melindungi keluarga tanpa menyalahgunakan status sebagai anggota.\n(C) — 4 poin: cepat meredakan teror dan jujur kepada atasan, tetapi praktik ilegal tidak dilaporkan sehingga pelaku leluasa mengulanginya kepada orang lain.\n(A) — 3 poin: menjaga hubungan kantor, tetapi tidak transparan dan tidak menempuh pelaporan resmi.\n(E) — 2 poin: menghindar; masalah ibu dan rekan-rekan yang terus diteror tidak terselesaikan.\n(B) — 1 poin: terkesan tegas, tetapi ini main hakim sendiri dan penyalahgunaan status anggota untuk kepentingan pribadi.\n5. Uji jawaban: opsi 5 poin satu-satunya yang menyelesaikan masalah keluarga sekaligus menindak pelaku melalui jalur yang sah.\nJadi, jawaban yang tepat adalah (D) Menjelaskan secara jujur kepada atasan, menyimpan bukti ancaman, melaporkan aplikasi ilegal itu kepada OJK dan kepolisian, serta mendampingi ibu.\nMengapa opsi lain kurang tepat:\n- (C) 4 poin: teror mereda, tetapi praktik ilegal tidak dilaporkan.\n- (A) 3 poin: kurang terbuka dan tidak menempuh jalur hukum.\n- (E) 2 poin: menghindari masalah tanpa penyelesaian.\n- (B) 1 poin: main hakim sendiri dengan memakai status anggota.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Anda bertugas sebagai Bhabinkamtibmas. Seorang siswi SMP datang bersama ibunya sambil menangis: fotonya diedit menjadi meme bernada melecehkan lalu disebar di grup kelas oleh teman sekelasnya. Pelaku diketahui anak seorang tokoh masyarakat setempat yang Anda kenal baik. Langkah Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menenangkan korban, mengamankan bukti digital, berkoordinasi dengan sekolah dan unit PPA sesuai ketentuan peradilan anak, serta mengupayakan konten diturunkan.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Mendatangi rumah pelaku saat itu juga dan menyita ponselnya agar meme tidak tersebar lebih jauh.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mempertemukan keluarga korban dan keluarga pelaku di balai desa untuk berdamai dengan syarat pelaku menghapus meme dan meminta maaf.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Meminta pihak sekolah menanganinya lebih dulu karena korban dan pelaku masih di bawah umur dan berada di lingkungan sekolah.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Membantu korban membuat laporan resmi ke unit yang menangani kejahatan siber lalu menyerahkan proses selanjutnya kepada penyidik.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Korban dan pelaku sama-sama anak di bawah umur.\n- Konten pelecehan sudah tersebar di grup kelas.\n- Orang tua pelaku adalah tokoh masyarakat yang Anda kenal.\n\nDITANYAKAN:\nPenanganan yang paling tepat, proporsional, dan sesuai jalur bagi kasus perundungan siber antaranak.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-06 Pengambilan keputusan (memilih tindakan secara cepat, beralasan, proporsional, dan dapat dipertanggungjawabkan).\n2. Prinsip acuan: UU ITE secara umum melarang penyebaran konten yang melanggar kesusilaan dan merendahkan martabat; UU Sistem Peradilan Pidana Anak mengutamakan kepentingan terbaik anak; etika profesi menuntut netralitas meski pelaku dari keluarga terpandang.\n3. Pembeda utama antaropsi: Opsi terbaik melindungi korban, mengamankan bukti, menghentikan penyebaran, dan melibatkan sekolah serta unit perlindungan anak tanpa pandang bulu.\n4. Urutan opsi dari poin 5 ke poin 1:\n(A) — 5 poin: menyeluruh: memulihkan korban, menjaga bukti, menghentikan penyebaran, dan memakai jalur khusus anak secara netral.\n(E) — 4 poin: jalurnya resmi, tetapi belum memperhatikan pemulihan korban, peran sekolah, dan penghentian penyebaran yang mendesak.\n(C) — 3 poin: niat restoratif, tetapi terlalu dini: bukti belum diamankan dan korban berisiko tertekan karena status keluarga pelaku.\n(D) — 2 poin: sekolah memang perlu dilibatkan, tetapi Anda melempar tanggung jawab padahal korban sudah datang meminta perlindungan.\n(B) — 1 poin: tampak sigap, tetapi penyitaan tanpa prosedur adalah tindakan sewenang-wenang dan merugikan proses hukum.\n5. Uji jawaban: hanya opsi 5 poin yang memenuhi perlindungan korban, pengamanan bukti, dan jalur khusus anak sekaligus.\nJadi, jawaban yang tepat adalah (A) Menenangkan korban, mengamankan bukti digital, berkoordinasi dengan sekolah dan unit PPA sesuai ketentuan peradilan anak, serta mengupayakan konten diturunkan.\nMengapa opsi lain kurang tepat:\n- (E) 4 poin: jalur resmi, tetapi pemulihan korban dan penghentian penyebaran terabaikan.\n- (C) 3 poin: damai terlalu dini sebelum bukti diamankan dan korban dilindungi.\n- (D) 2 poin: melempar tanggung jawab kepada sekolah.\n- (B) 1 poin: bertindak sewenang-wenang tanpa prosedur.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Tadi pagi Anda membagikan pesan berantai di status WhatsApp tentang “penculikan anak dengan mobil putih” di kecamatan Anda. Siang harinya Anda mengetahui dari akun resmi polres bahwa informasi itu hoaks. Status Anda sudah dilihat 80 orang dan beberapa kerabat ikut meneruskannya ke grup lain. Tindakan Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menghapus status dan meminta maaf secara pribadi kepada kerabat yang sempat menanyakan kebenarannya.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menghapus status dan membuat status klarifikasi bahwa informasi itu tidak benar disertai tautan bantahan resmi.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menghapus status secepatnya dan tidak membahasnya lagi karena klarifikasi yang terlalu ramai justru bisa memperpanjang kepanikan dan membuat hoaks itu makin dikenal orang.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menghapus status dan menggantinya dengan klarifikasi bertautan bantahan resmi, meminta kerabat yang telah meneruskannya ikut meralat, serta membiasakan diri memeriksa sumber.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Membiarkan status itu hilang sendiri dalam 24 jam karena isinya bersifat imbauan agar orang tua lebih waspada.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Anda sendiri yang menyebarkan informasi tanpa memeriksanya.\n- Bantahan resmi sudah terbit.\n- Informasi telah diteruskan kerabat ke grup lain.\n\nDITANYAKAN:\nBentuk pertanggungjawaban paling tepat atas kekeliruan menyebarkan hoaks.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-06 Pengambilan keputusan (memilih tindakan secara cepat, beralasan, proporsional, dan dapat dipertanggungjawabkan).\n2. Prinsip acuan: UU ITE secara umum melarang penyebaran informasi bohong yang menimbulkan keresahan; integritas menuntut keberanian mengakui kesalahan dan memperbaiki dampaknya; literasi digital menuntut saring sebelum berbagi.\n3. Pembeda utama antaropsi: Semua opsi berawal dari menyadari kesalahan; pembedanya adalah seberapa tuntas dampak lanjutan diperbaiki.\n4. Urutan opsi dari poin 5 ke poin 1:\n(D) — 5 poin: bertanggung jawab penuh: meralat di sumbernya, memutus rantai penyebaran lanjutan, dan memperbaiki kebiasaan.\n(B) — 4 poin: klarifikasi sudah terbuka, tetapi pesan yang telanjur diteruskan kerabat ke grup lain tidak ditindaklanjuti.\n(A) — 3 poin: ada itikad baik, tetapi hanya menjangkau sebagian orang dan tidak ada klarifikasi terbuka.\n(C) — 2 poin: terkesan menenangkan keadaan, tetapi sebenarnya menghindari tanggung jawab; orang yang sudah membaca tetap percaya hoaks.\n(E) — 1 poin: membenarkan kekeliruan dengan dalih imbauan; hoaks terus dibaca dan memicu keresahan.\n5. Uji jawaban: opsi 5 poin satu-satunya yang memutus seluruh rantai penyebaran sekaligus memperbaiki kebiasaan pribadi.\nJadi, jawaban yang tepat adalah (D) Menghapus status dan menggantinya dengan klarifikasi bertautan bantahan resmi, meminta kerabat yang telah meneruskannya ikut meralat, serta membiasakan diri memeriksa sumber.\nMengapa opsi lain kurang tepat:\n- (B) 4 poin: penyebaran lanjutan oleh kerabat tidak ditindaklanjuti.\n- (A) 3 poin: klarifikasi tidak terbuka dan jangkauannya terbatas.\n- (C) 2 poin: menghindari tanggung jawab meralat.\n- (E) 1 poin: membiarkan hoaks tetap beredar.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Saat tiba di area parkir kantor, Anda menemukan sebuah flashdisk berlabel “Data Gaji Anggota 2026”. Komputer kerja Anda terhubung dengan jaringan internal satuan. Tindakan Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Mencolokkannya ke komputer yang tidak terhubung jaringan untuk melihat identitas pemilik, lalu mengembalikannya.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Tidak mencolokkannya ke komputer mana pun dan menyerahkannya kepada fungsi TIK atau pengamanan internal beserta keterangan tempat dan waktu penemuan.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Membuka isinya di komputer kerja untuk memastikan benar berisi data gaji, sehingga bila memang terjadi kebocoran Anda bisa segera melapor ke bagian keuangan dengan keterangan yang akurat.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Membiarkannya di tempat semula karena bukan milik Anda dan pemiliknya mungkin akan kembali mencarinya.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menyerahkan flashdisk itu ke petugas piket sebagai barang temuan agar dikembalikan kepada pemiliknya.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Flashdisk tidak diketahui pemiliknya dan berlabel data sensitif.\n- Perangkat kerja Anda terhubung ke jaringan internal.\n- Media penyimpanan temuan bisa saja sengaja ditinggalkan untuk menyebarkan perangkat lunak berbahaya.\n\nDITANYAKAN:\nPenanganan paling aman terhadap media penyimpanan temuan yang berlabel data sensitif.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-06 Pengambilan keputusan (memilih tindakan secara cepat, beralasan, proporsional, dan dapat dipertanggungjawabkan).\n2. Prinsip acuan: Prinsip keamanan informasi: media penyimpanan yang tidak dikenal tidak boleh dicolokkan ke perangkat dinas karena bisa menjadi sarana peretasan; data pribadi anggota dilindungi UU Pelindungan Data Pribadi; penanganan diserahkan kepada fungsi TIK atau pengamanan internal.\n3. Pembeda utama antaropsi: Pembeda utama adalah kesadaran bahwa flashdisk temuan merupakan ancaman keamanan, bukan sekadar barang hilang.\n4. Urutan opsi dari poin 5 ke poin 1:\n(B) — 5 poin: paling aman: mencegah risiko perangkat lunak berbahaya, tidak membuka data orang lain, dan menyerahkan kepada fungsi yang berwenang.\n(E) — 4 poin: jujur dan tidak membuka isinya, tetapi tidak menyadari risiko keamanannya; petugas piket mungkin justru mencolokkannya untuk mencari pemilik.\n(A) — 3 poin: berupaya berhati-hati, tetapi tetap membuka data sensitif tanpa hak dan perangkat tetap bisa terinfeksi.\n(D) — 2 poin: tidak menyentuh milik orang lain, tetapi membiarkan data sensitif berpotensi jatuh ke tangan yang salah.\n(C) — 1 poin: niatnya melapor, tetapi tindakan ini paling berisiko: membuka jaringan internal terhadap kemungkinan serangan dan mengakses data tanpa hak.\n5. Uji jawaban: hanya opsi 5 poin yang sekaligus aman bagi sistem, menghormati kerahasiaan data, dan melalui jalur yang berwenang.\nJadi, jawaban yang tepat adalah (B) Tidak mencolokkannya ke komputer mana pun dan menyerahkannya kepada fungsi TIK atau pengamanan internal beserta keterangan tempat dan waktu penemuan.\nMengapa opsi lain kurang tepat:\n- (E) 4 poin: tidak menyadari risiko keamanan siber.\n- (A) 3 poin: tetap membuka data sensitif tanpa hak.\n- (D) 2 poin: abai terhadap risiko kebocoran data.\n- (C) 1 poin: paling berisiko bagi jaringan internal dan kerahasiaan data.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-05",
+    "description": "Sebuah unggahan warganet tentang SPKT tempat Anda bertugas viral. Isinya mengkritik antrean yang lama (yang memang sering terjadi) dan menuduh ada pungutan liar tanpa menyertakan bukti. Rekan Anda menyarankan, “Balas saja pakai akun pribadimu, jelaskan kalau tuduhan pungli itu fitnah.” Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Membalas dengan sopan dari akun pribadi bahwa keluhan antrean akan Anda sampaikan kepada pimpinan untuk diperbaiki, tanpa menanggapi tuduhan pungli agar tidak memperpanjang perdebatan.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Tidak menanggapi karena kritik di media sosial biasanya cepat reda dan menanggapinya hanya memancing perdebatan.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Membalas dari akun pribadi dengan menjelaskan kronologi pelayanan dan menantang warganet menunjukkan bukti tuduhan pungli.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Meneruskan unggahan itu kepada fungsi Humas agar ditanggapi melalui akun resmi satuan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Meneruskan unggahan ke Humas untuk ditanggapi akun resmi, menyampaikan soal antrean kepada pimpinan sebagai bahan perbaikan, dan mengarahkan dugaan pungli ke Propam.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Sebagian kritik benar (antrean lama), sebagian lain berupa tuduhan tanpa bukti (pungli).\n- Unggahan sudah viral.\n- Ada saran untuk membalas melalui akun pribadi.\n\nDITANYAKAN:\nCara paling tepat menyikapi kritik publik di media sosial terhadap satuan sendiri.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-05 Teknologi informasi dan komunikasi (keamanan data, etika media sosial, sikap terhadap hoaks), dirangkai dengan dimensi kepribadian KPR-03 Adaptasi (menyesuaikan diri dengan aturan, cara kerja, dan lingkungan baru tanpa menurunkan mutu kerja).\n2. Prinsip acuan: Penanganan isu publik dilakukan melalui fungsi Humas dan akun resmi; dugaan pungli diproses melalui kanal pengaduan resmi (Propam) dan tidak boleh ditolak mentah-mentah; pelayanan prima menuntut keterbukaan menerima kritik sebagai bahan perbaikan.\n3. Pembeda utama antaropsi: Opsi terbaik memisahkan kritik yang benar (diperbaiki) dari tuduhan (diverifikasi) dan menyalurkan keduanya ke jalur yang tepat.\n4. Urutan opsi dari poin 5 ke poin 1:\n(E) — 5 poin: terbuka terhadap kritik, menempuh jalur resmi, dan memisahkan perbaikan layanan dari verifikasi tuduhan.\n(D) — 4 poin: jalurnya benar, tetapi kritik soal antrean tidak dijadikan bahan perbaikan dan tuduhan pungli tidak diarahkan ke kanal pengaduan.\n(A) — 3 poin: santun dan mengakui kekurangan, tetapi berbicara atas nama satuan melalui akun pribadi tanpa kewenangan.\n(B) — 2 poin: menghindar; kritik yang benar tidak dijadikan perbaikan dan tuduhan dibiarkan tanpa klarifikasi.\n(C) — 1 poin: defensif dan konfrontatif; berpotensi memperkeruh suasana dan memperburuk citra institusi.\n5. Uji jawaban: opsi 5 poin satu-satunya yang sekaligus terbuka terhadap kritik, menjaga jalur resmi, dan memproses tuduhan secara adil.\nJadi, jawaban yang tepat adalah (E) Meneruskan unggahan ke Humas untuk ditanggapi akun resmi, menyampaikan soal antrean kepada pimpinan sebagai bahan perbaikan, dan mengarahkan dugaan pungli ke Propam.\nMengapa opsi lain kurang tepat:\n- (D) 4 poin: jalur benar, tetapi kesempatan perbaikan layanan terlewat.\n- (A) 3 poin: berbicara atas nama satuan tanpa kewenangan.\n- (B) 2 poin: menghindar dari kritik dan klarifikasi.\n- (C) 1 poin: defensif dan memperkeruh suasana.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-07",
+    "description": "Om Anda membagikan potongan video ceramah di grup WhatsApp keluarga besar yang menyatakan bahwa hormat kepada bendera dan menyanyikan lagu kebangsaan adalah perbuatan terlarang. Beberapa sepupu memberi tanda jempol. Anda baru saja dilantik sebagai anggota Polri dan dikenal dekat dengan om tersebut. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menegur keras om di grup bahwa konten itu radikal dan anti-Pancasila serta mengancam akan melaporkannya ke satuan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Membagikan di grup penjelasan resmi dari organisasi keagamaan arus utama bahwa hormat bendera dan menyanyikan lagu kebangsaan tidak bertentangan dengan ajaran agama, tanpa menyebut nama om agar ia tidak tersinggung.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Berdiskusi dengan om secara pribadi dan santun bahwa hormat bendera adalah penghormatan pada simbol negara, bukan ibadah, lalu membagikan penjelasan tokoh agama arus utama di grup.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Tidak menanggapi demi menjaga hubungan keluarga karena om lebih tua dan pandangan pribadinya tidak bisa dipaksa berubah.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Meminta admin grup menghapus video itu dan mengingatkan bahwa grup keluarga sebaiknya bebas dari ceramah yang memecah belah.",
+        "is_correct": true,
+        "point": 3
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Konten menolak penghormatan pada simbol negara.\n- Disebarkan oleh kerabat yang lebih tua dan sudah mendapat dukungan sebagian anggota grup.\n- Anda anggota Polri yang dekat dengan pengirim.\n\nDITANYAKAN:\nSikap paling tepat untuk meluruskan paham yang bertentangan dengan kesetiaan pada negara tanpa merusak hubungan keluarga.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-07 Antiradikalisme (mengenali ciri paham radikal/intoleran dan menyikapinya melalui jalur resmi), dirangkai dengan dimensi kepribadian KPR-07 Loyalitas pada Pancasila/NKRI dan aturan (setia pada nilai dasar negara dan ketentuan dinas, termasuk ketika tidak diawasi).\n2. Prinsip acuan: Pancasila dan UUD 1945 menempatkan bendera dan lagu kebangsaan sebagai simbol negara yang wajib dihormati; menghormati simbol negara adalah wujud cinta tanah air, bukan ibadah; Tribrata menuntut anggota setia pada negara sekaligus mengayomi, termasuk melalui cara edukatif.\n3. Pembeda utama antaropsi: Poin 5 tegas pada nilai Pancasila tetapi persuasif dan edukatif; poin 1 bereaksi berlebihan dengan mempermalukan dan mengancam.\n4. Urutan opsi dari poin 5 ke poin 1:\n(C) — 5 poin: tegas meluruskan, menjaga martabat om, dan memberi edukasi kepada anggota grup yang telanjur setuju.\n(B) — 4 poin: edukatif bagi grup, tetapi tidak menyentuh om sebagai sumber penyebaran sehingga ia berpotensi terus membagikan konten serupa.\n(E) — 3 poin: tegas menghentikan penyebaran, tetapi tidak meluruskan pemahaman sehingga anggota yang setuju tetap meyakininya.\n(D) — 2 poin: terlihat menghormati orang tua, tetapi membiarkan paham yang menolak simbol negara terus diterima anggota keluarga lain.\n(A) — 1 poin: reaksi berlebihan: mempermalukan kerabat di depan umum dan memakai status anggota untuk mengancam, sehingga om justru makin tertutup.\n5. Uji jawaban: hanya opsi 5 poin yang tegas sekaligus persuasif dan menjangkau baik sumber maupun penerima konten.\nJadi, jawaban yang tepat adalah (C) Berdiskusi dengan om secara pribadi dan santun bahwa hormat bendera adalah penghormatan pada simbol negara, bukan ibadah, lalu membagikan penjelasan tokoh agama arus utama di grup.\nMengapa opsi lain kurang tepat:\n- (B) 4 poin: edukatif, tetapi sumber penyebaran tidak didekati.\n- (E) 3 poin: penyebaran berhenti, tetapi tidak ada pelurusan pemahaman.\n- (D) 2 poin: abai terhadap penyebaran paham yang menolak simbol negara.\n- (A) 1 poin: reaksi berlebihan yang mempermalukan dan mengancam.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-07",
+    "description": "Rekan seasrama Anda di pendidikan mulai menolak makan bersama rekan yang berbeda keyakinan, menyebut hukum negara sebagai “aturan buatan manusia yang tidak wajib ditaati”, dan setiap malam menyendiri menonton kanal daring tertentu. Dulu ia dikenal ramah kepada semua orang. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Melaporkan perubahan perilaku dan pernyataannya kepada pengasuh agar segera dibina oleh pihak yang berwenang.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mendekatinya secara pribadi untuk memahami apa yang ia alami sambil tetap mengajaknya berkegiatan bersama, serta melaporkan perubahan itu kepada pengasuh untuk pembinaan.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Memberinya ruang karena perubahan cara beragama adalah hak pribadi dan Anda tidak ingin dianggap mencampuri keyakinannya.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Terus mengajaknya ikut kegiatan bersama dan mengobrol santai tentang banyak hal, berharap ia kembali seperti semula dengan sendirinya tanpa melibatkan pengasuh yang bisa membuatnya merasa diawasi.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mengajak rekan-rekan satu barak menjauhinya sampai ia mau mengubah sikapnya.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Terjadi perubahan perilaku ke arah eksklusif.\n- Ada pernyataan yang menolak keabsahan hukum negara.\n- Ada indikasi paparan konten daring tertentu.\n\nDITANYAKAN:\nSikap paling tepat terhadap rekan yang menunjukkan tanda-tanda awal terpapar paham radikal.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-07 Antiradikalisme (mengenali ciri paham radikal/intoleran dan menyikapinya melalui jalur resmi), dirangkai dengan dimensi kepribadian KPR-07 Loyalitas pada Pancasila/NKRI dan aturan (setia pada nilai dasar negara dan ketentuan dinas, termasuk ketika tidak diawasi).\n2. Prinsip acuan: Penolakan terhadap hukum negara dan sikap eksklusif yang memusuhi kelompok lain merupakan ciri awal paham radikal yang bertentangan dengan Pancasila; pencegahan dilakukan melalui pendekatan persuasif dan pelibatan pembina sesuai jalur resmi, bukan pengucilan.\n3. Pembeda utama antaropsi: Poin 5 merangkul secara persuasif dan sekaligus melapor kepada pembina; opsi lain hanya mengambil salah satu sisi atau justru mengabaikan/mengucilkan.\n4. Urutan opsi dari poin 5 ke poin 1:\n(B) — 5 poin: persuasif, menjaga hubungan, dan menyadari bahwa penolakan terhadap hukum negara perlu ditangani pembina melalui jalur resmi.\n(A) — 4 poin: jalur resmi sudah ditempuh, tetapi tanpa pendekatan pribadi; rekan berisiko merasa diawasi dan semakin tertutup.\n(D) — 3 poin: persuasif dan hangat, tetapi meremehkan tanda serius berupa penolakan terhadap hukum negara.\n(C) — 2 poin: terdengar toleran, tetapi keliru menyamakan penolakan hukum negara dengan urusan keyakinan pribadi.\n(E) — 1 poin: reaksi berlebihan: pengucilan justru mendorongnya makin bergantung pada kelompok eksklusif yang memengaruhinya.\n5. Uji jawaban: opsi 5 poin satu-satunya yang menggabungkan pendekatan persuasif dan jalur pembinaan resmi.\nJadi, jawaban yang tepat adalah (B) Mendekatinya secara pribadi untuk memahami apa yang ia alami sambil tetap mengajaknya berkegiatan bersama, serta melaporkan perubahan itu kepada pengasuh untuk pembinaan.\nMengapa opsi lain kurang tepat:\n- (A) 4 poin: jalur resmi tanpa pendekatan persuasif.\n- (D) 3 poin: meremehkan tanda serius dan tidak melibatkan pembina.\n- (C) 2 poin: abai dengan dalih menghormati privasi.\n- (E) 1 poin: pengucilan yang memperparah keadaan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-07",
+    "description": "Seorang kenalan di tempat kos mengajak Anda bergabung dengan kelompok “kajian intensif” melalui grup Telegram. Syaratnya: tidak memberi tahu keluarga, menyerahkan foto KTP, dan memakai nama samaran. Materi pertama yang dibagikan berjudul “Sistem negara saat ini tidak sah dan wajib ditinggalkan”. Anda belum pernah hadir. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Membagikan tangkapan layar ajakan itu ke media sosial dengan menyebut nama kenalan tersebut agar orang lain waspada.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menolak dengan sopan dan mengingatkan kenalan itu bahwa syarat kerahasiaan dan materinya patut dicurigai, lalu menyarankannya mencari kajian yang terbuka dan jelas pembinanya.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menghadiri satu kali pertemuan untuk melihat langsung isi kajiannya sebelum menilai apakah memang menyimpang.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menolak dan keluar dari grup Telegram tanpa menjelaskan alasan agar tidak terlibat perdebatan.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menolak tanpa menyerahkan identitas, mengingatkan kenalan itu secara baik-baik, dan menyampaikan tangkapan layar ajakan serta materinya kepada Bhabinkamtibmas.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Kelompok bersifat tertutup, merahasiakan diri dari keluarga, dan meminta identitas.\n- Materi awal menolak keabsahan negara.\n- Anda baru diajak dan belum terlibat.\n\nDITANYAKAN:\nKeputusan paling tepat terhadap ajakan yang memiliki ciri-ciri perekrutan kelompok radikal.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-07 Antiradikalisme (mengenali ciri paham radikal/intoleran dan menyikapinya melalui jalur resmi), dirangkai dengan dimensi kepribadian KPR-06 Pengambilan keputusan (memilih tindakan secara cepat, beralasan, proporsional, dan dapat dipertanggungjawabkan).\n2. Prinsip acuan: Ciri perekrutan paham radikal antara lain kerahasiaan, pemutusan dari keluarga, dan delegitimasi negara; sikap Pancasilais adalah menolak, mengingatkan secara baik, dan menyalurkan informasi kepada pihak berwenang (misalnya Bhabinkamtibmas atau kanal aduan resmi), bukan menyebarkannya ke publik.\n3. Pembeda utama antaropsi: Poin 5 menolak, mengingatkan, sekaligus melapor melalui jalur resmi; poin rendah ikut terlibat atau mempermalukan orang di media sosial.\n4. Urutan opsi dari poin 5 ke poin 1:\n(E) — 5 poin: tegas menolak, persuasif kepada kenalan, dan menyerahkan penanganan kepada pihak berwenang.\n(B) — 4 poin: tegas dan persuasif, tetapi tidak melapor sehingga jaringan perekrutan tetap leluasa menjangkau orang lain.\n(D) — 3 poin: melindungi diri sendiri, tetapi tidak mengingatkan kenalan dan tidak melapor.\n(C) — 2 poin: terdengar objektif, tetapi menyerahkan identitas dan membuka diri pada paparan paham yang sudah jelas cirinya.\n(A) — 1 poin: reaksi berlebihan: mempermalukan orang di depan publik, berisiko pencemaran nama baik, dan dapat mengganggu penanganan oleh aparat.\n5. Uji jawaban: hanya opsi 5 poin yang memadukan penolakan tegas, pendekatan persuasif, dan pelaporan resmi.\nJadi, jawaban yang tepat adalah (E) Menolak tanpa menyerahkan identitas, mengingatkan kenalan itu secara baik-baik, dan menyampaikan tangkapan layar ajakan serta materinya kepada Bhabinkamtibmas.\nMengapa opsi lain kurang tepat:\n- (B) 4 poin: persuasif, tetapi jaringan perekrutan tidak dilaporkan.\n- (D) 3 poin: hanya menyelamatkan diri sendiri.\n- (C) 2 poin: membuka diri pada paparan paham radikal.\n- (A) 1 poin: main hakim sendiri di media sosial.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-07",
+    "description": "Dalam forum diskusi kelas pendidikan pembentukan, seorang peserta berpendapat, “Pancasila hanyalah kesepakatan politik tahun 1945, jadi boleh saja diganti asal mayoritas rakyat menghendaki secara demokratis.” Instruktur meminta Anda menanggapi. Tanggapan Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menghargai perbedaan pendapat, lalu menjelaskan kedudukan Pancasila dalam Pembukaan UUD 1945 sebagai konsensus pendiri bangsa dan mengajak peserta menelaah sejarah perumusannya.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Menyatakan bahwa pendapat semacam itu tergolong makar dan meminta instruktur mencatat nama peserta tersebut.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Menegaskan bahwa Pancasila adalah dasar negara yang sudah final, menyebutkan dasar hukumnya dalam Pembukaan UUD 1945, dan tidak menanggapi lebih jauh argumen tentang kehendak mayoritas.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menyampaikan bahwa topik ini sensitif sehingga sebaiknya dijelaskan oleh instruktur yang lebih berkompeten.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menyatakan bahwa setiap peserta berhak berpendapat sehingga argumen itu sah sebagai bahan diskusi, tanpa memberikan sanggahan.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Pendapat disampaikan dalam forum diskusi resmi, bukan ajakan kekerasan.\n- Isinya mempertanyakan kedudukan Pancasila sebagai dasar negara.\n- Anda diminta menanggapi secara terbuka.\n\nDITANYAKAN:\nTanggapan paling tepat atas perbedaan pendapat mengenai dasar negara dalam forum resmi.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-07 Antiradikalisme (mengenali ciri paham radikal/intoleran dan menyikapinya melalui jalur resmi), dirangkai dengan dimensi kepribadian KPR-07 Loyalitas pada Pancasila/NKRI dan aturan (setia pada nilai dasar negara dan ketentuan dinas, termasuk ketika tidak diawasi).\n2. Prinsip acuan: Pancasila tercantum dalam Pembukaan UUD 1945, yang disepakati tidak diubah dalam proses amandemen, dan bentuk NKRI tidak dapat diubah menurut Pasal 37 ayat (5) UUD 1945; perbedaan pendapat dalam forum ilmiah dihadapi dengan argumen, bukan stigma.\n3. Pembeda utama antaropsi: Poin 5 tegas pada kedudukan Pancasila tetapi menjawab argumen secara edukatif; poin 1 memberi label makar dan menekan peserta.\n4. Urutan opsi dari poin 5 ke poin 1:\n(A) — 5 poin: tegas pada nilai, menanggapi inti argumen secara bernalar, dan menjaga suasana diskusi tetap sehat.\n(C) — 4 poin: posisi dan dasar hukumnya tepat, tetapi kurang persuasif karena inti argumen peserta tidak dijawab.\n(D) — 3 poin: berhati-hati, tetapi menghindar padahal diminta menanggapi; nilai dasar negara tidak dibela.\n(E) — 2 poin: terlihat demokratis, tetapi membiarkan pandangan yang mendelegitimasi dasar negara tanpa pelurusan.\n(B) — 1 poin: reaksi berlebihan: menstigma pendapat dalam forum resmi sehingga membungkam diskusi dan tidak meyakinkan siapa pun.\n5. Uji jawaban: opsi 5 poin satu-satunya yang tegas, bernalar, dan menjaga forum tetap dialogis.\nJadi, jawaban yang tepat adalah (A) Menghargai perbedaan pendapat, lalu menjelaskan kedudukan Pancasila dalam Pembukaan UUD 1945 sebagai konsensus pendiri bangsa dan mengajak peserta menelaah sejarah perumusannya.\nMengapa opsi lain kurang tepat:\n- (C) 4 poin: tegas, tetapi kurang menjawab inti argumen.\n- (D) 3 poin: menghindar dari tugas menanggapi.\n- (E) 2 poin: membiarkan pandangan keliru tanpa pelurusan.\n- (B) 1 poin: reaksi berlebihan yang menstigma dan membungkam diskusi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-07",
+    "description": "Menjelang pilkada, terjadi bentrokan antara dua kelompok warga berbeda suku di wilayah hukum Anda. Di grup WhatsApp alumni yang sebagian besar sesuku dengan salah satu kelompok, teman-teman meminta Anda “membela saudara sendiri” dan membocorkan rencana penjagaan malam ini. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menyatakan dukungan moral kepada kelompok sesuku di grup, tetapi menegaskan tidak akan membocorkan rencana pengamanan.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Memberikan informasi yang dianggap umum saja, seperti titik-titik penjagaan, sambil berpesan agar teman-teman menjaga diri.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Menolak memberikan informasi dan keluar dari grup alumni sementara waktu agar tidak terseret isu yang memanas.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Menolak membocorkan informasi apa pun dengan tegas namun santun, menjelaskan kewajiban polisi untuk netral melindungi semua suku, dan mengimbau teman-teman tidak terprovokasi.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Tidak menanggapi permintaan itu di grup, lalu melaporkan percakapan tersebut kepada atasan sebagai bahan deteksi dini potensi konflik.",
+        "is_correct": true,
+        "point": 4
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Isu SARA sedang memanas dalam situasi politik lokal.\n- Ada tekanan dari kelompok pertemanan berbasis kesamaan suku.\n- Ada permintaan membocorkan rencana pengamanan.\n\nDITANYAKAN:\nSikap paling tepat untuk menjaga netralitas dan kerahasiaan tugas di tengah tekanan kelompok sendiri.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-07 Antiradikalisme (mengenali ciri paham radikal/intoleran dan menyikapinya melalui jalur resmi), dirangkai dengan dimensi kepribadian KPR-07 Loyalitas pada Pancasila/NKRI dan aturan (setia pada nilai dasar negara dan ketentuan dinas, termasuk ketika tidak diawasi).\n2. Prinsip acuan: Polri wajib bersikap netral dan melindungi seluruh warga tanpa membedakan suku, agama, ras, maupun golongan; Pancasila sila ketiga menuntut persatuan; Kode Etik Profesi Polri melarang membocorkan informasi dinas.\n3. Pembeda utama antaropsi: Poin 5 tegas menolak dan sekaligus mengedukasi serta meredam; poin rendah memberi kebocoran informasi atau terang-terangan berpihak.\n4. Urutan opsi dari poin 5 ke poin 1:\n(D) — 5 poin: netral, menjaga kerahasiaan, dan aktif meredam ketegangan melalui edukasi kepada kelompok sendiri.\n(E) — 4 poin: menjaga kerahasiaan dan memberi masukan berharga bagi pimpinan, tetapi melewatkan kesempatan meredam teman-teman sendiri.\n(C) — 3 poin: menjaga netralitas pribadi, tetapi tidak ada edukasi dan tidak ada pelaporan.\n(B) — 2 poin: terdengar peduli, tetapi tetap membocorkan informasi pengamanan yang bisa dimanfaatkan untuk menghindari atau menyerang petugas.\n(A) — 1 poin: tampak menjaga rahasia, tetapi terang-terangan berpihak secara kesukuan sehingga melanggar netralitas dan bisa memperuncing konflik.\n5. Uji jawaban: hanya opsi 5 poin yang menjaga rahasia, netral, dan aktif meredam ketegangan sekaligus.\nJadi, jawaban yang tepat adalah (D) Menolak membocorkan informasi apa pun dengan tegas namun santun, menjelaskan kewajiban polisi untuk netral melindungi semua suku, dan mengimbau teman-teman tidak terprovokasi.\nMengapa opsi lain kurang tepat:\n- (E) 4 poin: berguna bagi deteksi dini, tetapi tidak meredam kelompok sendiri.\n- (C) 3 poin: netral, tetapi pasif dan tanpa pelaporan.\n- (B) 2 poin: tetap membocorkan informasi pengamanan.\n- (A) 1 poin: melanggar netralitas dengan berpihak secara kesukuan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-07",
+    "description": "Di grup WhatsApp teman SMA, beberapa orang bergantian mengirim stiker dan meme yang mengolok-olok tata cara ibadah agama tertentu dengan dalih “cuma bercanda”. Salah satu anggota grup memeluk agama tersebut dan sejak tadi hanya diam. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menyapa teman yang beragama tersebut secara pribadi untuk meminta maaf atas candaan di grup, tanpa menegur para pengirim.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Mengirim pesan pribadi kepada pengirim meme agar menghapusnya karena candaan seperti itu bisa menyinggung teman di grup dan dapat bermasalah secara hukum bila tersebar ke luar grup.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Mengingatkan di grup dengan nada santai tetapi jelas bahwa candaan tentang ibadah agama lain bisa melukai, lalu menyapa teman tersebut secara pribadi.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Tidak ikut tertawa atau berkomentar karena menegur di grup bisa membuat suasana canggung dan merusak pertemanan.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Melaporkan para pengirim meme ke polisi atas dugaan penodaan agama agar menjadi efek jera bagi yang lain.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Konten merendahkan praktik ibadah suatu agama.\n- Dibingkai sebagai candaan dan dilakukan beramai-ramai.\n- Ada anggota grup dari agama tersebut yang diam saja.\n\nDITANYAKAN:\nSikap paling tepat menghadapi konten intoleran yang dianggap candaan dalam pergaulan sebaya.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-07 Antiradikalisme (mengenali ciri paham radikal/intoleran dan menyikapinya melalui jalur resmi), dirangkai dengan dimensi kepribadian KPR-03 Adaptasi (menyesuaikan diri dengan aturan, cara kerja, dan lingkungan baru tanpa menurunkan mutu kerja).\n2. Prinsip acuan: Sila pertama dan ketiga Pancasila menuntut saling menghormati antarumat beragama; konten yang merendahkan agama berpotensi melanggar ketentuan pidana dan UU ITE secara umum; respons yang patut adalah meluruskan secara proporsional dan mendukung pihak yang dirugikan.\n3. Pembeda utama antaropsi: Poin 5 menegur secara proporsional di tempat kejadian dan mendukung teman yang tersinggung; poin 1 langsung membawa masalah ke ranah pidana.\n4. Urutan opsi dari poin 5 ke poin 1:\n(C) — 5 poin: tegas, proporsional, menghentikan pola candaan di tempat terjadinya, dan memulihkan perasaan teman yang dirugikan.\n(B) — 4 poin: persuasif dan efektif kepada pengirim, tetapi anggota lain tidak mendapat pelurusan dan teman yang tersinggung tidak disapa.\n(A) — 3 poin: empatik, tetapi sumber masalah dibiarkan sehingga candaan serupa dapat berulang.\n(D) — 2 poin: tidak ikut merendahkan, tetapi diam di tengah perilaku intoleran sama dengan membiarkannya.\n(E) — 1 poin: reaksi berlebihan untuk tahap awal di lingkup teman; langkah persuasif belum dicoba dan pertemanan rusak.\n5. Uji jawaban: opsi 5 poin satu-satunya yang menegur sumber, meluruskan grup, dan mendukung korban secara proporsional.\nJadi, jawaban yang tepat adalah (C) Mengingatkan di grup dengan nada santai tetapi jelas bahwa candaan tentang ibadah agama lain bisa melukai, lalu menyapa teman tersebut secara pribadi.\nMengapa opsi lain kurang tepat:\n- (B) 4 poin: persuasif, tetapi korban tidak didukung dan grup tidak diluruskan.\n- (A) 3 poin: empatik, tetapi sumber masalah dibiarkan.\n- (D) 2 poin: diam membiarkan perilaku intoleran.\n- (E) 1 poin: reaksi berlebihan sebelum upaya persuasif.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-07",
+    "description": "Adik Anda yang duduk di bangku SMA belakangan rutin menonton kanal video yang menyebut demokrasi sebagai “sistem sesat” dan memuji pelaku bom bunuh diri sebagai pahlawan. Ketika ditanya, ia menjawab, “Cuma penasaran, kok.” Orang tua Anda tidak memahami media sosial. Tindakan Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Menyita ponsel adik sampai ia berjanji tidak lagi menonton konten seperti itu.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Melaporkan kanal itu melalui kanal aduan resmi dan memberi tahu orang tua agar lebih mengawasi tontonan adik.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Menasihati adik bahwa tontonan itu berbahaya dan memintanya berhenti, lalu memeriksa riwayat tontonannya secara berkala.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Membiarkannya karena wajar remaja penasaran dan rasa ingin tahunya akan berkurang dengan sendirinya.",
+        "is_correct": true,
+        "point": 2
+      },
+      {
+        "text": "Berdialog terbuka tanpa menghakimi, menunjukkan sumber pembanding yang kredibel, memantau bersama orang tua, dan melaporkan kanal itu melalui fitur platform serta kanal aduan resmi.",
+        "is_correct": true,
+        "point": 5
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Remaja terpapar konten yang mengagungkan kekerasan dan menolak sistem negara.\n- Ia mengaku hanya penasaran.\n- Orang tua kurang memahami dunia digital.\n\nDITANYAKAN:\nTindakan paling tepat untuk melindungi anggota keluarga yang mulai terpapar konten radikal.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-07 Antiradikalisme (mengenali ciri paham radikal/intoleran dan menyikapinya melalui jalur resmi), dirangkai dengan dimensi kepribadian KPR-06 Pengambilan keputusan (memilih tindakan secara cepat, beralasan, proporsional, dan dapat dipertanggungjawabkan).\n2. Prinsip acuan: Pengagungan aksi teror dan delegitimasi negara adalah ciri propaganda radikal; pencegahan dini paling efektif melalui keluarga dengan dialog yang tidak menghakimi, literasi digital, dan pelaporan konten melalui kanal resmi atau fitur pelaporan platform.\n3. Pembeda utama antaropsi: Poin 5 menggabungkan dialog, kontra-narasi, pengawasan bersama orang tua, dan pelaporan konten; poin 1 memakai cara represif yang memutus komunikasi.\n4. Urutan opsi dari poin 5 ke poin 1:\n(E) — 5 poin: menyeluruh: menjaga kedekatan, memberi kontra-narasi, melibatkan keluarga, dan memutus sumber konten melalui jalur resmi.\n(B) — 4 poin: sumber konten ditangani, tetapi pemahaman adik yang mulai terpengaruh belum disentuh melalui dialog.\n(C) — 3 poin: ada kepedulian, tetapi nasihat satu arah dan pengawasan diam-diam kurang membangun pemahaman, serta kanal tidak dilaporkan.\n(D) — 2 poin: meremehkan paparan konten yang mengagungkan kekerasan; justru rasa penasaran itulah pintu masuk radikalisasi.\n(A) — 1 poin: reaksi berlebihan: memutus komunikasi dan bisa membuat adik mencari akses secara sembunyi-sembunyi.\n5. Uji jawaban: hanya opsi 5 poin yang menyentuh pemahaman adik, keterlibatan keluarga, dan sumber konten sekaligus.\nJadi, jawaban yang tepat adalah (E) Berdialog terbuka tanpa menghakimi, menunjukkan sumber pembanding yang kredibel, memantau bersama orang tua, dan melaporkan kanal itu melalui fitur platform serta kanal aduan resmi.\nMengapa opsi lain kurang tepat:\n- (B) 4 poin: sumber ditangani, tetapi pemahaman adik tidak diluruskan.\n- (C) 3 poin: nasihat satu arah tanpa dialog dan pelaporan.\n- (D) 2 poin: meremehkan tanda bahaya.\n- (A) 1 poin: represif dan memutus komunikasi.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "TKP-07",
+    "description": "Di media sosial beredar penggalangan dana “untuk anak yatim korban konflik” dari sebuah akun yang, setelah Anda telusuri, juga sering mengunggah simbol dan pujian kepada kelompok teror. Beberapa teman Anda sudah berdonasi dan mengajak Anda ikut. Sikap Anda adalah ...",
+    "image": "",
+    "options": [
+      {
+        "text": "Mengajak teman-teman berhenti berdonasi ke akun itu dan mengalihkan bantuan ke lembaga resmi, tanpa melapor kepada pihak berwenang.",
+        "is_correct": true,
+        "point": 3
+      },
+      {
+        "text": "Tidak berdonasi, melaporkan akun itu dengan bukti unggahannya, dan mengajak teman-teman secara baik-baik menyalurkan donasi melalui lembaga resmi berizin.",
+        "is_correct": true,
+        "point": 5
+      },
+      {
+        "text": "Berdonasi dalam jumlah kecil karena tujuannya membantu anak yatim sambil berharap dananya benar-benar sampai.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Tidak berdonasi dan melaporkan akun itu ke kanal aduan resmi disertai bukti, tetapi tidak memberi tahu teman-teman karena khawatir dianggap menuduh tanpa dasar dan merusak pertemanan.",
+        "is_correct": true,
+        "point": 4
+      },
+      {
+        "text": "Tidak berdonasi dan tidak berkomentar karena belum pasti penggalangan dana itu terkait kelompok teror.",
+        "is_correct": true,
+        "point": 2
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Penggalangan dana memakai narasi kemanusiaan.\n- Akun penggalang menunjukkan afiliasi dengan kelompok teror.\n- Teman-teman sudah berdonasi dan mengajak Anda.\n\nDITANYAKAN:\nSikap paling tepat terhadap penggalangan dana yang berindikasi terkait jaringan teror.\n\nJAWAB:\n1. Dimensi yang diukur: TKP-07 Antiradikalisme (mengenali ciri paham radikal/intoleran dan menyikapinya melalui jalur resmi), dirangkai dengan dimensi kepribadian KPR-06 Pengambilan keputusan (memilih tindakan secara cepat, beralasan, proporsional, dan dapat dipertanggungjawabkan).\n2. Prinsip acuan: Pendanaan terorisme sering disamarkan sebagai kegiatan amal; penanganannya melalui pelaporan kepada kepolisian atau kanal aduan resmi; kepedulian sosial disalurkan melalui lembaga resmi yang berizin; Pancasila menuntut kemanusiaan yang tidak dimanfaatkan untuk kekerasan.\n3. Pembeda utama antaropsi: Poin 5 menolak, melapor, dan menyelamatkan teman-teman dari pendanaan yang keliru; opsi lain hanya menjalankan sebagian.\n4. Urutan opsi dari poin 5 ke poin 1:\n(B) — 5 poin: lengkap: menolak, melapor melalui jalur yang benar, dan persuasif kepada teman tanpa menghilangkan semangat berbagi.\n(D) — 4 poin: jalur resmi sudah ditempuh, tetapi teman-teman dibiarkan terus menyumbang.\n(A) — 3 poin: persuasif, tetapi jaringan penggalang dana tetap leluasa menjaring donatur lain.\n(E) — 2 poin: berhati-hati, tetapi mengabaikan indikasi yang sudah cukup kuat untuk dilaporkan.\n(C) — 1 poin: ikut arus dengan dalih kemanusiaan, padahal berisiko ikut membiayai jaringan teror.\n5. Uji jawaban: opsi 5 poin satu-satunya yang memutus aliran dana dari diri sendiri dan teman sekaligus melapor kepada pihak berwenang.\nJadi, jawaban yang tepat adalah (B) Tidak berdonasi, melaporkan akun itu dengan bukti unggahannya, dan mengajak teman-teman secara baik-baik menyalurkan donasi melalui lembaga resmi berizin.\nMengapa opsi lain kurang tepat:\n- (D) 4 poin: melapor, tetapi teman-teman dibiarkan menyumbang.\n- (A) 3 poin: persuasif, tetapi tidak melapor.\n- (E) 2 poin: mengabaikan indikasi yang kuat.\n- (C) 1 poin: berisiko ikut mendanai jaringan teror.",
+    "difficulty": "sulit"
+  }
+]

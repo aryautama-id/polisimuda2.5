@@ -1,0 +1,512 @@
+[
+  {
+    "sub_material_code": "VRB-14",
+    "description": "Tujuh peserta lari 2.400 meter—Raka, Sena, Tirta, Umar, Vino, Wira, dan Yoga—mencapai garis finis satu per satu (posisi 1 sampai 7, tidak ada yang bersamaan). Diketahui:\n(1) Sena finis tepat dua posisi di depan Umar.\n(2) Raka finis lebih dulu daripada Tirta, dan Tirta lebih dulu daripada Yoga.\n(3) Vino tidak finis pertama dan tidak finis terakhir.\n(4) Wira finis tepat di belakang Yoga.\n(5) Jika Umar finis pada posisi keempat atau lebih awal, maka Raka finis pertama.\n(6) Tirta finis pada posisi bernomor genap.\nManakah pernyataan berikut yang PASTI benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Sena finis ketiga.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Raka finis pertama.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Wira finis terakhir.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Vino finis tepat di depan Umar.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Tirta finis kedua.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Posisi finis 1–7 untuk Raka (R), Sena (S), Tirta (T), Umar (U), Vino (V), Wira (W), Yoga (Y).\n- (1) U = S + 2.\n- (2) R < T < Y.\n- (3) V ≠ 1 dan V ≠ 7.\n- (4) W = Y + 1.\n- (5) Jika U ≤ 4, maka R = 1.\n- (6) T genap.\n\nDITANYAKAN:\nPernyataan yang benar pada semua urutan finis yang sah.\n\nJAWAB:\n1. Siapa yang dapat finis pertama? Vino dilarang (3); Tirta dan Yoga punya Raka di depannya (2); Wira di belakang Yoga (4); Umar di belakang Sena (1). Jadi posisi 1 hanya Raka atau Sena.\n2. Uji Sena = 1: maka Umar = 3 (syarat 1). Karena Umar ≤ 4, syarat (5) mewajibkan Raka = 1, padahal posisi 1 milik Sena. Kontradiksi. Jadi Raka = 1.\n3. Tirta genap: 2 atau 4 (Tirta = 6 tidak menyisakan tempat bagi Yoga dan Wira).\n   - Tirta = 2: sisa posisi 3–7 untuk S, U (selisih 2), V (bukan 7), dan blok Y–W.\n     • S = 3, U = 5 → Y–W = 6–7, V = 4. Sah: R T S V U Y W.\n     • S = 4, U = 6 → sisa 3, 5, 7 tidak memuat blok Y–W yang berdempet. Gugur.\n     • S = 5, U = 7 → Y–W = 3–4, V = 6. Sah: R T Y W S V U.\n   - Tirta = 4: Y–W = 5–6 atau 6–7.\n     • Y–W = 5–6 → sisa 2, 3, 7; tidak ada dua posisi berselisih 2 untuk S–U. Gugur.\n     • Y–W = 6–7 → sisa 2, 3, 5 → S = 3, U = 5, V = 2. Sah: R V S T U Y W.\n4. Ketiga urutan sah memiliki Umar di posisi 5 atau 7, sehingga syarat (5) tidak dilanggar.\n5. Tabel urutan sah:\n   a. R T S V U Y W\n   b. R T Y W S V U\n   c. R V S T U Y W\n6. Pada ketiga urutan, Raka selalu finis pertama.\nJadi, jawaban yang tepat adalah (B) Raka finis pertama.\nMengapa opsi lain kurang tepat:\n- (A) Pada urutan b, Sena finis kelima.\n- (C) Pada urutan b, Wira finis keempat.\n- (D) Vino tepat di depan Umar hanya terjadi pada urutan a.\n- (E) Pada urutan c, Tirta finis keempat.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-14",
+    "description": "Nilai ujian akademik enam peserta—Bagas, Cindy, Dodi, Evi, Ferry, dan Gina—diperingkat dari 1 (tertinggi) sampai 6 tanpa nilai kembar. Diketahui:\n(1) Cindy berperingkat lebih baik daripada Dodi dan juga lebih baik daripada Evi.\n(2) Gina berada tepat satu peringkat di atas Bagas.\n(3) Ferry tidak berada di peringkat 1 maupun peringkat 6.\n(4) Jika Evi berperingkat lebih baik daripada Dodi, maka Bagas berada di peringkat 6.\n(5) Tepat satu orang berada di antara Cindy dan Ferry.\nManakah pernyataan berikut yang MUNGKIN benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Ferry berada di peringkat 4.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Gina berada di peringkat 2.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Dodi berada di peringkat 3.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Evi berada di peringkat 2.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Bagas berada di peringkat 4.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Peringkat 1–6 (angka kecil = lebih baik) untuk Bagas (B), Cindy (C), Dodi (D), Evi (E), Ferry (F), Gina (G).\n- (1) C < D dan C < E.\n- (2) B = G + 1.\n- (3) F ≠ 1 dan F ≠ 6.\n- (4) Jika E < D, maka B = 6.\n- (5) |C − F| = 2.\n\nDITANYAKAN:\nPernyataan yang benar pada setidaknya satu susunan sah.\n\nJAWAB:\n1. Tentukan dulu kemungkinan posisi Cindy (orang yang punya dua syarat). Cindy harus di atas Dodi dan Evi, dan Ferry berjarak 2 dari Cindy.\n2. Cindy = 2 → peringkat 1 hanya bisa diisi Gina (B harus di bawah G; D, E di bawah C; F ≠ 1), lalu Bagas = 2, bentrok dengan Cindy. Gugur.\n3. Cindy = 4 → Dodi dan Evi di 5 dan 6, Ferry = 2; peringkat 1 dan 3 tersisa untuk Gina–Bagas yang harus berdempet. Gugur. Cindy ≥ 5 jelas mustahil.\n4. Cindy = 3 → Ferry = 5 (Ferry ≠ 1). Peringkat 1–2 hanya dapat diisi G–B, sehingga G = 1, B = 2. Dodi dan Evi di 4 dan 6. Jika Evi = 4 (Evi lebih baik daripada Dodi), syarat (4) menuntut B = 6, padahal B = 2; gugur. Maka Dodi = 4, Evi = 6. Sah: G B C D F E.\n5. Cindy = 1 → Ferry = 3. Sisa 2, 4, 5, 6 untuk B, D, E, G dengan blok G–B berdempet: (G, B) = (4, 5) atau (5, 6).\n   - (G, B) = (4, 5): D, E di 2 dan 6. Jika E = 2 maka B harus 6 (gugur), jadi D = 2, E = 6. Sah: C D F G B E.\n   - (G, B) = (5, 6): D, E di 2 dan 4. D = 2, E = 4 sah: C D F E G B. E = 2, D = 4 juga sah karena B memang di 6: C E F D G B.\n6. Tabel susunan sah:\n   a. G B C D F E\n   b. C D F G B E\n   c. C D F E G B\n   d. C E F D G B\n7. Evi di peringkat 2 terjadi pada susunan d, jadi mungkin benar.\nJadi, jawaban yang tepat adalah (D) Evi berada di peringkat 2.\nMengapa opsi lain kurang tepat:\n- (A) Ferry hanya dapat berada di peringkat 3 atau 5.\n- (B) Gina hanya dapat berada di peringkat 1, 4, atau 5.\n- (C) Dodi hanya dapat berada di peringkat 2 atau 4.\n- (E) Bagas hanya dapat berada di peringkat 2, 5, atau 6.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-14",
+    "description": "Enam berkas perkara—K, L, M, N, O, dan P—diproses satu per satu secara berurutan (urutan 1 sampai 6). Diketahui:\n(1) Berkas L diproses sebelum berkas M, dan berkas M diproses sebelum berkas O.\n(2) Berkas O diproses tepat tiga urutan setelah berkas K.\n(3) Berkas N tidak diproses pertama.\n(4) Berkas P tidak diproses tepat setelah berkas M.\n(5) Jika berkas K diproses sebelum berkas L, maka berkas N diproses paling akhir.\nJika berkas M diproses pada urutan keempat, manakah pernyataan berikut yang TIDAK MUNGKIN benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Berkas P diproses pada urutan kelima.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Berkas K diproses pada urutan ketiga.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Berkas N diproses pada urutan ketiga.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Berkas L diproses pada urutan ketiga.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Berkas O diproses pada urutan keenam.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Urutan 1–6 untuk berkas K, L, M, N, O, P.\n- (1) L < M < O.\n- (2) O = K + 3.\n- (3) N ≠ 1.\n- (4) P ≠ M + 1.\n- (5) Jika K < L, maka N = 6.\n- Premis pertanyaan: M = 4.\n\nDITANYAKAN:\nPernyataan yang tidak dapat benar jika M di urutan keempat.\n\nJAWAB:\n1. Dari (1), O > 4 sehingga O = 5 atau 6. Dari (2), K = O − 3 sehingga K = 2 atau 3.\n2. Syarat (4) dengan M = 4 berarti P tidak boleh di urutan 5. Ini sudah menunjukkan pernyataan \"P di urutan kelima\" mustahil; tetap pastikan pernyataan lain bisa terjadi.\n3. Kasus O = 5, K = 2: sisa urutan 1, 3, 6 untuk L, N, P (L harus sebelum M, jadi L = 1 atau 3).\n   - L = 1: K tidak sebelum L, syarat (5) tidak berlaku. N dan P di 3 dan 6 → L K N M O P dan L K P M O N.\n   - L = 3: K (2) sebelum L, syarat (5) menuntut N = 6, sehingga P = 1 → P K L M O N.\n4. Kasus O = 6, K = 3: sisa urutan 1, 2, 5 untuk L, N, P. P ≠ 5 dan N ≠ 1, sehingga N = 5, sedangkan L dan P di 1–2 (L sebelum K, syarat 5 tidak berlaku) → L P K M N O dan P L K M N O.\n5. Tabel susunan sah (urutan 1 → 6):\n   a. L K N M O P\n   b. L K P M O N\n   c. P K L M O N\n   d. L P K M N O\n   e. P L K M N O\n6. Tidak satu pun susunan menempatkan P di urutan 5.\nJadi, jawaban yang tepat adalah (A) Berkas P diproses pada urutan kelima.\nMengapa opsi lain kurang tepat:\n- (B) K di urutan ketiga terjadi pada susunan d dan e.\n- (C) N di urutan ketiga terjadi pada susunan a.\n- (D) L di urutan ketiga terjadi pada susunan c.\n- (E) O di urutan keenam terjadi pada susunan d dan e.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-15",
+    "description": "Tujuh peserta rapat—Anisa, Bayu, Cakra, Dewi, Erik, Fina, dan Gani—duduk mengelilingi meja bundar dengan tujuh kursi berjarak sama. Semuanya duduk menghadap ke pusat meja (\"kanan\" seseorang adalah kursi di sisi tangan kanannya saat ia menghadap pusat meja, yaitu kursi berikutnya bila bergerak berlawanan arah jarum jam dilihat dari atas). Diketahui:\n(1) Bayu duduk tepat di sebelah kanan Anisa.\n(2) Dewi dan Bayu hanya dipisahkan oleh satu orang.\n(3) Erik tidak duduk bersebelahan dengan Anisa maupun dengan Bayu.\n(4) Cakra duduk tepat di sebelah kiri Erik.\n(5) Fina menempati salah satu kursi yang paling jauh dari Anisa.\n(6) Jika Cakra duduk bersebelahan dengan Bayu, maka Erik duduk bersebelahan dengan Dewi.\nSiapakah yang duduk tepat di sebelah kiri Fina?",
+    "image": "",
+    "options": [
+      {
+        "text": "Bayu",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Cakra",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Dewi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Erik",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Gani",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tujuh kursi melingkar berjarak sama; semua menghadap pusat. \"Kanan\" = kursi berikutnya bila bergerak berlawanan arah jarum jam (dilihat dari atas); \"kiri\" = searah jarum jam.\n- (1) Bayu tepat di kanan Anisa.\n- (2) Dewi dan Bayu dipisahkan satu orang.\n- (3) Erik tidak bersebelahan dengan Anisa maupun Bayu.\n- (4) Cakra tepat di kiri Erik (artinya Erik tepat di kanan Cakra).\n- (5) Fina di salah satu kursi terjauh dari Anisa.\n- (6) Jika Cakra bersebelahan dengan Bayu, maka Erik bersebelahan dengan Dewi.\n\nDITANYAKAN:\nOrang yang duduk tepat di sebelah kiri Fina.\n\nJAWAB:\n1. Beri nomor kursi 0–6 berurutan ke arah kanan; tetapkan Anisa = 0. Dari (1), Bayu = 1.\n2. (5): pada meja 7 kursi, kursi terjauh dari kursi 0 adalah kursi 3 dan 4. Jadi Fina = 3 atau 4.\n3. (2): Dewi dipisahkan satu orang dari Bayu (kursi 1), jadi Dewi = 3 (terpisah kursi 2) atau Dewi = 6 (terpisah Anisa).\n4. (3): tetangga Anisa adalah kursi 1 dan 6, tetangga Bayu adalah kursi 0 dan 2, sehingga Erik = 3, 4, atau 5. Dari (4), Cakra = Erik − 1.\n5. Uji kasus:\n   - Fina = 3: Dewi tidak bisa 3, maka Dewi = 6. Erik = 4 membuat Cakra = 3 (bentrok Fina); jadi Erik = 5, Cakra = 4, dan Gani mengisi kursi 2. Cakra (4) tidak bersebelahan dengan Bayu, syarat (6) tidak berlaku. Sah.\n   - Fina = 4: Erik = 5 membuat Cakra = 4 (bentrok Fina), jadi Erik = 3 dan Cakra = 2, sehingga Dewi = 6. Cakra (2) bersebelahan dengan Bayu (1), maka syarat (6) menuntut Erik bersebelahan dengan Dewi; Erik (3) dan Dewi (6) tidak bersebelahan. Gugur.\n6. Susunan tunggal ke arah kanan: Anisa (0) → Bayu (1) → Gani (2) → Fina (3) → Cakra (4) → Erik (5) → Dewi (6) → kembali ke Anisa.\n7. Kiri Fina adalah kursi sebelum Fina dalam urutan ke kanan, yaitu kursi 2 = Gani.\nJadi, jawaban yang tepat adalah (E) Gani.\nMengapa opsi lain kurang tepat:\n- (A) Bayu di kursi 1, terpisah satu kursi dari Fina.\n- (B) Cakra duduk tepat di KANAN Fina (kursi 4); ini jebakan bagi yang membalik arah.\n- (C) Dewi di kursi 6, tepat di sebelah kiri Anisa.\n- (D) Erik di kursi 5, dua kursi di kanan Fina.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-15",
+    "description": "Sebuah asrama taruna memiliki tiga lantai; setiap lantai berisi dua kamar, yaitu kamar barat dan kamar timur. Kamar-kamar tersusun lurus vertikal, sehingga kamar barat lantai 2 berada tepat di atas kamar barat lantai 1, dan seterusnya. Enam taruna—Hafiz, Irwan, Jaka, Kurnia, Lutfi, dan Miko—masing-masing menempati satu kamar. Diketahui:\n(1) Hafiz tinggal di lantai yang lebih tinggi daripada Jaka.\n(2) Irwan dan Kurnia tinggal di lantai yang sama.\n(3) Kamar Lutfi berada tepat di atas kamar Miko.\n(4) Jaka tidak tinggal di lantai 1.\n(5) Jika Hafiz menempati kamar barat, maka Miko tinggal di lantai 1.\n(6) Kurnia menempati kamar timur.\nSiapakah yang menempati kamar tepat di bawah kamar Hafiz?",
+    "image": "",
+    "options": [
+      {
+        "text": "Miko",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Kurnia",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jaka",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Lutfi",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Irwan",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Lantai 1–3, tiap lantai: kamar barat (B) dan timur (T); kamar bersisi sama tersusun vertikal.\n- (1) Lantai Hafiz > lantai Jaka.\n- (2) Irwan dan Kurnia satu lantai.\n- (3) Lutfi tepat di atas Miko (sisi sama, satu lantai lebih tinggi).\n- (4) Jaka bukan lantai 1.\n- (5) Jika Hafiz di kamar barat, maka Miko di lantai 1.\n- (6) Kurnia di kamar timur.\n\nDITANYAKAN:\nPenghuni kamar tepat di bawah kamar Hafiz.\n\nJAWAB:\n1. Dari (4), Jaka di lantai 2 atau 3; dari (1), Hafiz lebih tinggi lagi. Satu-satunya kemungkinan: Jaka di lantai 2, Hafiz di lantai 3.\n2. Dari (2), Irwan dan Kurnia butuh dua kamar di lantai yang sama. Lantai 2 dan 3 masing-masing sudah terisi satu orang, jadi pasangan itu menempati lantai 1. Dari (6), Kurnia = lantai 1 timur, Irwan = lantai 1 barat.\n3. Lutfi dan Miko mengisi kamar sisa: satu di lantai 2 dan satu di lantai 3. Dari (3), Miko di lantai 2 dan Lutfi tepat di atasnya di lantai 3, pada sisi yang sama.\n4. Syarat bersyarat (5): jika Hafiz di barat, Miko harus di lantai 1, padahal Miko di lantai 2. Maka Hafiz di kamar timur. Akibatnya Lutfi di lantai 3 barat, Miko di lantai 2 barat, dan Jaka di lantai 2 timur.\n5. Denah:\n   Lantai 3: barat Lutfi | timur Hafiz\n   Lantai 2: barat Miko | timur Jaka\n   Lantai 1: barat Irwan | timur Kurnia\n6. Kamar tepat di bawah Hafiz (lantai 3 timur) adalah lantai 2 timur, yaitu Jaka.\nJadi, jawaban yang tepat adalah (C) Jaka.\nMengapa opsi lain kurang tepat:\n- (A) Miko berada tepat di bawah Lutfi (sisi barat), bukan di bawah Hafiz.\n- (B) Kurnia di lantai 1 timur, dua lantai di bawah Hafiz, bukan tepat di bawahnya.\n- (D) Lutfi berada satu lantai dengan Hafiz (lantai 3).\n- (E) Irwan berada di lantai 1 barat.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-15",
+    "description": "Di halaman Polsek terdapat tujuh petak parkir berjajar, bernomor 1 sampai 7 dari barat ke timur. Enam kendaraan dinas—patwal, rantis, sedan, truk, minibus, dan derek—diparkir di petak-petak itu sehingga tepat satu petak kosong. Diketahui:\n(1) Petak kosong bukan petak 1 dan bukan petak 7.\n(2) Truk dan derek diparkir bersebelahan.\n(3) Sedan diparkir tepat tiga petak di sebelah timur rantis.\n(4) Patwal diparkir di salah satu petak ujung.\n(5) Jika minibus diparkir bersebelahan dengan petak kosong, maka sedan diparkir di petak 7.\n(6) Rantis tidak diparkir bersebelahan dengan truk.\nManakah pernyataan berikut yang TIDAK MUNGKIN benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Truk diparkir tepat di sebelah barat petak kosong.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Minibus diparkir di petak 1.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Petak kosong adalah petak 6.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rantis diparkir di petak 2.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Derek diparkir tepat di sebelah timur rantis.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Petak 1–7 (barat → timur), enam kendaraan, satu petak kosong (_).\n- (1) _ di petak 2–6.\n- (2) Truk dan derek bersebelahan.\n- (3) Sedan = rantis + 3.\n- (4) Patwal di petak 1 atau 7.\n- (5) Jika minibus bersebelahan dengan _, maka sedan di petak 7.\n- (6) Rantis tidak bersebelahan dengan truk.\n\nDITANYAKAN:\nPernyataan yang tidak dapat benar pada susunan mana pun yang sah.\n\nJAWAB:\n1. Uji pernyataan \"truk tepat di sebelah barat petak kosong\". Karena sebelah timur truk kosong, derek (yang wajib bersebelahan dengan truk) harus di sebelah barat truk. Terbentuk blok tiga petak berurutan: derek – truk – kosong.\n2. Patwal di salah satu ujung, sehingga blok itu dan pasangan rantis–sedan (berselisih 3 petak) harus muat di enam petak lainnya. Cek semua letak blok:\n   - Patwal di 1: blok di 2–4 menyisakan 5, 6, 7; blok di 3–5 menyisakan 2, 6, 7; blok di 4–6 menyisakan 2, 3, 7.\n   - Patwal di 7: blok di 1–3 menyisakan 4, 5, 6; blok di 2–4 menyisakan 1, 5, 6; blok di 3–5 menyisakan 1, 2, 6; blok di 4–6 menyisakan 1, 2, 3.\n   Pada setiap kasus tidak ada dua petak sisa yang berselisih tepat 3, sehingga rantis–sedan tidak pernah bisa ditempatkan. Pernyataan ini mustahil.\n3. Pastikan opsi lain mungkin dengan contoh susunan sah (petak 1 → 7):\n   a. patwal, _, rantis, derek, truk, sedan, minibus\n   b. patwal, truk, derek, rantis, minibus, _, sedan\n   c. minibus, rantis, derek, truk, sedan, _, patwal\n   Cek contoh b: minibus (5) bersebelahan dengan petak kosong (6), dan sedan memang di petak 7, jadi syarat (5) terpenuhi; rantis (4) tidak bersebelahan dengan truk (2). Contoh a dan c juga memenuhi keenam syarat.\nJadi, jawaban yang tepat adalah (A) Truk diparkir tepat di sebelah barat petak kosong.\nMengapa opsi lain kurang tepat:\n- (B) Minibus di petak 1 terjadi pada contoh c (patwal di petak 7).\n- (C) Petak kosong di petak 6 terjadi pada contoh b dan c.\n- (D) Rantis di petak 2 terjadi pada contoh c.\n- (E) Derek tepat di timur rantis terjadi pada contoh a (rantis 3, derek 4) dan contoh c (rantis 2, derek 3).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-16",
+    "description": "Enam instruktur—Arum, Bowo, Cici, Dharma, Eli, dan Faisal—dijadwalkan mengajar dalam pelatihan tiga hari (Senin, Selasa, Rabu). Setiap hari ada dua sesi, yaitu sesi pagi lalu sesi siang, dan setiap sesi diisi tepat satu instruktur yang berbeda. Diketahui:\n(1) Bowo dan Eli mengajar pada hari yang sama.\n(2) Arum mengajar pada sesi pagi, tetapi tidak pada hari Selasa.\n(3) Cici mengajar lebih awal daripada Dharma, dan keduanya tidak mengajar pada hari yang sama.\n(4) Faisal tidak mengajar pada hari Senin.\n(5) Jika Eli mengajar pada sesi pagi, maka Dharma mengajar pada hari Rabu.\nJika Dharma mengajar pada hari Selasa, manakah pernyataan berikut yang PASTI benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Faisal mengajar pada Selasa pagi.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Cici mengajar pada Senin pagi.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Bowo mengajar pada hari Selasa.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Eli mengajar pada Rabu siang.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Dharma mengajar pada sesi pagi.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Enam slot berurutan: Senin pagi, Senin siang, Selasa pagi, Selasa siang, Rabu pagi, Rabu siang; satu instruktur per slot.\n- (1) Bowo dan Eli satu hari.\n- (2) Arum sesi pagi dan bukan Selasa.\n- (3) Cici lebih awal daripada Dharma, beda hari.\n- (4) Faisal bukan Senin.\n- (5) Jika Eli pagi, maka Dharma Rabu.\n- Premis pertanyaan: Dharma mengajar hari Selasa.\n\nDITANYAKAN:\nPernyataan yang benar pada semua jadwal sah dengan Dharma di hari Selasa.\n\nJAWAB:\n1. Dari (3), Cici lebih awal dan beda hari dengan Dharma (Selasa), maka Cici mengajar hari Senin.\n2. Dari (1), Bowo dan Eli memerlukan dua slot pada hari yang sama. Senin tinggal satu slot (satu sudah dipakai Cici) dan Selasa tinggal satu slot (satu dipakai Dharma). Jadi Bowo dan Eli mengisi kedua slot hari Rabu.\n3. Dari (2), Arum harus sesi pagi dan bukan Selasa. Rabu pagi sudah dipakai Bowo/Eli, maka Arum = Senin pagi, dan Cici = Senin siang.\n4. Faisal (bukan Senin) mengisi slot Selasa yang tersisa bersama Dharma; urutan pagi–siang mereka belum ditentukan.\n5. Syarat bersyarat (5): jika Eli pagi, Dharma harus Rabu, padahal Dharma Selasa. Konsekuen salah, maka Eli tidak pagi. Jadi Eli = Rabu siang dan Bowo = Rabu pagi.\n6. Tabel jadwal:\n   Senin: pagi Arum | siang Cici\n   Selasa: Dharma dan Faisal (pagi/siang dapat ditukar)\n   Rabu: pagi Bowo | siang Eli\nJadi, jawaban yang tepat adalah (D) Eli mengajar pada Rabu siang.\nMengapa opsi lain kurang tepat:\n- (A) Faisal bisa Selasa pagi atau Selasa siang, jadi tidak pasti.\n- (B) Cici mengajar Senin siang karena Senin pagi wajib milik Arum.\n- (C) Bowo mengajar Rabu pagi, bukan Selasa.\n- (E) Dharma bisa pagi atau siang pada hari Selasa, jadi tidak pasti.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-16",
+    "description": "Tujuh anggota—Galih, Hesti, Iwan, Jeni, Kiki, Lusi, dan Mamat—dibagi ke dalam tiga regu: Regu 1 beranggotakan 3 orang, sedangkan Regu 2 dan Regu 3 masing-masing beranggotakan 2 orang. Diketahui:\n(1) Galih dan Hesti tidak berada dalam regu yang sama.\n(2) Jeni dan Kiki berada dalam regu yang sama.\n(3) Jika Lusi masuk Regu 2, maka Mamat masuk Regu 3.\n(4) Hesti tidak masuk Regu 1.\n(5) Iwan tidak satu regu dengan Galih dan tidak masuk Regu 3.\nJika Galih masuk Regu 2, manakah pernyataan berikut yang PASTI benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Lusi masuk Regu 2.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hesti masuk Regu 3.",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Mamat masuk Regu 3.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Jeni masuk Regu 2.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Kiki dan Lusi berada dalam regu yang sama.",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Regu 1 = 3 orang; Regu 2 = 2 orang; Regu 3 = 2 orang.\n- (1) Galih dan Hesti beda regu.\n- (2) Jeni dan Kiki satu regu.\n- (3) Jika Lusi di Regu 2, maka Mamat di Regu 3.\n- (4) Hesti bukan Regu 1.\n- (5) Iwan tidak satu regu dengan Galih dan bukan Regu 3.\n- Premis pertanyaan: Galih di Regu 2.\n\nDITANYAKAN:\nPernyataan yang benar pada semua pembagian sah dengan Galih di Regu 2.\n\nJAWAB:\n1. Dari (5): Iwan bukan Regu 3 dan tidak boleh bersama Galih (Regu 2), maka Iwan = Regu 1.\n2. Hesti bukan Regu 1 (4) dan tidak boleh bersama Galih di Regu 2 (1), maka Hesti = Regu 3.\n3. Sisa kursi: Regu 1 dua kursi, Regu 2 satu kursi, Regu 3 satu kursi. Pasangan Jeni–Kiki (2) butuh dua kursi dalam satu regu, sehingga hanya muat di Regu 1. Regu 1 kini penuh: Iwan, Jeni, Kiki.\n4. Lusi dan Mamat mengisi satu kursi di Regu 2 dan satu kursi di Regu 3:\n   a. Lusi Regu 2, Mamat Regu 3: syarat (3) terpenuhi.\n   b. Lusi Regu 3, Mamat Regu 2: syarat (3) tidak berlaku.\n5. Tabel pembagian:\n   Regu 1: Iwan, Jeni, Kiki\n   Regu 2: Galih + (Lusi atau Mamat)\n   Regu 3: Hesti + (Mamat atau Lusi)\n6. Pada kedua kemungkinan, Hesti selalu di Regu 3.\nJadi, jawaban yang tepat adalah (B) Hesti masuk Regu 3.\nMengapa opsi lain kurang tepat:\n- (A) Lusi di Regu 2 hanya terjadi pada kemungkinan a.\n- (C) Mamat di Regu 3 hanya terjadi pada kemungkinan a.\n- (D) Jeni selalu di Regu 1 karena pasangan Jeni–Kiki hanya muat di sana.\n- (E) Kiki di Regu 1, sedangkan Lusi di Regu 2 atau 3; mereka tidak pernah satu regu.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-16",
+    "description": "Komandan akan membentuk tim beranggotakan tepat 4 orang dari tujuh kandidat: Nando, Oscar, Prita, Qiara, Rendi, Siska, dan Taufik. Pembentukan tim harus memenuhi ketentuan berikut:\n(1) Jika Nando dipilih, maka Oscar tidak dipilih.\n(2) Prita dipilih jika dan hanya jika Qiara dipilih.\n(3) Tepat satu di antara Rendi dan Siska yang dipilih.\n(4) Jika Taufik tidak dipilih, maka Nando dipilih.\n(5) Jika Qiara dipilih, maka Rendi tidak dipilih.\nManakah pernyataan berikut yang PASTI benar?",
+    "image": "",
+    "options": [
+      {
+        "text": "Taufik dipilih.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Nando dipilih.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Rendi dipilih.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Nando dan Taufik sama-sama dipilih.",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Oscar tidak dipilih.",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Tim terdiri atas tepat 4 dari 7 kandidat.\n- (1) Nando → bukan Oscar (setara: Oscar → bukan Nando).\n- (2) Prita ↔ Qiara (keduanya dipilih atau keduanya tidak).\n- (3) Tepat satu dari Rendi/Siska.\n- (4) Bukan Taufik → Nando (setara: bukan Nando → Taufik).\n- (5) Qiara → bukan Rendi.\n\nDITANYAKAN:\nPernyataan yang benar pada semua tim yang sah.\n\nJAWAB:\n1. Uji Oscar dipilih. Dari (1) (kontraposisi), Nando tidak dipilih. Dari (4) (kontraposisi), karena Nando tidak dipilih maka Taufik wajib dipilih.\n2. Tim sementara: Oscar, Taufik, dan masih perlu 2 orang dari Prita, Qiara, Rendi, Siska.\n3. Syarat (3) mengambil tepat satu kursi untuk Rendi atau Siska. Kursi terakhir harus Prita atau Qiara sendirian, padahal syarat (2) menuntut keduanya selalu berpasangan. Kontradiksi, sehingga Oscar tidak pernah dipilih.\n4. Cari tim yang sah tanpa Oscar (calon: Nando, Prita, Qiara, Rendi, Siska, Taufik):\n   - Jika Prita–Qiara dipilih: dari (5) Rendi tidak dipilih, dari (3) Siska dipilih. Kursi keempat: Nando atau Taufik (keduanya memenuhi syarat 4). Tim: {Nando, Prita, Qiara, Siska} atau {Prita, Qiara, Siska, Taufik}.\n   - Jika Prita–Qiara tidak dipilih: calon tersisa hanya Nando, Taufik, dan satu dari Rendi/Siska, yaitu 3 orang. Tidak cukup untuk 4 kursi.\n5. Tabel tim sah: (i) Nando, Prita, Qiara, Siska; (ii) Prita, Qiara, Siska, Taufik. Keduanya tanpa Oscar.\nJadi, jawaban yang tepat adalah (E) Oscar tidak dipilih.\nMengapa opsi lain kurang tepat:\n- (A) Pada tim (i), Taufik tidak dipilih.\n- (B) Pada tim (ii), Nando tidak dipilih.\n- (C) Rendi tidak pernah dipilih karena Qiara selalu ikut dalam tim yang sah.\n- (D) Nando dan Taufik tidak pernah dipilih bersamaan; kursi tidak cukup karena Prita, Qiara, dan Siska selalu ikut.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-17",
+    "description": "Bripka Rudi belum menikah dan belum mempunyai anak. Ia hanya mempunyai satu saudara kandung, yaitu seorang kakak laki-laki yang sudah menikah. Sambil menunjuk seorang anak laki-laki, Rudi berkata, \"Anak itu adalah satu-satunya cucu dari ayah mertua istri kakak saya.\"\nBagi Rudi, anak laki-laki tersebut adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "cucunya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "adik iparnya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "keponakannya",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "sepupunya",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "adik kandungnya",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Rudi belum menikah dan belum punya anak.\n- Saudara kandung Rudi hanya satu: kakak laki-laki (sebut Kak B) yang sudah menikah.\n- Pernyataan: anak itu = satu-satunya cucu dari ayah mertua istri kakak Rudi.\n\nDITANYAKAN:\nHubungan anak laki-laki itu dengan Rudi.\n\nJAWAB:\nUrai rantai dari bagian terdalam.\n1. \"Kakak saya\" = Kak B. \"Istri kakak saya\" = istri Kak B.\n2. \"Ayah mertua istri Kak B\" = ayah dari suami perempuan itu = ayah Kak B. Karena Rudi dan Kak B saudara kandung, ayah mertua itu adalah ayah Rudi sendiri.\n3. \"Cucu dari ayah Rudi\" = anak dari anak-anak ayah Rudi, yaitu anak Kak B atau anak Rudi. Rudi belum punya anak, jadi cucu itu pasti anak Kak B.\n4. \"Satu-satunya cucu\" berarti Kak B hanya punya satu anak, yaitu anak laki-laki yang ditunjuk.\n5. Anak dari saudara kandung disebut keponakan.\nTabel bantu rantai:\n   istri kakak Rudi → ayah mertuanya (= ayah Rudi) → satu-satunya cucu ayah Rudi (= anak Kak B) → keponakan Rudi.\nJadi, jawaban yang tepat adalah (C) keponakannya.\nMengapa opsi lain kurang tepat:\n- (A) Anak itu cucu dari ayah Rudi, bukan cucu Rudi; jebakan bagi yang berhenti di kata \"cucu\".\n- (B) Adik ipar adalah adik dari pasangan atau pasangan dari adik; tidak sesuai rantai.\n- (D) Sepupu adalah anak dari paman atau bibi; anak itu justru anak saudara kandung Rudi.\n- (E) Rudi hanya punya satu saudara kandung, yaitu kakak laki-lakinya.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-17",
+    "description": "Enam orang menghadiri acara keluarga: Sigit, Taufan, dan Umar (laki-laki), serta Ratih, Vina, dan Wulan (perempuan). Mereka terdiri atas dua pasang suami-istri generasi tua dan sepasang suami-istri muda. Suami muda adalah anak kandung salah satu pasangan tua, sedangkan istri muda adalah anak kandung pasangan tua yang lain. Diketahui:\n(1) Ratih adalah besan Taufan.\n(2) Vina bukan ibu mertua Wulan.\n(3) Wulan bukan besan Ratih.\n(4) Jika Ratih adalah ibu kandung Umar, maka Vina adalah menantu Sigit.\nBagi Sigit, Taufan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "besan",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "ayah mertua",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "ayah kandung",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "kakak ipar",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "menantu",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Laki-laki: Sigit, Taufan, Umar. Perempuan: Ratih, Vina, Wulan.\n- Tabel peran: Pasangan Tua-1 (Ayah-1, Ibu-1) = orang tua suami muda; Pasangan Tua-2 (Ayah-2, Ibu-2) = orang tua istri muda; Suami muda; Istri muda.\n- Besan = hubungan antara orang tua suami muda dan orang tua istri muda.\n- (1) Ratih besan Taufan. (2) Vina bukan ibu mertua Wulan. (3) Wulan bukan besan Ratih. (4) Jika Ratih ibu kandung Umar, maka Vina menantu Sigit.\n\nDITANYAKAN:\nHubungan Taufan bagi Sigit.\n\nJAWAB:\n1. Dari (1), Ratih punya besan, jadi Ratih generasi tua.\n2. Syarat (3): andaikan Wulan juga generasi tua. Dua perempuan tidak mungkin dalam satu pasangan, sehingga Wulan berada di pasangan tua yang lain dan otomatis menjadi besan Ratih. Ini bertentangan dengan (3). Jadi Wulan = istri muda.\n3. Ratih dan Vina mengisi Ibu-1 dan Ibu-2. Ibu mertua Wulan adalah Ibu-1 (ibu suami muda). Dari (2), Vina bukan Ibu-1, jadi Vina = Ibu-2 (ibu kandung Wulan) dan Ratih = Ibu-1.\n4. Dari (1), Taufan besan Ratih, jadi Taufan berada di pasangan tua yang lain: Taufan = Ayah-2 (suami Vina, ayah kandung Wulan).\n5. Sigit dan Umar mengisi Ayah-1 dan suami muda. Uji syarat bersyarat (4): jika Umar suami muda, Ratih adalah ibu kandung Umar, sehingga Vina harus menantu Sigit (Ayah-1). Padahal menantu Ayah-1 adalah Wulan, bukan Vina. Kontradiksi. Jadi Umar = Ayah-1 (suami Ratih) dan Sigit = suami muda (suami Wulan).\n6. Tabel akhir:\n   Pasangan Tua-1: Umar – Ratih (orang tua Sigit)\n   Pasangan Tua-2: Taufan – Vina (orang tua Wulan)\n   Pasangan muda: Sigit – Wulan\n7. Taufan adalah ayah dari istri Sigit, sehingga bagi Sigit, Taufan adalah ayah mertua.\nJadi, jawaban yang tepat adalah (B) ayah mertua.\nMengapa opsi lain kurang tepat:\n- (A) Besan Taufan adalah Umar dan Ratih (orang tua Sigit), bukan Sigit sendiri.\n- (C) Ayah kandung Sigit adalah Umar.\n- (D) Kakak ipar adalah saudara pasangan atau pasangan saudara; Taufan berasal dari generasi orang tua.\n- (E) Hubungannya terbalik: Sigit adalah menantu Taufan.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-18",
+    "description": "Lima penyidik—Arya, Bunga, Candra, Dian, dan Edo—masing-masing menangani satu jenis kasus yang berbeda (penipuan, narkotika, pencurian, siber, perjudian) dan menyerahkan laporannya pada hari yang berbeda, Senin sampai Jumat. Diketahui:\n(1) Laporan kasus siber diserahkan tepat sehari setelah laporan kasus narkotika, dan laporan kasus perjudian tepat sehari setelah laporan kasus siber.\n(2) Laporan kasus penipuan dan laporan kasus pencurian tidak diserahkan pada dua hari yang berurutan.\n(3) Bunga menyerahkan laporan pada hari Rabu.\n(4) Arya menangani kasus narkotika.\n(5) Laporan kasus pencurian diserahkan lebih awal daripada laporan Candra.\n(6) Jika Dian menyerahkan laporan lebih awal daripada Candra, maka Dian menangani kasus penipuan.\nSiapakah yang menangani kasus pencurian, dan pada hari apa laporannya diserahkan?",
+    "image": "",
+    "options": [
+      {
+        "text": "Edo, hari Senin",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "Dian, hari Jumat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Candra, hari Jumat",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Dian, hari Senin",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Edo, hari Jumat",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Penyidik: Arya, Bunga, Candra, Dian, Edo. Kasus: penipuan, narkotika, pencurian, siber, perjudian. Hari: Senin (1) – Jumat (5).\n- (1) narkotika → siber → perjudian pada tiga hari berurutan.\n- (2) Penipuan dan pencurian tidak pada hari berurutan.\n- (3) Bunga = Rabu.\n- (4) Arya = narkotika.\n- (5) Hari pencurian lebih awal daripada hari Candra.\n- (6) Jika Dian lebih awal daripada Candra, maka Dian = penipuan.\n\nDITANYAKAN:\nPenyidik kasus pencurian dan hari laporannya.\n\nJAWAB:\n1. Mulai dari syarat kunci (1): blok narkotika–siber–perjudian menempati Senin–Rabu, Selasa–Kamis, atau Rabu–Jumat.\n2. Dua hari sisanya dipakai penipuan dan pencurian yang tidak boleh berurutan (2):\n   - Blok Senin–Rabu menyisakan Kamis–Jumat (berurutan). Gugur.\n   - Blok Rabu–Jumat menyisakan Senin–Selasa (berurutan). Gugur.\n   - Blok Selasa–Kamis menyisakan Senin dan Jumat. Sah.\n   Jadi narkotika Selasa, siber Rabu, perjudian Kamis; penipuan dan pencurian di Senin/Jumat.\n3. (3) Bunga Rabu, sehingga Bunga = siber. (4) Arya = narkotika, sehingga Arya = Selasa.\n4. (5) Pencurian lebih awal daripada Candra. Jika pencurian Jumat, tidak ada hari sesudahnya. Jadi pencurian = Senin, penipuan = Jumat, dan Candra bukan Senin.\n5. Senin, Kamis, Jumat dibagi untuk Candra, Dian, Edo, dengan Candra di Kamis atau Jumat. Uji syarat bersyarat (6):\n   - Candra Jumat: Dian (Senin atau Kamis) pasti lebih awal, sehingga Dian wajib penipuan (Jumat). Mustahil. Gugur.\n   - Candra Kamis: jika Dian Senin, ia lebih awal daripada Candra dan wajib penipuan, padahal Senin = pencurian. Gugur. Jadi Dian Jumat (penipuan) dan Edo Senin.\n6. Tabel akhir:\n   Senin: Edo – pencurian\n   Selasa: Arya – narkotika\n   Rabu: Bunga – siber\n   Kamis: Candra – perjudian\n   Jumat: Dian – penipuan\nJadi, jawaban yang tepat adalah (A) Edo, hari Senin.\nMengapa opsi lain kurang tepat:\n- (B) Dian melapor Jumat, tetapi kasusnya penipuan.\n- (C) Candra melapor Kamis dan menangani perjudian.\n- (D) Dian tidak mungkin melapor Senin karena akan melanggar syarat (6).\n- (E) Pencurian tidak mungkin dilaporkan Jumat karena harus lebih awal daripada laporan Candra (syarat 5).",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-18",
+    "description": "Panitia seleksi menyaring enam calon dengan data (tinggi badan; nilai akademik; nilai psikologi) sebagai berikut:\n• Fajar: 172 cm; 68; 88\n• Gilang: 168 cm; 74; 72\n• Hanafi: 175 cm; 71; 78\n• Irfan: 164 cm; 90; 90\n• Jefri: 169 cm; 66; 86\n• Kemal: 171 cm; 63; 95\nCalon dinyatakan lolos jika memenuhi SEMUA ketentuan berikut:\n(1) Tinggi badan minimal 165 cm.\n(2) Nilai akademik minimal 70. Calon dengan nilai akademik 65–69 tetap dianggap memenuhi ketentuan ini apabila nilai psikologinya minimal 85.\n(3) Jika tinggi badan kurang dari 170 cm, nilai psikologi minimal 75.\n(4) Jumlah nilai akademik dan nilai psikologi minimal 150.\nCalon yang lolos seluruh ketentuan adalah ....",
+    "image": "",
+    "options": [
+      {
+        "text": "Fajar, Hanafi, dan Jefri",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Fajar, Jefri, dan Kemal",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Hanafi dan Jefri",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Fajar, Irfan, dan Jefri",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "Fajar dan Jefri",
+        "is_correct": true,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- Data enam calon (tinggi; akademik; psikologi) seperti pada soal.\n- (1) Tinggi ≥ 165 cm.\n- (2) Akademik ≥ 70, ATAU akademik 65–69 dengan psikologi ≥ 85.\n- (3) Jika tinggi < 170 cm, maka psikologi ≥ 75.\n- (4) Akademik + psikologi ≥ 150.\n\nDITANYAKAN:\nDaftar calon yang memenuhi semua ketentuan.\n\nJAWAB:\n1. Strategi: susun tabel bantu, lalu saring mulai dari ketentuan yang paling cepat menggugurkan (tinggi badan), kemudian ketentuan dengan pengecualian dan syarat bersyarat.\n2. Tabel bantu (✓ = memenuhi, ✗ = gugur):\n   Fajar: (1) 172 ✓ | (2) 68, psikologi 88 ≥ 85 → pengecualian ✓ | (3) tinggi ≥ 170, tidak berlaku ✓ | (4) 68 + 88 = 156 ✓ → LOLOS\n   Gilang: (1) 168 ✓ | (2) 74 ✓ | (3) tinggi < 170, psikologi 72 < 75 ✗ → GUGUR\n   Hanafi: (1) 175 ✓ | (2) 71 ✓ | (3) tidak berlaku ✓ | (4) 71 + 78 = 149 < 150 ✗ → GUGUR\n   Irfan: (1) 164 < 165 ✗ → GUGUR (nilai tinggi tidak menolong)\n   Jefri: (1) 169 ✓ | (2) 66, psikologi 86 ≥ 85 → pengecualian ✓ | (3) tinggi < 170, psikologi 86 ≥ 75 ✓ | (4) 66 + 86 = 152 ✓ → LOLOS\n   Kemal: (1) 171 ✓ | (2) 63, di bawah rentang pengecualian 65–69 ✗ → GUGUR\n3. Calon yang lolos: Fajar dan Jefri.\nJadi, jawaban yang tepat adalah (E) Fajar dan Jefri.\nMengapa opsi lain kurang tepat:\n- (A) Hanafi gugur pada ketentuan (4) karena jumlah nilainya 149; jebakan bagi yang lupa ketentuan terakhir.\n- (B) Kemal gugur karena nilai akademik 63 berada di luar rentang pengecualian 65–69, meskipun psikologinya 95.\n- (C) Hanafi gugur dan Fajar justru lolos melalui pengecualian ketentuan (2).\n- (D) Irfan gugur pada ketentuan (1) karena tinggi badannya 164 cm.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-20",
+    "description": "Dalam sebuah sandi, setiap kata diubah dengan aturan yang sama. Contoh:\nSIGAP → RCIKU\nTEGAS → UCIGV\nKata manakah yang disandikan menjadi VCPCOC?",
+    "image": "",
+    "options": [
+      {
+        "text": "AMANAH",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "TANAMA",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "AMARAN",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "AMANAT",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "ANAMAT",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- SIGAP → RCIKU.\n- TEGAS → UCIGV.\n- Kode yang harus diuraikan: VCPCOC.\n\nDITANYAKAN:\nKata asal yang menghasilkan kode VCPCOC.\n\nJAWAB:\n1. Huruf pertama kode SIGAP adalah R, yang dekat dengan huruf terakhir P (bukan S). Ini petunjuk bahwa kata dibalik dulu.\n2. SIGAP dibalik menjadi PAGIS, lalu tiap huruf dimajukan 2 langkah: P → R, A → C, G → I, I → K, S → U. Hasil RCIKU, cocok.\n3. Uji pada contoh kedua: TEGAS dibalik menjadi SAGET, lalu dimajukan 2: S → U, A → C, G → I, E → G, T → V. Hasil UCIGV, cocok. Aturan: balik urutan huruf, lalu majukan tiap huruf 2 langkah.\n4. Uraikan VCPCOC dengan membalik prosesnya (kerjakan dari langkah terakhir):\n   - Mundurkan tiap huruf 2 langkah: V → T, C → A, P → N, C → A, O → M, C → A, menjadi TANAMA.\n   - Balik urutannya: TANAMA → AMANAT.\n5. Uji maju: AMANAT dibalik menjadi TANAMA, lalu dimajukan 2 menjadi VCPCOC. Cocok.\nJadi, jawaban yang tepat adalah (D) AMANAT.\nMengapa opsi lain kurang tepat:\n- (A) AMANAH → dibalik HANAMA → JCPCOC; huruf pertamanya J, bukan V.\n- (B) TANAMA adalah hasil sebelum pembalikan (lupa membalik); jika disandikan, TANAMA menjadi COCPCV.\n- (C) AMARAN → dibalik NARAMA → PCTCOC.\n- (E) ANAMAT → dibalik TAMANA → VCOCPC; letak O dan P tertukar.",
+    "difficulty": "sulit"
+  },
+  {
+    "sub_material_code": "VRB-20",
+    "description": "Dalam sebuah bahasa buatan, setiap kata dibentuk dengan menggabungkan unsur-unsur makna dalam urutan yang tetap. Diketahui:\n• lumakipa berarti \"petugas jujur\"\n• soterobi berarti \"warga sigap\"\n• lumarobina berarti \"para warga jujur\"\n• dekosote berarti \"sangat sigap\"\nDalam bahasa tersebut, \"para petugas yang sangat jujur\" ditulis ....",
+    "image": "",
+    "options": [
+      {
+        "text": "kipanadekoluma",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "lumadekokipana",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "dekolumakipana",
+        "is_correct": true,
+        "point": 1
+      },
+      {
+        "text": "dekolumakipa",
+        "is_correct": false,
+        "point": 1
+      },
+      {
+        "text": "nadekolumakipa",
+        "is_correct": false,
+        "point": 1
+      }
+    ],
+    "explanation": "DIKETAHUI:\n- lumakipa = petugas jujur\n- soterobi = warga sigap\n- lumarobina = para warga jujur\n- dekosote = sangat sigap\n\nDITANYAKAN:\nBentuk kata untuk \"para petugas yang sangat jujur\".\n\nJAWAB:\n1. Bandingkan lumakipa dan lumarobina: unsur yang sama \"luma\" muncul bersama makna yang sama \"jujur\". Jadi luma = jujur, sehingga kipa = petugas.\n2. Bandingkan soterobi dan lumarobina: unsur yang sama \"robi\" bersama makna yang sama \"warga\". Jadi robi = warga, sehingga sote = sigap.\n3. lumarobina = luma + robi + na. Dibandingkan \"warga jujur\" (lumarobi), hanya bertambah \"na\" dan makna \"para\". Jadi na = penanda jamak dan diletakkan di AKHIR kata.\n4. dekosote = deko + sote = sangat + sigap. Jadi deko = sangat dan diletakkan SEBELUM kata sifat.\n5. Tabel kamus dan pola:\n   luma = jujur | sote = sigap | kipa = petugas | robi = warga | deko = sangat | na = jamak\n   Urutan: [penguat] + [sifat] + [benda] + [jamak] (sifat selalu mendahului benda, misalnya luma-kipa = \"jujur-petugas\").\n6. Susun \"para petugas yang sangat jujur\": deko (sangat) + luma (jujur) + kipa (petugas) + na (para) = dekolumakipana.\nJadi, jawaban yang tepat adalah (C) dekolumakipana.\nMengapa opsi lain kurang tepat:\n- (A) kipanadekoluma memakai urutan bahasa Indonesia (benda dahulu), padahal dalam contoh sifat selalu mendahului benda.\n- (B) lumadekokipana menaruh deko sesudah sifat, padahal contoh dekosote menunjukkan penguat berada sebelum sifat.\n- (D) dekolumakipa tidak memakai penanda jamak -na, sehingga artinya hanya \"petugas yang sangat jujur\".\n- (E) nadekolumakipa menaruh penanda jamak di depan, padahal contoh lumarobina menaruhnya di akhir.",
+    "difficulty": "sulit"
+  }
+]

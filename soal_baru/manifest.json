@@ -1,0 +1,27 @@
+{
+  "tests": {
+    "int11": "7b176b69-5046-4a81-a6b0-85ca16fde19f",
+    "kep11": "15b291b1-1246-4b48-8cda-18ec145f6b36",
+    "live_int": "6a5458fd-d2b4-47cc-86d0-693bc39b525d",
+    "live_kep": "42263ba2-895c-4615-8d98-8eb2543e7bc0",
+    "live_acc": "a741bee6-f733-48f8-8eee-3be9c29141de"
+  },
+  "kecermatan_rows": [
+    "UNKJT",
+    "ZFKDH",
+    "EWVGP",
+    "DBLYM",
+    "HWCAF",
+    "NBTFA",
+    "UEZGM",
+    "JKYLF",
+    "BVUHY",
+    "KRDUC"
+  ],
+  "counts": {
+    "int11": 100,
+    "kep11": 70,
+    "live_int": 100,
+    "live_kep": 70
+  }
+}
